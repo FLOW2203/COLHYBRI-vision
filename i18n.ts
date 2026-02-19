@@ -1,18 +1,14 @@
-import { createIntl, createIntlCache } from 'next-intl';
+import { getRequestConfig } from 'next-intl/server';
+import { notFound } from 'next/navigation';
 
-const cache = createIntlCache();
+export const locales = ['en', 'fr', 'es', 'pt', 'de', 'zh', 'ja'] as const;
+export type Locale = (typeof locales)[number];
+export const defaultLocale: Locale = 'en';
 
-const intl = createIntl({
-  locale: 'en',
-  messages: {
-    en: { welcome: 'Welcome' },
-    fr: { welcome: 'Bienvenue' },
-    es: { welcome: 'Bienvenido' },
-    pt: { welcome: 'Bem-vindo' },
-    de: { welcome: 'Willkommen' },
-    zh: { welcome: '欢迎' },
-    ja: { welcome: 'ようこそ' },
-  },
-}, cache);
+export default getRequestConfig(async ({ locale }) => {
+  if (!locales.includes(locale as Locale)) notFound();
 
-export default intl;
+  return {
+    messages: (await import(`./messages/${locale}.json`)).default,
+  };
+});

@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "title": "COLHYBRI — Finanzielle Inklusion durch lokalen Handel",
+    "description": "COLHYBRI verbindet unterversorgte Personen mit lokalen Geschäften durch ein $3/Monat-Abonnement und schafft ein gemeinschaftsgetriebenes Finanzökosystem. Teil der ONLYMORE Group ($12.5M+ ARR, 520.000 Kunden)."
+  },
+  "nav": {
+    "home": "Startseite",
+    "mission": "Mission",
+    "howItWorks": "So funktioniert's",
+    "pricing": "Preise",
+    "impact": "Wirkung",
+    "forIndividuals": "Für Privatpersonen",
+    "forShops": "Für Geschäfte",
+    "forCities": "Für Städte",
+    "miami": "Miami",
+    "ecosystem": "Ökosystem",
+    "investors": "Investoren",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "tagline": "Finanzielle Inklusion durch lokalen Handel",
+    "headline": "Jeder Dollar, den Sie lokal ausgeben, erzeugt $2,50 an Gemeinschaftswert",
+    "subheadline": "COLHYBRI verbindet unterversorgte Personen mit Geschäften in der Nachbarschaft durch ein einfaches $3/Monat-Abonnement. Gemeinsam bauen wir finanzielle Inklusion von Grund auf.",
+    "cta": "Werden Sie Teil der Bewegung",
+    "ctaSecondary": "So funktioniert's",
+    "stats": {
+      "arr": "$12.5M+",
+      "arrLabel": "Jährlich wiederkehrender Umsatz",
+      "clients": "520.000",
+      "clientsLabel": "Aktive Kunden",
+      "multiplier": "2.5x",
+      "multiplierLabel": "Keynesianischer Multiplikator",
+      "price": "$3",
+      "priceLabel": "Pro Monat"
+    }
+  },
+  "mission": {
+    "title": "Unsere Mission",
+    "headline": "Unseren Teil tun — Wie der Kolibri",
+    "description": "In einer Legende der amerikanischen Ureinwohner trägt der Kolibri, während der Wald brennt, Tropfen für Tropfen Wasser. Als er gefragt wird warum, antwortet er: \"Ich tue meinen Teil.\" COLHYBRI verkörpert diesen Geist — kleine Handlungen vieler erzeugen eine massive kollektive Wirkung.",
+    "pillars": {
+      "inclusion": {
+        "title": "Finanzielle Inklusion",
+        "description": "63 Millionen Amerikaner sind unterversorgt oder ohne Bankkonto. COLHYBRI bietet erschwinglichen Zugang zu wesentlichen Finanzdienstleistungen für nur $3/Monat — keine Bonitätsprüfung, kein Mindestguthaben."
+      },
+      "commerce": {
+        "title": "Lokaler Handel",
+        "description": "Lokale Geschäfte werden zu finanziellen Knotenpunkten der Gemeinschaft. Jede Transaktion über COLHYBRI stärkt die Wirtschaft der Nachbarschaft durch den keynesianischen Multiplikatoreffekt."
+      },
+      "community": {
+        "title": "Gemeinschaftskraft",
+        "description": "Wenn Privatpersonen und Geschäfte sich über COLHYBRI verbinden, zirkuliert das Geld lokal. Jeder ausgegebene $1 erzeugt $2,50 an lokaler Wirtschaftsaktivität."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "So funktioniert's",
+    "headline": "Drei einfache Schritte zur finanziellen Inklusion",
+    "steps": {
+      "subscribe": {
+        "title": "Abonnieren",
+        "description": "Privatpersonen treten für $3/Monat bei. Keine Bonitätsprüfung, kein Bankkonto erforderlich. Sofortiger Zugang zum finanziellen Gemeinschaftsnetzwerk von COLHYBRI."
+      },
+      "connect": {
+        "title": "Lokal vernetzen",
+        "description": "Geschäfte treten für $10/Monat bei und werden zu finanziellen Knotenpunkten der Gemeinschaft. Sie bieten COLHYBRI-Dienste neben ihrem bestehenden Geschäft an."
+      },
+      "thrive": {
+        "title": "Gemeinsam wachsen",
+        "description": "Jede Transaktion vervielfacht sich. Der keynesianische Multiplikator verwandelt jedes $3-Abonnement in $7,50 an lokalem Wirtschaftswert."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Preise",
+    "headline": "Erschwinglich für alle",
+    "individuals": {
+      "title": "Für Privatpersonen",
+      "price": "$3",
+      "period": "/Monat",
+      "features": [
+        "Zugang zum lokalen Finanznetzwerk",
+        "Keine Bonitätsprüfung erforderlich",
+        "Kein Mindestguthaben",
+        "Gemeinschaftliche Sparwerkzeuge",
+        "Rabatte bei lokalen Geschäften",
+        "Digitale Zahlungsmöglichkeiten"
+      ],
+      "cta": "Jetzt starten"
+    },
+    "shops": {
+      "title": "Für lokale Geschäfte",
+      "price": "$10",
+      "period": "/Monat",
+      "features": [
+        "Werden Sie zum finanziellen Knotenpunkt der Gemeinschaft",
+        "Erhöhter Kundenverkehr",
+        "Werkzeuge zur Kundenbindung",
+        "Integrierte Bankdienstleistungen",
+        "Erhöhte Sichtbarkeit in der Gemeinschaft",
+        "Wirkungs-Dashboard"
+      ],
+      "cta": "Partner werden"
+    }
+  },
+  "impact": {
+    "title": "Wirkung",
+    "headline": "Der keynesianische Multiplikator in Aktion",
+    "description": "Jeder Dollar, der lokal zirkuliert, erzeugt das 2,5-fache seines Wertes an Wirtschaftsaktivität. COLHYBRI lenkt Ausgaben in den lokalen Handel, schafft Arbeitsplätze und stärkt Gemeinschaften.",
+    "metrics": {
+      "localValue": {
+        "value": "$7,50",
+        "label": "Generiert aus jedem $3-Abonnement"
+      },
+      "jobsCreated": {
+        "value": "1 Arbeitsplatz",
+        "label": "Pro 200 aktive Abonnenten in einer Nachbarschaft"
+      },
+      "moneyLocal": {
+        "value": "68%",
+        "label": "Der Ausgaben bleiben in der Gemeinschaft"
+      }
+    }
+  },
+  "miami": {
+    "title": "Miami-Start 2026",
+    "headline": "COLHYBRI startet in Miami — Amerikas Tor zur finanziellen Inklusion",
+    "description": "Miami-Dade County hat eine der höchsten Raten an unterversorgten Einwohnern in den Vereinigten Staaten. Mit seiner lebendigen Latino-Gemeinschaft und dem florierenden lokalen Handel ist Miami die perfekte Startrampe für die Mission von COLHYBRI.",
+    "whyMiami": {
+      "title": "Warum Miami?",
+      "reasons": [
+        "Über 30% der Einwohner von Miami-Dade sind unterversorgt oder ohne Bankkonto",
+        "70% hispanische/lateinamerikanische Bevölkerung — die Gemeinschaft, für die COLHYBRI geschaffen wurde",
+        "Florierendes Kleinunternehmer-Ökosystem mit über 300.000 lokalen Geschäften",
+        "Amerikas Tor nach Lateinamerika — natürlicher Expansionspfad"
+      ]
+    }
+  },
+  "forIndividuals": {
+    "title": "Für Privatpersonen",
+    "headline": "Finanzielle Freiheit beginnt bei $3/Monat",
+    "description": "Kein Bankkonto? Kein Problem. COLHYBRI gibt Ihnen Zugang zu wesentlichen Finanzdienstleistungen über Ihre Geschäfte in der Nachbarschaft. Sparen, ausgeben und Ihre finanzielle Zukunft aufbauen — alles für $3/Monat."
+  },
+  "forShops": {
+    "title": "Für lokale Geschäfte",
+    "headline": "Ihr Geschäft, der finanzielle Knotenpunkt Ihrer Gemeinschaft",
+    "description": "Treten Sie COLHYBRI für $10/Monat bei und verwandeln Sie Ihr Geschäft in ein finanzielles Gemeinschaftszentrum. Steigern Sie den Kundenverkehr, bauen Sie Kundentreue auf und machen Sie einen echten Unterschied in Ihrer Nachbarschaft."
+  },
+  "forCities": {
+    "title": "Für Städte",
+    "headline": "Beleben Sie Ihre Hauptstraße mit COLHYBRI",
+    "description": "Städte, die mit COLHYBRI zusammenarbeiten, verzeichnen messbare Steigerungen der lokalen Wirtschaftsaktivität. Unsere Plattform stärkt das kommerzielle Gefüge der Nachbarschaften und fördert gleichzeitig die Ziele der finanziellen Inklusion."
+  },
+  "ecosystem": {
+    "title": "Ökosystem",
+    "headline": "Das COLHYBRI-Ökosystem",
+    "description": "COLHYBRI ist Teil der ONLYMORE Group, einem bewährten Technologieunternehmen mit $12.5M+ an jährlich wiederkehrendem Umsatz und 520.000 aktiven Kunden. Unser Ökosystem verbindet Privatpersonen, lokale Geschäfte und Stadtverwaltungen."
+  },
+  "investors": {
+    "title": "Investoren",
+    "headline": "Investieren Sie in finanzielle Inklusion",
+    "description": "COLHYBRI kombiniert bewährte Einheitsökonomie ($12.5M+ ARR über die ONLYMORE Group) mit massiver sozialer Wirkung. Wir suchen Partner, die unsere Vision der finanziellen Inklusion durch lokalen Handel teilen."
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "q": "Was ist COLHYBRI?",
+        "a": "COLHYBRI ist eine Plattform für finanzielle Inklusion, die unterversorgte Personen mit lokalen Geschäften durch ein $3/Monat-Abonnement verbindet. Sie schafft ein gemeinschaftsgetriebenes Finanzökosystem, in dem Geld lokal zirkuliert und durch den keynesianischen Multiplikatoreffekt den 2,5-fachen wirtschaftlichen Wert erzeugt."
+      },
+      {
+        "q": "Was kostet COLHYBRI?",
+        "a": "COLHYBRI kostet $3/Monat für Privatpersonen und $10/Monat für lokale Geschäfte. Es gibt keine versteckten Gebühren, keine Bonitätsprüfungen und keine Mindestguthaben-Anforderungen."
+      },
+      {
+        "q": "Brauche ich ein Bankkonto, um COLHYBRI zu nutzen?",
+        "a": "Nein. COLHYBRI wurde speziell für Menschen entwickelt, die unterversorgt sind oder kein Bankkonto haben. Sie können über teilnehmende lokale Geschäfte in Ihrer Nachbarschaft auf Finanzdienstleistungen zugreifen."
+      },
+      {
+        "q": "Wo startet COLHYBRI?",
+        "a": "COLHYBRI startet im ersten Halbjahr 2026 in Miami, Florida. Miami-Dade County wurde wegen seiner großen unterversorgten Bevölkerung und des lebendigen lokalen Handelsökosystems ausgewählt."
+      },
+      {
+        "q": "Wer steht hinter COLHYBRI?",
+        "a": "COLHYBRI wurde von der ONLYMORE Group gegründet, geleitet von Gründer und CEO Florent Gibert. Die ONLYMORE Group hat $12.5M+ an jährlich wiederkehrendem Umsatz und betreut 520.000 aktive Kunden."
+      },
+      {
+        "q": "Was ist der keynesianische Multiplikatoreffekt?",
+        "a": "Der keynesianische Multiplikator beschreibt, wie lokal ausgegebenes Geld zusätzliche Wirtschaftsaktivität erzeugt. Bei COLHYBRI schafft jedes $3-Abonnement ungefähr $7,50 an lokalem Wirtschaftswert, da das Geld durch die Gemeinschaft zirkuliert."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "headline": "Nehmen Sie Kontakt auf",
+    "description": "Interessiert an COLHYBRI? Ob Sie eine Privatperson, ein lokaler Geschäftsinhaber, ein Stadtbeamter oder ein Investor sind — wir freuen uns, von Ihnen zu hören.",
+    "email": "onlymore2024@gmail.com",
+    "cta": "Nachricht senden"
+  },
+  "footer": {
+    "tagline": "Finanzielle Inklusion durch lokalen Handel",
+    "quote": "\"Ich tue meinen Teil.\" — Legende der amerikanischen Ureinwohner (Der Kolibri)",
+    "group": "Teil der ONLYMORE Group",
+    "copyright": "© 2026 COLHYBRI. Alle Rechte vorbehalten.",
+    "links": {
+      "about": "Über uns",
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Nutzungsbedingungen"
+    }
+  },
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "getStarted": "Jetzt starten",
+    "contactUs": "Kontaktieren Sie uns",
+    "backToHome": "Zurück zur Startseite"
+  }
+}

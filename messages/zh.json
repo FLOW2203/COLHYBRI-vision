@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "title": "COLHYBRI — 通过本地商业实现金融普惠",
+    "description": "COLHYBRI 通过每月$3的订阅服务，将金融服务不足的个人与本地商店连接起来，打造社区驱动的金融生态系统。隶属于 ONLYMORE Group（$12.5M+ 年经常性收入，520,000 客户）。"
+  },
+  "nav": {
+    "home": "首页",
+    "mission": "使命",
+    "howItWorks": "运作方式",
+    "pricing": "定价",
+    "impact": "影响力",
+    "forIndividuals": "个人用户",
+    "forShops": "本地商店",
+    "forCities": "城市合作",
+    "miami": "迈阿密",
+    "ecosystem": "生态系统",
+    "investors": "投资者",
+    "blog": "博客",
+    "faq": "常见问题",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "tagline": "通过本地商业实现金融普惠",
+    "headline": "您在本地消费的每一美元，将创造$2.50的社区价值",
+    "subheadline": "COLHYBRI 通过简单的每月$3订阅服务，将金融服务不足的个人与社区商店连接起来。我们携手从基层构建金融普惠。",
+    "cta": "加入我们",
+    "ctaSecondary": "了解运作方式",
+    "stats": {
+      "arr": "$12.5M+",
+      "arrLabel": "年经常性收入",
+      "clients": "520,000",
+      "clientsLabel": "活跃客户",
+      "multiplier": "2.5x",
+      "multiplierLabel": "凯恩斯乘数",
+      "price": "$3",
+      "priceLabel": "每月"
+    }
+  },
+  "mission": {
+    "title": "我们的使命",
+    "headline": "尽自己的一份力 — 如蜂鸟一般",
+    "description": "在一个美洲原住民传说中，当森林燃烧时，蜂鸟一滴一滴地衔水灭火。当被问及为什么时，它回答道："我在尽自己的一份力。" COLHYBRI 秉承这一精神 — 众人的微小行动汇聚成巨大的集体影响力。",
+    "pillars": {
+      "inclusion": {
+        "title": "金融普惠",
+        "description": "美国有6300万人属于金融服务不足或无银行账户群体。COLHYBRI 仅需每月$3即可提供基本金融服务 — 无需信用审查，无最低余额要求。"
+      },
+      "commerce": {
+        "title": "本地商业",
+        "description": "本地商店成为社区金融枢纽。通过 COLHYBRI 进行的每笔交易都通过凯恩斯乘数效应增强社区经济。"
+      },
+      "community": {
+        "title": "社区力量",
+        "description": "当个人和商店通过 COLHYBRI 连接时，资金在本地循环流通。每消费$1即可产生$2.50的本地经济活动。"
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "运作方式",
+    "headline": "三个简单步骤实现金融普惠",
+    "steps": {
+      "subscribe": {
+        "title": "订阅",
+        "description": "个人用户每月仅需$3即可加入。无需信用审查，无需银行账户。即刻接入 COLHYBRI 社区金融网络。"
+      },
+      "connect": {
+        "title": "本地连接",
+        "description": "商店每月$10即可加入，成为社区金融枢纽。在经营现有业务的同时提供 COLHYBRI 服务。"
+      },
+      "thrive": {
+        "title": "共同繁荣",
+        "description": "每笔交易都会产生乘数效应。凯恩斯乘数将每$3的订阅转化为$7.50的本地经济价值。"
+      }
+    }
+  },
+  "pricing": {
+    "title": "定价",
+    "headline": "人人都能负担",
+    "individuals": {
+      "title": "个人用户",
+      "price": "$3",
+      "period": "/月",
+      "features": [
+        "接入本地金融网络",
+        "无需信用审查",
+        "无最低余额要求",
+        "社区储蓄工具",
+        "本地商店折扣",
+        "数字支付功能"
+      ],
+      "cta": "立即开始"
+    },
+    "shops": {
+      "title": "本地商店",
+      "price": "$10",
+      "period": "/月",
+      "features": [
+        "成为社区金融枢纽",
+        "增加客流量",
+        "客户忠诚度工具",
+        "嵌入式银行服务",
+        "提升社区知名度",
+        "影响力仪表盘"
+      ],
+      "cta": "与我们合作"
+    }
+  },
+  "impact": {
+    "title": "影响力",
+    "headline": "凯恩斯乘数的实际效应",
+    "description": "在本地流通的每一美元可产生2.5倍的经济活动价值。COLHYBRI 将消费引导至本地商业，创造就业机会并增强社区实力。",
+    "metrics": {
+      "localValue": {
+        "value": "$7.50",
+        "label": "每$3订阅产生的经济价值"
+      },
+      "jobsCreated": {
+        "value": "1个岗位",
+        "label": "每200名活跃订阅用户所在社区创造"
+      },
+      "moneyLocal": {
+        "value": "68%",
+        "label": "的消费留在社区内"
+      }
+    }
+  },
+  "miami": {
+    "title": "2026年迈阿密启动",
+    "headline": "COLHYBRI 在迈阿密启动 — 美国金融普惠的门户",
+    "description": "迈阿密-戴德县是美国金融服务不足居民比例最高的地区之一。凭借充满活力的拉丁裔社区和繁荣的本地商业，迈阿密是 COLHYBRI 使命的完美起点。",
+    "whyMiami": {
+      "title": "为什么选择迈阿密？",
+      "reasons": [
+        "超过30%的迈阿密-戴德县居民属于金融服务不足或无银行账户群体",
+        "70%的西班牙裔/拉丁裔人口 — COLHYBRI 正是为此社区而生",
+        "繁荣的小型企业生态系统，拥有超过300,000家本地商店",
+        "美国通往拉丁美洲的门户 — 天然的扩展路径"
+      ]
+    }
+  },
+  "forIndividuals": {
+    "title": "个人用户",
+    "headline": "每月$3，开启财务自由",
+    "description": "没有银行账户？没问题。COLHYBRI 通过您社区的商店为您提供基本金融服务。储蓄、消费、构建您的财务未来 — 每月仅需$3。"
+  },
+  "forShops": {
+    "title": "本地商店",
+    "headline": "您的商店，社区的金融枢纽",
+    "description": "以每月$10加入 COLHYBRI，将您的商店打造为社区金融中心。增加客流量、建立客户忠诚度，为您的社区带来真正的改变。"
+  },
+  "forCities": {
+    "title": "城市合作",
+    "headline": "携手 COLHYBRI 振兴商业街",
+    "description": "与 COLHYBRI 合作的城市可以看到本地经济活动的显著增长。我们的平台在推进金融普惠目标的同时，加强社区的商业基础。"
+  },
+  "ecosystem": {
+    "title": "生态系统",
+    "headline": "COLHYBRI 生态系统",
+    "description": "COLHYBRI 隶属于 ONLYMORE Group，这是一家经过验证的科技公司，拥有$12.5M+的年经常性收入和520,000名活跃客户。我们的生态系统连接个人、本地商店和城市政府。"
+  },
+  "investors": {
+    "title": "投资者",
+    "headline": "投资金融普惠事业",
+    "description": "COLHYBRI 将经过验证的单位经济模型（ONLYMORE Group $12.5M+ 年经常性收入）与巨大的社会影响力相结合。我们正在寻找与我们共享通过本地商业实现金融普惠愿景的合作伙伴。"
+  },
+  "faq": {
+    "title": "常见问题",
+    "questions": [
+      {
+        "q": "什么是 COLHYBRI？",
+        "a": "COLHYBRI 是一个金融普惠平台，通过每月$3的订阅服务将金融服务不足的个人与本地商店连接起来。它创建了一个社区驱动的金融生态系统，让资金在本地循环流通，通过凯恩斯乘数效应产生2.5倍的经济价值。"
+      },
+      {
+        "q": "COLHYBRI 费用是多少？",
+        "a": "COLHYBRI 个人用户每月$3，本地商店每月$10。没有隐藏费用，无需信用审查，无最低余额要求。"
+      },
+      {
+        "q": "使用 COLHYBRI 需要银行账户吗？",
+        "a": "不需要。COLHYBRI 专为金融服务不足或无银行账户的人群设计。您可以通过社区中的合作本地商店获取金融服务。"
+      },
+      {
+        "q": "COLHYBRI 将在哪里启动？",
+        "a": "COLHYBRI 将于2026年上半年在佛罗里达州迈阿密启动。选择迈阿密-戴德县是因为其庞大的金融服务不足人口和充满活力的本地商业生态系统。"
+      },
+      {
+        "q": "COLHYBRI 背后是谁？",
+        "a": "COLHYBRI 由 ONLYMORE Group 创建，由创始人兼首席执行官 Florent Gibert 领导。ONLYMORE Group 拥有$12.5M+的年经常性收入，服务520,000名活跃客户。"
+      },
+      {
+        "q": "什么是凯恩斯乘数效应？",
+        "a": "凯恩斯乘数描述了在本地消费的资金如何产生额外的经济活动。通过 COLHYBRI，每$3的订阅可在社区中产生约$7.50的本地经济价值，因为资金在社区内持续循环流通。"
+      }
+    ]
+  },
+  "contact": {
+    "title": "联系我们",
+    "headline": "取得联系",
+    "description": "对 COLHYBRI 感兴趣？无论您是个人用户、本地商店店主、城市官员还是投资者，我们都期待您的来信。",
+    "email": "onlymore2024@gmail.com",
+    "cta": "发送消息"
+  },
+  "footer": {
+    "tagline": "通过本地商业实现金融普惠",
+    "quote": ""我在尽自己的一份力。" — 美洲原住民传说（蜂鸟）",
+    "group": "隶属于 ONLYMORE Group",
+    "copyright": "© 2026 COLHYBRI. 保留所有权利。",
+    "links": {
+      "about": "关于我们",
+      "privacy": "隐私政策",
+      "terms": "服务条款"
+    }
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "getStarted": "立即开始",
+    "contactUs": "联系我们",
+    "backToHome": "返回首页"
+  }
+}
