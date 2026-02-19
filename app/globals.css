@@ -1,49 +1,78 @@
-.@tailwind base;
+@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* COLHYBRI Global Styles */
+@layer base {
+  :root {
+    --colhybri-primary: #00A878;
+    --colhybri-secondary: #FF6B35;
+    --colhybri-dark: #1A1A2E;
+    --colhybri-light: #FAFAF7;
+  }
 
-:root {
-  --primary-color: #1DA1F2;
-  --secondary-color: #14171A;
-  --accent-color: #FFC107;
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-colhybri-light text-colhybri-dark antialiased;
+    font-feature-settings: 'kern' 1, 'liga' 1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold tracking-tight;
+  }
 }
 
-body {
-  font-family: 'Open Sans', sans-serif;
-  color: var(--secondary-color);
-  background-color: #ffffff;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-lg
+           bg-colhybri-primary text-white font-semibold
+           hover:bg-colhybri-primary/90 transition-colors duration-200
+           focus:outline-none focus:ring-2 focus:ring-colhybri-primary focus:ring-offset-2;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-lg
+           border-2 border-colhybri-primary text-colhybri-primary font-semibold
+           hover:bg-colhybri-primary hover:text-white transition-colors duration-200
+           focus:outline-none focus:ring-2 focus:ring-colhybri-primary focus:ring-offset-2;
+  }
+
+  .btn-accent {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-lg
+           bg-colhybri-secondary text-white font-semibold
+           hover:bg-colhybri-secondary/90 transition-colors duration-200
+           focus:outline-none focus:ring-2 focus:ring-colhybri-secondary focus:ring-offset-2;
+  }
+
+  .section-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-24;
+  }
+
+  .section-heading {
+    @apply text-3xl sm:text-4xl lg:text-5xl font-bold text-colhybri-dark mb-6;
+  }
+
+  .section-subheading {
+    @apply text-lg sm:text-xl text-colhybri-dark/70 max-w-3xl;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl shadow-sm border border-gray-100 p-6 sm:p-8
+           hover:shadow-md transition-shadow duration-200;
+  }
 }
 
-button {
-  background-color: var(--primary-color);
-  color: #ffffff;
-  padding: 0.5rem 1rem;
-  border: none;
-  border-radius: 0.25rem;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
+/* Font loading for CJK */
+@font-face {
+  font-family: 'Noto Sans SC';
+  font-display: swap;
+  src: local('Noto Sans SC');
 }
 
-button:hover {
-  background-color: var(--accent-color);
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: bold;
-}
-
-/* Animations */
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
-.fade-in {
-  animation: fadeIn 0.5s ease-in-out;
+@font-face {
+  font-family: 'Noto Sans JP';
+  font-display: swap;
+  src: local('Noto Sans JP');
 }

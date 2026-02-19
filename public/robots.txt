@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+Allow: /en/
+Allow: /fr/
+Allow: /es/
+Allow: /pt/
+Allow: /de/
+Allow: /zh/
+Allow: /ja/
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /zh/
+
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://colhybri.com/sitemap.xml

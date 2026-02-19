@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "title": "COLHYBRI — Inclusao Financeira Atraves do Comercio Local",
+    "description": "COLHYBRI conecta pessoas desbancarizadas com comercios locais por meio de uma assinatura de $3/mes, criando um ecossistema financeiro comunitario. Parte do ONLYMORE Group ($12.5M+ ARR, 520.000 clientes)."
+  },
+  "nav": {
+    "home": "Inicio",
+    "mission": "Missao",
+    "howItWorks": "Como Funciona",
+    "pricing": "Precos",
+    "impact": "Impacto",
+    "forIndividuals": "Para Pessoas",
+    "forShops": "Para Comercios",
+    "forCities": "Para Cidades",
+    "miami": "Miami",
+    "ecosystem": "Ecossistema",
+    "investors": "Investidores",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contato"
+  },
+  "hero": {
+    "tagline": "Inclusao Financeira Atraves do Comercio Local",
+    "headline": "Cada dolar gasto localmente gera $2,50 em valor comunitario",
+    "subheadline": "COLHYBRI conecta pessoas desbancarizadas com comercios de bairro por meio de uma simples assinatura de $3/mes. Juntos, construimos inclusao financeira desde a base.",
+    "cta": "Junte-se ao Movimento",
+    "ctaSecondary": "Veja Como Funciona",
+    "stats": {
+      "arr": "$12.5M+",
+      "arrLabel": "Receita Recorrente Anual",
+      "clients": "520.000",
+      "clientsLabel": "Clientes Ativos",
+      "multiplier": "2.5x",
+      "multiplierLabel": "Multiplicador Keynesiano",
+      "price": "$3",
+      "priceLabel": "Por Mes"
+    }
+  },
+  "mission": {
+    "title": "Nossa Missao",
+    "headline": "Fazendo Nossa Parte — Como o Beija-flor",
+    "description": "Em uma lenda indigena, enquanto a floresta queima, o beija-flor carrega agua gota a gota. Quando perguntado por que, ele responde: \"Estou fazendo minha parte.\" COLHYBRI incorpora esse espirito — pequenas acoes de muitos criam um impacto coletivo enorme.",
+    "pillars": {
+      "inclusion": {
+        "title": "Inclusao Financeira",
+        "description": "63 milhoes de americanos sao desbancarizados ou sub-bancarizados. COLHYBRI oferece acesso acessivel a servicos financeiros essenciais por apenas $3/mes — sem consulta de credito, sem saldo minimo."
+      },
+      "commerce": {
+        "title": "Comercio Local",
+        "description": "Comercios locais se tornam centros financeiros comunitarios. Cada transacao pelo COLHYBRI fortalece a economia do bairro por meio do efeito multiplicador keynesiano."
+      },
+      "community": {
+        "title": "Poder Comunitario",
+        "description": "Quando pessoas e comercios se conectam pelo COLHYBRI, o dinheiro circula localmente. Cada $1 gasto gera $2,50 em atividade economica local."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Como Funciona",
+    "headline": "Tres Passos Simples para a Inclusao Financeira",
+    "steps": {
+      "subscribe": {
+        "title": "Assine",
+        "description": "Pessoas assinam por $3/mes. Sem consulta de credito, sem necessidade de conta bancaria. Acesso imediato a rede financeira comunitaria COLHYBRI."
+      },
+      "connect": {
+        "title": "Conecte-se Localmente",
+        "description": "Comercios assinam por $10/mes e se tornam centros financeiros comunitarios. Eles oferecem servicos COLHYBRI junto com seus negocios existentes."
+      },
+      "thrive": {
+        "title": "Prosperem Juntos",
+        "description": "Cada transacao se multiplica. O multiplicador keynesiano transforma cada assinatura de $3 em $7,50 em valor economico local."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Precos",
+    "headline": "Acessivel para Todos",
+    "individuals": {
+      "title": "Para Pessoas",
+      "price": "$3",
+      "period": "/mes",
+      "features": [
+        "Acesso a rede financeira local",
+        "Sem consulta de credito",
+        "Sem saldo minimo",
+        "Ferramentas de poupanca comunitaria",
+        "Descontos em comercios locais",
+        "Capacidades de pagamento digital"
+      ],
+      "cta": "Comece Agora"
+    },
+    "shops": {
+      "title": "Para Comercios Locais",
+      "price": "$10",
+      "period": "/mes",
+      "features": [
+        "Torne-se um centro financeiro comunitario",
+        "Aumento no fluxo de clientes",
+        "Ferramentas de fidelizacao de clientes",
+        "Servicos bancarios integrados",
+        "Maior visibilidade na comunidade",
+        "Painel de impacto"
+      ],
+      "cta": "Seja Nosso Parceiro"
+    }
+  },
+  "impact": {
+    "title": "Impacto",
+    "headline": "O Multiplicador Keynesiano em Acao",
+    "description": "Cada dolar que circula localmente gera 2,5x seu valor em atividade economica. COLHYBRI direciona os gastos para o comercio local, criando empregos e fortalecendo comunidades.",
+    "metrics": {
+      "localValue": {
+        "value": "$7,50",
+        "label": "Gerados a partir de cada assinatura de $3"
+      },
+      "jobsCreated": {
+        "value": "1 emprego",
+        "label": "A cada 200 assinantes ativos em um bairro"
+      },
+      "moneyLocal": {
+        "value": "68%",
+        "label": "Dos gastos permanecem na comunidade"
+      }
+    }
+  },
+  "miami": {
+    "title": "Lancamento Miami 2026",
+    "headline": "COLHYBRI Lanca em Miami — A Porta de Entrada da America para a Inclusao Financeira",
+    "description": "O Condado de Miami-Dade tem uma das maiores taxas de residentes desbancarizados dos Estados Unidos. Com sua vibrante comunidade latina e comercio local prospero, Miami e a plataforma de lancamento perfeita para a missao do COLHYBRI.",
+    "whyMiami": {
+      "title": "Por que Miami?",
+      "reasons": [
+        "Mais de 30% dos residentes de Miami-Dade sao desbancarizados ou sub-bancarizados",
+        "70% de populacao hispano-latina — a comunidade para a qual COLHYBRI foi criado",
+        "Ecossistema prospero de pequenos negocios com mais de 300.000 comercios locais",
+        "Porta de entrada da America para a America Latina — caminho natural de expansao"
+      ]
+    }
+  },
+  "forIndividuals": {
+    "title": "Para Pessoas",
+    "headline": "Liberdade Financeira Comeca com $3/Mes",
+    "description": "Sem conta bancaria? Sem problema. COLHYBRI oferece acesso a servicos financeiros essenciais atraves dos comercios do seu bairro. Economize, gaste e construa seu futuro financeiro — tudo por $3/mes."
+  },
+  "forShops": {
+    "title": "Para Comercios Locais",
+    "headline": "Seu Comercio, o Centro Financeiro da Sua Comunidade",
+    "description": "Junte-se ao COLHYBRI por $10/mes e transforme seu negocio em um centro financeiro comunitario. Aumente o fluxo de clientes, construa fidelidade e faca uma diferenca real no seu bairro."
+  },
+  "forCities": {
+    "title": "Para Cidades",
+    "headline": "Revitalize o Comercio Local com COLHYBRI",
+    "description": "Cidades que fazem parceria com COLHYBRI veem aumentos mensuraveis na atividade economica local. Nossa plataforma fortalece o tecido comercial dos bairros enquanto avanca os objetivos de inclusao financeira."
+  },
+  "ecosystem": {
+    "title": "Ecossistema",
+    "headline": "O Ecossistema COLHYBRI",
+    "description": "COLHYBRI faz parte do ONLYMORE Group, uma empresa de tecnologia consolidada com mais de $12.5M em receita recorrente anual e 520.000 clientes ativos. Nosso ecossistema conecta pessoas, comercios locais e governos municipais."
+  },
+  "investors": {
+    "title": "Investidores",
+    "headline": "Invista na Inclusao Financeira",
+    "description": "COLHYBRI combina economia unitaria comprovada ($12.5M+ ARR em todo o ONLYMORE Group) com impacto social massivo. Buscamos parceiros que compartilhem nossa visao de inclusao financeira atraves do comercio local."
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "questions": [
+      {
+        "q": "O que e COLHYBRI?",
+        "a": "COLHYBRI e uma plataforma de inclusao financeira que conecta pessoas desbancarizadas com comercios locais por meio de uma assinatura de $3/mes. Ela cria um ecossistema financeiro comunitario onde o dinheiro circula localmente, gerando 2,5x de valor economico atraves do efeito multiplicador keynesiano."
+      },
+      {
+        "q": "Quanto custa COLHYBRI?",
+        "a": "COLHYBRI custa $3/mes para pessoas e $10/mes para comercios locais. Nao ha taxas ocultas, consultas de credito ou exigencias de saldo minimo."
+      },
+      {
+        "q": "Preciso de uma conta bancaria para usar COLHYBRI?",
+        "a": "Nao. COLHYBRI foi projetado especificamente para pessoas desbancarizadas ou sub-bancarizadas. Voce pode acessar servicos financeiros atraves dos comercios locais participantes no seu bairro."
+      },
+      {
+        "q": "Onde COLHYBRI sera lancado?",
+        "a": "COLHYBRI sera lancado em Miami, Florida, no primeiro semestre de 2026. O Condado de Miami-Dade foi escolhido por sua grande populacao desbancarizada e vibrante ecossistema de comercio local."
+      },
+      {
+        "q": "Quem esta por tras do COLHYBRI?",
+        "a": "COLHYBRI foi criado pelo ONLYMORE Group, liderado pelo fundador e CEO Florent Gibert. O ONLYMORE Group tem mais de $12.5M em receita recorrente anual e atende 520.000 clientes ativos."
+      },
+      {
+        "q": "O que e o efeito multiplicador keynesiano?",
+        "a": "O multiplicador keynesiano descreve como o dinheiro gasto localmente gera atividade economica adicional. Com COLHYBRI, cada assinatura de $3 cria aproximadamente $7,50 em valor economico local conforme o dinheiro circula pela comunidade."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Fale Conosco",
+    "headline": "Entre em Contato",
+    "description": "Interessado no COLHYBRI? Seja voce uma pessoa fisica, proprietario de comercio local, funcionario publico ou investidor, adorariamos ouvir voce.",
+    "email": "onlymore2024@gmail.com",
+    "cta": "Enviar Mensagem"
+  },
+  "footer": {
+    "tagline": "Inclusao Financeira Atraves do Comercio Local",
+    "quote": "\"Estou fazendo minha parte.\" — Lenda Indigena (O Beija-flor)",
+    "group": "Parte do ONLYMORE Group",
+    "copyright": "© 2026 COLHYBRI. Todos os direitos reservados.",
+    "links": {
+      "about": "Sobre",
+      "privacy": "Politica de Privacidade",
+      "terms": "Termos de Servico"
+    }
+  },
+  "common": {
+    "learnMore": "Saiba Mais",
+    "getStarted": "Comece Agora",
+    "contactUs": "Fale Conosco",
+    "backToHome": "Voltar ao Inicio"
+  }
+}

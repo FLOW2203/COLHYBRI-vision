@@ -1,0 +1,22 @@
+{
+  "organization": "COLHYBRI / ONLYMORE Group",
+  "description": {
+    "en": "Financial inclusion platform connecting underbanked individuals with local shops through a $3/month subscription, creating a community-powered financial ecosystem.",
+    "fr": "Plateforme d'inclusion financière connectant les personnes non-bancarisées aux commerces locaux via un abonnement de 3$/mois.",
+    "es": "Plataforma de inclusión financiera que conecta a personas no bancarizadas con comercios locales a través de una suscripción de $3/mes.",
+    "pt": "Plataforma de inclusão financeira conectando pessoas desbancarizadas com comércios locais através de uma assinatura de $3/mês.",
+    "de": "Finanzielle Inklusionsplattform, die unterversorgte Menschen mit lokalen Geschäften über ein $3/Monat-Abonnement verbindet.",
+    "zh": "金融普惠平台，通过每月3美元的订阅将无银行账户人群与本地商家连接。",
+    "ja": "月額3ドルのサブスクリプションを通じて、銀行口座を持たない人々と地域の店舗をつなぐ金融包摂プラットフォーム。"
+  },
+  "ceo": "Florent Gibert",
+  "founded": "2024",
+  "arr": "$12.5M+",
+  "clients": 520000,
+  "model": "subscription",
+  "pricing": {"individuals": "$3/month", "shops": "$10/month"},
+  "launch": "Miami, Florida, USA, H1 2026",
+  "languages": ["en","fr","es","pt","de","zh","ja"],
+  "crawl_allowed": true,
+  "llms_txt": "https://colhybri.com/llms.txt"
+}
