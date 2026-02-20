@@ -216,6 +216,38 @@
     "inhabitants": "abitanti",
     "subscription": "Abbonamento COLHYBRI"
   },
+  "thirdPlace": {
+    "label": "Barometro Fiducia e Solitudine",
+    "headline": "1,4 miliardi di adulti sono soli. COLHYBRI è il terzo luogo digitale.",
+    "subheadline": "La fiducia sociale sta crollando in tutto il mondo. L'esclusione finanziaria e la solitudine si alimentano a vicenda. COLHYBRI costruisce comunità attraverso l'inclusione finanziaria.",
+    "stats": {
+      "lonely": "Adulti soli nel mondo",
+      "distrust": "Tasso di sfiducia in Francia",
+      "increase": "Aumento dell'isolamento post-2019",
+      "ministers": "Paesi con ministro della solitudine"
+    },
+    "cta": "Esplora i dati regionali",
+    "sources": "Fonti"
+  },
+  "regionImpact": {
+    "label": "Impatto Regionale",
+    "population": "Popolazione adulta",
+    "potential": "Potenziale COLHYBRI",
+    "insightTitle": "Intuizione Chiave",
+    "answerTitle": "La Risposta COLHYBRI",
+    "keyNumbers": "Numeri Chiave",
+    "loneliness": "Tasso di solitudine",
+    "trust": "Tasso di fiducia",
+    "unbanked": "Tasso di non bancarizzazione",
+    "sourcesTitle": "Fonti dei Dati",
+    "otherRegions": "Esplora Altre Regioni",
+    "ctaHeadline": "Unisciti al Movimento",
+    "ctaButton": "Scopri COLHYBRI",
+    "faq": {
+      "q1": "Come può COLHYBRI aiutare questa regione?",
+      "q2": "Cosa ci dicono i dati?"
+    }
+  },
   "common": {
     "learnMore": "Scopri di più",
     "getStarted": "Inizia Ora",

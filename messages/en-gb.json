@@ -216,6 +216,38 @@
     "inhabitants": "inhabitants",
     "subscription": "COLHYBRI subscription"
   },
+  "thirdPlace": {
+    "label": "Trust & Loneliness Barometer",
+    "headline": "1.4 Billion Adults Are Lonely. COLHYBRI Is the Digital Third Place.",
+    "subheadline": "Social trust is collapsing worldwide. Financial exclusion and loneliness feed each other. COLHYBRI builds community through financial inclusion.",
+    "stats": {
+      "lonely": "Lonely adults worldwide",
+      "distrust": "French distrust rate",
+      "increase": "Isolation increase post-2019",
+      "ministers": "Countries with loneliness minister"
+    },
+    "cta": "Explore Regional Data",
+    "sources": "Sources"
+  },
+  "regionImpact": {
+    "label": "Regional Impact",
+    "population": "Adult population",
+    "potential": "COLHYBRI Potential",
+    "insightTitle": "Key Insight",
+    "answerTitle": "The COLHYBRI Answer",
+    "keyNumbers": "Key Numbers",
+    "loneliness": "Loneliness rate",
+    "trust": "Trust rate",
+    "unbanked": "Unbanked rate",
+    "sourcesTitle": "Data Sources",
+    "otherRegions": "Explore Other Regions",
+    "ctaHeadline": "Join the Movement",
+    "ctaButton": "Discover COLHYBRI",
+    "faq": {
+      "q1": "How can COLHYBRI help this region?",
+      "q2": "What does the data tell us?"
+    }
+  },
   "common": {
     "learnMore": "Learn More",
     "getStarted": "Get Started",

@@ -7,6 +7,7 @@ import { getLocalizedPath } from '@/lib/navigation';
 import { JsonLd } from '@/components/JsonLd';
 import { AnimatedCounter } from '@/components/AnimatedCounter';
 import { LocalStats } from '@/components/LocalStats';
+import { ThirdPlaceHero } from '@/components/ThirdPlaceHero';
 
 interface PageProps {
   params: { locale: string };
@@ -188,6 +189,9 @@ export default function HomePage({ params: { locale } }: PageProps) {
           </div>
         </div>
       </section>
+
+      {/* Trust & Loneliness Barometer — Third Place Section */}
+      <ThirdPlaceHero locale={locale} />
 
       {/* Local Impact Section */}
       <LocalStats locale={l} />
