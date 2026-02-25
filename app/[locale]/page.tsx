@@ -8,6 +8,7 @@ import { JsonLd } from '@/components/JsonLd';
 import { AnimatedCounter } from '@/components/AnimatedCounter';
 import { LocalStats } from '@/components/LocalStats';
 import { ThirdPlaceHero } from '@/components/ThirdPlaceHero';
+import { LegendHero } from '@/components/LegendHero';
 
 interface PageProps {
   params: { locale: string };
@@ -286,6 +287,9 @@ export default function HomePage({ params: { locale } }: PageProps) {
           </div>
         </div>
       </section>
+
+      {/* Cultural Legend Section */}
+      <LegendHero locale={locale} />
 
       {/* CTA Section */}
       <section className="bg-colhybri-primary">
