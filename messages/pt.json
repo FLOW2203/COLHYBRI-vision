@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — Inclusao Financeira Atraves do Comercio Local",
-    "description": "COLHYBRI conecta pessoas desbancarizadas com comercios locais por meio de uma assinatura de $3/mes, criando um ecossistema financeiro comunitario. Parte do ONLYMORE Group ($12.5M+ ARR, 520.000 clientes)."
+    "description": "COLHYBRI conecta pessoas desbancarizadas com comercios locais por meio de uma assinatura de R$15/mes, criando um ecossistema financeiro comunitario. Parte do ONLYMORE Group (R$65M+ ARR, 520.000 clientes)."
   },
   "nav": {
     "home": "Inicio",
@@ -12,7 +12,7 @@
     "forIndividuals": "Para Pessoas",
     "forShops": "Para Comercios",
     "forCities": "Para Cidades",
-    "miami": "Miami",
+    "miami": "Brasil",
     "ecosystem": "Ecossistema",
     "investors": "Investidores",
     "blog": "Blog",
@@ -21,18 +21,18 @@
   },
   "hero": {
     "tagline": "Inclusao Financeira Atraves do Comercio Local",
-    "headline": "Cada dolar gasto localmente gera $2,50 em valor comunitario",
-    "subheadline": "COLHYBRI conecta pessoas desbancarizadas com comercios de bairro por meio de uma simples assinatura de $3/mes. Juntos, construimos inclusao financeira desde a base.",
+    "headline": "Cada real gasto localmente gera R$2,50 em valor comunitario",
+    "subheadline": "COLHYBRI conecta pessoas desbancarizadas com comercios de bairro por meio de uma simples assinatura de R$15/mes. Juntos, construimos inclusao financeira desde a base.",
     "cta": "Junte-se ao Movimento",
     "ctaSecondary": "Veja Como Funciona",
     "stats": {
-      "arr": "$12.5M+",
+      "arr": "R$65M+",
       "arrLabel": "Receita Recorrente Anual",
       "clients": "520.000",
       "clientsLabel": "Clientes Ativos",
       "multiplier": "2.5x",
       "multiplierLabel": "Multiplicador Keynesiano",
-      "price": "$3",
+      "price": "R$15",
       "priceLabel": "Por Mes"
     }
   },
@@ -43,7 +43,7 @@
     "pillars": {
       "inclusion": {
         "title": "Inclusao Financeira",
-        "description": "63 milhoes de americanos sao desbancarizados ou sub-bancarizados. COLHYBRI oferece acesso acessivel a servicos financeiros essenciais por apenas $3/mes — sem consulta de credito, sem saldo minimo."
+        "description": "No Brasil, cerca de 34 milhoes de pessoas nao tem acesso bancario adequado. COLHYBRI oferece acesso acessivel a servicos financeiros essenciais por apenas R$15/mes — sem consulta de credito, sem saldo minimo."
       },
       "commerce": {
         "title": "Comercio Local",
@@ -51,7 +51,7 @@
       },
       "community": {
         "title": "Poder Comunitario",
-        "description": "Quando pessoas e comercios se conectam pelo COLHYBRI, o dinheiro circula localmente. Cada $1 gasto gera $2,50 em atividade economica local."
+        "description": "Quando pessoas e comercios se conectam pelo COLHYBRI, o dinheiro circula localmente. Cada R$1 gasto gera R$2,50 em atividade economica local."
       }
     }
   },
@@ -61,15 +61,15 @@
     "steps": {
       "subscribe": {
         "title": "Assine",
-        "description": "Pessoas assinam por $3/mes. Sem consulta de credito, sem necessidade de conta bancaria. Acesso imediato a rede financeira comunitaria COLHYBRI."
+        "description": "Pessoas assinam por R$15/mes. Sem consulta de credito, sem necessidade de conta bancaria. Acesso imediato a rede financeira comunitaria COLHYBRI."
       },
       "connect": {
         "title": "Conecte-se Localmente",
-        "description": "Comercios assinam por $10/mes e se tornam centros financeiros comunitarios. Eles oferecem servicos COLHYBRI junto com seus negocios existentes."
+        "description": "Comercios assinam por R$50/mes e se tornam centros financeiros comunitarios. Eles oferecem servicos COLHYBRI junto com seus negocios existentes."
       },
       "thrive": {
         "title": "Prosperem Juntos",
-        "description": "Cada transacao se multiplica. O multiplicador keynesiano transforma cada assinatura de $3 em $7,50 em valor economico local."
+        "description": "Cada transacao se multiplica. O multiplicador keynesiano transforma cada assinatura de R$15 em R$37,50 em valor economico local."
       }
     }
   },
@@ -78,7 +78,7 @@
     "headline": "Acessivel para Todos",
     "individuals": {
       "title": "Para Pessoas",
-      "price": "$3",
+      "price": "R$15",
       "period": "/mes",
       "features": [
         "Acesso a rede financeira local",
@@ -92,7 +92,7 @@
     },
     "shops": {
       "title": "Para Comercios Locais",
-      "price": "$10",
+      "price": "R$50",
       "period": "/mes",
       "features": [
         "Torne-se um centro financeiro comunitario",
@@ -108,11 +108,11 @@
   "impact": {
     "title": "Impacto",
     "headline": "O Multiplicador Keynesiano em Acao",
-    "description": "Cada dolar que circula localmente gera 2,5x seu valor em atividade economica. COLHYBRI direciona os gastos para o comercio local, criando empregos e fortalecendo comunidades.",
+    "description": "Cada real que circula localmente gera 2,5x seu valor em atividade economica. COLHYBRI direciona os gastos para o comercio local, criando empregos e fortalecendo comunidades.",
     "metrics": {
       "localValue": {
-        "value": "$7,50",
-        "label": "Gerados a partir de cada assinatura de $3"
+        "value": "R$37,50",
+        "label": "Gerados a partir de cada assinatura de R$15"
       },
       "jobsCreated": {
         "value": "1 emprego",
@@ -125,28 +125,28 @@
     }
   },
   "miami": {
-    "title": "Lancamento Miami 2026",
-    "headline": "COLHYBRI Lanca em Miami — A Porta de Entrada da America para a Inclusao Financeira",
-    "description": "O Condado de Miami-Dade tem uma das maiores taxas de residentes desbancarizados dos Estados Unidos. Com sua vibrante comunidade latina e comercio local prospero, Miami e a plataforma de lancamento perfeita para a missao do COLHYBRI.",
+    "title": "Lançamento Brasil 2026",
+    "headline": "COLHYBRI Lanca no Brasil — A Porta de Entrada da America Latina para a Inclusao Financeira",
+    "description": "No Brasil, cerca de 34 milhoes de pessoas nao tem acesso bancario adequado. Com seu ecossistema PIX, tradicao de cooperativas de credito e comercio local vibrante, o Brasil e a plataforma de lancamento perfeita para a missao do COLHYBRI na America Latina.",
     "whyMiami": {
-      "title": "Por que Miami?",
+      "title": "Por que o Brasil?",
       "reasons": [
-        "Mais de 30% dos residentes de Miami-Dade sao desbancarizados ou sub-bancarizados",
-        "70% de populacao hispano-latina — a comunidade para a qual COLHYBRI foi criado",
-        "Ecossistema prospero de pequenos negocios com mais de 300.000 comercios locais",
-        "Porta de entrada da America para a America Latina — caminho natural de expansao"
+        "Cerca de 34 milhoes de pessoas sem acesso bancario adequado no Brasil",
+        "215 milhoes de habitantes — maior economia da America Latina",
+        "Ecossistema PIX, tradicao de cooperativas de credito e microcredito",
+        "Potencia da America Latina — porta de entrada para o continente"
       ]
     }
   },
   "forIndividuals": {
     "title": "Para Pessoas",
-    "headline": "Liberdade Financeira Comeca com $3/Mes",
-    "description": "Sem conta bancaria? Sem problema. COLHYBRI oferece acesso a servicos financeiros essenciais atraves dos comercios do seu bairro. Economize, gaste e construa seu futuro financeiro — tudo por $3/mes."
+    "headline": "Liberdade Financeira Comeca com R$15/Mes",
+    "description": "Sem conta bancaria? Sem problema. COLHYBRI oferece acesso a servicos financeiros essenciais atraves dos comercios do seu bairro. Economize, gaste e construa seu futuro financeiro — tudo por R$15/mes."
   },
   "forShops": {
     "title": "Para Comercios Locais",
     "headline": "Seu Comercio, o Centro Financeiro da Sua Comunidade",
-    "description": "Junte-se ao COLHYBRI por $10/mes e transforme seu negocio em um centro financeiro comunitario. Aumente o fluxo de clientes, construa fidelidade e faca uma diferenca real no seu bairro."
+    "description": "Junte-se ao COLHYBRI por R$50/mes e transforme seu negocio em um centro financeiro comunitario. Aumente o fluxo de clientes, construa fidelidade e faca uma diferenca real no seu bairro."
   },
   "forCities": {
     "title": "Para Cidades",
@@ -156,23 +156,23 @@
   "ecosystem": {
     "title": "Ecossistema",
     "headline": "O Ecossistema COLHYBRI",
-    "description": "COLHYBRI faz parte do ONLYMORE Group, uma empresa de tecnologia consolidada com mais de $12.5M em receita recorrente anual e 520.000 clientes ativos. Nosso ecossistema conecta pessoas, comercios locais e governos municipais."
+    "description": "COLHYBRI faz parte do ONLYMORE Group, uma empresa de tecnologia consolidada com mais de R$65M em receita recorrente anual e 520.000 clientes ativos. Nosso ecossistema conecta pessoas, comercios locais e governos municipais."
   },
   "investors": {
     "title": "Investidores",
     "headline": "Invista na Inclusao Financeira",
-    "description": "COLHYBRI combina economia unitaria comprovada ($12.5M+ ARR em todo o ONLYMORE Group) com impacto social massivo. Buscamos parceiros que compartilhem nossa visao de inclusao financeira atraves do comercio local."
+    "description": "COLHYBRI combina economia unitaria comprovada (R$65M+ ARR em todo o ONLYMORE Group) com impacto social massivo. Buscamos parceiros que compartilhem nossa visao de inclusao financeira atraves do comercio local."
   },
   "faq": {
     "title": "Perguntas Frequentes",
     "questions": [
       {
         "q": "O que e COLHYBRI?",
-        "a": "COLHYBRI e uma plataforma de inclusao financeira que conecta pessoas desbancarizadas com comercios locais por meio de uma assinatura de $3/mes. Ela cria um ecossistema financeiro comunitario onde o dinheiro circula localmente, gerando 2,5x de valor economico atraves do efeito multiplicador keynesiano."
+        "a": "COLHYBRI e uma plataforma de inclusao financeira que conecta pessoas desbancarizadas com comercios locais por meio de uma assinatura de R$15/mes. Ela cria um ecossistema financeiro comunitario onde o dinheiro circula localmente, gerando 2,5x de valor economico atraves do efeito multiplicador keynesiano."
       },
       {
         "q": "Quanto custa COLHYBRI?",
-        "a": "COLHYBRI custa $3/mes para pessoas e $10/mes para comercios locais. Nao ha taxas ocultas, consultas de credito ou exigencias de saldo minimo."
+        "a": "COLHYBRI custa R$15/mes para pessoas e R$50/mes para comercios locais. Nao ha taxas ocultas, consultas de credito ou exigencias de saldo minimo."
       },
       {
         "q": "Preciso de uma conta bancaria para usar COLHYBRI?",
@@ -180,15 +180,15 @@
       },
       {
         "q": "Onde COLHYBRI sera lancado?",
-        "a": "COLHYBRI sera lancado em Miami, Florida, no primeiro semestre de 2026. O Condado de Miami-Dade foi escolhido por sua grande populacao desbancarizada e vibrante ecossistema de comercio local."
+        "a": "COLHYBRI sera lancado no Brasil em 2026. O Brasil foi escolhido por sua grande populacao desbancarizada, seu ecossistema PIX inovador e seu papel como maior economia da America Latina."
       },
       {
         "q": "Quem esta por tras do COLHYBRI?",
-        "a": "COLHYBRI foi criado pelo ONLYMORE Group, liderado pelo fundador e CEO Florent Gibert. O ONLYMORE Group tem mais de $12.5M em receita recorrente anual e atende 520.000 clientes ativos."
+        "a": "COLHYBRI foi criado pelo ONLYMORE Group, liderado pelo fundador e CEO Florent Gibert. O ONLYMORE Group tem mais de R$65M em receita recorrente anual e atende 520.000 clientes ativos."
       },
       {
         "q": "O que e o efeito multiplicador keynesiano?",
-        "a": "O multiplicador keynesiano descreve como o dinheiro gasto localmente gera atividade economica adicional. Com COLHYBRI, cada assinatura de $3 cria aproximadamente $7,50 em valor economico local conforme o dinheiro circula pela comunidade."
+        "a": "O multiplicador keynesiano descreve como o dinheiro gasto localmente gera atividade economica adicional. Com COLHYBRI, cada assinatura de R$15 cria aproximadamente R$37,50 em valor economico local conforme o dinheiro circula pela comunidade."
       }
     ]
   },
