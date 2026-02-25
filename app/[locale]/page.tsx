@@ -2,7 +2,7 @@ import { useTranslations } from 'next-intl';
 import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
 import type { Locale } from '@/i18n';
-import { generatePageMetadata, generateOrganizationJsonLd, generateWebSiteJsonLd } from '@/lib/metadata';
+import { generatePageMetadata, generateOrganizationJsonLd, generateWebSiteJsonLd, generateMythologyJsonLd } from '@/lib/metadata';
 import { getLocalizedPath } from '@/lib/navigation';
 import { JsonLd } from '@/components/JsonLd';
 import { AnimatedCounter } from '@/components/AnimatedCounter';
@@ -36,6 +36,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
     <>
       <JsonLd data={generateOrganizationJsonLd(l)} />
       <JsonLd data={generateWebSiteJsonLd(l)} />
+      <JsonLd data={generateMythologyJsonLd(l)} />
 
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-gradient-to-br from-colhybri-light via-white to-colhybri-primary/5">

@@ -27,6 +27,7 @@ export interface RegionData {
   unbankledRate: number;
   adultPopulation: string;
   colhybriPotential: number;
+  legendRef: string;
   sources: string[];
   locales: Record<string, RegionLocaleData>;
 }
@@ -43,6 +44,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 5,
     adultPopulation: '48M',
     colhybriPotential: 5,
+    legendRef: 'fr',
     sources: ['IFOP / Labo de la Fraternite, 8eme Barometre, Fevrier 2026'],
     locales: {
       fr: {
@@ -92,6 +94,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 5,
     adultPopulation: '260M',
     colhybriPotential: 4,
+    legendRef: 'en',
     sources: ['Pew Research Center, December 2025', 'KFF/The Economist Loneliness Survey'],
     locales: {
       en: {
@@ -141,6 +144,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 30,
     adultPopulation: '160M',
     colhybriPotential: 5,
+    legendRef: 'pt',
     sources: ['Ipsos / Statista 2025', 'Pew Research Center 2025'],
     locales: {
       pt: {
@@ -207,6 +211,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 2,
     adultPopulation: '105M',
     colhybriPotential: 4,
+    legendRef: 'ja',
     sources: ['KFF / The Economist Survey', 'Japan Ministry of Loneliness 2024'],
     locales: {
       ja: {
@@ -256,6 +261,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 11,
     adultPopulation: '900M',
     colhybriPotential: 5,
+    legendRef: 'hi',
     sources: ['Ipsos / Statista 2025', 'World Bank Findex 2025'],
     locales: {
       hi: {
@@ -305,6 +311,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 22,
     adultPopulation: '120M',
     colhybriPotential: 3,
+    legendRef: 'pl',
     sources: ['Pew Research Center 2025', 'World Bank Findex 2025'],
     locales: {
       pl: {
@@ -371,6 +378,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 42,
     adultPopulation: '600M',
     colhybriPotential: 5,
+    legendRef: 'africa',
     sources: ['World Bank Findex 2025', 'Njanike & Mpofu, Sage Journals 2024'],
     locales: {
       fr: {
