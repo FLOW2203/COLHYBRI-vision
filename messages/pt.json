@@ -151,12 +151,39 @@
   "forCities": {
     "title": "Para Cidades",
     "headline": "Revitalize o Comercio Local com COLHYBRI",
-    "description": "Cidades que fazem parceria com COLHYBRI veem aumentos mensuraveis na atividade economica local. Nossa plataforma fortalece o tecido comercial dos bairros enquanto avanca os objetivos de inclusao financeira."
+    "description": "Cidades que fazem parceria com COLHYBRI veem aumentos mensuraveis na atividade economica local. Nossa plataforma fortalece o tecido comercial dos bairros enquanto avanca os objetivos de inclusao financeira.",
+    "benefits": {
+      "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
+      "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
+      "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
+      "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
+    }
   },
   "ecosystem": {
     "title": "Ecossistema",
     "headline": "O Ecossistema COLHYBRI",
-    "description": "COLHYBRI faz parte do ONLYMORE Group, uma empresa de tecnologia consolidada com mais de R$65M em receita recorrente anual e 520.000 clientes ativos. Nosso ecossistema conecta pessoas, comercios locais e governos municipais."
+    "description": "COLHYBRI faz parte do ONLYMORE Group, uma empresa de tecnologia consolidada com mais de R$65M em receita recorrente anual e 520.000 clientes ativos. Nosso ecossistema conecta pessoas, comercios locais e governos municipais.",
+    "pillars": {
+      "individuals": {
+        "title": "Particulares",
+        "description": "Access essential financial services for $3/month through your neighborhood shops."
+      },
+      "shops": {
+        "title": "Comercios locais",
+        "description": "Become a community financial hub and increase your customer traffic."
+      },
+      "cities": {
+        "title": "Cidades e governos",
+        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+      }
+    },
+    "onlymore": {
+      "title": "Grupo ONLYMORE",
+      "subtitle": "Um ecossistema comprovado",
+      "arr": "Receita recorrente anual",
+      "clients": "Clientes ativos",
+      "multiplier": "Multiplicador keynesiano"
+    }
   },
   "investors": {
     "title": "Investidores",

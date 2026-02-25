@@ -151,12 +151,39 @@
   "forCities": {
     "title": "Dla miast",
     "headline": "Ożyw główną ulicę z COLHYBRI",
-    "description": "Miasta współpracujące z COLHYBRI odnotowują mierzalny wzrost lokalnej aktywności gospodarczej. Nasza platforma wzmacnia tkankę handlową dzielnic, jednocześnie realizując cele inkluzji finansowej."
+    "description": "Miasta współpracujące z COLHYBRI odnotowują mierzalny wzrost lokalnej aktywności gospodarczej. Nasza platforma wzmacnia tkankę handlową dzielnic, jednocześnie realizując cele inkluzji finansowej.",
+    "benefits": {
+      "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
+      "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
+      "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
+      "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
+    }
   },
   "ecosystem": {
     "title": "Ekosystem",
     "headline": "Ekosystem COLHYBRI",
-    "description": "COLHYBRI jest częścią grupy ONLYMORE, sprawdzonej firmy technologicznej z ponad 54M zł rocznego przychodu powtarzalnego i 520 000 aktywnych klientów. Nasz ekosystem łączy osoby prywatne, lokalne sklepy i samorządy miejskie."
+    "description": "COLHYBRI jest częścią grupy ONLYMORE, sprawdzonej firmy technologicznej z ponad 54M zł rocznego przychodu powtarzalnego i 520 000 aktywnych klientów. Nasz ekosystem łączy osoby prywatne, lokalne sklepy i samorządy miejskie.",
+    "pillars": {
+      "individuals": {
+        "title": "Osoby prywatne",
+        "description": "Access essential financial services for $3/month through your neighborhood shops."
+      },
+      "shops": {
+        "title": "Lokalne sklepy",
+        "description": "Become a community financial hub and increase your customer traffic."
+      },
+      "cities": {
+        "title": "Miasta i samorzady",
+        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+      }
+    },
+    "onlymore": {
+      "title": "Grupa ONLYMORE",
+      "subtitle": "Sprawdzony ekosystem",
+      "arr": "Roczne przychody cykliczne",
+      "clients": "Aktywni klienci",
+      "multiplier": "Mnoznik keynesowski"
+    }
   },
   "investors": {
     "title": "Inwestorzy",

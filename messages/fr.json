@@ -151,12 +151,39 @@
   "forCities": {
     "title": "Pour les Villes",
     "headline": "Revitalisez votre Centre-Ville avec COLHYBRI",
-    "description": "Les villes partenaires de COLHYBRI constatent des augmentations mesurables de l'activité économique locale. Notre plateforme renforce le tissu commercial des quartiers tout en avançant les objectifs d'inclusion financière."
+    "description": "Les villes partenaires de COLHYBRI constatent des augmentations mesurables de l'activité économique locale. Notre plateforme renforce le tissu commercial des quartiers tout en avançant les objectifs d'inclusion financière.",
+    "benefits": {
+      "multiplier": "Hausse mesurable de l'activite economique locale grace au multiplicateur keynesien",
+      "inclusion": "Avancer les objectifs d'inclusion financiere pour les residents non-bancarises",
+      "fabric": "Renforcer le tissu commercial des quartiers et soutenir les commerces locaux",
+      "dashboard": "Tableau de bord d'impact en temps reel : emplois, depenses et croissance communautaire"
+    }
   },
   "ecosystem": {
-    "title": "Écosystème",
-    "headline": "L'Écosystème COLHYBRI",
-    "description": "COLHYBRI fait partie du groupe ONLYMORE, une entreprise technologique éprouvée avec plus de 12,5M€ de revenus récurrents annuels et 520 000 clients actifs. Notre écosystème connecte particuliers, commerces locaux et collectivités."
+    "title": "Ecosysteme",
+    "headline": "L'Ecosysteme COLHYBRI",
+    "description": "COLHYBRI fait partie du groupe ONLYMORE, une entreprise technologique eprouvee avec plus de 12,5M€ de revenus recurrents annuels et 520 000 clients actifs. Notre ecosysteme connecte particuliers, commerces locaux et collectivites.",
+    "pillars": {
+      "individuals": {
+        "title": "Particuliers",
+        "description": "Accedez aux services financiers essentiels pour 3€/mois via vos commerces de quartier."
+      },
+      "shops": {
+        "title": "Commerces locaux",
+        "description": "Devenez un hub financier communautaire et augmentez votre trafic client."
+      },
+      "cities": {
+        "title": "Villes & collectivites",
+        "description": "Renforcez l'economie locale avec un multiplicateur keynesien de 2,5x."
+      }
+    },
+    "onlymore": {
+      "title": "Groupe ONLYMORE",
+      "subtitle": "Un ecosysteme eprouve",
+      "arr": "Revenus recurrents annuels",
+      "clients": "Clients actifs",
+      "multiplier": "Multiplicateur keynesien"
+    }
   },
   "investors": {
     "title": "Investisseurs",

@@ -151,12 +151,39 @@
   "forCities": {
     "title": "自治体向け",
     "headline": "COLHYBRIで商店街を活性化",
-    "description": "COLHYBRIと提携する自治体では、地域経済活動の目に見える増加が確認されています。私たちのプラットフォームは、金融包摂の目標を推進しながら、地域の商業基盤を強化します。"
+    "description": "COLHYBRIと提携する自治体では、地域経済活動の目に見える増加が確認されています。私たちのプラットフォームは、金融包摂の目標を推進しながら、地域の商業基盤を強化します。",
+    "benefits": {
+      "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
+      "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
+      "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
+      "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
+    }
   },
   "ecosystem": {
     "title": "エコシステム",
     "headline": "COLHYBRIエコシステム",
-    "description": "COLHYBRIは、年間経常収益19億円+以上、520,000のアクティブクライアントを持つ実績あるテクノロジー企業、ONLYMORE Groupの一員です。私たちのエコシステムは、個人、地元店舗、自治体をつなぎます。"
+    "description": "COLHYBRIは、年間経常収益19億円+以上、520,000のアクティブクライアントを持つ実績あるテクノロジー企業、ONLYMORE Groupの一員です。私たちのエコシステムは、個人、地元店舗、自治体をつなぎます。",
+    "pillars": {
+      "individuals": {
+        "title": "個人ユーザー",
+        "description": "Access essential financial services for $3/month through your neighborhood shops."
+      },
+      "shops": {
+        "title": "地域店舗",
+        "description": "Become a community financial hub and increase your customer traffic."
+      },
+      "cities": {
+        "title": "都市・自治体",
+        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+      }
+    },
+    "onlymore": {
+      "title": "ONLYMOREグループ",
+      "subtitle": "実証されたエコシステム",
+      "arr": "年間経常収益",
+      "clients": "アクティブクライアント",
+      "multiplier": "ケインズ乗数"
+    }
   },
   "investors": {
     "title": "投資家",

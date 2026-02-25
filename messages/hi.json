@@ -151,12 +151,39 @@
   "forCities": {
     "title": "शहरों के लिए",
     "headline": "COLHYBRI के साथ मुख्य बाज़ारों को पुनर्जीवित करें",
-    "description": "COLHYBRI के साथ भागीदारी करने वाले शहर स्थानीय आर्थिक गतिविधि में मापने योग्य वृद्धि देखते हैं। हमारा प्लेटफॉर्म वित्तीय समावेशन लक्ष्यों को आगे बढ़ाते हुए पड़ोस की व्यावसायिक संरचना को मजबूत करता है।"
+    "description": "COLHYBRI के साथ भागीदारी करने वाले शहर स्थानीय आर्थिक गतिविधि में मापने योग्य वृद्धि देखते हैं। हमारा प्लेटफॉर्म वित्तीय समावेशन लक्ष्यों को आगे बढ़ाते हुए पड़ोस की व्यावसायिक संरचना को मजबूत करता है।",
+    "benefits": {
+      "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
+      "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
+      "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
+      "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
+    }
   },
   "ecosystem": {
     "title": "पारिस्थितिकी तंत्र",
     "headline": "COLHYBRI पारिस्थितिकी तंत्र",
-    "description": "COLHYBRI, ONLYMORE समूह का हिस्सा है, जो ₹105Cr+ वार्षिक आवर्ती राजस्व और 520,000 सक्रिय ग्राहकों वाली एक सिद्ध प्रौद्योगिकी कंपनी है। हमारा पारिस्थितिकी तंत्र व्यक्तियों, स्थानीय दुकानों और शहर सरकारों को जोड़ता है।"
+    "description": "COLHYBRI, ONLYMORE समूह का हिस्सा है, जो ₹105Cr+ वार्षिक आवर्ती राजस्व और 520,000 सक्रिय ग्राहकों वाली एक सिद्ध प्रौद्योगिकी कंपनी है। हमारा पारिस्थितिकी तंत्र व्यक्तियों, स्थानीय दुकानों और शहर सरकारों को जोड़ता है।",
+    "pillars": {
+      "individuals": {
+        "title": "व्यक्तिगत",
+        "description": "Access essential financial services for $3/month through your neighborhood shops."
+      },
+      "shops": {
+        "title": "स्थानीय दुकानें",
+        "description": "Become a community financial hub and increase your customer traffic."
+      },
+      "cities": {
+        "title": "शहर और सरकारें",
+        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+      }
+    },
+    "onlymore": {
+      "title": "ONLYMORE समूह",
+      "subtitle": "एक सिद्ध पारिस्थितिकी तंत्र",
+      "arr": "वार्षिक आवर्ती राजस्व",
+      "clients": "सक्रिय ग्राहक",
+      "multiplier": "केनेसियन गुणक"
+    }
   },
   "investors": {
     "title": "निवेशक",

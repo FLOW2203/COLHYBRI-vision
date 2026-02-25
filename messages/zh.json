@@ -151,12 +151,39 @@
   "forCities": {
     "title": "城市合作",
     "headline": "携手 COLHYBRI 振兴商业街",
-    "description": "与 COLHYBRI 合作的城市可以看到本地经济活动的显著增长。我们的平台在推进金融普惠目标的同时，加强社区的商业基础。"
+    "description": "与 COLHYBRI 合作的城市可以看到本地经济活动的显著增长。我们的平台在推进金融普惠目标的同时，加强社区的商业基础。",
+    "benefits": {
+      "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
+      "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
+      "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
+      "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
+    }
   },
   "ecosystem": {
     "title": "生态系统",
     "headline": "COLHYBRI 生态系统",
-    "description": "COLHYBRI 隶属于 ONLYMORE Group，这是一家经过验证的科技公司，拥有9000万元+的年经常性收入和520,000名活跃客户。我们的生态系统连接个人、本地商店和城市政府。"
+    "description": "COLHYBRI 隶属于 ONLYMORE Group，这是一家经过验证的科技公司，拥有9000万元+的年经常性收入和520,000名活跃客户。我们的生态系统连接个人、本地商店和城市政府。",
+    "pillars": {
+      "individuals": {
+        "title": "个人用户",
+        "description": "Access essential financial services for $3/month through your neighborhood shops."
+      },
+      "shops": {
+        "title": "本地商户",
+        "description": "Become a community financial hub and increase your customer traffic."
+      },
+      "cities": {
+        "title": "城市与政府",
+        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+      }
+    },
+    "onlymore": {
+      "title": "ONLYMORE集团",
+      "subtitle": "经过验证的生态系统",
+      "arr": "年度经常性收入",
+      "clients": "活跃客户",
+      "multiplier": "凯恩斯乘数"
+    }
   },
   "investors": {
     "title": "投资者",
