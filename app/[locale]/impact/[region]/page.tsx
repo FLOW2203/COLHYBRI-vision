@@ -229,7 +229,7 @@ export default function RegionImpactPage({ params: { locale, region } }: PagePro
         <div className="section-container text-center">
           <h2 className="text-2xl sm:text-3xl font-bold text-white mb-6">{t('ctaHeadline')}</h2>
           <a
-            href="https://colhybri.com"
+            href="https://colhybri.vision"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center px-8 py-4 rounded-lg bg-white text-colhybri-primary font-bold text-lg hover:bg-white/90 transition-colors"

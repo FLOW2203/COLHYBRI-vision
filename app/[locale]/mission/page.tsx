@@ -37,7 +37,7 @@ export default function MissionPage({ params: { locale } }: PageProps) {
     isPartOf: {
       '@type': 'WebSite',
       name: 'COLHYBRI',
-      url: 'https://colhybri.com',
+      url: 'https://colhybri.vision',
     },
   };
 

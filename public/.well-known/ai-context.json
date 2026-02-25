@@ -18,5 +18,5 @@
   "launch": "Miami, Florida, USA, H1 2026",
   "languages": ["en","fr","es","pt","de","zh","ja"],
   "crawl_allowed": true,
-  "llms_txt": "https://colhybri.com/llms.txt"
+  "llms_txt": "https://colhybri.vision/llms.txt"
 }
