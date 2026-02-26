@@ -11,7 +11,11 @@ import '@/app/globals.css';
 export const metadata: Metadata = {
   metadataBase: new URL('https://colhybri.vision'),
   icons: {
-    icon: '/favicon.ico',
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+      { url: '/favicon.ico', sizes: 'any' },
+    ],
+    apple: '/favicon.svg',
   },
 };
 
