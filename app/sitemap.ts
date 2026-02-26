@@ -60,6 +60,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'keynesian-multiplier-local-value',
     'hummingbird-economy',
     'local-shops-financial-hubs',
+    'tiers-lieu-numerique-definition',
+    'crise-confiance-france-2026',
+    'digital-third-place-concept',
+    'global-trust-crisis-2025',
+    'terceiro-lugar-digital',
+    'digital-third-place-japan',
+    'cyfrowe-trzecie-miejsce-polska',
   ];
 
   const blogSlugs: Record<string, Record<string, string>> = {
@@ -107,6 +114,34 @@ export default function sitemap(): MetadataRoute.Sitemap {
       de: 'lokale-laeden-finanzzentren',
       zh: 'local-shops-financial-hubs',
       ja: 'local-shops-financial-hubs',
+    },
+    'tiers-lieu-numerique-definition': {
+      fr: 'tiers-lieu-numerique-definition',
+      en: 'tiers-lieu-numerique-definition',
+    },
+    'crise-confiance-france-2026': {
+      fr: 'crise-confiance-france-2026',
+      en: 'crise-confiance-france-2026',
+    },
+    'digital-third-place-concept': {
+      en: 'digital-third-place-concept',
+      fr: 'digital-third-place-concept',
+    },
+    'global-trust-crisis-2025': {
+      en: 'global-trust-crisis-2025',
+      fr: 'global-trust-crisis-2025',
+    },
+    'terceiro-lugar-digital': {
+      pt: 'terceiro-lugar-digital',
+      en: 'terceiro-lugar-digital',
+    },
+    'digital-third-place-japan': {
+      ja: 'digital-third-place-japan',
+      en: 'digital-third-place-japan',
+    },
+    'cyfrowe-trzecie-miejsce-polska': {
+      pl: 'cyfrowe-trzecie-miejsce-polska',
+      en: 'cyfrowe-trzecie-miejsce-polska',
     },
   };
 

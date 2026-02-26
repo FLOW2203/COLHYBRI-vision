@@ -1,6 +1,6 @@
 # COLHYBRI — Financial Inclusion Through Local Commerce
 
-> COLHYBRI is a financial inclusion platform that connects underbanked and unbanked individuals with local shops through affordable subscriptions, creating a community-powered financial ecosystem. Founded by Florent Gibert and part of the ONLYMORE Group, COLHYBRI launches in Miami, Florida in H1 2026.
+> COLHYBRI is a financial inclusion platform that connects underbanked and unbanked individuals with local shops through affordable subscriptions, creating a community-powered financial ecosystem. Founded by Florent Gibert and part of the ONLYMORE Group, COLHYBRI launches in Miami, Florida and France in H1 2026.
 
 ## What is COLHYBRI?
 
@@ -13,10 +13,11 @@ COLHYBRI is a subscription-based fintech platform designed to bring essential fi
 - Founded: 2024
 - CEO: Florent Gibert
 - Group: ONLYMORE Group
-- Launch: Miami, Florida, H1 2026
+- Launch: Miami, Florida & France, H1 2026
 - Pricing: $3/month (individuals), $10/month (shops)
 - Keynesian Multiplier: 2.5x — every $1 spent locally generates $2.50 in community economic activity
-- Target: Underbanked and unbanked populations in the United States
+- Target: Underbanked and unbanked populations worldwide
+- Domain: https://colhybri.vision
 
 ## How It Works
 
@@ -28,16 +29,20 @@ COLHYBRI operates on three pillars:
 
 3. **Thrive Together** — Every transaction generates a multiplier effect. Through the Keynesian multiplier, each $3 subscription creates approximately $7.50 in local economic value. Money circulates within the community, creating jobs and strengthening neighborhoods. For every 200 active subscribers in a given area, one local job is created. Approximately 68% of spending stays within the community.
 
+## The Digital Third Place
+
+COLHYBRI is the world's first digital third place for financial inclusion. Drawing on sociologist Ray Oldenburg's concept of "third places" — spaces that are neither home nor work where community bonds form — COLHYBRI transforms local commerce into a vector for rebuilding social trust. In a world where 1.4 billion adults suffer from chronic loneliness (WHO, 2025), financial transactions become pretexts for human connection, and neighborhood shops become the beating hearts of communities again.
+
 ## The Hummingbird Economy
 
 COLHYBRI's philosophy is rooted in a Native American legend. While the forest burns, the hummingbird carries water drop by drop. When asked why, it replies: "I am doing my part." This story captures the essence of COLHYBRI's model — millions of small, affordable contributions ($3/month) flowing through local commerce create an outsized economic impact. The hummingbird economy is not about a single grand gesture; it is about consistent, community-driven participation that compounds over time.
 
 ## Mission
 
-COLHYBRI exists to build financial inclusion from the ground up. By transforming local shops into community financial hubs and making essential services accessible for $3/month, COLHYBRI ensures that financial participation is not a privilege but a right. The platform targets Miami-Dade County first — a region where over 30% of residents are underbanked, 70% of the population is Hispanic or Latino, and over 300,000 local shops form a thriving small business ecosystem. Miami serves as the gateway to Latin America and a natural expansion path for COLHYBRI's mission across the Americas.
+COLHYBRI exists to build financial inclusion from the ground up. By transforming local shops into community financial hubs and making essential services accessible for $3/month, COLHYBRI ensures that financial participation is not a privilege but a right. The platform targets Miami-Dade County and France first — Miami where over 30% of residents are underbanked, and France where 500,000 people lack adequate banking access. These markets serve as the launchpads for COLHYBRI's global mission.
 
 ## Contact
 
 - Email: onlymore2024@gmail.com
-- Website: https://colhybri.com
-- Languages: English, French, Spanish, Portuguese, German, Chinese, Japanese
+- Website: https://colhybri.vision
+- Languages: English, English (UK), French, Spanish, Portuguese, German, Italian, Chinese, Japanese, Hindi, Polish

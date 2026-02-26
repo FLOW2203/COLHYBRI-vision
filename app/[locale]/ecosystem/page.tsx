@@ -60,12 +60,10 @@ export default function EcosystemPage({ params: { locale } }: PageProps) {
                 </svg>
               </div>
               <h2 className="text-xl font-bold mb-3 group-hover:text-colhybri-primary transition-colors">
-                {locale === 'fr' ? 'Particuliers' : 'Individuals'}
+                {t('pillars.individuals.title')}
               </h2>
               <p className="text-colhybri-dark/60">
-                {locale === 'fr'
-                  ? 'Accédez aux services financiers essentiels pour 3€/mois via vos commerces de quartier.'
-                  : 'Access essential financial services for $3/month through your neighborhood shops.'}
+                {t('pillars.individuals.description')}
               </p>
             </Link>
 
@@ -78,12 +76,10 @@ export default function EcosystemPage({ params: { locale } }: PageProps) {
                 </svg>
               </div>
               <h2 className="text-xl font-bold mb-3 group-hover:text-colhybri-secondary transition-colors">
-                {locale === 'fr' ? 'Commerces locaux' : 'Local Shops'}
+                {t('pillars.shops.title')}
               </h2>
               <p className="text-colhybri-dark/60">
-                {locale === 'fr'
-                  ? 'Devenez un hub financier communautaire et augmentez votre trafic client.'
-                  : 'Become a community financial hub and increase your customer traffic.'}
+                {t('pillars.shops.description')}
               </p>
             </Link>
 
@@ -97,12 +93,10 @@ export default function EcosystemPage({ params: { locale } }: PageProps) {
                 </svg>
               </div>
               <h2 className="text-xl font-bold mb-3 group-hover:text-colhybri-primary transition-colors">
-                {locale === 'fr' ? 'Villes & collectivités' : 'Cities & Governments'}
+                {t('pillars.cities.title')}
               </h2>
               <p className="text-colhybri-dark/60">
-                {locale === 'fr'
-                  ? 'Renforcez l\'économie locale avec un multiplicateur keynésien de 2,5x.'
-                  : 'Strengthen your local economy with a 2.5x Keynesian multiplier effect.'}
+                {t('pillars.cities.description')}
               </p>
             </Link>
           </div>
@@ -113,23 +107,23 @@ export default function EcosystemPage({ params: { locale } }: PageProps) {
       <section className="bg-colhybri-dark text-white">
         <div className="section-container max-w-4xl mx-auto text-center">
           <p className="text-colhybri-primary font-semibold text-sm tracking-wide uppercase mb-4">
-            {locale === 'fr' ? 'Groupe ONLYMORE' : 'ONLYMORE Group'}
+            {t('onlymore.title')}
           </p>
           <h2 className="text-2xl sm:text-3xl font-bold mb-10">
-            {locale === 'fr' ? 'Un écosystème éprouvé' : 'A Proven Ecosystem'}
+            {t('onlymore.subtitle')}
           </h2>
           <div className="grid sm:grid-cols-3 gap-8">
             <div>
               <div className="text-4xl sm:text-5xl font-extrabold text-colhybri-primary mb-2">$12.5M+</div>
-              <p className="text-white/60">{locale === 'fr' ? 'Revenus récurrents annuels' : 'Annual Recurring Revenue'}</p>
+              <p className="text-white/60">{t('onlymore.arr')}</p>
             </div>
             <div>
               <div className="text-4xl sm:text-5xl font-extrabold text-colhybri-secondary mb-2">520K</div>
-              <p className="text-white/60">{locale === 'fr' ? 'Clients actifs' : 'Active Clients'}</p>
+              <p className="text-white/60">{t('onlymore.clients')}</p>
             </div>
             <div>
               <div className="text-4xl sm:text-5xl font-extrabold text-colhybri-primary mb-2">2.5x</div>
-              <p className="text-white/60">{locale === 'fr' ? 'Multiplicateur keynésien' : 'Keynesian Multiplier'}</p>
+              <p className="text-white/60">{t('onlymore.multiplier')}</p>
             </div>
           </div>
         </div>

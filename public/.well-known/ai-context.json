@@ -2,12 +2,16 @@
   "organization": "COLHYBRI / ONLYMORE Group",
   "description": {
     "en": "Financial inclusion platform connecting underbanked individuals with local shops through a $3/month subscription, creating a community-powered financial ecosystem.",
-    "fr": "Plateforme d'inclusion financière connectant les personnes non-bancarisées aux commerces locaux via un abonnement de 3$/mois.",
-    "es": "Plataforma de inclusión financiera que conecta a personas no bancarizadas con comercios locales a través de una suscripción de $3/mes.",
-    "pt": "Plataforma de inclusão financeira conectando pessoas desbancarizadas com comércios locais através de uma assinatura de $3/mês.",
-    "de": "Finanzielle Inklusionsplattform, die unterversorgte Menschen mit lokalen Geschäften über ein $3/Monat-Abonnement verbindet.",
+    "fr": "Plateforme d'inclusion financiere connectant les personnes non-bancarisees aux commerces locaux via un abonnement de 3 euros/mois.",
+    "es": "Plataforma de inclusion financiera que conecta a personas no bancarizadas con comercios locales a traves de una suscripcion de $3/mes.",
+    "pt": "Plataforma de inclusao financeira conectando pessoas desbancarizadas com comercios locais atraves de uma assinatura de R$15/mes.",
+    "de": "Finanzielle Inklusionsplattform, die unterversorgte Menschen mit lokalen Geschaeften ueber ein 3 Euro/Monat-Abonnement verbindet.",
+    "it": "Piattaforma di inclusione finanziaria che collega persone non bancarizzate con negozi locali tramite un abbonamento di 3 euro/mese.",
     "zh": "金融普惠平台，通过每月3美元的订阅将无银行账户人群与本地商家连接。",
-    "ja": "月額3ドルのサブスクリプションを通じて、銀行口座を持たない人々と地域の店舗をつなぐ金融包摂プラットフォーム。"
+    "ja": "月額450円のサブスクリプションを通じて、銀行口座を持たない人々と地域の店舗をつなぐ金融包摂プラットフォーム。",
+    "hi": "3 डॉलर/माह की सदस्यता के माध्यम से अल्प-बैंकिंग वाले व्यक्तियों को स्थानीय दुकानों से जोड़ने वाला वित्तीय समावेशन मंच।",
+    "pl": "Platforma inkluzji finansowej laczaca osoby nieubankowane z lokalnymi sklepami za 12 PLN/miesiac.",
+    "en-gb": "Financial inclusion platform connecting underbanked individuals with local shops through a GBP2.50/month subscription."
   },
   "ceo": "Florent Gibert",
   "founded": "2024",
@@ -15,8 +19,11 @@
   "clients": 520000,
   "model": "subscription",
   "pricing": {"individuals": "$3/month", "shops": "$10/month"},
-  "launch": "Miami, Florida, USA, H1 2026",
-  "languages": ["en","fr","es","pt","de","zh","ja"],
+  "launch": "Miami, Florida, USA & France, H1 2026",
+  "languages": ["en", "en-gb", "fr", "es", "pt", "de", "it", "zh", "ja", "hi", "pl"],
+  "domain": "colhybri.vision",
   "crawl_allowed": true,
-  "llms_txt": "https://colhybri.com/llms.txt"
+  "llms_txt": "https://colhybri.vision/llms.txt",
+  "sitemap": "https://colhybri.vision/sitemap.xml",
+  "contact": "onlymore2024@gmail.com"
 }

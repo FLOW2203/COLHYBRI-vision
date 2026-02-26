@@ -151,12 +151,39 @@
   "forCities": {
     "title": "For Cities",
     "headline": "Revitalize Main Street with COLHYBRI",
-    "description": "Cities partnering with COLHYBRI see measurable increases in local economic activity. Our platform strengthens the commercial fabric of neighborhoods while advancing financial inclusion goals."
+    "description": "Cities partnering with COLHYBRI see measurable increases in local economic activity. Our platform strengthens the commercial fabric of neighborhoods while advancing financial inclusion goals.",
+    "benefits": {
+      "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
+      "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
+      "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
+      "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
+    }
   },
   "ecosystem": {
     "title": "Ecosystem",
     "headline": "The COLHYBRI Ecosystem",
-    "description": "COLHYBRI is part of the ONLYMORE Group, a proven technology company with $12.5M+ in annual recurring revenue and 520,000 active clients. Our ecosystem connects individuals, local shops, and city governments."
+    "description": "COLHYBRI is part of the ONLYMORE Group, a proven technology company with $12.5M+ in annual recurring revenue and 520,000 active clients. Our ecosystem connects individuals, local shops, and city governments.",
+    "pillars": {
+      "individuals": {
+        "title": "Individuals",
+        "description": "Access essential financial services for $3/month through your neighborhood shops."
+      },
+      "shops": {
+        "title": "Local Shops",
+        "description": "Become a community financial hub and increase your customer traffic."
+      },
+      "cities": {
+        "title": "Cities & Governments",
+        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+      }
+    },
+    "onlymore": {
+      "title": "ONLYMORE Group",
+      "subtitle": "A Proven Ecosystem",
+      "arr": "Annual Recurring Revenue",
+      "clients": "Active Clients",
+      "multiplier": "Keynesian Multiplier"
+    }
   },
   "investors": {
     "title": "Investors",

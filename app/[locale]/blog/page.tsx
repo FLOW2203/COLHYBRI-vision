@@ -3,7 +3,8 @@ import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
 import type { Locale } from '@/i18n';
 import { generatePageMetadata } from '@/lib/metadata';
-import { getLocalizedPath } from '@/lib/navigation';
+import { getLocalizedPath, BASE_URL } from '@/lib/navigation';
+import { JsonLd } from '@/components/JsonLd';
 
 interface PageProps {
   params: { locale: string };
@@ -50,6 +51,48 @@ const blogArticles = [
     titleKey: 'article5',
     date: '2026-02-15',
     category: 'Commerce',
+  },
+  {
+    slug: 'tiers-lieu-numerique-definition',
+    titleKey: 'article6',
+    date: '2026-02-19',
+    category: 'Third Place',
+  },
+  {
+    slug: 'crise-confiance-france-2026',
+    titleKey: 'article7',
+    date: '2026-02-19',
+    category: 'Trust',
+  },
+  {
+    slug: 'digital-third-place-concept',
+    titleKey: 'article8',
+    date: '2026-02-19',
+    category: 'Third Place',
+  },
+  {
+    slug: 'global-trust-crisis-2025',
+    titleKey: 'article9',
+    date: '2026-02-19',
+    category: 'Trust',
+  },
+  {
+    slug: 'terceiro-lugar-digital',
+    titleKey: 'article10',
+    date: '2026-02-19',
+    category: 'Third Place',
+  },
+  {
+    slug: 'digital-third-place-japan',
+    titleKey: 'article11',
+    date: '2026-02-19',
+    category: 'Third Place',
+  },
+  {
+    slug: 'cyfrowe-trzecie-miejsce-polska',
+    titleKey: 'article12',
+    date: '2026-02-19',
+    category: 'Third Place',
   },
 ];
 
@@ -99,6 +142,34 @@ const articleTitles: Record<string, Record<string, string>> = {
     zh: '本地商店如何成为社区金融中心：COLHYBRI模式',
     ja: '地域の店舗が金融ハブになる方法：COLHYBRIモデル',
   },
+  article6: {
+    fr: "Qu'est-ce qu'un tiers-lieu numerique ? Definition et enjeux pour 2026",
+    en: 'What Is a Digital Third Place? Definition and Stakes for 2026',
+  },
+  article7: {
+    fr: 'Crise de confiance en France 2026 : les chiffres alarmants du Barometre IFOP',
+    en: 'Trust Crisis in France 2026: Alarming Numbers from the IFOP Barometer',
+  },
+  article8: {
+    en: 'The Digital Third Place: Rebuilding Community Trust in a Lonely World',
+    fr: 'Le tiers-lieu numerique : reconstruire la confiance communautaire dans un monde solitaire',
+  },
+  article9: {
+    en: 'The Global Trust Crisis 2025: Why 1.4 Billion Lonely Adults Demand a New Economic Model',
+    fr: 'Crise mondiale de la confiance 2025 : pourquoi 1,4 milliard de solitaires exigent un nouveau modele economique',
+  },
+  article10: {
+    pt: 'O terceiro lugar digital: como a tecnologia pode reconstruir lacos comunitarios no Brasil',
+    en: 'The Digital Third Place: How Technology Can Rebuild Community Bonds in Brazil',
+  },
+  article11: {
+    ja: 'デジタル・サードプレイス：日本の孤独危機に対する新しい答え',
+    en: "The Digital Third Place: A New Answer to Japan's Loneliness Crisis",
+  },
+  article12: {
+    pl: 'Cyfrowe trzecie miejsce: jak Polska moze odbudowac zaufanie spoleczne',
+    en: 'The Digital Third Place: How Poland Can Rebuild Social Trust',
+  },
 };
 
 const categoryColors: Record<string, string> = {
@@ -107,12 +178,34 @@ const categoryColors: Record<string, string> = {
   Impact: 'bg-blue-50 text-blue-700',
   Story: 'bg-purple-50 text-purple-700',
   Commerce: 'bg-amber-50 text-amber-700',
+  'Third Place': 'bg-emerald-50 text-emerald-700',
+  Trust: 'bg-rose-50 text-rose-700',
 };
 
 export default function BlogPage({ params: { locale } }: PageProps) {
   const l = locale as Locale;
 
+  const blogJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'COLHYBRI Blog',
+    description: 'Articles on financial inclusion, local commerce, and community economics.',
+    url: `${BASE_URL}/${locale}/blog`,
+    isPartOf: {
+      '@type': 'WebSite',
+      name: 'COLHYBRI',
+      url: BASE_URL,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'COLHYBRI',
+      url: BASE_URL,
+    },
+  };
+
   return (
+    <>
+    <JsonLd data={blogJsonLd} />
     <div className="section-container">
       <div className="text-center mb-16">
         <h1 className="section-heading">Blog</h1>
@@ -169,5 +262,6 @@ export default function BlogPage({ params: { locale } }: PageProps) {
         </Link>
       </div>
     </div>
+    </>
   );
 }

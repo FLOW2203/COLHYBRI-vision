@@ -42,7 +42,7 @@ export default function ForCitiesPage({ params: { locale } }: PageProps) {
     isPartOf: {
       '@type': 'WebSite',
       name: 'COLHYBRI',
-      url: 'https://colhybri.com',
+      url: 'https://colhybri.vision',
     },
   };
 
@@ -103,38 +103,16 @@ export default function ForCitiesPage({ params: { locale } }: PageProps) {
               {t('title')}
             </h2>
             <div className="grid sm:grid-cols-2 gap-6">
-              <div className="flex items-start gap-4">
-                <div className="w-10 h-10 rounded-full bg-colhybri-primary/10 flex items-center justify-center flex-shrink-0">
-                  <svg className="w-5 h-5 text-colhybri-primary" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                  </svg>
+              {(['multiplier', 'inclusion', 'fabric', 'dashboard'] as const).map((key, i) => (
+                <div key={key} className="flex items-start gap-4">
+                  <div className={`w-10 h-10 rounded-full ${i < 2 ? 'bg-colhybri-primary/10' : 'bg-colhybri-secondary/10'} flex items-center justify-center flex-shrink-0`}>
+                    <svg className={`w-5 h-5 ${i < 2 ? 'text-colhybri-primary' : 'text-colhybri-secondary'}`} viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                      <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
+                    </svg>
+                  </div>
+                  <p className="text-colhybri-dark/70">{t(`benefits.${key}`)}</p>
                 </div>
-                <p className="text-colhybri-dark/70">Measurable increase in local economic activity through the Keynesian multiplier effect</p>
-              </div>
-              <div className="flex items-start gap-4">
-                <div className="w-10 h-10 rounded-full bg-colhybri-primary/10 flex items-center justify-center flex-shrink-0">
-                  <svg className="w-5 h-5 text-colhybri-primary" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                  </svg>
-                </div>
-                <p className="text-colhybri-dark/70">Advance financial inclusion goals for underbanked and unbanked residents</p>
-              </div>
-              <div className="flex items-start gap-4">
-                <div className="w-10 h-10 rounded-full bg-colhybri-secondary/10 flex items-center justify-center flex-shrink-0">
-                  <svg className="w-5 h-5 text-colhybri-secondary" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                  </svg>
-                </div>
-                <p className="text-colhybri-dark/70">Strengthen the commercial fabric of neighborhoods and support local businesses</p>
-              </div>
-              <div className="flex items-start gap-4">
-                <div className="w-10 h-10 rounded-full bg-colhybri-secondary/10 flex items-center justify-center flex-shrink-0">
-                  <svg className="w-5 h-5 text-colhybri-secondary" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                    <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                  </svg>
-                </div>
-                <p className="text-colhybri-dark/70">Real-time impact dashboard tracking jobs, spending, and community growth</p>
-              </div>
+              ))}
             </div>
           </div>
         </div>

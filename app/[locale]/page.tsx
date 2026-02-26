@@ -2,12 +2,13 @@ import { useTranslations } from 'next-intl';
 import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
 import type { Locale } from '@/i18n';
-import { generatePageMetadata, generateOrganizationJsonLd, generateWebSiteJsonLd } from '@/lib/metadata';
+import { generatePageMetadata, generateOrganizationJsonLd, generateWebSiteJsonLd, generateMythologyJsonLd } from '@/lib/metadata';
 import { getLocalizedPath } from '@/lib/navigation';
 import { JsonLd } from '@/components/JsonLd';
 import { AnimatedCounter } from '@/components/AnimatedCounter';
 import { LocalStats } from '@/components/LocalStats';
 import { ThirdPlaceHero } from '@/components/ThirdPlaceHero';
+import { LegendHero } from '@/components/LegendHero';
 
 interface PageProps {
   params: { locale: string };
@@ -35,6 +36,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
     <>
       <JsonLd data={generateOrganizationJsonLd(l)} />
       <JsonLd data={generateWebSiteJsonLd(l)} />
+      <JsonLd data={generateMythologyJsonLd(l)} />
 
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-gradient-to-br from-colhybri-light via-white to-colhybri-primary/5">
@@ -55,7 +57,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
-            <a href="https://colhybri.com" target="_blank" rel="noopener noreferrer" className="btn-primary text-lg px-8 py-4">
+            <a href="https://colhybri.vision" target="_blank" rel="noopener noreferrer" className="btn-primary text-lg px-8 py-4">
               {t('hero.cta')}
             </a>
             <Link href={getLocalizedPath('how-it-works', l)} className="btn-secondary text-lg px-8 py-4">
@@ -287,10 +289,13 @@ export default function HomePage({ params: { locale } }: PageProps) {
         </div>
       </section>
 
+      {/* Cultural Legend Section */}
+      <LegendHero locale={locale} />
+
       {/* CTA Section */}
       <section className="bg-colhybri-primary">
         <div className="section-container text-center">
-          <blockquote cite="https://colhybri.com" lang={locale} className="mb-8">
+          <blockquote cite="https://colhybri.vision" lang={locale} className="mb-8">
             <p className="text-2xl sm:text-3xl font-bold text-white mb-4">
               &ldquo;I am doing my part.&rdquo;
             </p>
@@ -298,7 +303,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
               — Florent Gibert, Founder &amp; CEO, ONLYMORE Group
             </footer>
           </blockquote>
-          <a href="https://colhybri.com" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-4 rounded-lg bg-white text-colhybri-primary font-bold text-lg hover:bg-white/90 transition-colors">
+          <a href="https://colhybri.vision" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-4 rounded-lg bg-white text-colhybri-primary font-bold text-lg hover:bg-white/90 transition-colors">
             {t('hero.cta')}
           </a>
         </div>

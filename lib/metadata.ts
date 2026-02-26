@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import type { Locale } from '@/i18n';
 import { BASE_URL, getHreflangAlternates, getLocalizedPath } from './navigation';
+import { getLegendForLocale, type GeoLegend } from '@/data/geo-legends';
 
 const localeCountryMap: Record<string, string> = {
   en: 'en_US',
@@ -229,6 +230,38 @@ export function generateProductJsonLd(locale: Locale) {
         validFrom: '2026-01-01',
       },
     ],
+  };
+}
+
+export function generateMythologyJsonLd(locale: Locale) {
+  const legend: GeoLegend = getLegendForLocale(locale);
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CreativeWork',
+    additionalType: legend.schemaType,
+    name: legend.titre,
+    description: legend.histoire,
+    character: {
+      '@type': 'Thing',
+      name: legend.protagoniste,
+      description: legend.symbole,
+    },
+    locationCreated: {
+      '@type': 'Place',
+      name: legend.region,
+    },
+    about: {
+      '@type': 'Thing',
+      name: 'Financial Inclusion & Social Solidarity',
+      description: legend.missionColhybri,
+    },
+    inLanguage: localeCountryMap[locale] || 'en_US',
+    keywords: legend.seoKeywords.join(', '),
+    mentions: {
+      '@type': 'Organization',
+      name: 'COLHYBRI',
+      url: BASE_URL,
+    },
   };
 }
 

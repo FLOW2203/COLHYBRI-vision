@@ -30,4 +30,4 @@ Allow: /zh/
 User-agent: Yeti
 Allow: /
 
-Sitemap: https://colhybri.com/sitemap.xml
+Sitemap: https://colhybri.vision/sitemap.xml

@@ -27,6 +27,7 @@ export interface RegionData {
   unbankledRate: number;
   adultPopulation: string;
   colhybriPotential: number;
+  legendRef: string;
   sources: string[];
   locales: Record<string, RegionLocaleData>;
 }
@@ -43,6 +44,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 5,
     adultPopulation: '48M',
     colhybriPotential: 5,
+    legendRef: 'fr',
     sources: ['IFOP / Labo de la Fraternite, 8eme Barometre, Fevrier 2026'],
     locales: {
       fr: {
@@ -92,6 +94,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 5,
     adultPopulation: '260M',
     colhybriPotential: 4,
+    legendRef: 'en',
     sources: ['Pew Research Center, December 2025', 'KFF/The Economist Loneliness Survey'],
     locales: {
       en: {
@@ -141,6 +144,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 30,
     adultPopulation: '160M',
     colhybriPotential: 5,
+    legendRef: 'pt',
     sources: ['Ipsos / Statista 2025', 'Pew Research Center 2025'],
     locales: {
       pt: {
@@ -207,6 +211,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 2,
     adultPopulation: '105M',
     colhybriPotential: 4,
+    legendRef: 'ja',
     sources: ['KFF / The Economist Survey', 'Japan Ministry of Loneliness 2024'],
     locales: {
       ja: {
@@ -256,6 +261,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 11,
     adultPopulation: '900M',
     colhybriPotential: 5,
+    legendRef: 'hi',
     sources: ['Ipsos / Statista 2025', 'World Bank Findex 2025'],
     locales: {
       hi: {
@@ -305,6 +311,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 22,
     adultPopulation: '120M',
     colhybriPotential: 3,
+    legendRef: 'pl',
     sources: ['Pew Research Center 2025', 'World Bank Findex 2025'],
     locales: {
       pl: {
@@ -364,6 +371,109 @@ export const TRUST_DATA: Record<string, RegionData> = {
   // ═══════════════════════════════════════════════════
   // AFRIQUE SUBSAHARIENNE
   // ═══════════════════════════════════════════════════
+  // ═══════════════════════════════════════════════════
+  // ROYAUME-UNI
+  // ═══════════════════════════════════════════════════
+  uk: {
+    id: 'uk',
+    lonelinessRate: 38,
+    trustRate: 40,
+    unbankledRate: 3,
+    adultPopulation: '53M',
+    colhybriPotential: 4,
+    legendRef: 'en-gb',
+    sources: ['KFF / The Economist Loneliness Survey 2025', 'Pew Research Center 2025', 'UK FCA Financial Lives Survey 2024'],
+    locales: {
+      en: {
+        regionName: 'United Kingdom',
+        headline: '38% of UK adults experience loneliness. The robin sings through the harshest winters.',
+        stat1Label: 'of adults experience chronic loneliness',
+        stat1Value: '38%',
+        stat1Source: 'KFF / The Economist 2025',
+        stat2Label: 'of adults trust most people',
+        stat2Value: '40%',
+        stat2Source: 'Pew Research Center 2025',
+        stat3Label: 'of adults with limited financial access',
+        stat3Value: '3%',
+        stat3Source: 'UK FCA Financial Lives Survey 2024',
+        insight: "The United Kingdom faces a loneliness epidemic that led to the creation of a Minister for Loneliness in 2018 — the first in the world. Despite relatively high banking penetration, social isolation has deepened since 2019, particularly in post-industrial communities and among the elderly. The closure of local bank branches has removed critical social hubs from high streets.",
+        colhybriAnswer: 'COLHYBRI brings the mutualist model to UK communities — like the robin that never abandons its territory, we stay present where banks have left, rebuilding social bonds through local commerce at GBP2.50/month.',
+        seoKeywords: ['digital third place UK', 'financial inclusion Britain', 'loneliness epidemic UK', 'community finance platform'],
+        metaDescription: "COLHYBRI UK: addressing Britain's loneliness epidemic through community financial inclusion. Rebuilding high street connections at GBP2.50/month.",
+      },
+      fr: {
+        regionName: 'Royaume-Uni',
+        headline: '38% des Britanniques souffrent de solitude. Le rouge-gorge chante meme dans les hivers les plus rudes.',
+        stat1Label: 'des adultes souffrent de solitude chronique',
+        stat1Value: '38%',
+        stat1Source: 'KFF / The Economist 2025',
+        stat2Label: 'des adultes font confiance a la plupart des gens',
+        stat2Value: '40%',
+        stat2Source: 'Pew Research Center 2025',
+        stat3Label: "des adultes avec un acces financier limite",
+        stat3Value: '3%',
+        stat3Source: 'UK FCA Financial Lives Survey 2024',
+        insight: "Le Royaume-Uni a ete le premier pays au monde a creer un Ministre de la Solitude en 2018. La fermeture des agences bancaires locales a supprime des lieux de socialisation essentiels dans les rues commerçantes.",
+        colhybriAnswer: "COLHYBRI apporte le modele mutualiste aux communautes britanniques — comme le rouge-gorge, nous restons presents la ou les banques sont parties.",
+        seoKeywords: ['tiers-lieu numerique Royaume-Uni', 'inclusion financiere Grande-Bretagne', 'solitude epidemie UK'],
+        metaDescription: 'COLHYBRI Royaume-Uni : le modele mutualiste contre la solitude britannique. Reconstruire les liens de proximite a 2,50GBP/mois.',
+      },
+    },
+  },
+
+  // ═══════════════════════════════════════════════════
+  // CANADA
+  // ═══════════════════════════════════════════════════
+  canada: {
+    id: 'canada',
+    lonelinessRate: 33,
+    trustRate: 48,
+    unbankledRate: 4,
+    adultPopulation: '32M',
+    colhybriPotential: 4,
+    legendRef: 'en',
+    sources: ['Statistics Canada Social Survey 2025', 'Pew Research Center 2025', 'World Bank Findex 2025'],
+    locales: {
+      en: {
+        regionName: 'Canada',
+        headline: "33% of Canadians feel lonely. Indigenous communities pioneered the hummingbird's message of collective action.",
+        stat1Label: 'of adults experience loneliness regularly',
+        stat1Value: '33%',
+        stat1Source: 'Statistics Canada 2025',
+        stat2Label: 'interpersonal trust rate',
+        stat2Value: '48%',
+        stat2Source: 'Pew Research Center 2025',
+        stat3Label: 'of adults with limited financial services',
+        stat3Value: '4%',
+        stat3Source: 'World Bank Findex 2025',
+        insight: "Canada's vast geography creates unique isolation challenges. Rural and Indigenous communities face the sharpest exclusion — both financial and social. The Haida legend of Dukdukdiya, the hummingbird who sparked collective action against the forest fire, resonates deeply with Canada's cooperative tradition.",
+        colhybriAnswer: "COLHYBRI echoes Canada's cooperative heritage — from credit unions to community bonds. At CAD4/month, we connect isolated communities to local commerce, sparking the collective intelligence the hummingbird awakened.",
+        seoKeywords: ['digital third place Canada', 'financial inclusion rural Canada', 'community finance cooperative', 'Dukdukdiya hummingbird'],
+        metaDescription: 'COLHYBRI Canada: cooperative financial inclusion for isolated communities. Connecting Canadians through local commerce at CAD4/month.',
+      },
+      fr: {
+        regionName: 'Canada',
+        headline: "33% des Canadiens se sentent seuls. Les Premieres Nations ont porte le message du colibri — l'action collective.",
+        stat1Label: 'des adultes ressentent la solitude regulierement',
+        stat1Value: '33%',
+        stat1Source: 'Statistique Canada 2025',
+        stat2Label: 'de confiance interpersonnelle',
+        stat2Value: '48%',
+        stat2Source: 'Pew Research Center 2025',
+        stat3Label: "des adultes avec un acces financier limite",
+        stat3Value: '4%',
+        stat3Source: 'World Bank Findex 2025',
+        insight: "La vaste geographie du Canada cree des defis d'isolement uniques. Les communautes rurales et autochtones subissent l'exclusion la plus vive. La legende Haida de Dukdukdiya, le colibri qui a declenche l'action collective, resonne avec la tradition cooperative canadienne.",
+        colhybriAnswer: "COLHYBRI s'inscrit dans l'heritage cooperatif canadien — des caisses populaires aux liens communautaires. A 4CAD/mois, nous connectons les communautes isolees au commerce local.",
+        seoKeywords: ['tiers-lieu numerique Canada', 'inclusion financiere rurale', 'cooperative communautaire', 'Dukdukdiya Haida'],
+        metaDescription: "COLHYBRI Canada : l'inclusion financiere cooperative pour les communautes isolees. 4CAD/mois pour reconnecter.",
+      },
+    },
+  },
+
+  // ═══════════════════════════════════════════════════
+  // AFRIQUE SUBSAHARIENNE
+  // ═══════════════════════════════════════════════════
   africa: {
     id: 'africa',
     lonelinessRate: 45,
@@ -371,6 +481,7 @@ export const TRUST_DATA: Record<string, RegionData> = {
     unbankledRate: 42,
     adultPopulation: '600M',
     colhybriPotential: 5,
+    legendRef: 'africa',
     sources: ['World Bank Findex 2025', 'Njanike & Mpofu, Sage Journals 2024'],
     locales: {
       fr: {

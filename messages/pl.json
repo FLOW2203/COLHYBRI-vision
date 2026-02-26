@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — Inkluzja finansowa poprzez lokalny handel",
-    "description": "COLHYBRI łączy osoby wykluczone finansowo z lokalnymi sklepami poprzez subskrypcję za $3/miesiąc, tworząc społecznościowy ekosystem finansowy. Część grupy ONLYMORE ($12.5M+ ARR, 520 000 klientów)."
+    "description": "COLHYBRI łączy osoby wykluczone finansowo z lokalnymi sklepami poprzez subskrypcję za 13zł/miesiąc, tworząc społecznościowy ekosystem finansowy. Część grupy ONLYMORE (54M zł+ ARR, 520 000 klientów)."
   },
   "nav": {
     "home": "Strona główna",
@@ -12,7 +12,7 @@
     "forIndividuals": "Dla osób prywatnych",
     "forShops": "Dla sklepów",
     "forCities": "Dla miast",
-    "miami": "Miami",
+    "miami": "Premiera w Polsce",
     "ecosystem": "Ekosystem",
     "investors": "Inwestorzy",
     "blog": "Blog",
@@ -21,18 +21,18 @@
   },
   "hero": {
     "tagline": "Inkluzja finansowa poprzez lokalny handel",
-    "headline": "Każdy dolar wydany lokalnie tworzy $2,50 wartości dla społeczności",
-    "subheadline": "COLHYBRI łączy osoby wykluczone finansowo z lokalnymi sklepami poprzez prostą subskrypcję za $3/miesiąc. Razem budujemy inkluzję finansową od podstaw.",
+    "headline": "Każda złotówka wydana lokalnie tworzy 2,50zł wartości dla społeczności",
+    "subheadline": "COLHYBRI łączy osoby wykluczone finansowo z lokalnymi sklepami poprzez prostą subskrypcję za 13zł/miesiąc. Razem budujemy inkluzję finansową od podstaw.",
     "cta": "Dołącz do ruchu",
     "ctaSecondary": "Zobacz, jak to działa",
     "stats": {
-      "arr": "$12.5M+",
+      "arr": "54M zł+",
       "arrLabel": "Roczny przychód powtarzalny",
       "clients": "520 000",
       "clientsLabel": "Aktywni klienci",
       "multiplier": "2,5x",
       "multiplierLabel": "Mnożnik keynesowski",
-      "price": "$3",
+      "price": "13zł",
       "priceLabel": "Miesięcznie"
     }
   },
@@ -43,7 +43,7 @@
     "pillars": {
       "inclusion": {
         "title": "Inkluzja finansowa",
-        "description": "63 miliony Amerykanów jest wykluczonych lub częściowo wykluczonych z systemu bankowego. COLHYBRI zapewnia przystępny dostęp do podstawowych usług finansowych za jedyne $3/miesiąc — bez sprawdzania zdolności kredytowej, bez minimalnego salda."
+        "description": "W Polsce około 1,5 miliona osób jest wykluczonych lub częściowo wykluczonych z systemu bankowego. COLHYBRI zapewnia przystępny dostęp do podstawowych usług finansowych za jedyne 13zł/miesiąc — bez sprawdzania zdolności kredytowej, bez minimalnego salda."
       },
       "commerce": {
         "title": "Lokalny handel",
@@ -51,7 +51,7 @@
       },
       "community": {
         "title": "Siła społeczności",
-        "description": "Gdy osoby prywatne i sklepy łączą się poprzez COLHYBRI, pieniądze krążą lokalnie. Każdy wydany $1 generuje $2,50 w lokalnej aktywności gospodarczej."
+        "description": "Gdy osoby prywatne i sklepy łączą się poprzez COLHYBRI, pieniądze krążą lokalnie. Każda wydana 1zł generuje 2,50zł w lokalnej aktywności gospodarczej."
       }
     }
   },
@@ -61,15 +61,15 @@
     "steps": {
       "subscribe": {
         "title": "Subskrybuj",
-        "description": "Osoby prywatne dołączają za $3/miesiąc. Bez sprawdzania zdolności kredytowej, bez konta bankowego. Natychmiastowy dostęp do społecznościowej sieci finansowej COLHYBRI."
+        "description": "Osoby prywatne dołączają za 13zł/miesiąc. Bez sprawdzania zdolności kredytowej, bez konta bankowego. Natychmiastowy dostęp do społecznościowej sieci finansowej COLHYBRI."
       },
       "connect": {
         "title": "Połącz się lokalnie",
-        "description": "Sklepy dołączają za $10/miesiąc i stają się społecznościowymi centrami finansowymi. Oferują usługi COLHYBRI obok swojej dotychczasowej działalności."
+        "description": "Sklepy dołączają za 42zł/miesiąc i stają się społecznościowymi centrami finansowymi. Oferują usługi COLHYBRI obok swojej dotychczasowej działalności."
       },
       "thrive": {
         "title": "Rozwijajcie się razem",
-        "description": "Każda transakcja się mnoży. Mnożnik keynesowski zamienia każdą subskrypcję za $3 w $7,50 lokalnej wartości ekonomicznej."
+        "description": "Każda transakcja się mnoży. Mnożnik keynesowski zamienia każdą subskrypcję za 13zł w 32,50zł lokalnej wartości ekonomicznej."
       }
     }
   },
@@ -78,7 +78,7 @@
     "headline": "Przystępne dla każdego",
     "individuals": {
       "title": "Dla osób prywatnych",
-      "price": "$3",
+      "price": "13zł",
       "period": "/miesiąc",
       "features": [
         "Dostęp do lokalnej sieci finansowej",
@@ -92,7 +92,7 @@
     },
     "shops": {
       "title": "Dla lokalnych sklepów",
-      "price": "$10",
+      "price": "42zł",
       "period": "/miesiąc",
       "features": [
         "Zostań społecznościowym centrum finansowym",
@@ -108,11 +108,11 @@
   "impact": {
     "title": "Wpływ",
     "headline": "Mnożnik keynesowski w działaniu",
-    "description": "Każdy dolar krążący lokalnie generuje 2,5-krotność swojej wartości w aktywności gospodarczej. COLHYBRI kieruje wydatki do lokalnego handlu, tworząc miejsca pracy i wzmacniając społeczności.",
+    "description": "Każda złotówka krążąca lokalnie generuje 2,5-krotność swojej wartości w aktywności gospodarczej. COLHYBRI kieruje wydatki do lokalnego handlu, tworząc miejsca pracy i wzmacniając społeczności.",
     "metrics": {
       "localValue": {
-        "value": "$7,50",
-        "label": "Generowane z każdej subskrypcji za $3"
+        "value": "32,50zł",
+        "label": "Generowane z każdej subskrypcji za 13zł"
       },
       "jobsCreated": {
         "value": "1 miejsce pracy",
@@ -125,54 +125,81 @@
     }
   },
   "miami": {
-    "title": "Premiera w Miami 2026",
-    "headline": "COLHYBRI startuje w Miami — brama Ameryki do inkluzji finansowej",
-    "description": "Hrabstwo Miami-Dade ma jeden z najwyższych wskaźników osób wykluczonych z systemu bankowego w Stanach Zjednoczonych. Dzięki tętniącej życiem społeczności latynoskiej i kwitnącemu lokalnemu handlowi, Miami jest idealnym miejscem startu misji COLHYBRI.",
+    "title": "Premiera w Polsce 2026",
+    "headline": "COLHYBRI startuje w Polsce — brama do inkluzji finansowej w Europie Środkowej",
+    "description": "W Polsce około 1,5 miliona osób nie ma pełnego dostępu do usług bankowych. Dzięki tradycji spółdzielczości i dynamicznie rosnącej gospodarce, Polska jest idealnym miejscem startu misji COLHYBRI.",
     "whyMiami": {
-      "title": "Dlaczego Miami?",
+      "title": "Dlaczego Polska?",
       "reasons": [
-        "Ponad 30% mieszkańców Miami-Dade jest wykluczonych lub częściowo wykluczonych z systemu bankowego",
-        "70% populacji to Latynosi — społeczność, dla której COLHYBRI zostało stworzone",
-        "Rozwijający się ekosystem małych firm z ponad 300 000 lokalnych sklepów",
-        "Brama Ameryki do Ameryki Łacińskiej — naturalna ścieżka ekspansji"
+        "Około 1,5 miliona osób bez dostępu do usług bankowych",
+        "38 milionów mieszkańców — dynamicznie rosnąca gospodarka Europy Środkowej",
+        "Tradycja spółdzielczości, lokalnego handlu i inkluzji finansowej",
+        "Brama do Europy Środkowej — naturalna ścieżka ekspansji w regionie"
       ]
     }
   },
   "forIndividuals": {
     "title": "Dla osób prywatnych",
-    "headline": "Wolność finansowa zaczyna się od $3/miesiąc",
-    "description": "Nie masz konta bankowego? Żaden problem. COLHYBRI daje ci dostęp do podstawowych usług finansowych przez lokalne sklepy w twojej okolicy. Oszczędzaj, wydawaj i buduj swoją finansową przyszłość — wszystko za $3/miesiąc."
+    "headline": "Wolność finansowa zaczyna się od 13zł/miesiąc",
+    "description": "Nie masz konta bankowego? Żaden problem. COLHYBRI daje ci dostęp do podstawowych usług finansowych przez lokalne sklepy w twojej okolicy. Oszczędzaj, wydawaj i buduj swoją finansową przyszłość — wszystko za 13zł/miesiąc."
   },
   "forShops": {
     "title": "Dla lokalnych sklepów",
     "headline": "Twój sklep, centrum finansowe twojej społeczności",
-    "description": "Dołącz do COLHYBRI za $10/miesiąc i przekształć swój biznes w społecznościowe centrum finansowe. Zwiększ ruch klientów, buduj ich lojalność i zrób prawdziwą różnicę w swoim sąsiedztwie."
+    "description": "Dołącz do COLHYBRI za 42zł/miesiąc i przekształć swój biznes w społecznościowe centrum finansowe. Zwiększ ruch klientów, buduj ich lojalność i zrób prawdziwą różnicę w swoim sąsiedztwie."
   },
   "forCities": {
     "title": "Dla miast",
     "headline": "Ożyw główną ulicę z COLHYBRI",
-    "description": "Miasta współpracujące z COLHYBRI odnotowują mierzalny wzrost lokalnej aktywności gospodarczej. Nasza platforma wzmacnia tkankę handlową dzielnic, jednocześnie realizując cele inkluzji finansowej."
+    "description": "Miasta współpracujące z COLHYBRI odnotowują mierzalny wzrost lokalnej aktywności gospodarczej. Nasza platforma wzmacnia tkankę handlową dzielnic, jednocześnie realizując cele inkluzji finansowej.",
+    "benefits": {
+      "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
+      "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
+      "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
+      "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
+    }
   },
   "ecosystem": {
     "title": "Ekosystem",
     "headline": "Ekosystem COLHYBRI",
-    "description": "COLHYBRI jest częścią grupy ONLYMORE, sprawdzonej firmy technologicznej z ponad $12,5M rocznego przychodu powtarzalnego i 520 000 aktywnych klientów. Nasz ekosystem łączy osoby prywatne, lokalne sklepy i samorządy miejskie."
+    "description": "COLHYBRI jest częścią grupy ONLYMORE, sprawdzonej firmy technologicznej z ponad 54M zł rocznego przychodu powtarzalnego i 520 000 aktywnych klientów. Nasz ekosystem łączy osoby prywatne, lokalne sklepy i samorządy miejskie.",
+    "pillars": {
+      "individuals": {
+        "title": "Osoby prywatne",
+        "description": "Access essential financial services for $3/month through your neighborhood shops."
+      },
+      "shops": {
+        "title": "Lokalne sklepy",
+        "description": "Become a community financial hub and increase your customer traffic."
+      },
+      "cities": {
+        "title": "Miasta i samorzady",
+        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+      }
+    },
+    "onlymore": {
+      "title": "Grupa ONLYMORE",
+      "subtitle": "Sprawdzony ekosystem",
+      "arr": "Roczne przychody cykliczne",
+      "clients": "Aktywni klienci",
+      "multiplier": "Mnoznik keynesowski"
+    }
   },
   "investors": {
     "title": "Inwestorzy",
     "headline": "Inwestuj w inkluzję finansową",
-    "description": "COLHYBRI łączy sprawdzoną ekonomikę jednostkową ($12,5M+ ARR w ramach grupy ONLYMORE) z ogromnym wpływem społecznym. Szukamy partnerów, którzy podzielają naszą wizję inkluzji finansowej poprzez lokalny handel."
+    "description": "COLHYBRI łączy sprawdzoną ekonomikę jednostkową (54M zł+ ARR w ramach grupy ONLYMORE) z ogromnym wpływem społecznym. Szukamy partnerów, którzy podzielają naszą wizję inkluzji finansowej poprzez lokalny handel."
   },
   "faq": {
     "title": "Najczęściej zadawane pytania",
     "questions": [
       {
         "q": "Czym jest COLHYBRI?",
-        "a": "COLHYBRI to platforma inkluzji finansowej, która łączy osoby wykluczone z systemu bankowego z lokalnymi sklepami poprzez subskrypcję za $3/miesiąc. Tworzy społecznościowy ekosystem finansowy, w którym pieniądze krążą lokalnie, generując 2,5-krotną wartość ekonomiczną dzięki efektowi mnożnika keynesowskiego."
+        "a": "COLHYBRI to platforma inkluzji finansowej, która łączy osoby wykluczone z systemu bankowego z lokalnymi sklepami poprzez subskrypcję za 13zł/miesiąc. Tworzy społecznościowy ekosystem finansowy, w którym pieniądze krążą lokalnie, generując 2,5-krotną wartość ekonomiczną dzięki efektowi mnożnika keynesowskiego."
       },
       {
         "q": "Ile kosztuje COLHYBRI?",
-        "a": "COLHYBRI kosztuje $3/miesiąc dla osób prywatnych i $10/miesiąc dla lokalnych sklepów. Nie ma ukrytych opłat, sprawdzania zdolności kredytowej ani wymagań dotyczących minimalnego salda."
+        "a": "COLHYBRI kosztuje 13zł/miesiąc dla osób prywatnych i 42zł/miesiąc dla lokalnych sklepów. Nie ma ukrytych opłat, sprawdzania zdolności kredytowej ani wymagań dotyczących minimalnego salda."
       },
       {
         "q": "Czy potrzebuję konta bankowego, aby korzystać z COLHYBRI?",
@@ -180,15 +207,15 @@
       },
       {
         "q": "Gdzie startuje COLHYBRI?",
-        "a": "COLHYBRI startuje w Miami na Florydzie w pierwszej połowie 2026 roku. Hrabstwo Miami-Dade zostało wybrane ze względu na dużą populację osób wykluczonych z systemu bankowego oraz dynamiczny ekosystem lokalnego handlu."
+        "a": "COLHYBRI startuje w Polsce w 2026 roku. Polska została wybrana ze względu na populację osób wykluczonych z systemu bankowego, tradycję spółdzielczości oraz dynamiczny ekosystem lokalnego handlu."
       },
       {
         "q": "Kto stoi za COLHYBRI?",
-        "a": "COLHYBRI zostało stworzone przez grupę ONLYMORE, kierowaną przez założyciela i CEO Florent Gibert. Grupa ONLYMORE osiąga ponad $12,5M rocznego przychodu powtarzalnego i obsługuje 520 000 aktywnych klientów."
+        "a": "COLHYBRI zostało stworzone przez grupę ONLYMORE, kierowaną przez założyciela i CEO Florent Gibert. Grupa ONLYMORE osiąga ponad 54M zł rocznego przychodu powtarzalnego i obsługuje 520 000 aktywnych klientów."
       },
       {
         "q": "Czym jest efekt mnożnika keynesowskiego?",
-        "a": "Mnożnik keynesowski opisuje, w jaki sposób pieniądze wydane lokalnie generują dodatkową aktywność gospodarczą. W przypadku COLHYBRI każda subskrypcja za $3 tworzy około $7,50 lokalnej wartości ekonomicznej, gdy pieniądze krążą w społeczności."
+        "a": "Mnożnik keynesowski opisuje, w jaki sposób pieniądze wydane lokalnie generują dodatkową aktywność gospodarczą. W przypadku COLHYBRI każda subskrypcja za 13zł tworzy około 32,50zł lokalnej wartości ekonomicznej, gdy pieniądze krążą w społeczności."
       }
     ]
   },

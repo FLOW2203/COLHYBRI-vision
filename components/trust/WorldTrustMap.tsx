@@ -66,6 +66,16 @@ const REGION_PATHS: Record<string, { d: string; labelX: number; labelY: number }
     labelX: 510,
     labelY: 280,
   },
+  uk: {
+    d: 'M455,105 L462,98 L470,100 L474,108 L472,118 L465,122 L458,120 L453,113 Z',
+    labelX: 463,
+    labelY: 110,
+  },
+  canada: {
+    d: 'M100,70 L160,55 L220,60 L250,70 L255,90 L240,110 L200,115 L150,112 L110,105 L95,90 Z',
+    labelX: 175,
+    labelY: 88,
+  },
 };
 
 export function WorldTrustMap({ locale, onRegionClick }: WorldTrustMapProps) {
