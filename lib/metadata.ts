@@ -124,7 +124,7 @@ export function generateOrganizationJsonLd(locale: Locale) {
     parentOrganization: {
       '@type': 'Organization',
       name: 'ONLYMORE Group',
-      description: '$12.5M+ ARR, 520,000 active clients',
+      description: 'Technology company building financial inclusion through local commerce.',
     },
     areaServed: [
       { '@type': 'Country', name: 'France' },
@@ -138,7 +138,7 @@ export function generateOrganizationJsonLd(locale: Locale) {
       { '@type': 'Country', name: 'United Kingdom' },
     ],
     priceRange: '3€/month',
-    numberOfEmployees: { '@type': 'QuantitativeValue', value: 520000, unitText: 'members' },
+    
     contactPoint: {
       '@type': 'ContactPoint',
       email: 'onlymore2024@gmail.com',

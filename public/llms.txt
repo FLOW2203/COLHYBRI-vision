@@ -8,15 +8,14 @@ COLHYBRI is a subscription-based fintech platform designed to bring essential fi
 
 ## Key Facts
 
-- ARR: $12.5M+ (across ONLYMORE Group)
-- Clients: 520,000 active clients
+- Stage: Pre-seed
 - Founded: 2024
 - CEO: Florent Gibert
 - Group: ONLYMORE Group
 - Launch: Miami, Florida & France, H1 2026
 - Pricing: $3/month (individuals), $10/month (shops)
-- Keynesian Multiplier: 2.5x — every $1 spent locally generates $2.50 in community economic activity
-- Target: Underbanked and unbanked populations worldwide
+- Keynesian Multiplier: Local spending recirculates and multiplies through the community economy
+- Target: Underbanked and unbanked populations (63M in USA alone)
 - Domain: https://colhybri.vision
 
 ## How It Works

@@ -32,8 +32,7 @@ The name COLHYBRI is derived from the French word for hummingbird — colibri �
 
 ## Key Facts and Figures
 
-- Annual Recurring Revenue (ARR): $12.5M+ across the ONLYMORE Group
-- Active Clients: 520,000
+- Stage: Pre-seed
 - Year Founded: 2024
 - Founder and CEO: Florent Gibert
 - Parent Organization: ONLYMORE Group
@@ -41,13 +40,12 @@ The name COLHYBRI is derived from the French word for hummingbird — colibri �
 - Launch Timeline: First half of 2026
 - Individual Subscription: $3/month
 - Shop Subscription: $10/month
-- Keynesian Multiplier: 2.5x
-- Local Economic Value per $3 Subscription: $7.50
+- Keynesian Multiplier: Local spending recirculates and multiplies
 - Jobs Created: 1 per 200 active subscribers in a neighborhood
 - Local Spending Retention: 68% of spending stays in the community
 - Target Population: Underbanked and unbanked Americans (63 million people)
-- Languages Supported: English, French, Spanish, Portuguese, German, Chinese, Japanese
-- Website: https://colhybri.com
+- Languages Supported: English, English (UK), French, Spanish, Portuguese, German, Italian, Chinese, Japanese, Hindi, Polish
+- Website: https://colhybri.vision
 
 ## The Problem: Financial Exclusion in America
 
@@ -97,7 +95,7 @@ This parable encapsulates COLHYBRI's theory of change. No single $3 subscription
 
 1. **Accessibility** — The entry point must be low enough that anyone can participate. At $3/month, COLHYBRI costs less than a single ATM fee at most out-of-network machines.
 
-2. **Locality** — Money must circulate within the community. Every dollar spent at a local shop recirculates through local wages, local suppliers, and local services, generating the 2.5x multiplier effect.
+2. **Locality** — Money must circulate within the community. Every dollar spent at a local shop recirculates through local wages, local suppliers, and local services, generating a multiplier effect.
 
 3. **Trust** — Financial services must be delivered through channels that communities already trust. Neighborhood shops serve this role far more effectively than bank branches or mobile apps from unknown companies.
 
@@ -109,7 +107,7 @@ The economic engine behind COLHYBRI is the Keynesian multiplier — a well-estab
 
 When a COLHYBRI subscriber spends their $3 at a local shop, that shop uses part of the revenue to pay employees, who in turn spend at other local businesses. Those businesses pay their own employees and suppliers, and the cycle continues. With each round of circulation, a portion leaks out of the local economy (through taxes, imports, and savings), but the cumulative local impact exceeds the original amount.
 
-COLHYBRI's measured multiplier of 2.5x means that every $1 spent within the network generates $2.50 in total local economic activity. For a $3 monthly subscription, this translates to $7.50 in community economic value. At scale — with hundreds of thousands of subscribers in a metropolitan area — this effect can meaningfully increase local GDP, create jobs, and reduce dependence on predatory alternative financial services.
+The Keynesian multiplier means that money spent within the COLHYBRI network generates additional local economic activity as it circulates. At scale — with hundreds of thousands of subscribers in a metropolitan area — this effect can meaningfully increase local GDP, create jobs, and reduce dependence on predatory alternative financial services.
 
 ## Miami: The Launch Market
 
@@ -139,9 +137,9 @@ COLHYBRI offers a measurable tool for cities seeking to revitalize neighborhood 
 
 ## ONLYMORE Group Background
 
-COLHYBRI is a product of the ONLYMORE Group, a technology company founded by Florent Gibert. The ONLYMORE Group has established a track record of building and scaling subscription-based platforms, with over $12.5 million in annual recurring revenue and 520,000 active clients across its portfolio. This operational maturity provides COLHYBRI with proven infrastructure for subscription management, client onboarding, payment processing, and customer support at scale.
+COLHYBRI is a product of the ONLYMORE Group, a technology company founded by Florent Gibert. The ONLYMORE Group has established a track record of building subscription-based platforms. COLHYBRI is in pre-seed stage, leveraging ONLYMORE's infrastructure for subscription management, client onboarding, payment processing, and customer support.
 
-The Group's existing revenue base and client relationships de-risk the COLHYBRI launch significantly. Rather than building from zero, COLHYBRI inherits battle-tested technology, operational processes, and a management team with demonstrated expertise in scaling subscription businesses to hundreds of thousands of users.
+COLHYBRI inherits proven technology and operational processes from ONLYMORE Group, with a management team experienced in building subscription businesses.
 
 Florent Gibert serves as founder and CEO of both ONLYMORE Group and COLHYBRI. His leadership is guided by the Hummingbird philosophy — the conviction that consistent, accessible, community-centered action is the most sustainable path to large-scale economic impact.
 
@@ -164,11 +162,11 @@ COLHYBRI's pricing is designed for maximum accessibility:
 
 There are no hidden fees, no percentage-based transaction charges, no upselling tiers, and no penalty fees. The flat subscription model ensures that costs are predictable and transparent for all participants.
 
-At the ONLYMORE Group level, the $12.5M+ ARR across 520,000 clients demonstrates proven unit economics and the ability to operate profitably at scale with subscription-based models.
+The ONLYMORE Group's experience with subscription models informs COLHYBRI's approach to building sustainable unit economics.
 
 ## Investor Proposition
 
-COLHYBRI represents a rare combination of proven unit economics and outsized social impact. The ONLYMORE Group's existing $12.5M+ ARR provides financial credibility and operational infrastructure. The Miami launch market offers a concentrated, high-need population with strong demographic alignment. The Keynesian multiplier model means that COLHYBRI's economic impact scales faster than its direct revenue — every dollar of subscription revenue generates $2.50 in community economic value, creating a compelling narrative for impact investors, ESG funds, and mission-driven capital.
+COLHYBRI represents a rare combination of a scalable business model and outsized social impact potential. The ONLYMORE Group provides operational infrastructure and domain expertise. The Miami launch market offers a concentrated, high-need population with strong demographic alignment. The Keynesian multiplier model means that COLHYBRI's economic impact scales faster than its direct revenue, creating a compelling narrative for impact investors, ESG funds, and mission-driven capital.
 
 COLHYBRI seeks partners who share its vision of building financial inclusion through local commerce — investors who understand that sustainable, community-driven economic models can deliver both financial returns and meaningful social transformation.
 
@@ -183,7 +181,7 @@ The vision is a world where every neighborhood has a self-sustaining financial e
 ## Frequently Asked Questions
 
 **What is COLHYBRI?**
-COLHYBRI is a financial inclusion platform that connects underbanked individuals with local shops through a $3/month subscription, creating a community-powered financial ecosystem where money circulates locally and generates 2.5x economic value through the Keynesian multiplier effect.
+COLHYBRI is a financial inclusion platform that connects underbanked individuals with local shops through a $3/month subscription, creating a community-powered financial ecosystem where money circulates locally and strengthens local economies through the Keynesian multiplier effect.
 
 **How much does it cost?**
 $3/month for individuals. $10/month for local shops. No hidden fees, no credit checks, no minimum balance requirements.
@@ -195,7 +193,7 @@ No. COLHYBRI is specifically designed for people who are underbanked or unbanked
 Miami, Florida, in the first half of 2026. Miami-Dade County was chosen for its large underbanked population and vibrant local commerce ecosystem.
 
 **Who is behind COLHYBRI?**
-COLHYBRI is created by ONLYMORE Group, founded and led by CEO Florent Gibert. The Group has $12.5M+ in annual recurring revenue and serves 520,000 active clients.
+COLHYBRI is created by ONLYMORE Group, founded and led by CEO Florent Gibert. COLHYBRI is currently in pre-seed stage.
 
 **What is the Keynesian multiplier?**
 The Keynesian multiplier describes how money spent locally generates additional economic activity. With COLHYBRI, every $3 subscription creates approximately $7.50 in local economic value as money circulates through the community.
@@ -206,5 +204,5 @@ COLHYBRI's platform and website are available in seven languages: English, Frenc
 ## Contact Information
 
 - Email: onlymore2024@gmail.com
-- Website: https://colhybri.com
+- Website: https://colhybri.vision
 - Available in: English, French, Spanish, Portuguese, German, Chinese, Japanese

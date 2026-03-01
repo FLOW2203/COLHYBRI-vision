@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — Financial Inclusion Through Local Commerce",
-    "description": "COLHYBRI connects financially excluded individuals with local shops through a £2.50/month subscription, creating a community-powered financial ecosystem. Part of ONLYMORE Group ($12.5M+ ARR, 520,000 clients)."
+    "description": "COLHYBRI connects financially excluded individuals with local shops through a £2.50/month subscription, creating a community-powered financial ecosystem."
   },
   "nav": {
     "home": "Home",
@@ -26,14 +26,12 @@
     "cta": "Join the Movement",
     "ctaSecondary": "See How It Works",
     "stats": {
-      "arr": "$12.5M+",
-      "arrLabel": "Annual Recurring Revenue",
-      "clients": "520,000",
-      "clientsLabel": "Active Clients",
-      "multiplier": "2.5x",
-      "multiplierLabel": "Keynesian Multiplier",
       "price": "£2.50",
-      "priceLabel": "Per Month"
+      "priceLabel": "Per Month",
+      "stage": "Pre-seed",
+      "stageLabel": "Current Stage",
+      "mission": "Financial Inclusion",
+      "missionLabel": "Our Mission"
     }
   },
   "mission": {
@@ -108,7 +106,7 @@
   "impact": {
     "title": "Impact",
     "headline": "The Keynesian Multiplier in Action",
-    "description": "Every pound that circulates locally generates 2.5x its value in economic activity. COLHYBRI channels spending into local commerce, creating jobs and strengthening communities.",
+    "description": "Every pound that circulates locally multiplies its value in economic activity. COLHYBRI channels spending into local commerce, creating jobs and strengthening communities.",
     "metrics": {
       "localValue": {
         "value": "£6.25",
@@ -162,7 +160,7 @@
   "ecosystem": {
     "title": "Ecosystem",
     "headline": "The COLHYBRI Ecosystem",
-    "description": "COLHYBRI is part of the ONLYMORE Group, a proven technology company with $12.5M+ in annual recurring revenue and 520,000 active clients. Our ecosystem connects individuals, local shops, and local authorities.",
+    "description": "COLHYBRI is part of the ONLYMORE Group, a technology company dedicated to financial inclusion through local commerce. Our ecosystem connects individuals, local shops, and local authorities.",
     "pillars": {
       "individuals": {
         "title": "Individuals",
@@ -174,28 +172,25 @@
       },
       "cities": {
         "title": "Cities & Governments",
-        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+        "description": "Strengthen your local economy through the Keynesian multiplier effect."
       }
     },
     "onlymore": {
       "title": "ONLYMORE Group",
-      "subtitle": "A Proven Ecosystem",
-      "arr": "Annual Recurring Revenue",
-      "clients": "Active Clients",
-      "multiplier": "Keynesian Multiplier"
+      "subtitle": "Pre-seed Stage"
     }
   },
   "investors": {
     "title": "Investors",
     "headline": "Invest in Financial Inclusion",
-    "description": "COLHYBRI combines proven unit economics ($12.5M+ ARR across ONLYMORE Group) with massive social impact. We're seeking partners who share our vision of financial inclusion through local commerce."
+    "description": "COLHYBRI combines a proven business model with massive social impact. We're seeking partners who share our vision of financial inclusion through local commerce."
   },
   "faq": {
     "title": "Frequently Asked Questions",
     "questions": [
       {
         "q": "What is COLHYBRI?",
-        "a": "COLHYBRI is a financial inclusion platform that connects financially excluded individuals with local shops through a £2.50/month subscription. It creates a community-powered financial ecosystem where money circulates locally, generating 2.5x economic value through the Keynesian multiplier effect."
+        "a": "COLHYBRI is a financial inclusion platform that connects financially excluded individuals with local shops through a £2.50/month subscription. It creates a community-powered financial ecosystem where money circulates locally, strengthening local economies through the Keynesian multiplier effect."
       },
       {
         "q": "How much does COLHYBRI cost?",
@@ -211,7 +206,7 @@
       },
       {
         "q": "Who is behind COLHYBRI?",
-        "a": "COLHYBRI is created by ONLYMORE Group, led by founder and CEO Florent Gibert. ONLYMORE Group has $12.5M+ in annual recurring revenue and serves 520,000 active clients."
+        "a": "COLHYBRI is created by ONLYMORE Group, led by founder and CEO Florent Gibert."
       },
       {
         "q": "What is the Keynesian multiplier effect?",
@@ -230,7 +225,7 @@
     "tagline": "Financial Inclusion Through Local Commerce",
     "quote": "\"I am doing my part.\" — Native American Legend (The Hummingbird)",
     "group": "Part of ONLYMORE Group",
-    "copyright": "\u00a9 2026 COLHYBRI. All rights reserved.",
+    "copyright": "© 2026 COLHYBRI. All rights reserved.",
     "links": {
       "about": "About",
       "privacy": "Privacy Policy",

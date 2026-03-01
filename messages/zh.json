@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — 通过本地商业实现金融普惠",
-    "description": "COLHYBRI 通过每月¥20的订阅服务，将金融服务不足的个人与本地商店连接起来，打造社区驱动的金融生态系统。隶属于 ONLYMORE Group（9000万元+ 年经常性收入，520,000 客户）。"
+    "description": "COLHYBRI 通过每月¥20的订阅服务，将金融服务不足的个人与本地商店连接起来，打造社区驱动的金融生态系统。隶属于 ONLYMORE Group。"
   },
   "nav": {
     "home": "首页",
@@ -21,25 +21,23 @@
   },
   "hero": {
     "tagline": "通过本地商业实现金融普惠",
-    "headline": "您在本地消费的每一元，将创造¥2.50的社区价值",
+    "headline": "您在本地的每一次消费，都在增强社区的力量",
     "subheadline": "COLHYBRI 通过简单的每月¥20订阅服务，将金融服务不足的个人与社区商店连接起来。我们携手从基层构建金融普惠。",
     "cta": "加入我们",
     "ctaSecondary": "了解运作方式",
     "stats": {
-      "arr": "9000万元+",
-      "arrLabel": "年经常性收入",
-      "clients": "520,000",
-      "clientsLabel": "活跃客户",
-      "multiplier": "2.5x",
-      "multiplierLabel": "凯恩斯乘数",
       "price": "¥20",
-      "priceLabel": "每月"
+      "priceLabel": "每月",
+      "stage": "Pre-seed",
+      "stageLabel": "当前阶段",
+      "mission": "金融普惠",
+      "missionLabel": "我们的使命"
     }
   },
   "mission": {
     "title": "我们的使命",
     "headline": "尽自己的一份力 — 如蜂鸟一般",
-    "description": "在一个美洲原住民传说中，当森林燃烧时，蜂鸟一滴一滴地衔水灭火。当被问及为什么时，它回答道：\u201C我在尽自己的一份力。\u201D COLHYBRI 秉承这一精神 — 众人的微小行动汇聚成巨大的集体影响力。",
+    "description": "在一个美洲原住民传说中，当森林燃烧时，蜂鸟一滴一滴地衔水灭火。当被问及为什么时，它回答道：“我在尽自己的一份力。” COLHYBRI 秉承这一精神 — 众人的微小行动汇聚成巨大的集体影响力。",
     "pillars": {
       "inclusion": {
         "title": "金融普惠",
@@ -108,7 +106,7 @@
   "impact": {
     "title": "影响力",
     "headline": "凯恩斯乘数的实际效应",
-    "description": "在本地流通的每一元可产生2.5倍的经济活动价值。COLHYBRI 将消费引导至本地商业，创造就业机会并增强社区实力。",
+    "description": "在本地流通的每一元可产生的经济活动价值。COLHYBRI 将消费引导至本地商业，创造就业机会并增强社区实力。",
     "metrics": {
       "localValue": {
         "value": "¥50",
@@ -162,7 +160,7 @@
   "ecosystem": {
     "title": "生态系统",
     "headline": "COLHYBRI 生态系统",
-    "description": "COLHYBRI 隶属于 ONLYMORE Group，这是一家经过验证的科技公司，拥有9000万元+的年经常性收入和520,000名活跃客户。我们的生态系统连接个人、本地商店和城市政府。",
+    "description": "COLHYBRI 隶属于 ONLYMORE Group，这是一家经过验证的科技公司，拥有的年经常性收入和名活跃客户。我们的生态系统连接个人、本地商店和城市政府。",
     "pillars": {
       "individuals": {
         "title": "个人用户",
@@ -174,28 +172,25 @@
       },
       "cities": {
         "title": "城市与政府",
-        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+        "description": "Strengthen your local economy through the Keynesian multiplier effect."
       }
     },
     "onlymore": {
       "title": "ONLYMORE集团",
-      "subtitle": "经过验证的生态系统",
-      "arr": "年度经常性收入",
-      "clients": "活跃客户",
-      "multiplier": "凯恩斯乘数"
+      "subtitle": "Pre-seed 阶段"
     }
   },
   "investors": {
     "title": "投资者",
     "headline": "投资金融普惠事业",
-    "description": "COLHYBRI 将经过验证的单位经济模型（ONLYMORE Group 9000万元+ 年经常性收入）与巨大的社会影响力相结合。我们正在寻找与我们共享通过本地商业实现金融普惠愿景的合作伙伴。"
+    "description": "COLHYBRI 将经过验证的单位经济模型（ONLYMORE Group  年经常性收入）与巨大的社会影响力相结合。我们正在寻找与我们共享通过本地商业实现金融普惠愿景的合作伙伴。"
   },
   "faq": {
     "title": "常见问题",
     "questions": [
       {
         "q": "什么是 COLHYBRI？",
-        "a": "COLHYBRI 是一个金融普惠平台，通过每月¥20的订阅服务将金融服务不足的个人与本地商店连接起来。它创建了一个社区驱动的金融生态系统，让资金在本地循环流通，通过凯恩斯乘数效应产生2.5倍的经济价值。"
+        "a": "COLHYBRI 是一个金融普惠平台，通过每月¥20的订阅服务将金融服务不足的个人与本地商店连接起来。它创建了一个社区驱动的金融生态系统，让资金在本地循环流通，通过凯恩斯乘数效应产生的经济价值。"
       },
       {
         "q": "COLHYBRI 费用是多少？",
@@ -211,7 +206,7 @@
       },
       {
         "q": "COLHYBRI 背后是谁？",
-        "a": "COLHYBRI 由 ONLYMORE Group 创建，由创始人兼首席执行官 Florent Gibert 领导。ONLYMORE Group 拥有9000万元+的年经常性收入，服务520,000名活跃客户。"
+        "a": "COLHYBRI 由 ONLYMORE Group 创建，由创始人兼首席执行官 Florent Gibert 领导。ONLYMORE Group 拥有的年经常性收入，服务名活跃客户。"
       },
       {
         "q": "什么是凯恩斯乘数效应？",
@@ -228,7 +223,7 @@
   },
   "footer": {
     "tagline": "通过本地商业实现金融普惠",
-    "quote": "\u201C我在尽自己的一份力。\u201D — 美洲原住民传说（蜂鸟）",
+    "quote": "“我在尽自己的一份力。” — 美洲原住民传说（蜂鸟）",
     "group": "隶属于 ONLYMORE Group",
     "copyright": "© 2026 COLHYBRI. 保留所有权利。",
     "links": {

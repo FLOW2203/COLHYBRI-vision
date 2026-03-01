@@ -15,15 +15,29 @@
   },
   "ceo": "Florent Gibert",
   "founded": "2024",
-  "arr": "$12.5M+",
-  "clients": 520000,
   "model": "subscription",
-  "pricing": {"individuals": "$3/month", "shops": "$10/month"},
+  "pricing": {
+    "individuals": "$3/month",
+    "shops": "$10/month"
+  },
   "launch": "Miami, Florida, USA & France, H1 2026",
-  "languages": ["en", "en-gb", "fr", "es", "pt", "de", "it", "zh", "ja", "hi", "pl"],
+  "languages": [
+    "en",
+    "en-gb",
+    "fr",
+    "es",
+    "pt",
+    "de",
+    "it",
+    "zh",
+    "ja",
+    "hi",
+    "pl"
+  ],
   "domain": "colhybri.vision",
   "crawl_allowed": true,
   "llms_txt": "https://colhybri.vision/llms.txt",
   "sitemap": "https://colhybri.vision/sitemap.xml",
-  "contact": "onlymore2024@gmail.com"
+  "contact": "onlymore2024@gmail.com",
+  "stage": "pre-seed"
 }

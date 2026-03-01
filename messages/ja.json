@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — 地域商業を通じた金融包摂",
-    "description": "COLHYBRIは、月額¥450のサブスクリプションを通じて、銀行サービスを十分に受けられない人々と地元の店舗をつなぎ、コミュニティ主導の金融エコシステムを構築します。ONLYMORE Groupの一員（19億円+以上のARR、520,000のクライアント）。"
+    "description": "COLHYBRIは、月額¥450のサブスクリプションを通じて、銀行サービスを十分に受けられない人々と地元の店舗をつなぎ、コミュニティ主導の金融エコシステムを構築します。ONLYMORE Groupの一員。"
   },
   "nav": {
     "home": "ホーム",
@@ -21,19 +21,17 @@
   },
   "hero": {
     "tagline": "地域商業を通じた金融包摂",
-    "headline": "地域で使う1円が、コミュニティに2.50円の価値を生み出します",
+    "headline": "地域で使う一円一円が、コミュニティを強くします",
     "subheadline": "COLHYBRIは、月額わずか¥450のサブスクリプションで、銀行サービスを十分に受けられない人々と地元の店舗をつなぎます。共に、草の根から金融包摂を築いていきましょう。",
     "cta": "ムーブメントに参加する",
     "ctaSecondary": "仕組みを見る",
     "stats": {
-      "arr": "19億円+",
-      "arrLabel": "年間経常収益",
-      "clients": "520,000",
-      "clientsLabel": "アクティブクライアント数",
-      "multiplier": "2.5x",
-      "multiplierLabel": "ケインズ乗数",
       "price": "¥450",
-      "priceLabel": "月額"
+      "priceLabel": "月額",
+      "stage": "Pre-seed",
+      "stageLabel": "現在のステージ",
+      "mission": "金融包摂",
+      "missionLabel": "私たちの使命"
     }
   },
   "mission": {
@@ -108,7 +106,7 @@
   "impact": {
     "title": "インパクト",
     "headline": "ケインズ乗数の実践",
-    "description": "地域で循環する1円は、経済活動において2.5倍の価値を生み出します。COLHYBRIは消費を地域商業に導き、雇用を創出し、コミュニティを強化します。",
+    "description": "地域で循環する1円は、経済活動においての価値を生み出します。COLHYBRIは消費を地域商業に導き、雇用を創出し、コミュニティを強化します。",
     "metrics": {
       "localValue": {
         "value": "¥1,125",
@@ -162,7 +160,7 @@
   "ecosystem": {
     "title": "エコシステム",
     "headline": "COLHYBRIエコシステム",
-    "description": "COLHYBRIは、年間経常収益19億円+以上、520,000のアクティブクライアントを持つ実績あるテクノロジー企業、ONLYMORE Groupの一員です。私たちのエコシステムは、個人、地元店舗、自治体をつなぎます。",
+    "description": "COLHYBRIは、年間経常収益以上、のアクティブクライアントを持つ実績あるテクノロジー企業、ONLYMORE Groupの一員です。私たちのエコシステムは、個人、地元店舗、自治体をつなぎます。",
     "pillars": {
       "individuals": {
         "title": "個人ユーザー",
@@ -174,28 +172,25 @@
       },
       "cities": {
         "title": "都市・自治体",
-        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+        "description": "Strengthen your local economy through the Keynesian multiplier effect."
       }
     },
     "onlymore": {
       "title": "ONLYMOREグループ",
-      "subtitle": "実証されたエコシステム",
-      "arr": "年間経常収益",
-      "clients": "アクティブクライアント",
-      "multiplier": "ケインズ乗数"
+      "subtitle": "Pre-seed ステージ"
     }
   },
   "investors": {
     "title": "投資家",
     "headline": "金融包摂に投資する",
-    "description": "COLHYBRIは、実証済みのユニットエコノミクス（ONLYMORE Group全体で19億円+以上のARR）と大きな社会的インパクトを兼ね備えています。地域商業を通じた金融包摂のビジョンを共有するパートナーを求めています。"
+    "description": "COLHYBRIは、実証済みのユニットエコノミクス（ONLYMORE Group全体でARR）と大きな社会的インパクトを兼ね備えています。地域商業を通じた金融包摂のビジョンを共有するパートナーを求めています。"
   },
   "faq": {
     "title": "よくある質問",
     "questions": [
       {
         "q": "COLHYBRIとは何ですか？",
-        "a": "COLHYBRIは、月額¥450のサブスクリプションを通じて、銀行サービスを十分に受けられない人々と地元の店舗をつなぐ金融包摂プラットフォームです。お金が地域内で循環するコミュニティ主導の金融エコシステムを構築し、ケインズ乗数効果により2.5倍の経済的価値を生み出します。"
+        "a": "COLHYBRIは、月額¥450のサブスクリプションを通じて、銀行サービスを十分に受けられない人々と地元の店舗をつなぐ金融包摂プラットフォームです。お金が地域内で循環するコミュニティ主導の金融エコシステムを構築し、ケインズ乗数効果によりの経済的価値を生み出します。"
       },
       {
         "q": "COLHYBRIの料金はいくらですか？",
@@ -211,7 +206,7 @@
       },
       {
         "q": "COLHYBRIの運営者は誰ですか？",
-        "a": "COLHYBRIは、創業者兼CEOのFlorent Gibertが率いるONLYMORE Groupによって作られました。ONLYMORE Groupは19億円+以上の年間経常収益を持ち、520,000のアクティブクライアントにサービスを提供しています。"
+        "a": "COLHYBRIは、創業者兼CEOのFlorent Gibertが率いるONLYMORE Groupによって作られました。ONLYMORE Groupは年間経常収益を持ち、のアクティブクライアントにサービスを提供しています。"
       },
       {
         "q": "ケインズ乗数効果とは何ですか？",

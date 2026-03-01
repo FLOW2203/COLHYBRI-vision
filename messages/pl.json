@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — Inkluzja finansowa poprzez lokalny handel",
-    "description": "COLHYBRI łączy osoby wykluczone finansowo z lokalnymi sklepami poprzez subskrypcję za 13zł/miesiąc, tworząc społecznościowy ekosystem finansowy. Część grupy ONLYMORE (54M zł+ ARR, 520 000 klientów)."
+    "description": "COLHYBRI łączy osoby wykluczone finansowo z lokalnymi sklepami poprzez subskrypcję za 13zł/miesiąc, tworząc społecznościowy ekosystem finansowy. Część grupy ONLYMORE."
   },
   "nav": {
     "home": "Strona główna",
@@ -21,19 +21,17 @@
   },
   "hero": {
     "tagline": "Inkluzja finansowa poprzez lokalny handel",
-    "headline": "Każda złotówka wydana lokalnie tworzy 2,50zł wartości dla społeczności",
+    "headline": "Każda złotówka wydana lokalnie wzmacnia Twoją społeczność",
     "subheadline": "COLHYBRI łączy osoby wykluczone finansowo z lokalnymi sklepami poprzez prostą subskrypcję za 13zł/miesiąc. Razem budujemy inkluzję finansową od podstaw.",
     "cta": "Dołącz do ruchu",
     "ctaSecondary": "Zobacz, jak to działa",
     "stats": {
-      "arr": "54M zł+",
-      "arrLabel": "Roczny przychód powtarzalny",
-      "clients": "520 000",
-      "clientsLabel": "Aktywni klienci",
-      "multiplier": "2,5x",
-      "multiplierLabel": "Mnożnik keynesowski",
       "price": "13zł",
-      "priceLabel": "Miesięcznie"
+      "priceLabel": "Miesięcznie",
+      "stage": "Pre-seed",
+      "stageLabel": "Obecna faza",
+      "mission": "Inkluzja finansowa",
+      "missionLabel": "Nasza misja"
     }
   },
   "mission": {
@@ -162,7 +160,7 @@
   "ecosystem": {
     "title": "Ekosystem",
     "headline": "Ekosystem COLHYBRI",
-    "description": "COLHYBRI jest częścią grupy ONLYMORE, sprawdzonej firmy technologicznej z ponad 54M zł rocznego przychodu powtarzalnego i 520 000 aktywnych klientów. Nasz ekosystem łączy osoby prywatne, lokalne sklepy i samorządy miejskie.",
+    "description": "COLHYBRI jest częścią grupy ONLYMORE, sprawdzonej firmy technologicznej z ponad 54M zł rocznego przychodu powtarzalnego i  aktywnych klientów. Nasz ekosystem łączy osoby prywatne, lokalne sklepy i samorządy miejskie.",
     "pillars": {
       "individuals": {
         "title": "Osoby prywatne",
@@ -174,15 +172,12 @@
       },
       "cities": {
         "title": "Miasta i samorzady",
-        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+        "description": "Strengthen your local economy through the Keynesian multiplier effect."
       }
     },
     "onlymore": {
       "title": "Grupa ONLYMORE",
-      "subtitle": "Sprawdzony ekosystem",
-      "arr": "Roczne przychody cykliczne",
-      "clients": "Aktywni klienci",
-      "multiplier": "Mnoznik keynesowski"
+      "subtitle": "Faza pre-seed"
     }
   },
   "investors": {
@@ -211,7 +206,7 @@
       },
       {
         "q": "Kto stoi za COLHYBRI?",
-        "a": "COLHYBRI zostało stworzone przez grupę ONLYMORE, kierowaną przez założyciela i CEO Florent Gibert. Grupa ONLYMORE osiąga ponad 54M zł rocznego przychodu powtarzalnego i obsługuje 520 000 aktywnych klientów."
+        "a": "COLHYBRI zostało stworzone przez grupę ONLYMORE, kierowaną przez założyciela i CEO Florent Gibert. Grupa ONLYMORE osiąga ponad 54M zł rocznego przychodu powtarzalnego i obsługuje  aktywnych klientów."
       },
       {
         "q": "Czym jest efekt mnożnika keynesowskiego?",

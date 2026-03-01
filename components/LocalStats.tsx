@@ -116,7 +116,7 @@ export function LocalStats({ locale }: LocalStatsProps) {
                 <span>&times;</span>
                 <span className="bg-white/10 px-3 py-1 rounded-full">{country.price}</span>
                 <span>&times;</span>
-                <span className="bg-colhybri-primary/30 px-3 py-1 rounded-full">2.5x</span>
+                <span className="bg-colhybri-primary/30 px-3 py-1 rounded-full">×K</span>
                 <span>=</span>
                 <span className="bg-colhybri-primary text-white font-bold px-4 py-1 rounded-full text-lg">
                   {impact}

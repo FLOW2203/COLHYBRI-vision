@@ -39,7 +39,7 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
     about: {
       '@type': 'Thing',
       name: 'Keynesian Multiplier Effect',
-      description: 'Every dollar spent locally generates 2.5x its value in economic activity.',
+      description: 'Every dollar spent locally multiplies its value in economic activity through the Keynesian multiplier effect.',
     },
     isPartOf: {
       '@type': 'WebSite',
@@ -120,7 +120,7 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
                   <path d="M5 12h14" />
                   <path d="M12 5l7 7-7 7" />
                 </svg>
-                <span className="text-colhybri-primary font-bold text-lg">2.5x</span>
+                <span className="text-colhybri-primary font-bold text-lg">Multiplier</span>
               </div>
               <div className="text-center">
                 <div className="w-16 h-16 rounded-full bg-colhybri-secondary/10 flex items-center justify-center mx-auto mb-4">

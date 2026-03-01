@@ -18,7 +18,7 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
     title: t('title'),
     description: t('description'),
     semanticPrimary: 'COLHYBRI investors financial inclusion social impact',
-    semanticSecondary: 'unit economics, ARR, Keynesian multiplier, ONLYMORE Group, Series A',
+    semanticSecondary: 'pre-seed, Keynesian multiplier, ONLYMORE Group, financial inclusion investment',
     chunkType: 'landing',
     audience: 'investors',
   });
@@ -65,32 +65,32 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
         </div>
       </section>
 
-      {/* Key Metrics */}
+      {/* Pre-seed Stage */}
       <section className="bg-gradient-to-br from-colhybri-dark to-colhybri-dark/95 text-white">
         <div className="section-container">
           <div className="grid sm:grid-cols-3 gap-8 max-w-4xl mx-auto">
             <div className="card bg-white/5 border border-white/10 text-center">
               <div className="text-4xl sm:text-5xl font-extrabold text-colhybri-primary mb-3">
-                $12.5M+
+                Pre-seed
               </div>
               <p className="text-white/60">
-                {locale === 'fr' ? 'Revenus récurrents annuels (Groupe ONLYMORE)' : 'Annual Recurring Revenue (ONLYMORE Group)'}
+                {locale === 'fr' ? 'Phase actuelle' : 'Current Stage'}
               </p>
             </div>
             <div className="card bg-white/5 border border-white/10 text-center">
               <div className="text-4xl sm:text-5xl font-extrabold text-colhybri-secondary mb-3">
-                520K
+                $3
               </div>
               <p className="text-white/60">
-                {locale === 'fr' ? 'Clients actifs' : 'Active Clients'}
+                {locale === 'fr' ? 'Abonnement individuel / mois' : 'Individual Subscription / month'}
               </p>
             </div>
             <div className="card bg-white/5 border border-white/10 text-center">
               <div className="text-4xl sm:text-5xl font-extrabold text-colhybri-primary mb-3">
-                2.5x
+                63M
               </div>
               <p className="text-white/60">
-                {locale === 'fr' ? 'Multiplicateur keynésien local' : 'Local Keynesian Multiplier'}
+                {locale === 'fr' ? 'Américains sous-bancarisés (marché cible)' : 'Underbanked Americans (target market)'}
               </p>
             </div>
           </div>
@@ -119,8 +119,8 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
                   </h3>
                   <p className="text-colhybri-dark/60 text-sm">
                     {locale === 'fr'
-                      ? '$12.5M+ ARR via ONLYMORE Group, modèle SaaS à faible churn.'
-                      : '$12.5M+ ARR via ONLYMORE Group, low-churn SaaS model.'}
+                      ? 'Modèle SaaS éprouvé par le groupe ONLYMORE, à faible churn.'
+                      : 'SaaS model proven by ONLYMORE Group, low-churn subscription.'}
                   </p>
                 </div>
               </div>
