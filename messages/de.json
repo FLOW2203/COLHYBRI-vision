@@ -1,8 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — Finanzielle Inklusion durch lokalen Handel",
-    "description": "COLHYBRI verbindet unterversorgte Personen mit lokalen Geschäften durch ein 3€/Monat-Abonnement und schafft ein gemeinschaftsgetriebenes Finanzökosystem. Teil der ONLYMORE Group (12,5M€+ ARR, 520.000 Kunden)."
-  },
+    "description": "COLHYBRI verbindet unterversorgte Personen mit lokalen Geschäften durch ein 3€/Monat-Abonnement und schafft ein gemeinschaftsgetriebenes Finanzökosystem. Teil der ONLYMORE Group
   "nav": {
     "home": "Startseite",
     "mission": "Mission",
@@ -25,10 +24,9 @@
     "subheadline": "COLHYBRI verbindet unterversorgte Personen mit Geschäften in der Nachbarschaft durch ein einfaches 3€/Monat-Abonnement. Gemeinsam bauen wir finanzielle Inklusion von Grund auf.",
     "cta": "Werden Sie Teil der Bewegung",
     "ctaSecondary": "So funktioniert's",
-    "stats": {
-      "arr": "12,5M€+",
+    
       "arrLabel": "Jährlich wiederkehrender Umsatz",
-      "clients": "520.000",
+      
       "clientsLabel": "Aktive Kunden",
       "multiplier": "2.5x",
       "multiplierLabel": "Keynesianischer Multiplikator",
@@ -162,7 +160,7 @@
   "ecosystem": {
     "title": "Ökosystem",
     "headline": "Das COLHYBRI-Ökosystem",
-    "description": "COLHYBRI ist Teil der ONLYMORE Group, einem bewährten Technologieunternehmen mit 12,5M€+ an jährlich wiederkehrendem Umsatz und 520.000 aktiven Kunden. Unser Ökosystem verbindet Privatpersonen, lokale Geschäfte und Stadtverwaltungen.",
+    "description": "COLHYBRI ist Teil der ONLYMORE Group, einem bewährten Technologieunternehmen mi Unser Ökosystem verbindet Privatpersonen, lokale Geschäfte und Stadtverwaltungen.",
     "pillars": {
       "individuals": {
         "title": "Privatpersonen",
@@ -188,7 +186,7 @@
   "investors": {
     "title": "Investoren",
     "headline": "Investieren Sie in finanzielle Inklusion",
-    "description": "COLHYBRI kombiniert bewährte Einheitsökonomie (12,5M€+ ARR über die ONLYMORE Group) mit massiver sozialer Wirkung. Wir suchen Partner, die unsere Vision der finanziellen Inklusion durch lokalen Handel teilen."
+    "description": "COLHYBRI kombiniert bewährte Einheitsökonomie  mit massiver sozialer Wirkung. Wir suchen Partner, die unsere Vision der finanziellen Inklusion durch lokalen Handel teilen."
   },
   "faq": {
     "title": "Häufig gestellte Fragen",
@@ -211,7 +209,7 @@
       },
       {
         "q": "Wer steht hinter COLHYBRI?",
-        "a": "COLHYBRI wurde von der ONLYMORE Group gegründet, geleitet von Gründer und CEO Florent Gibert. Die ONLYMORE Group hat 12,5M€+ an jährlich wiederkehrendem Umsatz und betreut 520.000 aktive Kunden."
+        "a": "COLHYBRI wurde von der ONLYMORE Group gegründet, geleitet von Gründer und CEO Florent Gibert. Die ONLYMORE Group 
       },
       {
         "q": "Was ist der keynesianische Multiplikatoreffekt?",
