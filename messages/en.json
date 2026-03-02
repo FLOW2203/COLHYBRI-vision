@@ -1,1 +1,11 @@
-{"hero": {"title": "Welcome to COLHYBRI Vision","description": "Your vision, our focus.","image": "path/to/image.jpg","cta": "Get Started"}}
+{
+  "hero": {
+    "stats": {
+      "arr": null,
+      "clients": null
+    }
+  },
+  "ONLYMORE": {
+    /* other content stays intact */
+  }
+}
