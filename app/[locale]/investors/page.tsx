@@ -37,7 +37,7 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
     about: {
       '@type': 'Thing',
       name: 'Financial Inclusion Investment',
-      description: 'Investment opportunity combining proven unit economics with massive social impact.',
+      description: 'Pre-seed investment opportunity combining social impact with financial inclusion.',
     },
     isPartOf: {
       '@type': 'WebSite',
@@ -79,18 +79,18 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
             </div>
             <div className="card bg-white/5 border border-white/10 text-center">
               <div className="text-4xl sm:text-5xl font-extrabold text-colhybri-secondary mb-3">
-                $3
+                Affordable
               </div>
               <p className="text-white/60">
-                {locale === 'fr' ? 'Abonnement individuel / mois' : 'Individual Subscription / month'}
+                {locale === 'fr' ? 'Abonnement accessible pour tous' : 'Subscription accessible to all'}
               </p>
             </div>
             <div className="card bg-white/5 border border-white/10 text-center">
               <div className="text-4xl sm:text-5xl font-extrabold text-colhybri-primary mb-3">
-                63M
+                Millions
               </div>
               <p className="text-white/60">
-                {locale === 'fr' ? 'Américains sous-bancarisés (marché cible)' : 'Underbanked Americans (target market)'}
+                {locale === 'fr' ? 'De personnes sous-bancarisées (marché cible)' : 'Of underbanked individuals (target market)'}
               </p>
             </div>
           </div>
@@ -136,8 +136,8 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
                   </h3>
                   <p className="text-colhybri-dark/60 text-sm">
                     {locale === 'fr'
-                      ? '63M d\'Américains sous-bancarisés. Marché mondial de 1,4 milliard d\'adultes.'
-                      : '63M underbanked Americans. Global market of 1.4B adults.'}
+                      ? 'Des millions de personnes sous-bancarisées. Un marché mondial massif.'
+                      : 'Millions of underbanked individuals. A massive global market.'}
                   </p>
                 </div>
               </div>
@@ -153,8 +153,8 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
                   </h3>
                   <p className="text-colhybri-dark/60 text-sm">
                     {locale === 'fr'
-                      ? 'Premier marché cible : Miami-Dade County, 2,7M d\'habitants.'
-                      : 'First target market: Miami-Dade County, 2.7M population.'}
+                      ? 'Premier marché cible : Miami-Dade County, une communauté diverse.'
+                      : 'First target market: Miami-Dade County, a diverse community.'}
                   </p>
                 </div>
               </div>
@@ -170,8 +170,8 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
                   </h3>
                   <p className="text-colhybri-dark/60 text-sm">
                     {locale === 'fr'
-                      ? 'Chaque $3 d\'abonnement génère $7.50 de valeur économique locale.'
-                      : 'Every $3 subscription generates $7.50 in local economic value.'}
+                      ? 'Chaque abonnement génère une valeur économique locale multipliée.'
+                      : 'Every subscription generates multiplied local economic value.'}
                   </p>
                 </div>
               </div>

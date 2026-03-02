@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — Financial Inclusion Through Local Commerce",
-    "description": "COLHYBRI connects underbanked individuals with local shops through a $3/month subscription, creating a community-powered financial ecosystem."
+    "description": "COLHYBRI connects underbanked individuals with local shops through an affordable monthly subscription, creating a community-powered financial ecosystem."
   },
   "nav": {
     "home": "Home",
@@ -22,12 +22,12 @@
   "hero": {
     "tagline": "Financial Inclusion Through Local Commerce",
     "headline": "Every dollar you spend locally strengthens your community",
-    "subheadline": "COLHYBRI connects underbanked individuals with neighborhood shops through a simple $3/month subscription. Together, we build financial inclusion from the ground up.",
+    "subheadline": "COLHYBRI connects underbanked individuals with neighborhood shops through a simple, affordable subscription. Together, we build financial inclusion from the ground up.",
     "cta": "Join the Movement",
     "ctaSecondary": "See How It Works",
     "stats": {
-      "price": "$3",
-      "priceLabel": "Per Month",
+      "price": "\u2014",
+      "priceLabel": "Coming Soon",
       "stage": "Pre-seed",
       "stageLabel": "Current Stage",
       "mission": "Financial Inclusion",
@@ -41,7 +41,7 @@
     "pillars": {
       "inclusion": {
         "title": "Financial Inclusion",
-        "description": "63 million Americans are underbanked or unbanked. COLHYBRI provides affordable access to essential financial services for just $3/month — no credit check, no minimum balance."
+        "description": "Millions of Americans are underbanked or unbanked. COLHYBRI provides affordable access to essential financial services — no credit check, no minimum balance."
       },
       "commerce": {
         "title": "Local Commerce",
@@ -59,15 +59,15 @@
     "steps": {
       "subscribe": {
         "title": "Subscribe",
-        "description": "Individuals join for $3/month. No credit check, no bank account needed. Instant access to the COLHYBRI community financial network."
+        "description": "Individuals join for an affordable monthly fee. No credit check, no bank account needed. Instant access to the COLHYBRI community financial network."
       },
       "connect": {
         "title": "Connect Locally",
-        "description": "Shops join for $10/month and become community financial hubs. They offer COLHYBRI services alongside their existing business."
+        "description": "Shops join and become community financial hubs. They offer COLHYBRI services alongside their existing business."
       },
       "thrive": {
         "title": "Thrive Together",
-        "description": "Every transaction multiplies. The Keynesian multiplier turns each $3 subscription into $7.50 in local economic value."
+        "description": "Every transaction strengthens the local economy. Money circulating locally multiplies its impact through the Keynesian multiplier effect."
       }
     }
   },
@@ -76,7 +76,7 @@
     "headline": "Affordable for Everyone",
     "individuals": {
       "title": "For Individuals",
-      "price": "$3",
+      "price": "\u2014",
       "period": "/month",
       "features": [
         "Access to local financial network",
@@ -90,7 +90,7 @@
     },
     "shops": {
       "title": "For Local Shops",
-      "price": "$10",
+      "price": "\u2014",
       "period": "/month",
       "features": [
         "Become a community financial hub",
@@ -109,16 +109,16 @@
     "description": "Every dollar that circulates locally multiplies its value in economic activity. COLHYBRI channels spending into local commerce, creating jobs and strengthening communities.",
     "metrics": {
       "localValue": {
-        "value": "$7.50",
-        "label": "Generated from every $3 subscription"
+        "value": "\u00d72.5",
+        "label": "Estimated local value multiplier"
       },
       "jobsCreated": {
         "value": "1 job",
         "label": "Per 200 active subscribers in a neighborhood"
       },
       "moneyLocal": {
-        "value": "68%",
-        "label": "Of spending stays in the community"
+        "value": "Significant",
+        "label": "Portion of spending stays local"
       }
     }
   },
@@ -129,22 +129,22 @@
     "whyMiami": {
       "title": "Why Miami?",
       "reasons": [
-        "30%+ of Miami-Dade residents are underbanked or unbanked",
-        "70% Hispanic/Latino population — the community COLHYBRI was built for",
-        "Thriving small business ecosystem with 300,000+ local shops",
+        "A large portion of Miami-Dade residents are underbanked or unbanked",
+        "Large Hispanic/Latino population — the community COLHYBRI was built for",
+        "Thriving small business ecosystem with thousands of local shops",
         "America's gateway to Latin America — natural expansion path"
       ]
     }
   },
   "forIndividuals": {
     "title": "For Individuals",
-    "headline": "Financial Freedom Starts at $3/Month",
-    "description": "No bank account? No problem. COLHYBRI gives you access to essential financial services through your neighborhood shops. Save, spend, and build your financial future — all for $3/month."
+    "headline": "Financial Freedom Starts Here",
+    "description": "No bank account? No problem. COLHYBRI gives you access to essential financial services through your neighborhood shops. Save, spend, and build your financial future — all for an affordable monthly fee."
   },
   "forShops": {
     "title": "For Local Shops",
     "headline": "Your Shop, Your Community's Financial Hub",
-    "description": "Join COLHYBRI for $10/month and transform your business into a community financial center. Increase foot traffic, build customer loyalty, and make a real difference in your neighborhood."
+    "description": "Join COLHYBRI and transform your business into a community financial center. Increase foot traffic, build customer loyalty, and make a real difference in your neighborhood."
   },
   "forCities": {
     "title": "For Cities",
@@ -164,7 +164,7 @@
     "pillars": {
       "individuals": {
         "title": "Individuals",
-        "description": "Access essential financial services for $3/month through your neighborhood shops."
+        "description": "Access essential financial services through your neighborhood shops."
       },
       "shops": {
         "title": "Local Shops",
@@ -190,11 +190,11 @@
     "questions": [
       {
         "q": "What is COLHYBRI?",
-        "a": "COLHYBRI is a financial inclusion platform that connects underbanked individuals with local shops through a $3/month subscription. It creates a community-powered financial ecosystem where money circulates locally, strengthening local economies through the Keynesian multiplier effect."
+        "a": "COLHYBRI is a financial inclusion platform that connects underbanked individuals with local shops through an affordable subscription. It creates a community-powered financial ecosystem where money circulates locally, strengthening local economies through the Keynesian multiplier effect."
       },
       {
         "q": "How much does COLHYBRI cost?",
-        "a": "COLHYBRI costs $3/month for individuals and $10/month for local shops. There are no hidden fees, no credit checks, and no minimum balance requirements."
+        "a": "Pricing will be announced soon. COLHYBRI is designed to be affordable for individuals and local shops. There will be no hidden fees, no credit checks, and no minimum balance requirements."
       },
       {
         "q": "Do I need a bank account to use COLHYBRI?",
@@ -210,7 +210,7 @@
       },
       {
         "q": "What is the Keynesian multiplier effect?",
-        "a": "The Keynesian multiplier describes how money spent locally generates additional economic activity. With COLHYBRI, every $3 subscription creates approximately $7.50 in local economic value as money circulates through the community."
+        "a": "The Keynesian multiplier describes how money spent locally generates additional economic activity. With COLHYBRI, every subscription creates multiplied local economic value as money circulates through the community."
       }
     ]
   },

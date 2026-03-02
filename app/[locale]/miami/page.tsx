@@ -24,10 +24,10 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
 }
 
 const stats = [
-  { value: '30%+', label: 'Miami-Dade underbanked residents' },
-  { value: '70%', label: 'Hispanic/Latino population' },
-  { value: '300,000+', label: 'Local shops in Miami-Dade' },
-  { value: '$2.5B', label: 'Potential local economic impact' },
+  { value: 'High', label: 'Underbanked population rate' },
+  { value: 'Large', label: 'Hispanic/Latino community' },
+  { value: 'Thriving', label: 'Local shop ecosystem' },
+  { value: 'Pre-seed', label: 'Current stage' },
 ];
 
 const timeline = [
@@ -107,10 +107,10 @@ export default function MiamiPage({ params: { locale } }: PageProps) {
       <section className="bg-colhybri-dark text-white" id="miami-stats">
         <div className="section-container text-center">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-4">
-            Miami by the Numbers
+            Miami — The Ideal Launchpad
           </h2>
           <p className="text-white/70 text-lg max-w-2xl mx-auto mb-12">
-            The data behind why Miami-Dade is the ideal launchpad for financial inclusion.
+            Why Miami-Dade County is the perfect place to start COLHYBRI&apos;s mission.
           </p>
 
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 max-w-5xl mx-auto">

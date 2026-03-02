@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — Finanzielle Inklusion durch lokalen Handel",
-    "description": "COLHYBRI verbindet unterversorgte Personen mit lokalen Geschäften durch ein 3€/Monat-Abonnement und schafft ein gemeinschaftsgetriebenes Finanzökosystem."
+    "description": "COLHYBRI verbindet unterversorgte Personen mit lokalen Geschäften durch ein erschwingliches monatliches Abonnement und schafft ein gemeinschaftsgetriebenes Finanzökosystem."
   },
   "nav": {
     "home": "Startseite",
@@ -22,12 +22,12 @@
   "hero": {
     "tagline": "Finanzielle Inklusion durch lokalen Handel",
     "headline": "Jeder Euro, den Sie lokal ausgeben, stärkt Ihre Gemeinschaft",
-    "subheadline": "COLHYBRI verbindet unterversorgte Personen mit Geschäften in der Nachbarschaft durch ein einfaches 3€/Monat-Abonnement. Gemeinsam bauen wir finanzielle Inklusion von Grund auf.",
+    "subheadline": "COLHYBRI verbindet unterversorgte Personen mit Geschäften in der Nachbarschaft durch ein einfaches, erschwingliches Abonnement. Gemeinsam bauen wir finanzielle Inklusion von Grund auf.",
     "cta": "Werden Sie Teil der Bewegung",
     "ctaSecondary": "So funktioniert's",
     "stats": {
-      "price": "3€",
-      "priceLabel": "Pro Monat",
+      "price": "\u2014",
+      "priceLabel": "Bald verfügbar",
       "stage": "Pre-seed",
       "stageLabel": "Aktuelle Phase",
       "mission": "Finanzielle Inklusion",
@@ -41,7 +41,7 @@
     "pillars": {
       "inclusion": {
         "title": "Finanzielle Inklusion",
-        "description": "In Deutschland sind rund 600.000 Menschen ohne ausreichenden Zugang zu Bankdienstleistungen. COLHYBRI bietet erschwinglichen Zugang zu wesentlichen Finanzdienstleistungen für nur 3€/Monat — keine Bonitätsprüfung, kein Mindestguthaben."
+        "description": "Viele Menschen in Deutschland haben keinen ausreichenden Zugang zu Bankdienstleistungen. COLHYBRI bietet erschwinglichen Zugang zu wesentlichen Finanzdienstleistungen — keine Bonitätsprüfung, kein Mindestguthaben."
       },
       "commerce": {
         "title": "Lokaler Handel",
@@ -59,15 +59,15 @@
     "steps": {
       "subscribe": {
         "title": "Abonnieren",
-        "description": "Privatpersonen treten für 3€/Monat bei. Keine Bonitätsprüfung, kein Bankkonto erforderlich. Sofortiger Zugang zum finanziellen Gemeinschaftsnetzwerk von COLHYBRI."
+        "description": "Privatpersonen treten mit einem erschwinglichen Abonnement bei. Keine Bonitätsprüfung, kein Bankkonto erforderlich. Sofortiger Zugang zum finanziellen Gemeinschaftsnetzwerk von COLHYBRI."
       },
       "connect": {
         "title": "Lokal vernetzen",
-        "description": "Geschäfte treten für 10€/Monat bei und werden zu finanziellen Knotenpunkten der Gemeinschaft. Sie bieten COLHYBRI-Dienste neben ihrem bestehenden Geschäft an."
+        "description": "Geschäfte treten bei und werden zu finanziellen Knotenpunkten der Gemeinschaft. Sie bieten COLHYBRI-Dienste neben ihrem bestehenden Geschäft an."
       },
       "thrive": {
         "title": "Gemeinsam wachsen",
-        "description": "Jede Transaktion vervielfacht sich. Der keynesianische Multiplikator verwandelt jedes 3€-Abonnement in 7,50€ an lokalem Wirtschaftswert."
+        "description": "Jede Transaktion stärkt die lokale Wirtschaft. Geld, das lokal zirkuliert, vervielfacht seine Wirkung durch den keynesianischen Multiplikatoreffekt."
       }
     }
   },
@@ -76,7 +76,7 @@
     "headline": "Erschwinglich für alle",
     "individuals": {
       "title": "Für Privatpersonen",
-      "price": "3€",
+      "price": "\u2014",
       "period": "/Monat",
       "features": [
         "Zugang zum lokalen Finanznetzwerk",
@@ -90,7 +90,7 @@
     },
     "shops": {
       "title": "Für lokale Geschäfte",
-      "price": "10€",
+      "price": "\u2014",
       "period": "/Monat",
       "features": [
         "Werden Sie zum finanziellen Knotenpunkt der Gemeinschaft",
@@ -109,28 +109,28 @@
     "description": "Jeder Euro, der lokal zirkuliert, vervielfacht seinen Wert an Wirtschaftsaktivität. COLHYBRI lenkt Ausgaben in den lokalen Handel, schafft Arbeitsplätze und stärkt Gemeinschaften.",
     "metrics": {
       "localValue": {
-        "value": "7,50€",
-        "label": "Generiert aus jedem 3€-Abonnement"
+        "value": "\u00d72,5",
+        "label": "Geschätzter lokaler Wertmultiplikator"
       },
       "jobsCreated": {
         "value": "1 Arbeitsplatz",
         "label": "Pro 200 aktive Abonnenten in einer Nachbarschaft"
       },
       "moneyLocal": {
-        "value": "68%",
-        "label": "Der Ausgaben bleiben in der Gemeinschaft"
+        "value": "Bedeutend",
+        "label": "Anteil der Ausgaben bleibt in der Gemeinschaft"
       }
     }
   },
   "miami": {
     "title": "Deutschland-Start 2026",
     "headline": "COLHYBRI startet in Deutschland — Europas Tor zur finanziellen Inklusion",
-    "description": "In Deutschland sind rund 600.000 Menschen ohne ausreichenden Zugang zu Bankdienstleistungen. Mit seiner starken Sparkassen-Tradition und dem florierenden lokalen Einzelhandel ist Deutschland die perfekte Startrampe für die Mission von COLHYBRI in Europa.",
+    "description": "Viele Menschen in Deutschland haben keinen ausreichenden Zugang zu Bankdienstleistungen. Mit seiner starken Sparkassen-Tradition und dem florierenden lokalen Einzelhandel ist Deutschland die perfekte Startrampe für die Mission von COLHYBRI in Europa.",
     "whyMiami": {
       "title": "Warum Deutschland?",
       "reasons": [
-        "~600.000 Personen ohne ausreichenden Zugang zu Bankdienstleistungen",
-        "84 Millionen Einwohner — größte Volkswirtschaft Europas mit starker Sparkassen-Tradition",
+        "Viele Menschen ohne ausreichenden Zugang zu Bankdienstleistungen",
+        "Größte Volkswirtschaft Europas mit starker Sparkassen-Tradition",
         "Tradition von Sparkassen, Genossenschaftsbanken und lokalem Einzelhandel",
         "Herz Europas — natürlicher Knotenpunkt für die Expansion in der EU"
       ]
@@ -138,23 +138,23 @@
   },
   "forIndividuals": {
     "title": "Für Privatpersonen",
-    "headline": "Finanzielle Freiheit beginnt bei 3€/Monat",
-    "description": "Kein Bankkonto? Kein Problem. COLHYBRI gibt Ihnen Zugang zu wesentlichen Finanzdienstleistungen über Ihre Geschäfte in der Nachbarschaft. Sparen, ausgeben und Ihre finanzielle Zukunft aufbauen — alles für 3€/Monat."
+    "headline": "Finanzielle Freiheit beginnt hier",
+    "description": "Kein Bankkonto? Kein Problem. COLHYBRI gibt Ihnen Zugang zu wesentlichen Finanzdienstleistungen über Ihre Geschäfte in der Nachbarschaft. Sparen, ausgeben und Ihre finanzielle Zukunft aufbauen — alles für ein erschwingliches monatliches Abonnement."
   },
   "forShops": {
     "title": "Für lokale Geschäfte",
     "headline": "Ihr Geschäft, der finanzielle Knotenpunkt Ihrer Gemeinschaft",
-    "description": "Treten Sie COLHYBRI für 10€/Monat bei und verwandeln Sie Ihr Geschäft in ein finanzielles Gemeinschaftszentrum. Steigern Sie den Kundenverkehr, bauen Sie Kundentreue auf und machen Sie einen echten Unterschied in Ihrer Nachbarschaft."
+    "description": "Treten Sie COLHYBRI bei und verwandeln Sie Ihr Geschäft in ein finanzielles Gemeinschaftszentrum. Steigern Sie den Kundenverkehr, bauen Sie Kundentreue auf und machen Sie einen echten Unterschied in Ihrer Nachbarschaft."
   },
   "forCities": {
     "title": "Für Städte",
     "headline": "Beleben Sie Ihre Hauptstraße mit COLHYBRI",
     "description": "Städte, die mit COLHYBRI zusammenarbeiten, verzeichnen messbare Steigerungen der lokalen Wirtschaftsaktivität. Unsere Plattform stärkt das kommerzielle Gefüge der Nachbarschaften und fördert gleichzeitig die Ziele der finanziellen Inklusion.",
     "benefits": {
-      "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
-      "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
-      "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
-      "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
+      "multiplier": "Messbare Steigerung der lokalen Wirtschaftsaktivität durch den keynesianischen Multiplikatoreffekt",
+      "inclusion": "Förderung der finanziellen Inklusion für unterversorgte und nicht-bankarisierte Einwohner",
+      "fabric": "Stärkung des kommerziellen Gefüges der Nachbarschaften und Unterstützung lokaler Geschäfte",
+      "dashboard": "Echtzeit-Wirkungs-Dashboard zur Verfolgung von Arbeitsplätzen, Ausgaben und Gemeinschaftswachstum"
     }
   },
   "ecosystem": {
@@ -164,15 +164,15 @@
     "pillars": {
       "individuals": {
         "title": "Privatpersonen",
-        "description": "Access essential financial services for $3/month through your neighborhood shops."
+        "description": "Zugang zu wesentlichen Finanzdienstleistungen über Ihre Geschäfte in der Nachbarschaft."
       },
       "shops": {
-        "title": "Lokale Geschaefte",
-        "description": "Become a community financial hub and increase your customer traffic."
+        "title": "Lokale Geschäfte",
+        "description": "Werden Sie zum finanziellen Knotenpunkt der Gemeinschaft und steigern Sie Ihren Kundenverkehr."
       },
       "cities": {
-        "title": "Staedte & Regierungen",
-        "description": "Strengthen your local economy through the Keynesian multiplier effect."
+        "title": "Städte & Regierungen",
+        "description": "Stärken Sie Ihre lokale Wirtschaft durch den keynesianischen Multiplikatoreffekt."
       }
     },
     "onlymore": {
@@ -190,11 +190,11 @@
     "questions": [
       {
         "q": "Was ist COLHYBRI?",
-        "a": "COLHYBRI ist eine Plattform für finanzielle Inklusion, die unterversorgte Personen mit lokalen Geschäften durch ein 3€/Monat-Abonnement verbindet. Sie schafft ein gemeinschaftsgetriebenes Finanzökosystem, in dem Geld lokal zirkuliert und durch den keynesianischen Multiplikatoreffekt die lokale Wirtschaft stärkt."
+        "a": "COLHYBRI ist eine Plattform für finanzielle Inklusion, die unterversorgte Personen mit lokalen Geschäften durch ein erschwingliches Abonnement verbindet. Sie schafft ein gemeinschaftsgetriebenes Finanzökosystem, in dem Geld lokal zirkuliert und durch den keynesianischen Multiplikatoreffekt die lokale Wirtschaft stärkt."
       },
       {
         "q": "Was kostet COLHYBRI?",
-        "a": "COLHYBRI kostet 3€/Monat für Privatpersonen und 10€/Monat für lokale Geschäfte. Es gibt keine versteckten Gebühren, keine Bonitätsprüfungen und keine Mindestguthaben-Anforderungen."
+        "a": "Die Preise werden in Kürze bekanntgegeben. COLHYBRI ist so konzipiert, dass es für Privatpersonen und lokale Geschäfte erschwinglich ist. Es gibt keine versteckten Gebühren, keine Bonitätsprüfungen und keine Mindestguthaben-Anforderungen."
       },
       {
         "q": "Brauche ich ein Bankkonto, um COLHYBRI zu nutzen?",
@@ -210,7 +210,7 @@
       },
       {
         "q": "Was ist der keynesianische Multiplikatoreffekt?",
-        "a": "Der keynesianische Multiplikator beschreibt, wie lokal ausgegebenes Geld zusätzliche Wirtschaftsaktivität erzeugt. Bei COLHYBRI schafft jedes 3€-Abonnement ungefähr 7,50€ an lokalem Wirtschaftswert, da das Geld durch die Gemeinschaft zirkuliert."
+        "a": "Der keynesianische Multiplikator beschreibt, wie lokal ausgegebenes Geld zusätzliche Wirtschaftsaktivität erzeugt. Mit COLHYBRI schafft jedes Abonnement vervielfachten lokalen Wirtschaftswert, da das Geld durch die Gemeinschaft zirkuliert."
       }
     ]
   },

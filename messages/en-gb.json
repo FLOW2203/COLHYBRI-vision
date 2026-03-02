@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — Financial Inclusion Through Local Commerce",
-    "description": "COLHYBRI connects financially excluded individuals with local shops through a £2.50/month subscription, creating a community-powered financial ecosystem."
+    "description": "COLHYBRI connects financially excluded individuals with local shops through an affordable subscription, creating a community-powered financial ecosystem."
   },
   "nav": {
     "home": "Home",
@@ -21,13 +21,13 @@
   },
   "hero": {
     "tagline": "Financial Inclusion Through Local Commerce",
-    "headline": "Every pound spent locally creates £2.50 in community value",
-    "subheadline": "COLHYBRI connects financially excluded individuals with neighbourhood shops through a simple £2.50/month subscription. Together, we build financial inclusion from the ground up.",
+    "headline": "Every pound spent locally strengthens your community",
+    "subheadline": "COLHYBRI connects financially excluded individuals with neighbourhood shops through a simple, affordable subscription. Together, we build financial inclusion from the ground up.",
     "cta": "Join the Movement",
     "ctaSecondary": "See How It Works",
     "stats": {
-      "price": "£2.50",
-      "priceLabel": "Per Month",
+      "price": "\u2014",
+      "priceLabel": "Coming Soon",
       "stage": "Pre-seed",
       "stageLabel": "Current Stage",
       "mission": "Financial Inclusion",
@@ -41,7 +41,7 @@
     "pillars": {
       "inclusion": {
         "title": "Financial Inclusion",
-        "description": "Approximately 1.3 million adults in the UK lack access to a basic bank account, and millions more are financially excluded. COLHYBRI provides affordable access to essential financial services for just £2.50/month — no credit check, no minimum balance."
+        "description": "Many adults in the UK lack access to basic banking services, and millions more are financially excluded. COLHYBRI provides affordable access to essential financial services — no credit check, no minimum balance."
       },
       "commerce": {
         "title": "Local Commerce",
@@ -49,7 +49,7 @@
       },
       "community": {
         "title": "Community Power",
-        "description": "When individuals and shops connect through COLHYBRI, money circulates locally. Every £1 spent generates £2.50 in local economic activity."
+        "description": "When individuals and shops connect through COLHYBRI, money circulates locally, boosting local economic activity."
       }
     }
   },
@@ -59,15 +59,15 @@
     "steps": {
       "subscribe": {
         "title": "Subscribe",
-        "description": "Individuals join for £2.50/month. No credit check, no bank account needed. Instant access to the COLHYBRI community financial network."
+        "description": "Individuals join for an affordable monthly fee. No credit check, no bank account needed. Instant access to the COLHYBRI community financial network."
       },
       "connect": {
         "title": "Connect Locally",
-        "description": "Shops join for £8/month and become community financial hubs. They offer COLHYBRI services alongside their existing business."
+        "description": "Shops join and become community financial hubs. They offer COLHYBRI services alongside their existing business."
       },
       "thrive": {
         "title": "Thrive Together",
-        "description": "Every transaction multiplies. The Keynesian multiplier turns each £2.50 subscription into £6.25 in local economic value."
+        "description": "Every transaction strengthens the local economy. Money circulating locally multiplies its impact through the Keynesian multiplier effect."
       }
     }
   },
@@ -76,7 +76,7 @@
     "headline": "Affordable for Everyone",
     "individuals": {
       "title": "For Individuals",
-      "price": "£2.50",
+      "price": "\u2014",
       "period": "/month",
       "features": [
         "Access to local financial network",
@@ -90,7 +90,7 @@
     },
     "shops": {
       "title": "For Local Shops",
-      "price": "£8",
+      "price": "\u2014",
       "period": "/month",
       "features": [
         "Become a community financial hub",
@@ -109,28 +109,28 @@
     "description": "Every pound that circulates locally multiplies its value in economic activity. COLHYBRI channels spending into local commerce, creating jobs and strengthening communities.",
     "metrics": {
       "localValue": {
-        "value": "£6.25",
-        "label": "Generated from every £2.50 subscription"
+        "value": "\u00d72.5",
+        "label": "Estimated local value multiplier"
       },
       "jobsCreated": {
         "value": "1 job",
         "label": "Per 200 active subscribers in a neighbourhood"
       },
       "moneyLocal": {
-        "value": "68%",
-        "label": "Of spending stays in the community"
+        "value": "Significant",
+        "label": "Share of spending stays in the community"
       }
     }
   },
   "miami": {
     "title": "UK Launch 2026",
     "headline": "COLHYBRI Launches in the UK — Revitalising the High Street",
-    "description": "The United Kingdom, with 67 million inhabitants, faces a growing cost of living crisis and approximately 1.3 million adults remain without access to a basic bank account. With its proud tradition of high street commerce and community-minded credit unions, the UK is an ideal launchpad for COLHYBRI's mission.",
+    "description": "The United Kingdom faces a growing cost of living crisis and many adults remain without access to a basic bank account. With its proud tradition of high street commerce and community-minded credit unions, the UK is an ideal launchpad for COLHYBRI's mission.",
     "whyMiami": {
       "title": "Why the UK?",
       "reasons": [
-        "Approximately 1.3 million adults in the UK are without a basic bank account",
-        "67 million inhabitants — a large, diverse population with significant financially excluded communities",
+        "Many adults in the UK lack access to basic banking services",
+        "A large, diverse population with significant financially excluded communities",
         "Thriving high street ecosystem with hundreds of thousands of independent local shops",
         "Strong credit union tradition and growing demand for community-based financial solutions"
       ]
@@ -138,13 +138,13 @@
   },
   "forIndividuals": {
     "title": "For Individuals",
-    "headline": "Financial Freedom Starts at £2.50/Month",
-    "description": "No bank account? No problem. COLHYBRI gives you access to essential financial services through your neighbourhood shops. Save, spend, and build your financial future — all for £2.50/month."
+    "headline": "Financial Freedom Starts Here",
+    "description": "No bank account? No problem. COLHYBRI gives you access to essential financial services through your neighbourhood shops. Save, spend, and build your financial future — all for an affordable monthly subscription."
   },
   "forShops": {
     "title": "For Local Shops",
     "headline": "Your Shop, Your Community's Financial Hub",
-    "description": "Join COLHYBRI for £8/month and transform your business into a community financial centre. Increase footfall, build customer loyalty, and make a real difference in your neighbourhood."
+    "description": "Join COLHYBRI and transform your business into a community financial centre. Increase footfall, build customer loyalty, and make a real difference in your neighbourhood."
   },
   "forCities": {
     "title": "For Councils",
@@ -153,7 +153,7 @@
     "benefits": {
       "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
       "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
-      "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
+      "fabric": "Strengthen the commercial fabric of neighbourhoods and support local businesses",
       "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
     }
   },
@@ -164,7 +164,7 @@
     "pillars": {
       "individuals": {
         "title": "Individuals",
-        "description": "Access essential financial services for $3/month through your neighborhood shops."
+        "description": "Access essential financial services through your neighbourhood shops."
       },
       "shops": {
         "title": "Local Shops",
@@ -183,18 +183,18 @@
   "investors": {
     "title": "Investors",
     "headline": "Invest in Financial Inclusion",
-    "description": "COLHYBRI combines a proven business model with massive social impact. We're seeking partners who share our vision of financial inclusion through local commerce."
+    "description": "COLHYBRI combines a solid business model with massive social impact. We're seeking partners who share our vision of financial inclusion through local commerce."
   },
   "faq": {
     "title": "Frequently Asked Questions",
     "questions": [
       {
         "q": "What is COLHYBRI?",
-        "a": "COLHYBRI is a financial inclusion platform that connects financially excluded individuals with local shops through a £2.50/month subscription. It creates a community-powered financial ecosystem where money circulates locally, strengthening local economies through the Keynesian multiplier effect."
+        "a": "COLHYBRI is a financial inclusion platform that connects financially excluded individuals with local shops through an affordable subscription. It creates a community-powered financial ecosystem where money circulates locally, strengthening local economies through the Keynesian multiplier effect."
       },
       {
         "q": "How much does COLHYBRI cost?",
-        "a": "COLHYBRI costs £2.50/month for individuals and £8/month for local shops. There are no hidden fees, no credit checks, and no minimum balance requirements."
+        "a": "Pricing will be announced soon. COLHYBRI is designed to be affordable for both individuals and local shops. There will be no hidden fees, no credit checks, and no minimum balance requirements."
       },
       {
         "q": "Do I need a bank account to use COLHYBRI?",
@@ -202,7 +202,7 @@
       },
       {
         "q": "Where is COLHYBRI launching in the UK?",
-        "a": "COLHYBRI is launching across the United Kingdom in 2026. The UK was chosen because of its significant financially excluded population — approximately 1.3 million adults without a bank account — and its vibrant high street commerce ecosystem."
+        "a": "COLHYBRI is launching across the United Kingdom in 2026. The UK was chosen because of its significant financially excluded population and its vibrant high street commerce ecosystem."
       },
       {
         "q": "Who is behind COLHYBRI?",
@@ -210,7 +210,7 @@
       },
       {
         "q": "What is the Keynesian multiplier effect?",
-        "a": "The Keynesian multiplier describes how money spent locally generates additional economic activity. With COLHYBRI, every £2.50 subscription creates approximately £6.25 in local economic value as money circulates through the community."
+        "a": "The Keynesian multiplier describes how money spent locally generates additional economic activity. With COLHYBRI, every subscription creates multiplied local economic value as money circulates through the community."
       }
     ]
   },

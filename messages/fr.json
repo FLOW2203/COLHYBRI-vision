@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — L'inclusion financière par le commerce local",
-    "description": "COLHYBRI connecte les personnes non-bancarisées aux commerces locaux via un abonnement de 3€/mois, créant un écosystème financier communautaire."
+    "description": "COLHYBRI connecte les personnes non-bancarisées aux commerces locaux via un abonnement accessible, créant un écosystème financier communautaire."
   },
   "nav": {
     "home": "Accueil",
@@ -22,12 +22,12 @@
   "hero": {
     "tagline": "L'inclusion financière par le commerce local",
     "headline": "Chaque euro dépensé localement renforce votre communauté",
-    "subheadline": "COLHYBRI connecte les personnes non-bancarisées aux commerces de quartier via un simple abonnement de 3€/mois. Ensemble, construisons l'inclusion financière par la base.",
+    "subheadline": "COLHYBRI connecte les personnes non-bancarisées aux commerces de quartier via un abonnement simple et accessible. Ensemble, construisons l'inclusion financière par la base.",
     "cta": "Rejoindre le mouvement",
     "ctaSecondary": "Comment ça marche",
     "stats": {
-      "price": "3€",
-      "priceLabel": "Par Mois",
+      "price": "\u2014",
+      "priceLabel": "Bientôt",
       "stage": "Pre-seed",
       "stageLabel": "Phase actuelle",
       "mission": "Inclusion financière",
@@ -41,7 +41,7 @@
     "pillars": {
       "inclusion": {
         "title": "Inclusion Financière",
-        "description": "En France, environ 500 000 personnes sont sous-bancarisées ou non-bancarisées. COLHYBRI offre un accès abordable aux services financiers essentiels pour seulement 3€/mois — sans vérification de crédit, sans solde minimum."
+        "description": "En France, de nombreuses personnes sont sous-bancarisées ou non-bancarisées. COLHYBRI offre un accès abordable aux services financiers essentiels — sans vérification de crédit, sans solde minimum."
       },
       "commerce": {
         "title": "Commerce Local",
@@ -59,15 +59,15 @@
     "steps": {
       "subscribe": {
         "title": "Abonnez-vous",
-        "description": "Les particuliers s'inscrivent pour 3€/mois. Sans vérification de crédit, sans compte bancaire nécessaire. Accès instantané au réseau financier communautaire COLHYBRI."
+        "description": "Les particuliers s'inscrivent pour un abonnement accessible. Sans vérification de crédit, sans compte bancaire nécessaire. Accès instantané au réseau financier communautaire COLHYBRI."
       },
       "connect": {
         "title": "Connectez-vous Localement",
-        "description": "Les commerces adhèrent pour 10€/mois et deviennent des hubs financiers communautaires. Ils proposent les services COLHYBRI en complément de leur activité."
+        "description": "Les commerces adhèrent et deviennent des hubs financiers communautaires. Ils proposent les services COLHYBRI en complément de leur activité."
       },
       "thrive": {
         "title": "Prospérons Ensemble",
-        "description": "Chaque transaction se multiplie. Le multiplicateur keynésien transforme chaque abonnement de 3€ en 7,50€ de valeur économique locale."
+        "description": "Chaque transaction renforce l'économie locale. L'argent circulant localement multiplie son impact grâce au multiplicateur keynésien."
       }
     }
   },
@@ -76,7 +76,7 @@
     "headline": "Accessible à Tous",
     "individuals": {
       "title": "Pour les Particuliers",
-      "price": "3€",
+      "price": "\u2014",
       "period": "/mois",
       "features": [
         "Accès au réseau financier local",
@@ -90,7 +90,7 @@
     },
     "shops": {
       "title": "Pour les Commerces",
-      "price": "10€",
+      "price": "\u2014",
       "period": "/mois",
       "features": [
         "Devenez un hub financier communautaire",
@@ -109,16 +109,16 @@
     "description": "Chaque euro qui circule localement multiplie sa valeur en activité économique. COLHYBRI canalise les dépenses vers le commerce local, créant des emplois et renforçant les communautés.",
     "metrics": {
       "localValue": {
-        "value": "7,50€",
-        "label": "Générés par chaque abonnement de 3€"
+        "value": "\u00d72,5",
+        "label": "Multiplicateur estimé de valeur locale"
       },
       "jobsCreated": {
         "value": "1 emploi",
         "label": "Pour 200 abonnés actifs dans un quartier"
       },
       "moneyLocal": {
-        "value": "68%",
-        "label": "Des dépenses restent dans la communauté"
+        "value": "Important",
+        "label": "Part des dépenses restant localement"
       }
     }
   },
@@ -138,13 +138,13 @@
   },
   "forIndividuals": {
     "title": "Pour les Particuliers",
-    "headline": "La liberté financière commence à 3€/mois",
-    "description": "Pas de compte bancaire ? Pas de problème. COLHYBRI vous donne accès aux services financiers essentiels via les commerces de votre quartier. Épargnez, dépensez et construisez votre avenir financier — le tout pour 3€/mois."
+    "headline": "La liberté financière commence ici",
+    "description": "Pas de compte bancaire ? Pas de problème. COLHYBRI vous donne accès aux services financiers essentiels via les commerces de votre quartier. Épargnez, dépensez et construisez votre avenir financier — le tout pour un abonnement accessible."
   },
   "forShops": {
     "title": "Pour les Commerces",
     "headline": "Votre Commerce, le Hub Financier de votre Communauté",
-    "description": "Rejoignez COLHYBRI pour 10€/mois et transformez votre commerce en centre financier communautaire. Augmentez votre fréquentation, fidélisez vos clients et faites une vraie différence dans votre quartier."
+    "description": "Rejoignez COLHYBRI et transformez votre commerce en centre financier communautaire. Augmentez votre fréquentation, fidélisez vos clients et faites une vraie différence dans votre quartier."
   },
   "forCities": {
     "title": "Pour les Villes",
@@ -164,7 +164,7 @@
     "pillars": {
       "individuals": {
         "title": "Particuliers",
-        "description": "Accedez aux services financiers essentiels pour 3€/mois via vos commerces de quartier."
+        "description": "Accedez aux services financiers essentiels via vos commerces de quartier."
       },
       "shops": {
         "title": "Commerces locaux",
@@ -190,11 +190,11 @@
     "questions": [
       {
         "q": "Qu'est-ce que COLHYBRI ?",
-        "a": "COLHYBRI est une plateforme d'inclusion financière qui connecte les personnes non-bancarisées aux commerces locaux via un abonnement de 3€/mois. Elle crée un écosystème financier communautaire où l'argent circule localement, renforçant les économies locales grâce au multiplicateur keynésien."
+        "a": "COLHYBRI est une plateforme d'inclusion financière qui connecte les personnes non-bancarisées aux commerces locaux via un abonnement accessible. Elle crée un écosystème financier communautaire où l'argent circule localement, renforçant les économies locales grâce au multiplicateur keynésien."
       },
       {
         "q": "Combien coûte COLHYBRI ?",
-        "a": "COLHYBRI coûte 3€/mois pour les particuliers et 10€/mois pour les commerces locaux. Il n'y a pas de frais cachés, pas de vérification de crédit et pas de solde minimum requis."
+        "a": "Les tarifs seront annoncés prochainement. COLHYBRI est conçu pour être accessible aux particuliers comme aux commerces locaux. Il n'y aura pas de frais cachés, pas de vérification de crédit et pas de solde minimum requis."
       },
       {
         "q": "Ai-je besoin d'un compte bancaire pour utiliser COLHYBRI ?",
@@ -210,7 +210,7 @@
       },
       {
         "q": "Qu'est-ce que le multiplicateur keynésien ?",
-        "a": "Le multiplicateur keynésien décrit comment l'argent dépensé localement génère une activité économique supplémentaire. Avec COLHYBRI, chaque abonnement de 3€ crée environ 7,50€ de valeur économique locale à mesure que l'argent circule dans la communauté."
+        "a": "Le multiplicateur keynésien décrit comment l'argent dépensé localement génère une activité économique supplémentaire. Avec COLHYBRI, chaque abonnement crée une valeur économique locale multipliée à mesure que l'argent circule dans la communauté."
       }
     ]
   },
