@@ -17,7 +17,7 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
     routeKey: 'ecosystem',
     title: t('title'),
     description: t('description'),
-    semanticPrimary: 'COLHYBRI ecosystem ONLYMORE Group financial inclusion',
+    semanticPrimary: 'COLHYBRI ecosystem financial inclusion local commerce',
     semanticSecondary: 'individuals, local shops, city governments, community finance, digital third place',
     chunkType: 'page',
     audience: 'general, investors',
@@ -103,19 +103,19 @@ export default function EcosystemPage({ params: { locale } }: PageProps) {
         </div>
       </section>
 
-      {/* ONLYMORE Group */}
+      {/* COLHYBRI Launch */}
       <section className="bg-colhybri-dark text-white">
         <div className="section-container max-w-4xl mx-auto text-center">
           <p className="text-colhybri-primary font-semibold text-sm tracking-wide uppercase mb-4">
-            {t('onlymore.title')}
+            {t('colhybri.title')}
           </p>
           <h2 className="text-2xl sm:text-3xl font-bold mb-10">
-            {t('onlymore.subtitle')}
+            {t('colhybri.subtitle')}
           </h2>
           <p className="text-white/70 max-w-2xl mx-auto text-lg leading-relaxed">
             {locale === 'fr'
-              ? "COLHYBRI est en phase pré-seed, développé par le groupe ONLYMORE. Nous construisons l'inclusion financière par le commerce local, une communauté à la fois."
-              : 'COLHYBRI is in pre-seed stage, built by ONLYMORE Group. We are building financial inclusion through local commerce, one community at a time.'}
+              ? "COLHYBRI construit l'inclusion financière par le commerce local, une communauté à la fois. Lancé le 26/02/2026."
+              : 'COLHYBRI is building financial inclusion through local commerce, one community at a time. Launched 26/02/2026.'}
           </p>
         </div>
       </section>

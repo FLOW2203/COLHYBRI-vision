@@ -160,7 +160,7 @@
   "ecosystem": {
     "title": "Ecosysteme",
     "headline": "L'Ecosysteme COLHYBRI",
-    "description": "COLHYBRI fait partie du groupe ONLYMORE, une entreprise technologique dédiée à l'inclusion financière par le commerce local. Notre ecosysteme connecte particuliers, commerces locaux et collectivites.",
+    "description": "COLHYBRI est une plateforme technologique dédiée à l'inclusion financière par le commerce local. Notre écosystème connecte particuliers, commerces locaux et collectivités.",
     "pillars": {
       "individuals": {
         "title": "Particuliers",
@@ -175,9 +175,9 @@
         "description": "Renforcez l'economie locale grâce au multiplicateur keynésien."
       }
     },
-    "onlymore": {
-      "title": "Groupe ONLYMORE",
-      "subtitle": "Phase pre-seed"
+    "colhybri": {
+      "title": "COLHYBRI",
+      "subtitle": "Lancé le 26/02/2026"
     }
   },
   "investors": {
@@ -206,7 +206,7 @@
       },
       {
         "q": "Qui est derrière COLHYBRI ?",
-        "a": "COLHYBRI est créé par le groupe ONLYMORE, dirigé par le fondateur et PDG Florent Gibert."
+        "a": "COLHYBRI est créé et dirigé par le fondateur et PDG Florent Gibert."
       },
       {
         "q": "Qu'est-ce que le multiplicateur keynésien ?",
@@ -218,13 +218,13 @@
     "title": "Contact",
     "headline": "Contactez-Nous",
     "description": "Intéressé par COLHYBRI ? Que vous soyez un particulier, un commerçant, un élu local ou un investisseur, nous serions ravis d'échanger avec vous.",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.vision",
     "cta": "Envoyer un Message"
   },
   "footer": {
     "tagline": "L'inclusion financière par le commerce local",
     "quote": "« Je fais ma part. » — Légende amérindienne (Le Colibri)",
-    "group": "Membre du groupe ONLYMORE",
+    "group": "COLHYBRI — Lancé le 26/02/2026",
     "copyright": "© 2026 COLHYBRI. Tous droits réservés.",
     "links": {
       "about": "À propos",

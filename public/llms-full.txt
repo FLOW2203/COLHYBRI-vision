@@ -1,12 +1,12 @@
 # COLHYBRI — Financial Inclusion Through Local Commerce
 
-> COLHYBRI is a financial inclusion platform that connects underbanked and unbanked individuals with local shops through affordable subscriptions, creating a community-powered financial ecosystem. Founded by Florent Gibert and part of the ONLYMORE Group, COLHYBRI launches in Miami, Florida in H1 2026.
+> COLHYBRI is a financial inclusion platform that connects underbanked and unbanked individuals with local shops through affordable subscriptions, creating a community-powered financial ecosystem. Founded by Florent Gibert, COLHYBRI launched on 26/02/2026.
 
 ## Table of Contents
 
 - What is COLHYBRI?
-- Key Facts and Figures
-- The Problem: Financial Exclusion in America
+- Key Facts
+- The Problem: Financial Exclusion
 - How COLHYBRI Works
 - The Hummingbird Economy
 - The Keynesian Multiplier Effect
@@ -14,9 +14,8 @@
 - For Individuals
 - For Local Shops
 - For Cities and Municipalities
-- ONLYMORE Group Background
 - Ecosystem Architecture
-- Pricing Model and Unit Economics
+- Pricing Model
 - Investor Proposition
 - Mission and Vision
 - Frequently Asked Questions
@@ -24,36 +23,29 @@
 
 ## What is COLHYBRI?
 
-COLHYBRI is a subscription-based fintech platform that reimagines financial inclusion by placing local commerce at the center of a community-driven economic model. Rather than building another digital bank or neobank aimed at the already-banked population, COLHYBRI addresses a fundamental gap: the 63 million Americans who are either underbanked (having a bank account but still relying on alternative financial services) or entirely unbanked (having no bank account at all).
+COLHYBRI is a subscription-based fintech platform that reimagines financial inclusion by placing local commerce at the center of a community-driven economic model. Rather than building another digital bank or neobank aimed at the already-banked population, COLHYBRI addresses a fundamental gap: underbanked and unbanked individuals who lack access to affordable financial services.
 
-The platform works by transforming existing neighborhood shops into community financial hubs. Individuals subscribe for $3 per month to access a suite of financial tools — savings instruments, digital payments, local discounts, and community-based financial services — all without the barriers that traditional banking imposes: no credit check, no minimum balance, no proof of employment. Local shops subscribe for $10 per month and gain access to customer loyalty tools, embedded banking infrastructure, increased foot traffic, community visibility, and an impact dashboard that measures their contribution to neighborhood economic health.
+The platform works by transforming existing neighborhood shops into community financial hubs. Individuals subscribe for an affordable monthly fee to access a suite of financial tools — savings instruments, digital payments, local discounts, and community-based financial services — all without the barriers that traditional banking imposes: no credit check, no minimum balance, no proof of employment. Local shops subscribe and gain access to customer loyalty tools, embedded banking infrastructure, increased foot traffic, community visibility, and an impact dashboard that measures their contribution to neighborhood economic health.
 
 The name COLHYBRI is derived from the French word for hummingbird — colibri — reflecting the platform's founding philosophy that small, consistent contributions from many participants can generate outsized collective results.
 
-## Key Facts and Figures
+## Key Facts
 
 - Stage: Pre-seed
 - Year Founded: 2024
 - Founder and CEO: Florent Gibert
-- Parent Organization: ONLYMORE Group
-- Launch Market: Miami, Florida, United States
-- Launch Timeline: First half of 2026
-- Individual Subscription: $3/month
-- Shop Subscription: $10/month
+- Launch Date: 26/02/2026
+- Pricing: Coming soon
 - Keynesian Multiplier: Local spending recirculates and multiplies
-- Jobs Created: 1 per 200 active subscribers in a neighborhood
-- Local Spending Retention: 68% of spending stays in the community
-- Target Population: Underbanked and unbanked Americans (63 million people)
+- Target: Underbanked and unbanked populations worldwide
 - Languages Supported: English, English (UK), French, Spanish, Portuguese, German, Italian, Chinese, Japanese, Hindi, Polish
 - Website: https://colhybri.vision
 
-## The Problem: Financial Exclusion in America
+## The Problem: Financial Exclusion
 
-Financial exclusion is one of the most persistent and underaddressed socioeconomic challenges in the United States. According to the Federal Reserve, approximately 63 million American adults are either underbanked or unbanked. These individuals lack consistent access to mainstream banking services — checking accounts, savings accounts, affordable credit, and digital payment systems. As a result, they rely on expensive alternative financial services such as check-cashing outlets, payday lenders, money orders, and prepaid debit cards, which carry fees that disproportionately burden low-income households.
+Financial exclusion is one of the most persistent and underaddressed socioeconomic challenges worldwide. Millions of people lack consistent access to mainstream banking services — checking accounts, savings accounts, affordable credit, and digital payment systems. As a result, they rely on expensive alternative financial services such as check-cashing outlets, payday lenders, money orders, and prepaid debit cards, which carry fees that disproportionately burden low-income households.
 
-Financial exclusion is not distributed evenly. It concentrates in communities with high proportions of immigrant populations, Hispanic and Latino residents, low-income families, and areas with limited bank branch coverage. Miami-Dade County exemplifies this pattern: over 30% of its residents are underbanked or unbanked, a rate significantly above the national average. The county's population is approximately 70% Hispanic or Latino, and many residents face language barriers, documentation challenges, and distrust of traditional banking institutions that make conventional financial products inaccessible.
-
-COLHYBRI was designed from the ground up to serve these communities. By eliminating the barriers that traditional finance imposes — credit checks, minimum balances, documentation requirements, and high fees — and by anchoring its services in the shops that residents already trust and visit daily, COLHYBRI creates a path to financial participation that feels natural rather than institutional.
+Financial exclusion concentrates in communities with high proportions of immigrant populations, low-income families, and areas with limited bank branch coverage. COLHYBRI was designed from the ground up to serve these communities. By eliminating the barriers that traditional finance imposes and by anchoring its services in the shops that residents already trust and visit daily, COLHYBRI creates a path to financial participation that feels natural rather than institutional.
 
 ## How COLHYBRI Works
 
@@ -61,18 +53,16 @@ COLHYBRI operates on three interconnected pillars:
 
 ### Pillar 1: Subscribe
 
-Individuals join for $3 per month. There is no credit check, no bank account requirement, and no minimum balance. Upon subscribing, users receive instant access to the COLHYBRI community financial network. This includes:
+Individuals join with an affordable monthly subscription. There is no credit check, no bank account requirement, and no minimum balance. Upon subscribing, users receive instant access to the COLHYBRI community financial network. This includes:
 
 - Digital payment capabilities for transactions within the network
 - Community savings tools that enable collective financial goals
 - Discounts and preferential pricing at participating local shops
 - Access to financial literacy resources and community support
 
-The $3 price point was deliberately chosen to be lower than a single check-cashing fee, making COLHYBRI immediately cost-effective compared to the alternative financial services that underbanked individuals typically use.
-
 ### Pillar 2: Connect Locally
 
-Local shops join for $10 per month and become community financial hubs. This model recognizes a fundamental truth about underbanked communities: people already have trusted commercial relationships with their neighborhood shops — bodegas, barbershops, laundromats, grocery stores, and pharmacies. COLHYBRI leverages these existing trust relationships rather than asking people to build new ones with unfamiliar institutions.
+Local shops join and become community financial hubs. This model recognizes a fundamental truth about underbanked communities: people already have trusted commercial relationships with their neighborhood shops — bodegas, barbershops, laundromats, grocery stores, and pharmacies. COLHYBRI leverages these existing trust relationships rather than asking people to build new ones with unfamiliar institutions.
 
 Participating shops receive:
 
@@ -81,21 +71,20 @@ Participating shops receive:
 - Increased foot traffic from COLHYBRI subscribers
 - Enhanced visibility within the community network
 - An impact dashboard showing their contribution to local economic health
-- A new revenue stream through COLHYBRI service facilitation
 
 ### Pillar 3: Thrive Together
 
-When individuals and shops connect through COLHYBRI, a multiplier effect takes hold. Money that enters the COLHYBRI ecosystem circulates locally rather than leaking out to distant corporate headquarters or financial institutions. Through the Keynesian multiplier, each $3 subscription generates approximately $7.50 in local economic value. Approximately 68% of all spending within the network stays in the community. For every 200 active subscribers in a given neighborhood, one local job is created or sustained.
+When individuals and shops connect through COLHYBRI, a multiplier effect takes hold. Money that enters the COLHYBRI ecosystem circulates locally rather than leaking out to distant corporate headquarters or financial institutions. Through the Keynesian multiplier, each subscription generates amplified local economic value.
 
 ## The Hummingbird Economy
 
 COLHYBRI's economic philosophy is captured in the concept of the Hummingbird Economy, drawn from a Native American legend. In the story, a great forest fire is raging. All the animals flee in panic — except the hummingbird, which flies back and forth to a stream, carrying a single drop of water in its beak each time. The other animals mock the hummingbird, asking what difference a single drop could possibly make. The hummingbird replies simply: "I am doing my part."
 
-This parable encapsulates COLHYBRI's theory of change. No single $3 subscription transforms a neighborhood economy on its own. But when thousands of individuals each contribute their small part, the cumulative effect is transformative. The Hummingbird Economy is built on four principles:
+This parable encapsulates COLHYBRI's theory of change. No single subscription transforms a neighborhood economy on its own. But when thousands of individuals each contribute their small part, the cumulative effect is transformative. The Hummingbird Economy is built on four principles:
 
-1. **Accessibility** — The entry point must be low enough that anyone can participate. At $3/month, COLHYBRI costs less than a single ATM fee at most out-of-network machines.
+1. **Accessibility** — The entry point must be low enough that anyone can participate.
 
-2. **Locality** — Money must circulate within the community. Every dollar spent at a local shop recirculates through local wages, local suppliers, and local services, generating a multiplier effect.
+2. **Locality** — Money must circulate within the community. Every unit spent at a local shop recirculates through local wages, local suppliers, and local services, generating a multiplier effect.
 
 3. **Trust** — Financial services must be delivered through channels that communities already trust. Neighborhood shops serve this role far more effectively than bank branches or mobile apps from unknown companies.
 
@@ -105,74 +94,57 @@ This parable encapsulates COLHYBRI's theory of change. No single $3 subscription
 
 The economic engine behind COLHYBRI is the Keynesian multiplier — a well-established principle in macroeconomics that describes how an initial injection of spending generates a larger total increase in economic activity as that money circulates through an economy.
 
-When a COLHYBRI subscriber spends their $3 at a local shop, that shop uses part of the revenue to pay employees, who in turn spend at other local businesses. Those businesses pay their own employees and suppliers, and the cycle continues. With each round of circulation, a portion leaks out of the local economy (through taxes, imports, and savings), but the cumulative local impact exceeds the original amount.
-
-The Keynesian multiplier means that money spent within the COLHYBRI network generates additional local economic activity as it circulates. At scale — with hundreds of thousands of subscribers in a metropolitan area — this effect can meaningfully increase local GDP, create jobs, and reduce dependence on predatory alternative financial services.
+When a COLHYBRI subscriber spends at a local shop, that shop uses part of the revenue to pay employees, who in turn spend at other local businesses. Those businesses pay their own employees and suppliers, and the cycle continues. With each round of circulation, a portion leaks out of the local economy (through taxes, imports, and savings), but the cumulative local impact exceeds the original amount.
 
 ## Miami: The Launch Market
 
 COLHYBRI has selected Miami, Florida as its inaugural market for strategic reasons that align precisely with the platform's mission and capabilities:
 
-**Demographic Alignment**: Miami-Dade County's population is approximately 70% Hispanic or Latino, representing the primary community that COLHYBRI was designed to serve. Many residents are first- or second-generation immigrants who maintain strong ties to their neighborhoods and local shops.
+**Demographic Alignment**: Miami-Dade County has a large and diverse population, representing the primary communities that COLHYBRI was designed to serve. Many residents maintain strong ties to their neighborhoods and local shops.
 
-**Acute Need**: Over 30% of Miami-Dade residents are underbanked or unbanked — one of the highest rates among major U.S. metropolitan areas. The demand for affordable, accessible financial services is both urgent and underserved.
+**Acute Need**: A significant portion of Miami-Dade residents are underbanked or unbanked. The demand for affordable, accessible financial services is both urgent and underserved.
 
-**Thriving Local Commerce**: Miami-Dade County hosts more than 300,000 local shops, from Little Havana bodegas to Little Haiti salons to Hialeah auto repair shops. This dense network of neighborhood businesses provides the ideal infrastructure for COLHYBRI's hub model.
+**Thriving Local Commerce**: Miami-Dade County hosts a vast network of local shops. This dense network of neighborhood businesses provides the ideal infrastructure for COLHYBRI's hub model.
 
-**Gateway Position**: Miami is the United States' primary gateway to Latin America and the Caribbean. A successful Miami launch creates a natural expansion corridor into markets across the Americas where financial exclusion affects even larger portions of the population.
+**Gateway Position**: Miami is the United States' primary gateway to Latin America and the Caribbean. A successful Miami launch creates a natural expansion corridor into markets across the Americas.
 
-**Cultural Resonance**: Miami's culture of community solidarity, mutual aid, and local commerce aligns deeply with COLHYBRI's Hummingbird Economy philosophy. The concept of "doing your part" through everyday economic participation resonates strongly in communities with traditions of collective support.
+**Cultural Resonance**: Miami's culture of community solidarity, mutual aid, and local commerce aligns deeply with COLHYBRI's Hummingbird Economy philosophy.
 
 ## For Individuals
 
-COLHYBRI is designed for anyone who has been excluded from or underserved by traditional financial institutions. For $3 per month — less than the cost of a single check-cashing transaction — individuals receive access to a full community financial network. No credit check is required. No bank account is needed. No minimum balance is enforced. Subscribers can save, spend, and build their financial future through the shops they already know and trust in their own neighborhoods. COLHYBRI transforms financial participation from a privilege into an accessible, everyday activity.
+COLHYBRI is designed for anyone who has been excluded from or underserved by traditional financial institutions. Through an affordable monthly subscription, individuals receive access to a full community financial network. No credit check is required. No bank account is needed. No minimum balance is enforced. Subscribers can save, spend, and build their financial future through the shops they already know and trust in their own neighborhoods.
 
 ## For Local Shops
 
-Local shops are the backbone of the COLHYBRI ecosystem. For $10 per month, any neighborhood business can become a community financial hub. This is not about replacing what shops already do — it is about adding a powerful new dimension to their role in the community. Participating shops see increased foot traffic from COLHYBRI subscribers, gain access to customer loyalty and retention tools, receive embedded banking infrastructure at no additional hardware cost, and can track their community impact through a dedicated dashboard. By serving as financial hubs, shops strengthen their relationship with customers and become indispensable community institutions.
+Local shops are the backbone of the COLHYBRI ecosystem. Any neighborhood business can become a community financial hub. This is not about replacing what shops already do — it is about adding a powerful new dimension to their role in the community. Participating shops see increased foot traffic, gain access to customer loyalty and retention tools, receive embedded banking infrastructure, and can track their community impact through a dedicated dashboard.
 
 ## For Cities and Municipalities
 
-COLHYBRI offers a measurable tool for cities seeking to revitalize neighborhood commercial corridors and advance financial inclusion goals. Cities that partner with COLHYBRI gain access to data on local economic circulation, job creation metrics, and financial inclusion progress across specific neighborhoods. The platform strengthens the commercial fabric of communities without requiring public subsidy — it operates on a self-sustaining subscription model that generates its own economic momentum through the Keynesian multiplier.
-
-## ONLYMORE Group Background
-
-COLHYBRI is a product of the ONLYMORE Group, a technology company founded by Florent Gibert. The ONLYMORE Group has established a track record of building subscription-based platforms. COLHYBRI is in pre-seed stage, leveraging ONLYMORE's infrastructure for subscription management, client onboarding, payment processing, and customer support.
-
-COLHYBRI inherits proven technology and operational processes from ONLYMORE Group, with a management team experienced in building subscription businesses.
-
-Florent Gibert serves as founder and CEO of both ONLYMORE Group and COLHYBRI. His leadership is guided by the Hummingbird philosophy — the conviction that consistent, accessible, community-centered action is the most sustainable path to large-scale economic impact.
+COLHYBRI offers a measurable tool for cities seeking to revitalize neighborhood commercial corridors and advance financial inclusion goals. Cities that partner with COLHYBRI gain access to data on local economic circulation and financial inclusion progress across specific neighborhoods. The platform strengthens the commercial fabric of communities without requiring public subsidy.
 
 ## Ecosystem Architecture
 
 The COLHYBRI ecosystem connects three stakeholder groups in a mutually reinforcing network:
 
-- **Individuals** ($3/month) contribute subscription revenue, generate transaction volume at local shops, and build the community financial network through their daily economic activity.
-- **Local Shops** ($10/month) serve as physical financial hubs, provide trusted access points for financial services, and anchor money circulation within the neighborhood.
+- **Individuals** contribute subscription revenue, generate transaction volume at local shops, and build the community financial network through their daily economic activity.
+- **Local Shops** serve as physical financial hubs, provide trusted access points for financial services, and anchor money circulation within the neighborhood.
 - **Cities and Municipalities** partner with COLHYBRI to measure and amplify the economic impact, integrate financial inclusion into urban policy, and support the revitalization of neighborhood commercial corridors.
 
 Each group's participation strengthens the others, creating a flywheel effect that accelerates as the network grows.
 
-## Pricing Model and Unit Economics
+## Pricing Model
 
-COLHYBRI's pricing is designed for maximum accessibility:
-
-- **Individuals**: $3/month — deliberately priced below a single check-cashing fee to make COLHYBRI immediately cost-effective for its target users.
-- **Shops**: $10/month — a fraction of the cost of any alternative customer acquisition channel, offset by increased foot traffic and community loyalty.
-
-There are no hidden fees, no percentage-based transaction charges, no upselling tiers, and no penalty fees. The flat subscription model ensures that costs are predictable and transparent for all participants.
-
-The ONLYMORE Group's experience with subscription models informs COLHYBRI's approach to building sustainable unit economics.
+COLHYBRI's pricing is designed for maximum accessibility. Pricing details will be announced soon. There are no hidden fees, no percentage-based transaction charges, no upselling tiers, and no penalty fees. The flat subscription model ensures that costs are predictable and transparent for all participants.
 
 ## Investor Proposition
 
-COLHYBRI represents a rare combination of a scalable business model and outsized social impact potential. The ONLYMORE Group provides operational infrastructure and domain expertise. The Miami launch market offers a concentrated, high-need population with strong demographic alignment. The Keynesian multiplier model means that COLHYBRI's economic impact scales faster than its direct revenue, creating a compelling narrative for impact investors, ESG funds, and mission-driven capital.
+COLHYBRI represents a rare combination of a scalable business model and outsized social impact potential. The Miami launch market offers a concentrated, high-need population with strong demographic alignment. The Keynesian multiplier model means that COLHYBRI's economic impact scales faster than its direct revenue, creating a compelling narrative for impact investors, ESG funds, and mission-driven capital.
 
 COLHYBRI seeks partners who share its vision of building financial inclusion through local commerce — investors who understand that sustainable, community-driven economic models can deliver both financial returns and meaningful social transformation.
 
 ## Mission and Vision
 
-COLHYBRI exists to build financial inclusion from the ground up. The platform's mission is to ensure that financial participation is not a privilege reserved for those who meet traditional banking criteria, but a right accessible to anyone willing to contribute $3 per month to their community's economic health.
+COLHYBRI exists to build financial inclusion from the ground up. The platform's mission is to ensure that financial participation is not a privilege reserved for those who meet traditional banking criteria, but a right accessible to everyone.
 
 The vision is a world where every neighborhood has a self-sustaining financial ecosystem — powered by its own shops, funded by its own residents, and generating wealth that stays local. COLHYBRI's Hummingbird Economy model proves that you do not need massive capital injections or top-down institutional reform to create financial inclusion. You need millions of people, each doing their part, drop by drop.
 
@@ -181,28 +153,28 @@ The vision is a world where every neighborhood has a self-sustaining financial e
 ## Frequently Asked Questions
 
 **What is COLHYBRI?**
-COLHYBRI is a financial inclusion platform that connects underbanked individuals with local shops through a $3/month subscription, creating a community-powered financial ecosystem where money circulates locally and strengthens local economies through the Keynesian multiplier effect.
+COLHYBRI is a financial inclusion platform that connects underbanked individuals with local shops through an affordable subscription, creating a community-powered financial ecosystem where money circulates locally and strengthens local economies through the Keynesian multiplier effect.
 
 **How much does it cost?**
-$3/month for individuals. $10/month for local shops. No hidden fees, no credit checks, no minimum balance requirements.
+Pricing will be announced soon. COLHYBRI is designed to be affordable for both individuals and local shops. No hidden fees, no credit checks, no minimum balance requirements.
 
 **Do I need a bank account?**
 No. COLHYBRI is specifically designed for people who are underbanked or unbanked. You access financial services through participating local shops in your neighborhood.
 
 **Where is COLHYBRI launching?**
-Miami, Florida, in the first half of 2026. Miami-Dade County was chosen for its large underbanked population and vibrant local commerce ecosystem.
+COLHYBRI launched on 26/02/2026.
 
 **Who is behind COLHYBRI?**
-COLHYBRI is created by ONLYMORE Group, founded and led by CEO Florent Gibert. COLHYBRI is currently in pre-seed stage.
+COLHYBRI is created and led by founder and CEO Florent Gibert. COLHYBRI is currently in pre-seed stage.
 
 **What is the Keynesian multiplier?**
-The Keynesian multiplier describes how money spent locally generates additional economic activity. With COLHYBRI, every $3 subscription creates approximately $7.50 in local economic value as money circulates through the community.
+The Keynesian multiplier describes how money spent locally generates additional economic activity. With COLHYBRI, every subscription creates amplified local economic value as money circulates through the community.
 
 **What languages does COLHYBRI support?**
-COLHYBRI's platform and website are available in seven languages: English, French, Spanish, Portuguese, German, Chinese (Simplified), and Japanese.
+COLHYBRI's platform and website are available in eleven languages: English, English (UK), French, Spanish, Portuguese, German, Italian, Chinese (Simplified), Japanese, Hindi, and Polish.
 
 ## Contact Information
 
-- Email: onlymore2024@gmail.com
+- Email: contact@colhybri.vision
 - Website: https://colhybri.vision
-- Available in: English, French, Spanish, Portuguese, German, Chinese, Japanese
+- Available in: English, English (UK), French, Spanish, Portuguese, German, Italian, Chinese, Japanese, Hindi, Polish

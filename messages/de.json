@@ -160,7 +160,7 @@
   "ecosystem": {
     "title": "Ökosystem",
     "headline": "Das COLHYBRI-Ökosystem",
-    "description": "COLHYBRI ist Teil der ONLYMORE Group, einem Technologieunternehmen für finanzielle Inklusion durch lokalen Handel. Unser Ökosystem verbindet Privatpersonen, lokale Geschäfte und Stadtverwaltungen.",
+    "description": "COLHYBRI ist eine Technologieplattform für finanzielle Inklusion durch lokalen Handel. Unser Ökosystem verbindet Privatpersonen, lokale Geschäfte und Stadtverwaltungen.",
     "pillars": {
       "individuals": {
         "title": "Privatpersonen",
@@ -175,9 +175,9 @@
         "description": "Stärken Sie Ihre lokale Wirtschaft durch den keynesianischen Multiplikatoreffekt."
       }
     },
-    "onlymore": {
-      "title": "ONLYMORE Gruppe",
-      "subtitle": "Pre-seed Phase"
+    "colhybri": {
+      "title": "COLHYBRI",
+      "subtitle": "Gestartet am 26/02/2026"
     }
   },
   "investors": {
@@ -206,7 +206,7 @@
       },
       {
         "q": "Wer steht hinter COLHYBRI?",
-        "a": "COLHYBRI wurde von der ONLYMORE Group gegründet, geleitet von Gründer und CEO Florent Gibert."
+        "a": "COLHYBRI wurde gegründet und wird geleitet von Gründer und CEO Florent Gibert."
       },
       {
         "q": "Was ist der keynesianische Multiplikatoreffekt?",
@@ -218,13 +218,13 @@
     "title": "Kontaktieren Sie uns",
     "headline": "Nehmen Sie Kontakt auf",
     "description": "Interessiert an COLHYBRI? Ob Sie eine Privatperson, ein lokaler Geschäftsinhaber, ein Stadtbeamter oder ein Investor sind — wir freuen uns, von Ihnen zu hören.",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.vision",
     "cta": "Nachricht senden"
   },
   "footer": {
     "tagline": "Finanzielle Inklusion durch lokalen Handel",
     "quote": "\"Ich tue meinen Teil.\" — Legende der amerikanischen Ureinwohner (Der Kolibri)",
-    "group": "Teil der ONLYMORE Group",
+    "group": "COLHYBRI — Gestartet am 26/02/2026",
     "copyright": "© 2026 COLHYBRI. Alle Rechte vorbehalten.",
     "links": {
       "about": "Über uns",

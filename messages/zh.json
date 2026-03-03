@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — 通过本地商业实现金融普惠",
-    "description": "COLHYBRI 通过实惠的订阅服务，将金融服务不足的个人与本地商店连接起来，打造社区驱动的金融生态系统。隶属于 ONLYMORE Group。"
+    "description": "COLHYBRI 通过实惠的订阅服务，将金融服务不足的个人与本地商店连接起来，打造社区驱动的金融生态系统。"
   },
   "nav": {
     "home": "首页",
@@ -160,7 +160,7 @@
   "ecosystem": {
     "title": "生态系统",
     "headline": "COLHYBRI 生态系统",
-    "description": "COLHYBRI 隶属于 ONLYMORE Group，这是一家致力于通过本地商业实现金融普惠的科技公司。我们的生态系统连接个人、本地商店和城市政府。",
+    "description": "COLHYBRI 是一个致力于通过本地商业实现金融普惠的科技平台。我们的生态系统连接个人、本地商店和城市政府。",
     "pillars": {
       "individuals": {
         "title": "个人用户",
@@ -175,9 +175,9 @@
         "description": "通过凯恩斯乘数效应增强本地经济。"
       }
     },
-    "onlymore": {
-      "title": "ONLYMORE集团",
-      "subtitle": "Pre-seed 阶段"
+    "colhybri": {
+      "title": "COLHYBRI",
+      "subtitle": "于2026年2月26日上线"
     }
   },
   "investors": {
@@ -206,7 +206,7 @@
       },
       {
         "q": "COLHYBRI 背后是谁？",
-        "a": "COLHYBRI 由 ONLYMORE Group 创建，由创始人兼首席执行官 Florent Gibert 领导。"
+        "a": "COLHYBRI 由创始人兼首席执行官 Florent Gibert 创建并领导。"
       },
       {
         "q": "什么是凯恩斯乘数效应？",
@@ -218,13 +218,13 @@
     "title": "联系我们",
     "headline": "取得联系",
     "description": "对 COLHYBRI 感兴趣？无论您是个人用户、本地商店店主、城市官员还是投资者，我们都期待您的来信。",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.vision",
     "cta": "发送消息"
   },
   "footer": {
     "tagline": "通过本地商业实现金融普惠",
     "quote": "“我在尽自己的一份力。” — 美洲原住民传说（蜂鸟）",
-    "group": "隶属于 ONLYMORE Group",
+    "group": "COLHYBRI — 于2026年2月26日上线",
     "copyright": "© 2026 COLHYBRI. 保留所有权利。",
     "links": {
       "about": "关于我们",

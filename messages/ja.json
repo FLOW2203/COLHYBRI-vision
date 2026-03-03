@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — 地域商業を通じた金融包摂",
-    "description": "COLHYBRIは、手頃なサブスクリプションを通じて、銀行サービスを十分に受けられない人々と地元の店舗をつなぎ、コミュニティ主導の金融エコシステムを構築します。ONLYMORE Groupの一員。"
+    "description": "COLHYBRIは、手頃なサブスクリプションを通じて、銀行サービスを十分に受けられない人々と地元の店舗をつなぎ、コミュニティ主導の金融エコシステムを構築します。"
   },
   "nav": {
     "home": "ホーム",
@@ -160,7 +160,7 @@
   "ecosystem": {
     "title": "エコシステム",
     "headline": "COLHYBRIエコシステム",
-    "description": "COLHYBRIは、地域商業を通じた金融包摂に取り組むテクノロジー企業、ONLYMORE Groupの一員です。私たちのエコシステムは、個人、地元店舗、自治体をつなぎます。",
+    "description": "COLHYBRIは、地域商業を通じた金融包摂に取り組むテクノロジープラットフォームです。私たちのエコシステムは、個人、地元店舗、自治体をつなぎます。",
     "pillars": {
       "individuals": {
         "title": "個人ユーザー",
@@ -175,9 +175,9 @@
         "description": "ケインズ乗数効果を通じて地域経済を強化しましょう。"
       }
     },
-    "onlymore": {
-      "title": "ONLYMOREグループ",
-      "subtitle": "Pre-seed ステージ"
+    "colhybri": {
+      "title": "COLHYBRI",
+      "subtitle": "2026年2月26日ローンチ"
     }
   },
   "investors": {
@@ -206,7 +206,7 @@
       },
       {
         "q": "COLHYBRIの運営者は誰ですか？",
-        "a": "COLHYBRIは、創業者兼CEOのFlorent Gibertが率いるONLYMORE Groupによって作られました。"
+        "a": "COLHYBRIは、創業者兼CEOのFlorent Gibertによって設立・運営されています。"
       },
       {
         "q": "ケインズ乗数効果とは何ですか？",
@@ -218,13 +218,13 @@
     "title": "お問い合わせ",
     "headline": "ご連絡ください",
     "description": "COLHYBRIにご興味がありますか？個人の方、地元店舗のオーナー、自治体の関係者、投資家の方、どなたでもお気軽にご連絡ください。",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.vision",
     "cta": "メッセージを送る"
   },
   "footer": {
     "tagline": "地域商業を通じた金融包摂",
     "quote": "「私は自分の役割を果たしています。」 — ネイティブアメリカンの伝説（ハチドリ）",
-    "group": "ONLYMORE Groupの一員",
+    "group": "COLHYBRI — 2026年2月26日ローンチ",
     "copyright": "© 2026 COLHYBRI. All rights reserved.",
     "links": {
       "about": "COLHYBRIについて",

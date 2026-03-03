@@ -160,7 +160,7 @@
   "ecosystem": {
     "title": "Ecosystem",
     "headline": "The COLHYBRI Ecosystem",
-    "description": "COLHYBRI is part of the ONLYMORE Group, a technology company dedicated to financial inclusion through local commerce. Our ecosystem connects individuals, local shops, and local authorities.",
+    "description": "COLHYBRI is a technology platform dedicated to financial inclusion through local commerce. Our ecosystem connects individuals, local shops, and local authorities.",
     "pillars": {
       "individuals": {
         "title": "Individuals",
@@ -175,9 +175,9 @@
         "description": "Strengthen your local economy through the Keynesian multiplier effect."
       }
     },
-    "onlymore": {
-      "title": "ONLYMORE Group",
-      "subtitle": "Pre-seed Stage"
+    "colhybri": {
+      "title": "COLHYBRI",
+      "subtitle": "Launched 26/02/2026"
     }
   },
   "investors": {
@@ -206,7 +206,7 @@
       },
       {
         "q": "Who is behind COLHYBRI?",
-        "a": "COLHYBRI is created by ONLYMORE Group, led by founder and CEO Florent Gibert."
+        "a": "COLHYBRI is created and led by founder and CEO Florent Gibert."
       },
       {
         "q": "What is the Keynesian multiplier effect?",
@@ -218,13 +218,13 @@
     "title": "Contact Us",
     "headline": "Get in Touch",
     "description": "Interested in COLHYBRI? Whether you're an individual, a local shop owner, a council representative, or an investor, we'd love to hear from you.",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.vision",
     "cta": "Send Message"
   },
   "footer": {
     "tagline": "Financial Inclusion Through Local Commerce",
     "quote": "\"I am doing my part.\" — Native American Legend (The Hummingbird)",
-    "group": "Part of ONLYMORE Group",
+    "group": "COLHYBRI — Launched 26/02/2026",
     "copyright": "© 2026 COLHYBRI. All rights reserved.",
     "links": {
       "about": "About",

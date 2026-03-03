@@ -160,7 +160,7 @@
   "ecosystem": {
     "title": "Ecosistema",
     "headline": "El Ecosistema COLHYBRI",
-    "description": "COLHYBRI es parte de ONLYMORE Group, una empresa tecnológica dedicada a la inclusión financiera a través del comercio local. Nuestro ecosistema conecta individuos, comercios locales y gobiernos municipales.",
+    "description": "COLHYBRI es una plataforma tecnológica dedicada a la inclusión financiera a través del comercio local. Nuestro ecosistema conecta individuos, comercios locales y gobiernos municipales.",
     "pillars": {
       "individuals": {
         "title": "Particulares",
@@ -175,9 +175,9 @@
         "description": "Fortalece la economía local gracias al efecto multiplicador keynesiano."
       }
     },
-    "onlymore": {
-      "title": "Grupo ONLYMORE",
-      "subtitle": "Fase pre-seed"
+    "colhybri": {
+      "title": "COLHYBRI",
+      "subtitle": "Lanzado el 26/02/2026"
     }
   },
   "investors": {
@@ -206,7 +206,7 @@
       },
       {
         "q": "¿Quién está detrás de COLHYBRI?",
-        "a": "COLHYBRI es creado por ONLYMORE Group, liderado por el fundador y CEO Florent Gibert."
+        "a": "COLHYBRI es creado y liderado por el fundador y CEO Florent Gibert."
       },
       {
         "q": "¿Qué es el efecto multiplicador keynesiano?",
@@ -218,13 +218,13 @@
     "title": "Contáctanos",
     "headline": "Ponte en Contacto",
     "description": "¿Interesado en COLHYBRI? Ya seas un individuo, dueño de un comercio local, funcionario municipal o inversor, nos encantaría saber de ti.",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.vision",
     "cta": "Enviar Mensaje"
   },
   "footer": {
     "tagline": "Inclusión financiera a través del comercio local",
     "quote": "\"Estoy haciendo mi parte.\" — Leyenda amerindia (El Colibrí)",
-    "group": "Parte de ONLYMORE Group",
+    "group": "COLHYBRI — Lanzado el 26/02/2026",
     "copyright": "© 2026 COLHYBRI. Todos los derechos reservados.",
     "links": {
       "about": "Acerca de",

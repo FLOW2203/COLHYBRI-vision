@@ -18,7 +18,7 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
     title: t('title'),
     description: t('description'),
     semanticPrimary: 'COLHYBRI investors financial inclusion social impact',
-    semanticSecondary: 'pre-seed, Keynesian multiplier, ONLYMORE Group, financial inclusion investment',
+    semanticSecondary: 'pre-seed, Keynesian multiplier, financial inclusion investment',
     chunkType: 'landing',
     audience: 'investors',
   });
@@ -119,8 +119,8 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
                   </h3>
                   <p className="text-colhybri-dark/60 text-sm">
                     {locale === 'fr'
-                      ? 'Modèle SaaS éprouvé par le groupe ONLYMORE, à faible churn.'
-                      : 'SaaS model proven by ONLYMORE Group, low-churn subscription.'}
+                      ? 'Modèle SaaS à faible churn, conçu pour la rétention communautaire.'
+                      : 'Low-churn SaaS model designed for community retention.'}
                   </p>
                 </div>
               </div>

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — Inkluzja finansowa poprzez lokalny handel",
-    "description": "COLHYBRI łączy osoby wykluczone finansowo z lokalnymi sklepami, tworząc społecznościowy ekosystem finansowy. Część grupy ONLYMORE."
+    "description": "COLHYBRI łączy osoby wykluczone finansowo z lokalnymi sklepami, tworząc społecznościowy ekosystem finansowy."
   },
   "nav": {
     "home": "Strona główna",
@@ -160,7 +160,7 @@
   "ecosystem": {
     "title": "Ekosystem",
     "headline": "Ekosystem COLHYBRI",
-    "description": "COLHYBRI jest częścią grupy ONLYMORE, firmy technologicznej dedykowanej inkluzji finansowej poprzez lokalny handel. Nasz ekosystem łączy osoby prywatne, lokalne sklepy i samorządy miejskie.",
+    "description": "COLHYBRI to platforma technologiczna dedykowana inkluzji finansowej poprzez lokalny handel. Nasz ekosystem łączy osoby prywatne, lokalne sklepy i samorządy miejskie.",
     "pillars": {
       "individuals": {
         "title": "Osoby prywatne",
@@ -175,9 +175,9 @@
         "description": "Wzmocnij lokalną gospodarkę dzięki efektowi mnożnika keynesowskiego."
       }
     },
-    "onlymore": {
-      "title": "Grupa ONLYMORE",
-      "subtitle": "Faza pre-seed"
+    "colhybri": {
+      "title": "COLHYBRI",
+      "subtitle": "Uruchomiony 26/02/2026"
     }
   },
   "investors": {
@@ -206,7 +206,7 @@
       },
       {
         "q": "Kto stoi za COLHYBRI?",
-        "a": "COLHYBRI zostało stworzone przez grupę ONLYMORE, kierowaną przez założyciela i CEO Florent Gibert."
+        "a": "COLHYBRI zostało stworzone i jest kierowane przez założyciela i CEO Florent Gibert."
       },
       {
         "q": "Czym jest efekt mnożnika keynesowskiego?",
@@ -218,13 +218,13 @@
     "title": "Kontakt",
     "headline": "Skontaktuj się z nami",
     "description": "Zainteresowany COLHYBRI? Niezależnie od tego, czy jesteś osobą prywatną, właścicielem lokalnego sklepu, urzędnikiem miejskim czy inwestorem — chętnie cię wysłuchamy.",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.vision",
     "cta": "Wyślij wiadomość"
   },
   "footer": {
     "tagline": "Inkluzja finansowa poprzez lokalny handel",
     "quote": "'Robię swoją część.' — Indiańska legenda (Koliber)",
-    "group": "Część grupy ONLYMORE",
+    "group": "COLHYBRI — Uruchomiony 26/02/2026",
     "copyright": "© 2026 COLHYBRI. Wszelkie prawa zastrzeżone.",
     "links": {
       "about": "O nas",

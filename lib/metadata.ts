@@ -95,7 +95,7 @@ export function generatePageMetadata({
       'entity:name': 'COLHYBRI',
       'entity:type': 'FinancialInclusion Platform',
       'entity:person': 'Florent Gibert',
-      'entity:organization': 'ONLYMORE Group',
+      'entity:organization': 'COLHYBRI',
       'entity:location': 'Miami, Florida, USA',
       'content:language': locale,
       'content:topic': 'financial inclusion, local commerce',
@@ -123,8 +123,8 @@ export function generateOrganizationJsonLd(locale: Locale) {
     },
     parentOrganization: {
       '@type': 'Organization',
-      name: 'ONLYMORE Group',
-      description: 'Technology company building financial inclusion through local commerce.',
+      name: 'COLHYBRI',
+      description: 'Technology platform building financial inclusion through local commerce.',
     },
     areaServed: [
       { '@type': 'Country', name: 'France' },
@@ -137,11 +137,11 @@ export function generateOrganizationJsonLd(locale: Locale) {
       { '@type': 'Country', name: 'Senegal' },
       { '@type': 'Country', name: 'United Kingdom' },
     ],
-    priceRange: '3€/month',
+    priceRange: 'Affordable',
     
     contactPoint: {
       '@type': 'ContactPoint',
-      email: 'onlymore2024@gmail.com',
+      email: 'contact@colhybri.vision',
       contactType: 'customer service',
       availableLanguage: ['English', 'French', 'Spanish', 'Portuguese', 'German', 'Italian', 'Chinese', 'Japanese', 'Hindi', 'Polish'],
     },
@@ -284,7 +284,7 @@ export function generateLocalBusinessJsonLd() {
     },
     url: `${BASE_URL}/en/miami`,
     telephone: '',
-    email: 'onlymore2024@gmail.com',
-    priceRange: '$3-$10/month',
+    email: 'contact@colhybri.vision',
+    priceRange: 'Affordable',
   };
 }

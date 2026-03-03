@@ -160,7 +160,7 @@
   "ecosystem": {
     "title": "Ecosistema",
     "headline": "L'Ecosistema COLHYBRI",
-    "description": "COLHYBRI fa parte del gruppo ONLYMORE, un'azienda tecnologica dedicata all'inclusione finanziaria attraverso il commercio locale. Il nostro ecosistema connette cittadini, botteghe locali e amministrazioni comunali.",
+    "description": "COLHYBRI è una piattaforma tecnologica dedicata all'inclusione finanziaria attraverso il commercio locale. Il nostro ecosistema connette cittadini, botteghe locali e amministrazioni comunali.",
     "pillars": {
       "individuals": {
         "title": "Privati",
@@ -175,9 +175,9 @@
         "description": "Rafforza l'economia locale grazie all'effetto moltiplicatore keynesiano."
       }
     },
-    "onlymore": {
-      "title": "Gruppo ONLYMORE",
-      "subtitle": "Fase pre-seed"
+    "colhybri": {
+      "title": "COLHYBRI",
+      "subtitle": "Lanciato il 26/02/2026"
     }
   },
   "investors": {
@@ -206,7 +206,7 @@
       },
       {
         "q": "Chi c'è dietro COLHYBRI?",
-        "a": "COLHYBRI è stato creato dal gruppo ONLYMORE, guidato dal fondatore e CEO Florent Gibert."
+        "a": "COLHYBRI è stato creato e guidato dal fondatore e CEO Florent Gibert."
       },
       {
         "q": "Cos'è il moltiplicatore keynesiano?",
@@ -218,13 +218,13 @@
     "title": "Contatti",
     "headline": "Contattaci",
     "description": "Ti interessa COLHYBRI? Che tu sia un cittadino, un titolare di bottega, un amministratore comunale o un investitore, saremo lieti di parlare con te.",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.vision",
     "cta": "Invia Messaggio"
   },
   "footer": {
     "tagline": "Inclusione Finanziaria Attraverso il Commercio Locale",
     "quote": "«Sto facendo la mia parte.» — Leggenda dei Nativi Americani (Il Colibrì)",
-    "group": "Parte del gruppo ONLYMORE",
+    "group": "COLHYBRI — Lanciato il 26/02/2026",
     "copyright": "© 2026 COLHYBRI. Tutti i diritti riservati.",
     "links": {
       "about": "Chi Siamo",

@@ -160,7 +160,7 @@
   "ecosystem": {
     "title": "Ecossistema",
     "headline": "O Ecossistema COLHYBRI",
-    "description": "COLHYBRI faz parte do ONLYMORE Group, uma empresa de tecnologia dedicada à inclusão financeira através do comércio local. Nosso ecossistema conecta pessoas, comercios locais e governos municipais.",
+    "description": "COLHYBRI é uma plataforma tecnológica dedicada à inclusão financeira através do comércio local. Nosso ecossistema conecta pessoas, comércios locais e governos municipais.",
     "pillars": {
       "individuals": {
         "title": "Particulares",
@@ -175,9 +175,9 @@
         "description": "Fortaleça a economia local através do efeito multiplicador keynesiano."
       }
     },
-    "onlymore": {
-      "title": "Grupo ONLYMORE",
-      "subtitle": "Fase pre-seed"
+    "colhybri": {
+      "title": "COLHYBRI",
+      "subtitle": "Lançado em 26/02/2026"
     }
   },
   "investors": {
@@ -206,7 +206,7 @@
       },
       {
         "q": "Quem esta por tras do COLHYBRI?",
-        "a": "COLHYBRI foi criado pelo ONLYMORE Group, liderado pelo fundador e CEO Florent Gibert."
+        "a": "COLHYBRI foi criado e é liderado pelo fundador e CEO Florent Gibert."
       },
       {
         "q": "O que e o efeito multiplicador keynesiano?",
@@ -218,13 +218,13 @@
     "title": "Fale Conosco",
     "headline": "Entre em Contato",
     "description": "Interessado no COLHYBRI? Seja voce uma pessoa fisica, proprietario de comercio local, funcionario publico ou investidor, adorariamos ouvir voce.",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.vision",
     "cta": "Enviar Mensagem"
   },
   "footer": {
     "tagline": "Inclusao Financeira Atraves do Comercio Local",
     "quote": "\"Estou fazendo minha parte.\" — Lenda Indigena (O Beija-flor)",
-    "group": "Parte do ONLYMORE Group",
+    "group": "COLHYBRI — Lançado em 26/02/2026",
     "copyright": "© 2026 COLHYBRI. Todos os direitos reservados.",
     "links": {
       "about": "Sobre",
