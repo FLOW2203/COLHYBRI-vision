@@ -12,11 +12,14 @@
 
   html {
     scroll-behavior: smooth;
+    overflow-x: hidden;
+    scrollbar-gutter: stable;
   }
 
   body {
     @apply bg-colhybri-light text-colhybri-dark antialiased;
     font-feature-settings: 'kern' 1, 'liga' 1;
+    overflow-x: hidden;
   }
 
   h1, h2, h3, h4, h5, h6 {
