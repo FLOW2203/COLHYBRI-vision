@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — Inclusione Finanziaria Attraverso il Commercio Locale",
-    "description": "COLHYBRI collega le persone non bancarizzate alle botteghe locali tramite un abbonamento di 3€/mese, creando un ecosistema finanziario comunitario. Parte del gruppo ONLYMORE (12,5M€+ ARR, 520.000 clienti)."
+    "description": "COLHYBRI collega le persone non bancarizzate alle botteghe locali, creando un ecosistema finanziario comunitario."
   },
   "nav": {
     "home": "Home",
@@ -21,19 +21,17 @@
   },
   "hero": {
     "tagline": "Inclusione Finanziaria Attraverso il Commercio Locale",
-    "headline": "Ogni euro speso localmente crea 2,50€ di valore comunitario",
-    "subheadline": "COLHYBRI collega le persone non bancarizzate alle botteghe di quartiere tramite un semplice abbonamento di 3€/mese. Insieme, costruiamo l'inclusione finanziaria dal basso, partendo dall'economia di prossimità.",
+    "headline": "Ogni euro speso localmente rafforza la tua comunità",
+    "subheadline": "COLHYBRI collega le persone non bancarizzate alle botteghe di quartiere tramite un semplice abbonamento. Insieme, costruiamo l'inclusione finanziaria dal basso, partendo dall'economia di prossimità.",
     "cta": "Unisciti al Movimento",
     "ctaSecondary": "Scopri Come Funziona",
     "stats": {
-      "arr": "12,5M€+",
-      "arrLabel": "Ricavi Ricorrenti Annuali",
-      "clients": "520.000",
-      "clientsLabel": "Clienti Attivi",
-      "multiplier": "2,5x",
-      "multiplierLabel": "Moltiplicatore Keynesiano",
-      "price": "3€",
-      "priceLabel": "Al Mese"
+      "price": "\u2014",
+      "priceLabel": "Al Mese",
+      "stage": "Pre-seed",
+      "stageLabel": "Fase attuale",
+      "mission": "Inclusione finanziaria",
+      "missionLabel": "La nostra missione"
     }
   },
   "mission": {
@@ -43,7 +41,7 @@
     "pillars": {
       "inclusion": {
         "title": "Inclusione Finanziaria",
-        "description": "In Italia circa 1,2 milioni di persone sono non bancarizzate su una popolazione di 59 milioni di abitanti. COLHYBRI offre accesso conveniente ai servizi finanziari essenziali per soli 3€/mese — senza controllo del credito, senza saldo minimo."
+        "description": "In Italia molte persone sono non bancarizzate. COLHYBRI offre accesso conveniente ai servizi finanziari essenziali — senza controllo del credito, senza saldo minimo."
       },
       "commerce": {
         "title": "Commercio Locale",
@@ -51,7 +49,7 @@
       },
       "community": {
         "title": "Forza della Comunità",
-        "description": "Quando cittadini e botteghe si connettono tramite COLHYBRI, il denaro circola localmente. Ogni 1€ speso genera 2,50€ di attività economica locale."
+        "description": "Quando cittadini e botteghe si connettono tramite COLHYBRI, il denaro circola localmente. Il denaro circola localmente, rafforzando l'intera comunità."
       }
     }
   },
@@ -61,15 +59,15 @@
     "steps": {
       "subscribe": {
         "title": "Abbonati",
-        "description": "I cittadini si iscrivono per 3€/mese. Nessun controllo del credito, nessun conto bancario necessario. Accesso immediato alla rete finanziaria comunitaria COLHYBRI."
+        "description": "I cittadini si iscrivono con un semplice abbonamento. Nessun controllo del credito, nessun conto bancario necessario. Accesso immediato alla rete finanziaria comunitaria COLHYBRI."
       },
       "connect": {
         "title": "Connettiti Localmente",
-        "description": "Le botteghe aderiscono per 10€/mese e diventano centri finanziari comunitari. Offrono i servizi COLHYBRI accanto alla loro attività esistente."
+        "description": "Le botteghe aderiscono e diventano centri finanziari comunitari. Offrono i servizi COLHYBRI accanto alla loro attività esistente."
       },
       "thrive": {
         "title": "Cresciamo Insieme",
-        "description": "Ogni transazione si moltiplica. Il moltiplicatore keynesiano trasforma ogni abbonamento di 3€ in 7,50€ di valore economico locale."
+        "description": "Ogni transazione si moltiplica. Il moltiplicatore keynesiano amplifica ogni abbonamento in valore economico locale."
       }
     }
   },
@@ -78,7 +76,7 @@
     "headline": "Accessibile a Tutti",
     "individuals": {
       "title": "Per i Cittadini",
-      "price": "3€",
+      "price": "\u2014",
       "period": "/mese",
       "features": [
         "Accesso alla rete finanziaria locale",
@@ -92,7 +90,7 @@
     },
     "shops": {
       "title": "Per le Botteghe Locali",
-      "price": "10€",
+      "price": "\u2014",
       "period": "/mese",
       "features": [
         "Diventa un centro finanziario comunitario",
@@ -108,19 +106,19 @@
   "impact": {
     "title": "Impatto",
     "headline": "Il Moltiplicatore Keynesiano in Azione",
-    "description": "Ogni euro che circola localmente genera 2,5 volte il suo valore in attività economica. COLHYBRI convoglia la spesa nel commercio locale, creando posti di lavoro e rafforzando le comunità del Mezzogiorno e di tutta Italia.",
+    "description": "Ogni euro che circola localmente moltiplica il suo valore in attività economica. COLHYBRI convoglia la spesa nel commercio locale, creando posti di lavoro e rafforzando le comunità del Mezzogiorno e di tutta Italia.",
     "metrics": {
       "localValue": {
-        "value": "7,50€",
-        "label": "Generati da ogni abbonamento di 3€"
+        "value": "×2,5",
+        "label": "Moltiplicatore stimato del valore locale"
       },
       "jobsCreated": {
         "value": "1 posto di lavoro",
         "label": "Ogni 200 abbonati attivi in un quartiere"
       },
       "moneyLocal": {
-        "value": "68%",
-        "label": "Della spesa rimane nella comunità"
+        "value": "Significativo",
+        "label": "Parte della spesa resta nella comunità"
       }
     }
   },
@@ -140,66 +138,63 @@
   },
   "forIndividuals": {
     "title": "Per i Cittadini",
-    "headline": "La Libertà Finanziaria Inizia con 3€/Mese",
-    "description": "Non hai un conto in banca? Nessun problema. COLHYBRI ti dà accesso ai servizi finanziari essenziali attraverso le botteghe del tuo quartiere. Risparmia, spendi e costruisci il tuo futuro finanziario — tutto per 3€/mese."
+    "headline": "La Libertà Finanziaria Inizia Qui",
+    "description": "Non hai un conto in banca? Nessun problema. COLHYBRI ti dà accesso ai servizi finanziari essenziali attraverso le botteghe del tuo quartiere. Risparmia, spendi e costruisci il tuo futuro finanziario."
   },
   "forShops": {
     "title": "Per le Botteghe Locali",
     "headline": "La Tua Bottega, il Centro Finanziario della Tua Comunità",
-    "description": "Unisciti a COLHYBRI per 10€/mese e trasforma la tua attività in un centro finanziario comunitario. Aumenta il traffico in negozio, fidelizza i clienti e fai una vera differenza nel tuo quartiere."
+    "description": "Unisciti a COLHYBRI e trasforma la tua attività in un centro finanziario comunitario. Aumenta il traffico in negozio, fidelizza i clienti e fai una vera differenza nel tuo quartiere."
   },
   "forCities": {
     "title": "Per i Comuni",
     "headline": "Rivitalizza il Centro Storico con COLHYBRI",
     "description": "I comuni che collaborano con COLHYBRI registrano aumenti misurabili dell'attività economica locale. La nostra piattaforma rafforza il tessuto commerciale dei quartieri, dalle vie del Mezzogiorno ai borghi di tutta Italia, promuovendo al contempo l'inclusione finanziaria.",
     "benefits": {
-      "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
-      "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
-      "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
-      "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
+      "multiplier": "Aumento misurabile dell'attività economica locale grazie all'effetto moltiplicatore keynesiano",
+      "inclusion": "Promuovere gli obiettivi di inclusione finanziaria per i residenti non bancarizzati e sotto-bancarizzati",
+      "fabric": "Rafforzare il tessuto commerciale dei quartieri e sostenere le imprese locali",
+      "dashboard": "Dashboard di impatto in tempo reale per monitorare occupazione, spesa e crescita della comunità"
     }
   },
   "ecosystem": {
     "title": "Ecosistema",
     "headline": "L'Ecosistema COLHYBRI",
-    "description": "COLHYBRI fa parte del gruppo ONLYMORE, un'azienda tecnologica consolidata con oltre 12,5M€ di ricavi ricorrenti annuali e 520.000 clienti attivi. Il nostro ecosistema connette cittadini, botteghe locali e amministrazioni comunali.",
+    "description": "COLHYBRI è una piattaforma tecnologica dedicata all'inclusione finanziaria attraverso il commercio locale. Il nostro ecosistema connette cittadini, botteghe locali e amministrazioni comunali.",
     "pillars": {
       "individuals": {
         "title": "Privati",
-        "description": "Access essential financial services for $3/month through your neighborhood shops."
+        "description": "Accedi ai servizi finanziari essenziali attraverso i negozi del tuo quartiere."
       },
       "shops": {
         "title": "Negozi locali",
-        "description": "Become a community financial hub and increase your customer traffic."
+        "description": "Diventa un hub finanziario comunitario e aumenta il traffico dei tuoi clienti."
       },
       "cities": {
         "title": "Citta e governi",
-        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+        "description": "Rafforza l'economia locale grazie all'effetto moltiplicatore keynesiano."
       }
     },
-    "onlymore": {
-      "title": "Gruppo ONLYMORE",
-      "subtitle": "Un ecosistema collaudato",
-      "arr": "Ricavi ricorrenti annuali",
-      "clients": "Clienti attivi",
-      "multiplier": "Moltiplicatore keynesiano"
+    "colhybri": {
+      "title": "COLHYBRI",
+      "subtitle": "Lanciato il 26/02/2026"
     }
   },
   "investors": {
     "title": "Investitori",
     "headline": "Investi nell'Inclusione Finanziaria",
-    "description": "COLHYBRI unisce un modello economico collaudato (12,5M€+ ARR tramite il gruppo ONLYMORE) a un impatto sociale di grande portata. Cerchiamo partner che condividano la nostra visione di inclusione finanziaria attraverso il commercio locale e l'economia di prossimità."
+    "description": "COLHYBRI unisce un modello economico solido a un impatto sociale di grande portata. Cerchiamo partner che condividano la nostra visione di inclusione finanziaria attraverso il commercio locale e l'economia di prossimità."
   },
   "faq": {
     "title": "Domande Frequenti",
     "questions": [
       {
         "q": "Cos'è COLHYBRI?",
-        "a": "COLHYBRI è una piattaforma di inclusione finanziaria che collega le persone non bancarizzate alle botteghe locali tramite un abbonamento di 3€/mese. Crea un ecosistema finanziario comunitario dove il denaro circola localmente, generando 2,5 volte il suo valore economico grazie al moltiplicatore keynesiano."
+        "a": "COLHYBRI è una piattaforma di inclusione finanziaria che collega le persone non bancarizzate alle botteghe locali tramite un abbonamento accessibile. Crea un ecosistema finanziario comunitario dove il denaro circola localmente, rafforzando le economie locali grazie al moltiplicatore keynesiano."
       },
       {
         "q": "Quanto costa COLHYBRI?",
-        "a": "COLHYBRI costa 3€/mese per i cittadini e 10€/mese per le botteghe locali. Non ci sono costi nascosti, nessun controllo del credito e nessun requisito di saldo minimo."
+        "a": "I prezzi saranno annunciati presto. Non ci sono costi nascosti, nessun controllo del credito e nessun requisito di saldo minimo."
       },
       {
         "q": "Ho bisogno di un conto in banca per usare COLHYBRI?",
@@ -211,11 +206,11 @@
       },
       {
         "q": "Chi c'è dietro COLHYBRI?",
-        "a": "COLHYBRI è stato creato dal gruppo ONLYMORE, guidato dal fondatore e CEO Florent Gibert. Il gruppo ONLYMORE ha oltre 12,5M€ di ricavi ricorrenti annuali e serve 520.000 clienti attivi."
+        "a": "COLHYBRI è stato creato e guidato dal fondatore e CEO Florent Gibert."
       },
       {
         "q": "Cos'è il moltiplicatore keynesiano?",
-        "a": "Il moltiplicatore keynesiano descrive come il denaro speso localmente genera ulteriore attività economica. Con COLHYBRI, ogni abbonamento di 3€ crea circa 7,50€ di valore economico locale man mano che il denaro circola nella comunità."
+        "a": "Il moltiplicatore keynesiano descrive come il denaro speso localmente genera ulteriore attività economica. Con COLHYBRI, ogni abbonamento moltiplica il suo valore in attività economica locale man mano che il denaro circola nella comunità."
       }
     ]
   },
@@ -223,13 +218,13 @@
     "title": "Contatti",
     "headline": "Contattaci",
     "description": "Ti interessa COLHYBRI? Che tu sia un cittadino, un titolare di bottega, un amministratore comunale o un investitore, saremo lieti di parlare con te.",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.vision",
     "cta": "Invia Messaggio"
   },
   "footer": {
     "tagline": "Inclusione Finanziaria Attraverso il Commercio Locale",
     "quote": "«Sto facendo la mia parte.» — Leggenda dei Nativi Americani (Il Colibrì)",
-    "group": "Parte del gruppo ONLYMORE",
+    "group": "COLHYBRI — Lanciato il 26/02/2026",
     "copyright": "© 2026 COLHYBRI. Tutti i diritti riservati.",
     "links": {
       "about": "Chi Siamo",

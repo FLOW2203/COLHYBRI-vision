@@ -35,7 +35,7 @@ export const GEO_LEGENDS: Record<string, GeoLegend> = {
     titre: 'La légende du Colibri — chacun fait sa part',
     histoire: "Un jour, dit la légende amérindienne, il y eut un immense incendie de forêt. Tous les animaux terrifiés observaient le désastre, impuissants. Seul le petit colibri s'activait, allant chercher quelques gouttes d'eau dans son bec pour les jeter sur le feu. \"Que fais-tu ?\" lui demanda le tatou. \"Je fais ma part\", répondit le colibri. Cette histoire, popularisée en France par Pierre Rabhi, incarne l'esprit COLHYBRI : chaque geste compte, chaque euro investi localement crée un effet multiplicateur pour la communauté.",
     symbole: 'Le plus petit oiseau du monde qui, goutte après goutte, éteint l\'incendie de l\'exclusion financière.',
-    missionColhybri: "Comme le colibri, COLHYBRI prouve que 3€/mois suffisent pour créer 7,50€ de valeur locale. Chacun fait sa part — ensemble, nous éteignons l'incendie de l'exclusion.",
+    missionColhybri: "Comme le colibri, COLHYBRI prouve qu'un abonnement accessible suffit pour créer de la valeur locale. Chacun fait sa part — ensemble, nous éteignons l'incendie de l'exclusion.",
     colorPalette: {
       primary: '#00A878',
       secondary: '#FF6B35',
@@ -57,7 +57,7 @@ export const GEO_LEGENDS: Record<string, GeoLegend> = {
     titre: 'The Robin — steadfast guardian of community',
     histoire: "In British folklore, the robin redbreast is the bird that never abandons its territory, singing through the harshest winters when all other birds fall silent. Legend holds that the robin gained its red breast by pulling thorns from Christ's crown, staining its feathers with compassion. In Victorian England, postmen were called 'robins' for their red uniforms — the trusted messengers connecting isolated communities. The robin represents steadfast presence: small, brave, and always there when needed most.",
     symbole: 'The bird that sings through winter — never abandoning its community, however harsh the conditions.',
-    missionColhybri: 'Like the robin, COLHYBRI stays present in communities others have abandoned. £2.50/month connects underbanked residents to local commerce, singing through the winter of financial exclusion.',
+    missionColhybri: 'Like the robin, COLHYBRI stays present in communities others have abandoned. An affordable subscription connects underbanked residents to local commerce, singing through the winter of financial exclusion.',
     colorPalette: {
       primary: '#C41E3A',
       secondary: '#2E5090',
@@ -79,7 +79,7 @@ export const GEO_LEGENDS: Record<string, GeoLegend> = {
     titre: 'The Hummingbird — tireless engine of connection',
     histoire: "For the indigenous peoples of the Americas, the hummingbird is the sacred messenger between worlds. The Aztecs believed fallen warriors returned as hummingbirds — Huitzilopochtli, the sun god, wore a hummingbird helmet. In Cherokee tradition, the hummingbird brought tobacco (medicine) to the people when no other creature could make the journey. Despite weighing less than a nickel, hummingbirds migrate thousands of miles, their wings beating 80 times per second. They are nature's proof that the smallest can accomplish the impossible.",
     symbole: 'The smallest bird with the biggest heart — proof that tiny contributions create enormous impact.',
-    missionColhybri: "Like the hummingbird, COLHYBRI proves that $3/month can generate $7.50 in local value. Wings beating 80 times per second, we connect underbanked Americans to their local economy — one transaction at a time.",
+    missionColhybri: "Like the hummingbird, COLHYBRI proves that an affordable subscription can generate amplified local value. Wings beating 80 times per second, we connect underbanked Americans to their local economy — one transaction at a time.",
     colorPalette: {
       primary: '#00A878',
       secondary: '#FF6B35',
@@ -277,7 +277,7 @@ export const GEO_LEGENDS: Record<string, GeoLegend> = {
     titre: 'Le Tisserin et le Baobab — tisser la communauté fil après fil',
     histoire: "Dans toute l'Afrique subsaharienne, le tisserin est l'oiseau bâtisseur. Il construit les nids les plus élaborés du règne animal — tissés fil après fil, branche après branche, avec une patience infinie. Les tisserins construisent en colonies : des centaines de nids sur un même arbre, formant de véritables villages aériens. Le baobab, arbre de vie, est leur cathédrale. En Afrique de l'Ouest, on dit que le village commence là où le tisserin construit. Ubuntu — \"je suis parce que nous sommes\" — le tisserin en est l'incarnation ailée.",
     symbole: "L'oiseau qui tisse la communauté — fil après fil, nid après nid, un village entier naît.",
-    missionColhybri: "Comme le tisserin, COLHYBRI tisse l'inclusion financière fil après fil. 3€/mois, une transaction après l'autre — et c'est tout un village financier qui se construit. Ubuntu numérique.",
+    missionColhybri: "Comme le tisserin, COLHYBRI tisse l'inclusion financière fil après fil. Un abonnement accessible, une transaction après l'autre — et c'est tout un village financier qui se construit. Ubuntu numérique.",
     colorPalette: {
       primary: '#009639',
       secondary: '#FCD116',
@@ -295,7 +295,7 @@ export const GEO_LEGENDS: Record<string, GeoLegend> = {
 export const SOLIDARITY_THEME = {
   core: "Chaque légende incarne le même principe : le plus petit peut accomplir l'impossible quand il agit pour la communauté.",
   keynesian: 'Multiplicateur keynésien local : chaque unité monétaire investie via COLHYBRI génère ×2.5 de valeur dans le commerce de proximité.',
-  model: '3€/mois → 7,50€ de valeur locale → emplois, lien social, dignité financière.',
+  model: 'Abonnement accessible → valeur locale amplifiée → emplois, lien social, dignité financière.',
 } as const;
 
 // Helper : récupérer la légende pour un locale donné

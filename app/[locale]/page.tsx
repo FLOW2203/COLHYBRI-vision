@@ -66,18 +66,14 @@ export default function HomePage({ params: { locale } }: PageProps) {
           </div>
 
           {/* Stats */}
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-8 max-w-4xl mx-auto">
+          <div className="grid grid-cols-3 gap-8 max-w-3xl mx-auto">
             <AnimatedCounter
-              value={t('hero.stats.arr')}
-              label={t('hero.stats.arrLabel')}
+              value={t('hero.stats.stage')}
+              label={t('hero.stats.stageLabel')}
             />
             <AnimatedCounter
-              value={t('hero.stats.clients')}
-              label={t('hero.stats.clientsLabel')}
-            />
-            <AnimatedCounter
-              value={t('hero.stats.multiplier')}
-              label={t('hero.stats.multiplierLabel')}
+              value={t('hero.stats.mission')}
+              label={t('hero.stats.missionLabel')}
             />
             <AnimatedCounter
               value={t('hero.stats.price')}
@@ -300,7 +296,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
               &ldquo;I am doing my part.&rdquo;
             </p>
             <footer className="text-white/70">
-              — Florent Gibert, Founder &amp; CEO, ONLYMORE Group
+              — Florent Gibert, Founder &amp; CEO, COLHYBRI
             </footer>
           </blockquote>
           <a href="https://colhybri.vision" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-4 rounded-lg bg-white text-colhybri-primary font-bold text-lg hover:bg-white/90 transition-colors">

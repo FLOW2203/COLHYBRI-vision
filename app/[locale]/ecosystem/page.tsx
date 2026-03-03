@@ -17,7 +17,7 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
     routeKey: 'ecosystem',
     title: t('title'),
     description: t('description'),
-    semanticPrimary: 'COLHYBRI ecosystem ONLYMORE Group financial inclusion',
+    semanticPrimary: 'COLHYBRI ecosystem financial inclusion local commerce',
     semanticSecondary: 'individuals, local shops, city governments, community finance, digital third place',
     chunkType: 'page',
     audience: 'general, investors',
@@ -103,29 +103,20 @@ export default function EcosystemPage({ params: { locale } }: PageProps) {
         </div>
       </section>
 
-      {/* ONLYMORE Group */}
+      {/* COLHYBRI Launch */}
       <section className="bg-colhybri-dark text-white">
         <div className="section-container max-w-4xl mx-auto text-center">
           <p className="text-colhybri-primary font-semibold text-sm tracking-wide uppercase mb-4">
-            {t('onlymore.title')}
+            {t('colhybri.title')}
           </p>
           <h2 className="text-2xl sm:text-3xl font-bold mb-10">
-            {t('onlymore.subtitle')}
+            {t('colhybri.subtitle')}
           </h2>
-          <div className="grid sm:grid-cols-3 gap-8">
-            <div>
-              <div className="text-4xl sm:text-5xl font-extrabold text-colhybri-primary mb-2">$12.5M+</div>
-              <p className="text-white/60">{t('onlymore.arr')}</p>
-            </div>
-            <div>
-              <div className="text-4xl sm:text-5xl font-extrabold text-colhybri-secondary mb-2">520K</div>
-              <p className="text-white/60">{t('onlymore.clients')}</p>
-            </div>
-            <div>
-              <div className="text-4xl sm:text-5xl font-extrabold text-colhybri-primary mb-2">2.5x</div>
-              <p className="text-white/60">{t('onlymore.multiplier')}</p>
-            </div>
-          </div>
+          <p className="text-white/70 max-w-2xl mx-auto text-lg leading-relaxed">
+            {locale === 'fr'
+              ? "COLHYBRI construit l'inclusion financière par le commerce local, une communauté à la fois. Lancé le 26/02/2026."
+              : 'COLHYBRI is building financial inclusion through local commerce, one community at a time. Launched 26/02/2026.'}
+          </p>
         </div>
       </section>
 

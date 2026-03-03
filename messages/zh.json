@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — 通过本地商业实现金融普惠",
-    "description": "COLHYBRI 通过每月¥20的订阅服务，将金融服务不足的个人与本地商店连接起来，打造社区驱动的金融生态系统。隶属于 ONLYMORE Group（9000万元+ 年经常性收入，520,000 客户）。"
+    "description": "COLHYBRI 通过实惠的订阅服务，将金融服务不足的个人与本地商店连接起来，打造社区驱动的金融生态系统。"
   },
   "nav": {
     "home": "首页",
@@ -21,29 +21,27 @@
   },
   "hero": {
     "tagline": "通过本地商业实现金融普惠",
-    "headline": "您在本地消费的每一元，将创造¥2.50的社区价值",
-    "subheadline": "COLHYBRI 通过简单的每月¥20订阅服务，将金融服务不足的个人与社区商店连接起来。我们携手从基层构建金融普惠。",
+    "headline": "您在本地的每一次消费，都在增强社区的力量",
+    "subheadline": "COLHYBRI 通过实惠的订阅服务，将金融服务不足的个人与社区商店连接起来。我们携手从基层构建金融普惠。",
     "cta": "加入我们",
     "ctaSecondary": "了解运作方式",
     "stats": {
-      "arr": "9000万元+",
-      "arrLabel": "年经常性收入",
-      "clients": "520,000",
-      "clientsLabel": "活跃客户",
-      "multiplier": "2.5x",
-      "multiplierLabel": "凯恩斯乘数",
-      "price": "¥20",
-      "priceLabel": "每月"
+      "price": "\u2014",
+      "priceLabel": "即将公布",
+      "stage": "Pre-seed",
+      "stageLabel": "当前阶段",
+      "mission": "金融普惠",
+      "missionLabel": "我们的使命"
     }
   },
   "mission": {
     "title": "我们的使命",
     "headline": "尽自己的一份力 — 如蜂鸟一般",
-    "description": "在一个美洲原住民传说中，当森林燃烧时，蜂鸟一滴一滴地衔水灭火。当被问及为什么时，它回答道：\u201C我在尽自己的一份力。\u201D COLHYBRI 秉承这一精神 — 众人的微小行动汇聚成巨大的集体影响力。",
+    "description": "在一个美洲原住民传说中，当森林燃烧时，蜂鸟一滴一滴地衔水灭火。当被问及为什么时，它回答道：“我在尽自己的一份力。” COLHYBRI 秉承这一精神 — 众人的微小行动汇聚成巨大的集体影响力。",
     "pillars": {
       "inclusion": {
         "title": "金融普惠",
-        "description": "在中国，约有2亿人属于金融服务不足群体。COLHYBRI 仅需每月¥20即可提供基本金融服务 — 无需信用审查，无最低余额要求。"
+        "description": "在中国，许多人属于金融服务不足群体。COLHYBRI 以实惠的月费提供基本金融服务 — 无需信用审查，无最低余额要求。"
       },
       "commerce": {
         "title": "本地商业",
@@ -51,7 +49,7 @@
       },
       "community": {
         "title": "社区力量",
-        "description": "当个人和商店通过 COLHYBRI 连接时，资金在本地循环流通。每消费¥1即可产生¥2.50的本地经济活动。"
+        "description": "当个人和商店通过 COLHYBRI 连接时，资金在本地循环流通，促进本地经济活动。"
       }
     }
   },
@@ -61,15 +59,15 @@
     "steps": {
       "subscribe": {
         "title": "订阅",
-        "description": "个人用户每月仅需¥20即可加入。无需信用审查，无需银行账户。即刻接入 COLHYBRI 社区金融网络。"
+        "description": "个人用户以实惠的月费即可加入。无需信用审查，无需银行账户。即刻接入 COLHYBRI 社区金融网络。"
       },
       "connect": {
         "title": "本地连接",
-        "description": "商店每月¥65即可加入，成为社区金融枢纽。在经营现有业务的同时提供 COLHYBRI 服务。"
+        "description": "商店以实惠的月费即可加入，成为社区金融枢纽。在经营现有业务的同时提供 COLHYBRI 服务。"
       },
       "thrive": {
         "title": "共同繁荣",
-        "description": "每笔交易都会产生乘数效应。凯恩斯乘数将每¥20的订阅转化为¥50的本地经济价值。"
+        "description": "每笔交易都会产生乘数效应。凯恩斯乘数将订阅转化为更大的本地经济价值。"
       }
     }
   },
@@ -78,7 +76,7 @@
     "headline": "人人都能负担",
     "individuals": {
       "title": "个人用户",
-      "price": "¥20",
+      "price": "\u2014",
       "period": "/月",
       "features": [
         "接入本地金融网络",
@@ -92,7 +90,7 @@
     },
     "shops": {
       "title": "本地商店",
-      "price": "¥65",
+      "price": "\u2014",
       "period": "/月",
       "features": [
         "成为社区金融枢纽",
@@ -108,31 +106,31 @@
   "impact": {
     "title": "影响力",
     "headline": "凯恩斯乘数的实际效应",
-    "description": "在本地流通的每一元可产生2.5倍的经济活动价值。COLHYBRI 将消费引导至本地商业，创造就业机会并增强社区实力。",
+    "description": "在本地流通的每一元都能产生更大的经济活动价值。COLHYBRI 将消费引导至本地商业，创造就业机会并增强社区实力。",
     "metrics": {
       "localValue": {
-        "value": "¥50",
-        "label": "每¥20订阅产生的经济价值"
+        "value": "×2.5",
+        "label": "估计的本地价值乘数"
       },
       "jobsCreated": {
         "value": "1个岗位",
         "label": "每200名活跃订阅用户所在社区创造"
       },
       "moneyLocal": {
-        "value": "68%",
-        "label": "的消费留在社区内"
+        "value": "大部分",
+        "label": "消费留在社区内"
       }
     }
   },
   "miami": {
     "title": "2026年中国启动",
     "headline": "COLHYBRI 在中国启动 — 亚洲金融普惠的引擎",
-    "description": "在中国，约有2亿人金融服务不足。凭借成熟的数字支付生态系统和蓬勃发展的社区商业，中国是 COLHYBRI 使命的理想起点。",
+    "description": "在中国，许多人金融服务不足。凭借成熟的数字支付生态系统和蓬勃发展的社区商业，中国是 COLHYBRI 使命的理想起点。",
     "whyMiami": {
       "title": "为什么选择中国？",
       "reasons": [
-        "约2亿人金融服务不足",
-        "14亿人口 — 世界最大的消费市场，社区商业蓬勃发展",
+        "许多人金融服务不足",
+        "世界最大的消费市场之一，社区商业蓬勃发展",
         "数字支付生态系统成熟，社区商业和普惠金融传统深厚",
         "亚洲经济引擎 — 辐射全球的商业网络"
       ]
@@ -140,66 +138,63 @@
   },
   "forIndividuals": {
     "title": "个人用户",
-    "headline": "每月¥20，开启财务自由",
-    "description": "没有银行账户？没问题。COLHYBRI 通过您社区的商店为您提供基本金融服务。储蓄、消费、构建您的财务未来 — 每月仅需¥20。"
+    "headline": "财务自由从这里开始",
+    "description": "没有银行账户？没问题。COLHYBRI 通过您社区的商店为您提供基本金融服务。储蓄、消费、构建您的财务未来 — 以实惠的月费。"
   },
   "forShops": {
     "title": "本地商店",
     "headline": "您的商店，社区的金融枢纽",
-    "description": "以每月¥65加入 COLHYBRI，将您的商店打造为社区金融中心。增加客流量、建立客户忠诚度，为您的社区带来真正的改变。"
+    "description": "以实惠的月费加入 COLHYBRI，将您的商店打造为社区金融中心。增加客流量、建立客户忠诚度，为您的社区带来真正的改变。"
   },
   "forCities": {
     "title": "城市合作",
     "headline": "携手 COLHYBRI 振兴商业街",
     "description": "与 COLHYBRI 合作的城市可以看到本地经济活动的显著增长。我们的平台在推进金融普惠目标的同时，加强社区的商业基础。",
     "benefits": {
-      "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
-      "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
-      "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
-      "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
+      "multiplier": "通过凯恩斯乘数效应实现本地经济活动的可衡量增长",
+      "inclusion": "推进金融服务不足和无银行账户居民的金融普惠目标",
+      "fabric": "加强社区商业结构，支持本地企业",
+      "dashboard": "实时影响力仪表盘，追踪就业、消费和社区增长"
     }
   },
   "ecosystem": {
     "title": "生态系统",
     "headline": "COLHYBRI 生态系统",
-    "description": "COLHYBRI 隶属于 ONLYMORE Group，这是一家经过验证的科技公司，拥有9000万元+的年经常性收入和520,000名活跃客户。我们的生态系统连接个人、本地商店和城市政府。",
+    "description": "COLHYBRI 是一个致力于通过本地商业实现金融普惠的科技平台。我们的生态系统连接个人、本地商店和城市政府。",
     "pillars": {
       "individuals": {
         "title": "个人用户",
-        "description": "Access essential financial services for $3/month through your neighborhood shops."
+        "description": "通过您社区的商店获取基本金融服务。"
       },
       "shops": {
         "title": "本地商户",
-        "description": "Become a community financial hub and increase your customer traffic."
+        "description": "成为社区金融枢纽，增加客流量。"
       },
       "cities": {
         "title": "城市与政府",
-        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+        "description": "通过凯恩斯乘数效应增强本地经济。"
       }
     },
-    "onlymore": {
-      "title": "ONLYMORE集团",
-      "subtitle": "经过验证的生态系统",
-      "arr": "年度经常性收入",
-      "clients": "活跃客户",
-      "multiplier": "凯恩斯乘数"
+    "colhybri": {
+      "title": "COLHYBRI",
+      "subtitle": "于2026年2月26日上线"
     }
   },
   "investors": {
     "title": "投资者",
     "headline": "投资金融普惠事业",
-    "description": "COLHYBRI 将经过验证的单位经济模型（ONLYMORE Group 9000万元+ 年经常性收入）与巨大的社会影响力相结合。我们正在寻找与我们共享通过本地商业实现金融普惠愿景的合作伙伴。"
+    "description": "COLHYBRI 将经过验证的商业模式与巨大的社会影响力相结合。我们正在寻找与我们共享通过本地商业实现金融普惠愿景的合作伙伴。"
   },
   "faq": {
     "title": "常见问题",
     "questions": [
       {
         "q": "什么是 COLHYBRI？",
-        "a": "COLHYBRI 是一个金融普惠平台，通过每月¥20的订阅服务将金融服务不足的个人与本地商店连接起来。它创建了一个社区驱动的金融生态系统，让资金在本地循环流通，通过凯恩斯乘数效应产生2.5倍的经济价值。"
+        "a": "COLHYBRI 是一个金融普惠平台，通过实惠的订阅服务将金融服务不足的个人与本地商店连接起来。它创建了一个社区驱动的金融生态系统，让资金在本地循环流通，通过凯恩斯乘数效应促进本地经济。"
       },
       {
         "q": "COLHYBRI 费用是多少？",
-        "a": "COLHYBRI 个人用户每月¥20，本地商店每月¥65。没有隐藏费用，无需信用审查，无最低余额要求。"
+        "a": "COLHYBRI 为个人用户和本地商店提供实惠的月费方案。价格即将公布。没有隐藏费用，无需信用审查，无最低余额要求。"
       },
       {
         "q": "使用 COLHYBRI 需要银行账户吗？",
@@ -211,11 +206,11 @@
       },
       {
         "q": "COLHYBRI 背后是谁？",
-        "a": "COLHYBRI 由 ONLYMORE Group 创建，由创始人兼首席执行官 Florent Gibert 领导。ONLYMORE Group 拥有9000万元+的年经常性收入，服务520,000名活跃客户。"
+        "a": "COLHYBRI 由创始人兼首席执行官 Florent Gibert 创建并领导。"
       },
       {
         "q": "什么是凯恩斯乘数效应？",
-        "a": "凯恩斯乘数描述了在本地消费的资金如何产生额外的经济活动。通过 COLHYBRI，每¥20的订阅可在社区中产生约¥50的本地经济价值，因为资金在社区内持续循环流通。"
+        "a": "凯恩斯乘数描述了在本地消费的资金如何产生额外的经济活动。通过 COLHYBRI，订阅费用在社区内持续循环流通，从而增强本地经济价值。"
       }
     ]
   },
@@ -223,13 +218,13 @@
     "title": "联系我们",
     "headline": "取得联系",
     "description": "对 COLHYBRI 感兴趣？无论您是个人用户、本地商店店主、城市官员还是投资者，我们都期待您的来信。",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.vision",
     "cta": "发送消息"
   },
   "footer": {
     "tagline": "通过本地商业实现金融普惠",
-    "quote": "\u201C我在尽自己的一份力。\u201D — 美洲原住民传说（蜂鸟）",
-    "group": "隶属于 ONLYMORE Group",
+    "quote": "“我在尽自己的一份力。” — 美洲原住民传说（蜂鸟）",
+    "group": "COLHYBRI — 于2026年2月26日上线",
     "copyright": "© 2026 COLHYBRI. 保留所有权利。",
     "links": {
       "about": "关于我们",

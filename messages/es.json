@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "COLHYBRI — Inclusión financiera a través del comercio local",
-    "description": "COLHYBRI conecta a personas no bancarizadas con comercios locales a través de una suscripción de 3€/mes, creando un ecosistema financiero comunitario. Parte de ONLYMORE Group (12,5M€+ ARR, 520.000 clientes)."
+    "description": "COLHYBRI conecta a personas no bancarizadas con comercios locales a través de una suscripción mensual accesible, creando un ecosistema financiero comunitario."
   },
   "nav": {
     "home": "Inicio",
@@ -21,19 +21,17 @@
   },
   "hero": {
     "tagline": "Inclusión financiera a través del comercio local",
-    "headline": "Cada euro gastado localmente genera 2,50€ en valor comunitario",
-    "subheadline": "COLHYBRI conecta a personas no bancarizadas con comercios de barrio a través de una simple suscripción de 3€/mes. Juntos, construimos la inclusión financiera desde la base.",
+    "headline": "Cada euro gastado localmente fortalece tu comunidad",
+    "subheadline": "COLHYBRI conecta a personas no bancarizadas con comercios de barrio a través de una suscripción simple y accesible. Juntos, construimos la inclusión financiera desde la base.",
     "cta": "Únete al Movimiento",
     "ctaSecondary": "Cómo Funciona",
     "stats": {
-      "arr": "12,5M€+",
-      "arrLabel": "Ingresos Recurrentes Anuales",
-      "clients": "520.000",
-      "clientsLabel": "Clientes Activos",
-      "multiplier": "2.5x",
-      "multiplierLabel": "Multiplicador Keynesiano",
-      "price": "3€",
-      "priceLabel": "Por Mes"
+      "price": "\u2014",
+      "priceLabel": "Próximamente",
+      "stage": "Pre-seed",
+      "stageLabel": "Fase actual",
+      "mission": "Inclusión financiera",
+      "missionLabel": "Nuestra misión"
     }
   },
   "mission": {
@@ -43,7 +41,7 @@
     "pillars": {
       "inclusion": {
         "title": "Inclusión Financiera",
-        "description": "En España, unas 800.000 personas no tienen acceso bancario adecuado. COLHYBRI proporciona acceso asequible a servicios financieros esenciales por solo 3€/mes — sin verificación de crédito, sin saldo mínimo."
+        "description": "En España, muchas personas no tienen acceso bancario adecuado. COLHYBRI proporciona acceso asequible a servicios financieros esenciales — sin verificación de crédito, sin saldo mínimo."
       },
       "commerce": {
         "title": "Comercio Local",
@@ -51,7 +49,7 @@
       },
       "community": {
         "title": "Poder Comunitario",
-        "description": "Cuando individuos y comercios se conectan a través de COLHYBRI, el dinero circula localmente. Cada 1€ gastado genera 2,50€ en actividad económica local."
+        "description": "Cuando individuos y comercios se conectan a través de COLHYBRI, el dinero circula localmente. El dinero circula localmente, fortaleciendo toda la comunidad."
       }
     }
   },
@@ -61,15 +59,15 @@
     "steps": {
       "subscribe": {
         "title": "Suscríbete",
-        "description": "Los individuos se unen por 3€/mes. Sin verificación de crédito, sin cuenta bancaria necesaria. Acceso instantáneo a la red financiera comunitaria COLHYBRI."
+        "description": "Los individuos se unen por una cuota mensual accesible. Sin verificación de crédito, sin cuenta bancaria necesaria. Acceso instantáneo a la red financiera comunitaria COLHYBRI."
       },
       "connect": {
         "title": "Conéctate Localmente",
-        "description": "Los comercios se unen por 10€/mes y se convierten en centros financieros comunitarios. Ofrecen servicios COLHYBRI junto a su negocio existente."
+        "description": "Los comercios se unen y se convierten en centros financieros comunitarios."
       },
       "thrive": {
         "title": "Prosperamos Juntos",
-        "description": "Cada transacción se multiplica. El multiplicador keynesiano convierte cada suscripción de 3€ en 7,50€ de valor económico local."
+        "description": "Cada transacción fortalece la economía local. El dinero circulando localmente multiplica su impacto gracias al multiplicador keynesiano."
       }
     }
   },
@@ -78,7 +76,7 @@
     "headline": "Accesible para Todos",
     "individuals": {
       "title": "Para Individuos",
-      "price": "3€",
+      "price": "\u2014",
       "period": "/mes",
       "features": [
         "Acceso a red financiera local",
@@ -92,7 +90,7 @@
     },
     "shops": {
       "title": "Para Comercios Locales",
-      "price": "10€",
+      "price": "\u2014",
       "period": "/mes",
       "features": [
         "Conviértete en centro financiero comunitario",
@@ -108,31 +106,31 @@
   "impact": {
     "title": "Impacto",
     "headline": "El Multiplicador Keynesiano en Acción",
-    "description": "Cada euro que circula localmente genera 2,5 veces su valor en actividad económica. COLHYBRI canaliza el gasto hacia el comercio local, creando empleos y fortaleciendo comunidades.",
+    "description": "Cada euro que circula localmente multiplica su valor en actividad económica. COLHYBRI canaliza el gasto hacia el comercio local, creando empleos y fortaleciendo comunidades.",
     "metrics": {
       "localValue": {
-        "value": "7,50€",
-        "label": "Generados por cada suscripción de 3€"
+        "value": "×2,5",
+        "label": "Multiplicador estimado de valor local"
       },
       "jobsCreated": {
         "value": "1 empleo",
         "label": "Por cada 200 suscriptores activos en un barrio"
       },
       "moneyLocal": {
-        "value": "68%",
-        "label": "Del gasto se queda en la comunidad"
+        "value": "Significativo",
+        "label": "Parte del gasto se queda en la comunidad"
       }
     }
   },
   "miami": {
     "title": "Lanzamiento España 2026",
     "headline": "COLHYBRI se Lanza en España — La Puerta de Europa hacia la Inclusión Financiera",
-    "description": "En España, unas 800.000 personas no tienen acceso bancario adecuado. Con su fuerte tradición de comercio de proximidad y su arraigada red de cajas de ahorro, España es la plataforma de lanzamiento perfecta para la misión de COLHYBRI.",
+    "description": "En España, muchas personas no tienen acceso bancario adecuado. Con su fuerte tradición de comercio de proximidad y su arraigada red de cajas de ahorro, España es la plataforma de lanzamiento perfecta para la misión de COLHYBRI.",
     "whyMiami": {
       "title": "¿Por qué España?",
       "reasons": [
-        "Unas 800.000 personas sin acceso bancario adecuado en España",
-        "48 millones de habitantes — fuerte tradición de comercio de proximidad",
+        "Muchas personas sin acceso bancario adecuado en España",
+        "Fuerte tradición de comercio de proximidad",
         "Red de cajas de ahorro y cooperativas de crédito arraigada en la cultura española",
         "Puerta de entrada al mundo hispanohablante — camino natural hacia América Latina"
       ]
@@ -140,66 +138,63 @@
   },
   "forIndividuals": {
     "title": "Para Individuos",
-    "headline": "La Libertad Financiera Comienza con 3€/Mes",
-    "description": "¿Sin cuenta bancaria? No hay problema. COLHYBRI te da acceso a servicios financieros esenciales a través de los comercios de tu barrio. Ahorra, gasta y construye tu futuro financiero — todo por 3€/mes."
+    "headline": "La Libertad Financiera Comienza Aquí",
+    "description": "¿Sin cuenta bancaria? No hay problema. COLHYBRI te da acceso a servicios financieros esenciales a través de los comercios de tu barrio. Ahorra, gasta y construye tu futuro financiero — todo con una suscripción accesible."
   },
   "forShops": {
     "title": "Para Comercios Locales",
     "headline": "Tu Comercio, el Centro Financiero de tu Comunidad",
-    "description": "Únete a COLHYBRI por 10€/mes y transforma tu negocio en un centro financiero comunitario. Aumenta el tráfico de clientes, fideliza y marca una diferencia real en tu barrio."
+    "description": "Únete a COLHYBRI y transforma tu negocio en un centro financiero comunitario. Aumenta el tráfico de clientes, fideliza y marca una diferencia real en tu barrio."
   },
   "forCities": {
     "title": "Para Ciudades",
     "headline": "Revitaliza tu Centro Urbano con COLHYBRI",
     "description": "Las ciudades que se asocian con COLHYBRI ven aumentos medibles en la actividad económica local. Nuestra plataforma fortalece el tejido comercial de los barrios mientras avanza en los objetivos de inclusión financiera.",
     "benefits": {
-      "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
-      "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
-      "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
-      "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
+      "multiplier": "Aumento medible de la actividad económica local gracias al efecto multiplicador keynesiano",
+      "inclusion": "Avanzar en los objetivos de inclusión financiera para residentes sub-bancarizados",
+      "fabric": "Fortalecer el tejido comercial de los barrios y apoyar los comercios locales",
+      "dashboard": "Panel de impacto en tiempo real: empleos, gastos y crecimiento comunitario"
     }
   },
   "ecosystem": {
     "title": "Ecosistema",
     "headline": "El Ecosistema COLHYBRI",
-    "description": "COLHYBRI es parte de ONLYMORE Group, una empresa tecnológica probada con más de 12,5M€ en ingresos recurrentes anuales y 520.000 clientes activos. Nuestro ecosistema conecta individuos, comercios locales y gobiernos municipales.",
+    "description": "COLHYBRI es una plataforma tecnológica dedicada a la inclusión financiera a través del comercio local. Nuestro ecosistema conecta individuos, comercios locales y gobiernos municipales.",
     "pillars": {
       "individuals": {
         "title": "Particulares",
-        "description": "Access essential financial services for $3/month through your neighborhood shops."
+        "description": "Accede a servicios financieros esenciales a través de los comercios de tu barrio."
       },
       "shops": {
         "title": "Comercios locales",
-        "description": "Become a community financial hub and increase your customer traffic."
+        "description": "Conviértete en un hub financiero comunitario y aumenta tu tráfico de clientes."
       },
       "cities": {
         "title": "Ciudades y gobiernos",
-        "description": "Strengthen your local economy with a 2.5x Keynesian multiplier effect."
+        "description": "Fortalece la economía local gracias al efecto multiplicador keynesiano."
       }
     },
-    "onlymore": {
-      "title": "Grupo ONLYMORE",
-      "subtitle": "Un ecosistema probado",
-      "arr": "Ingresos recurrentes anuales",
-      "clients": "Clientes activos",
-      "multiplier": "Multiplicador keynesiano"
+    "colhybri": {
+      "title": "COLHYBRI",
+      "subtitle": "Lanzado el 26/02/2026"
     }
   },
   "investors": {
     "title": "Inversores",
     "headline": "Invierte en la Inclusión Financiera",
-    "description": "COLHYBRI combina una economía unitaria probada (12,5M€+ ARR en ONLYMORE Group) con un impacto social masivo. Buscamos socios que compartan nuestra visión de inclusión financiera a través del comercio local."
+    "description": "COLHYBRI combina un modelo económico sólido con un impacto social masivo. Buscamos socios que compartan nuestra visión de inclusión financiera a través del comercio local."
   },
   "faq": {
     "title": "Preguntas Frecuentes",
     "questions": [
       {
         "q": "¿Qué es COLHYBRI?",
-        "a": "COLHYBRI es una plataforma de inclusión financiera que conecta a personas no bancarizadas con comercios locales a través de una suscripción de 3€/mes. Crea un ecosistema financiero comunitario donde el dinero circula localmente, generando 2,5 veces su valor económico mediante el efecto multiplicador keynesiano."
+        "a": "COLHYBRI es una plataforma de inclusión financiera que conecta a personas no bancarizadas con comercios locales a través de una suscripción accesible. Crea un ecosistema financiero comunitario donde el dinero circula localmente, fortaleciendo las economías locales mediante el efecto multiplicador keynesiano."
       },
       {
         "q": "¿Cuánto cuesta COLHYBRI?",
-        "a": "COLHYBRI cuesta 3€/mes para individuos y 10€/mes para comercios locales. No hay costos ocultos, ni verificación de crédito, ni requisitos de saldo mínimo."
+        "a": "Los precios se anunciarán próximamente. COLHYBRI está diseñado para ser accesible para individuos y comercios locales. No habrá costos ocultos, ni verificación de crédito, ni requisitos de saldo mínimo."
       },
       {
         "q": "¿Necesito una cuenta bancaria para usar COLHYBRI?",
@@ -211,11 +206,11 @@
       },
       {
         "q": "¿Quién está detrás de COLHYBRI?",
-        "a": "COLHYBRI es creado por ONLYMORE Group, liderado por el fundador y CEO Florent Gibert. ONLYMORE Group tiene más de 12,5M€ en ingresos recurrentes anuales y atiende a 520.000 clientes activos."
+        "a": "COLHYBRI es creado y liderado por el fundador y CEO Florent Gibert."
       },
       {
         "q": "¿Qué es el efecto multiplicador keynesiano?",
-        "a": "El multiplicador keynesiano describe cómo el dinero gastado localmente genera actividad económica adicional. Con COLHYBRI, cada suscripción de 3€ crea aproximadamente 7,50€ en valor económico local a medida que el dinero circula por la comunidad."
+        "a": "El multiplicador keynesiano describe cómo el dinero gastado localmente genera actividad económica adicional. Con COLHYBRI, cada suscripción crea un valor económico local multiplicado a medida que el dinero circula por la comunidad."
       }
     ]
   },
@@ -223,13 +218,13 @@
     "title": "Contáctanos",
     "headline": "Ponte en Contacto",
     "description": "¿Interesado en COLHYBRI? Ya seas un individuo, dueño de un comercio local, funcionario municipal o inversor, nos encantaría saber de ti.",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.vision",
     "cta": "Enviar Mensaje"
   },
   "footer": {
     "tagline": "Inclusión financiera a través del comercio local",
     "quote": "\"Estoy haciendo mi parte.\" — Leyenda amerindia (El Colibrí)",
-    "group": "Parte de ONLYMORE Group",
+    "group": "COLHYBRI — Lanzado el 26/02/2026",
     "copyright": "© 2026 COLHYBRI. Todos los derechos reservados.",
     "links": {
       "about": "Acerca de",

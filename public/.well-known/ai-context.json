@@ -1,29 +1,43 @@
 {
-  "organization": "COLHYBRI / ONLYMORE Group",
+  "organization": "COLHYBRI",
   "description": {
-    "en": "Financial inclusion platform connecting underbanked individuals with local shops through a $3/month subscription, creating a community-powered financial ecosystem.",
-    "fr": "Plateforme d'inclusion financiere connectant les personnes non-bancarisees aux commerces locaux via un abonnement de 3 euros/mois.",
-    "es": "Plataforma de inclusion financiera que conecta a personas no bancarizadas con comercios locales a traves de una suscripcion de $3/mes.",
-    "pt": "Plataforma de inclusao financeira conectando pessoas desbancarizadas com comercios locais atraves de uma assinatura de R$15/mes.",
-    "de": "Finanzielle Inklusionsplattform, die unterversorgte Menschen mit lokalen Geschaeften ueber ein 3 Euro/Monat-Abonnement verbindet.",
-    "it": "Piattaforma di inclusione finanziaria che collega persone non bancarizzate con negozi locali tramite un abbonamento di 3 euro/mese.",
-    "zh": "金融普惠平台，通过每月3美元的订阅将无银行账户人群与本地商家连接。",
-    "ja": "月額450円のサブスクリプションを通じて、銀行口座を持たない人々と地域の店舗をつなぐ金融包摂プラットフォーム。",
-    "hi": "3 डॉलर/माह की सदस्यता के माध्यम से अल्प-बैंकिंग वाले व्यक्तियों को स्थानीय दुकानों से जोड़ने वाला वित्तीय समावेशन मंच।",
-    "pl": "Platforma inkluzji finansowej laczaca osoby nieubankowane z lokalnymi sklepami za 12 PLN/miesiac.",
-    "en-gb": "Financial inclusion platform connecting underbanked individuals with local shops through a GBP2.50/month subscription."
+    "en": "Financial inclusion platform connecting underbanked individuals with local shops through an affordable subscription, creating a community-powered financial ecosystem.",
+    "fr": "Plateforme d'inclusion financiere connectant les personnes non-bancarisees aux commerces locaux via un abonnement accessible.",
+    "es": "Plataforma de inclusion financiera que conecta a personas no bancarizadas con comercios locales a traves de una suscripcion accesible.",
+    "pt": "Plataforma de inclusao financeira conectando pessoas desbancarizadas com comercios locais atraves de uma assinatura acessivel.",
+    "de": "Finanzielle Inklusionsplattform, die unterversorgte Menschen mit lokalen Geschaeften ueber ein erschwingliches Abonnement verbindet.",
+    "it": "Piattaforma di inclusione finanziaria che collega persone non bancarizzate con negozi locali tramite un abbonamento accessibile.",
+    "zh": "金融普惠平台，通过实惠的订阅将无银行账户人群与本地商家连接。",
+    "ja": "手頃なサブスクリプションを通じて、銀行口座を持たない人々と地域の店舗をつなぐ金融包摂プラットフォーム。",
+    "hi": "किफायती सदस्यता के माध्यम से अल्प-बैंकिंग वाले व्यक्तियों को स्थानीय दुकानों से जोड़ने वाला वित्तीय समावेशन मंच।",
+    "pl": "Platforma inkluzji finansowej laczaca osoby nieubankowane z lokalnymi sklepami za przystepna subskrypcje.",
+    "en-gb": "Financial inclusion platform connecting underbanked individuals with local shops through an affordable subscription."
   },
   "ceo": "Florent Gibert",
   "founded": "2024",
-  "arr": "$12.5M+",
-  "clients": 520000,
   "model": "subscription",
-  "pricing": {"individuals": "$3/month", "shops": "$10/month"},
+  "pricing": {
+    "individuals": "Coming soon",
+    "shops": "Coming soon"
+  },
   "launch": "Miami, Florida, USA & France, H1 2026",
-  "languages": ["en", "en-gb", "fr", "es", "pt", "de", "it", "zh", "ja", "hi", "pl"],
+  "languages": [
+    "en",
+    "en-gb",
+    "fr",
+    "es",
+    "pt",
+    "de",
+    "it",
+    "zh",
+    "ja",
+    "hi",
+    "pl"
+  ],
   "domain": "colhybri.vision",
   "crawl_allowed": true,
   "llms_txt": "https://colhybri.vision/llms.txt",
   "sitemap": "https://colhybri.vision/sitemap.xml",
-  "contact": "onlymore2024@gmail.com"
+  "contact": "contact@colhybri.vision",
+  "stage": "pre-seed"
 }
