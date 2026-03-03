@@ -592,19 +592,20 @@ Format: utilise des sections claires avec emoji. Max 400 mots.`;
     setAiResponse("");
 
     try {
-      const res = await fetch("https://api.anthropic.com/v1/messages", {
+      const res = await fetch("/api/agent", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          model: "claude-sonnet-4-20250514",
-          max_tokens: 1000,
           system: systemPrompt,
           messages: [{ role: "user", content: userQuery }],
         }),
       });
       const data = await res.json();
-      const text = data.content?.map((b: { text?: string }) => b.text || "").join("") || "Erreur agent.";
-      setAiResponse(text);
+      if (!res.ok) {
+        setAiResponse(`❌ Erreur: ${data.error || "Erreur serveur"}`);
+      } else {
+        setAiResponse(data.text || "Erreur agent.");
+      }
     } catch {
       setAiResponse("❌ Erreur de connexion avec l'agent.");
     }
