@@ -275,5 +275,40 @@
     "getStarted": "Commencer",
     "contactUs": "Nous contacter",
     "backToHome": "Retour à l'accueil"
+  },
+  "city": {
+    "metaTitle": "COLHYBRI a {city} — Commerce local & inclusion financiere",
+    "metaDescription": "COLHYBRI renforce le commerce local a {city}, {region}. Rejoignez le mouvement d'inclusion financiere dans votre quartier.",
+    "heroTitle": "COLHYBRI a {city}",
+    "heroDescription": "{city} et ses {population} habitants meritent des services financiers accessibles. COLHYBRI connecte les personnes non-bancarisees aux commerces de quartier pour batir une economie communautaire.",
+    "ctaJoin": "Rejoindre le mouvement",
+    "ctaLearnMore": "En savoir plus",
+    "whyTitle": "Pourquoi {city} ?",
+    "statPopulation": "Habitants",
+    "statShopsValue": "1000+",
+    "statShops": "Commerces locaux",
+    "statMultiplierValue": "\u00d72,5",
+    "statMultiplier": "Multiplicateur keynesien",
+    "benefitsTitle": "Benefices pour le commerce local",
+    "benefit1Title": "Inclusion financiere",
+    "benefit1Description": "Donnez aux residents non-bancarises de {city} un acces aux services financiers essentiels via les commerces de quartier.",
+    "benefit2Title": "Multiplicateur keynesien",
+    "benefit2Description": "Chaque euro depense localement a {city} multiplie son impact economique dans la communaute.",
+    "benefit3Title": "Hub communautaire",
+    "benefit3Description": "Les commerces locaux de {city} deviennent des tiers-lieux numeriques — ou la finance rencontre la communaute.",
+    "benefit4Title": "Tableau de bord d'impact",
+    "benefit4Description": "Suivez l'impact economique en temps reel : emplois crees, argent circulant localement a {city}.",
+    "ctaTitle": "Pret a transformer {city} ?",
+    "ctaDescription": "Rejoignez COLHYBRI et construisez l'inclusion financiere dans votre quartier.",
+    "ctaButton": "Nous contacter"
+  },
+  "games": {
+    "title": "Jeux COLHYBRI",
+    "subtitle": "Jouez, apprenez et decouvrez la puissance du commerce local. Chaque geste compte !",
+    "iframeTitle": "Mini-jeux COLHYBRI",
+    "loading": "Chargement des jeux...",
+    "ctaTitle": "Chaque geste compte. Le votre aussi.",
+    "ctaDescription": "Pret a faire une vraie difference ? Rejoignez COLHYBRI et transformez votre communaute.",
+    "ctaButton": "S'inscrire maintenant"
   }
 }

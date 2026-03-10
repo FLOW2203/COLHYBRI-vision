@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import type { Locale } from '@/i18n';
-import { generatePageMetadata } from '@/lib/metadata';
+import { generatePageMetadata, generateArticleJsonLd } from '@/lib/metadata';
 import { getLocalizedPath, BASE_URL } from '@/lib/navigation';
 import { JsonLd } from '@/components/JsonLd';
 
@@ -344,30 +344,14 @@ export default function BlogArticlePage({ params: { locale, slug } }: PageProps)
     );
   }
 
-  const articleJsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'Article',
-    headline: article.title,
-    inLanguage: locale,
-    author: {
-      '@type': 'Organization',
-      name: 'COLHYBRI',
-    },
-    publisher: {
-      '@type': 'Organization',
-      name: 'COLHYBRI',
-      url: BASE_URL,
-    },
-    about: {
-      '@type': 'Thing',
-      name: 'Financial Inclusion',
-      sameAs: 'https://en.wikipedia.org/wiki/Financial_inclusion',
-    },
-    mentions: [
-      { '@type': 'Organization', name: 'COLHYBRI' },
-      { '@type': 'Person', name: 'Florent Gibert' },
-    ],
-  };
+  const articleJsonLd = generateArticleJsonLd({
+    locale: l,
+    title: article.title,
+    description: article.content[0]?.substring(0, 160) || '',
+    slug,
+    datePublished: '2026-02-26',
+    category: 'Financial Inclusion',
+  });
 
   return (
     <>

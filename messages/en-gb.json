@@ -275,5 +275,40 @@
     "getStarted": "Get Started",
     "contactUs": "Contact Us",
     "backToHome": "Back to Home"
+  },
+  "city": {
+    "metaTitle": "COLHYBRI in {city} — Local Commerce & Financial Inclusion",
+    "metaDescription": "COLHYBRI strengthens local commerce in {city}, {region}. Join the financial inclusion movement in your neighbourhood.",
+    "heroTitle": "COLHYBRI in {city}",
+    "heroDescription": "{city} and its {population} inhabitants deserve accessible financial services. COLHYBRI connects underbanked residents with local shops to build a community-powered economy.",
+    "ctaJoin": "Join the Movement",
+    "ctaLearnMore": "Learn More",
+    "whyTitle": "Why {city}?",
+    "statPopulation": "Inhabitants",
+    "statShopsValue": "1000+",
+    "statShops": "Local shops",
+    "statMultiplierValue": "\u00d72.5",
+    "statMultiplier": "Keynesian multiplier",
+    "benefitsTitle": "Benefits for Local Commerce",
+    "benefit1Title": "Financial Inclusion",
+    "benefit1Description": "Give underbanked residents in {city} access to essential financial services through neighbourhood shops.",
+    "benefit2Title": "Keynesian Multiplier",
+    "benefit2Description": "Every pound spent locally in {city} multiplies its economic impact through the community.",
+    "benefit3Title": "Community Hub",
+    "benefit3Description": "Local shops in {city} become digital third places — where finance meets community.",
+    "benefit4Title": "Impact Dashboard",
+    "benefit4Description": "Track real-time economic impact: jobs created, money circulating locally in {city}.",
+    "ctaTitle": "Ready to transform {city}?",
+    "ctaDescription": "Join COLHYBRI and help build financial inclusion in your neighbourhood.",
+    "ctaButton": "Contact Us"
+  },
+  "games": {
+    "title": "COLHYBRI Games",
+    "subtitle": "Play, learn, and discover the power of local commerce. Every action counts!",
+    "iframeTitle": "COLHYBRI Mini-Games",
+    "loading": "Loading games...",
+    "ctaTitle": "Own Your Neighbourhood. Own Your Future.",
+    "ctaDescription": "Ready to make a real impact? Join COLHYBRI and transform your community.",
+    "ctaButton": "Sign Up Now"
   }
 }

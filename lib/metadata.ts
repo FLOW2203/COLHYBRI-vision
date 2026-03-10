@@ -110,7 +110,7 @@ export function generateOrganizationJsonLd(locale: Locale) {
   return {
     '@context': 'https://schema.org',
     '@type': ['Organization', 'FinancialService'],
-    name: 'COLHYBRI',
+    name: 'COLHYBRI by ONLYMORE Group',
     alternateName: 'COLHYBRI — Premier tiers-lieu financier numérique mondial',
     url: BASE_URL,
     logo: `${BASE_URL}/logo.svg`,
@@ -286,5 +286,53 @@ export function generateLocalBusinessJsonLd() {
     telephone: '',
     email: 'contact@colhybri.vision',
     priceRange: 'Affordable',
+  };
+}
+
+export function generateArticleJsonLd({
+  locale,
+  title,
+  description,
+  slug,
+  datePublished,
+  category,
+}: {
+  locale: Locale;
+  title: string;
+  description: string;
+  slug: string;
+  datePublished: string;
+  category: string;
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: title,
+    description,
+    url: `${BASE_URL}/${locale}/blog/${slug}`,
+    datePublished,
+    dateModified: datePublished,
+    author: {
+      '@type': 'Person',
+      name: 'Florent Gibert',
+      jobTitle: 'Founder & CEO',
+      url: BASE_URL,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'COLHYBRI by ONLYMORE Group',
+      url: BASE_URL,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${BASE_URL}/logo.svg`,
+      },
+    },
+    image: `${BASE_URL}/og-image-${locale}.png`,
+    inLanguage: localeCountryMap[locale] || 'en_US',
+    articleSection: category,
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${BASE_URL}/${locale}/blog/${slug}`,
+    },
   };
 }

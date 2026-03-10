@@ -275,5 +275,40 @@
     "getStarted": "Comenzar",
     "contactUs": "Contáctanos",
     "backToHome": "Volver al Inicio"
+  },
+  "city": {
+    "metaTitle": "COLHYBRI en {city} — Comercio local e inclusion financiera",
+    "metaDescription": "COLHYBRI fortalece el comercio local en {city}, {region}. Unete al movimiento de inclusion financiera en tu barrio.",
+    "heroTitle": "COLHYBRI en {city}",
+    "heroDescription": "{city} y sus {population} habitantes merecen servicios financieros accesibles. COLHYBRI conecta a residentes no bancarizados con comercios locales para construir una economia comunitaria.",
+    "ctaJoin": "Unete al movimiento",
+    "ctaLearnMore": "Saber mas",
+    "whyTitle": "Por que {city}?",
+    "statPopulation": "Habitantes",
+    "statShopsValue": "1000+",
+    "statShops": "Comercios locales",
+    "statMultiplierValue": "\u00d72,5",
+    "statMultiplier": "Multiplicador keynesiano",
+    "benefitsTitle": "Beneficios para el comercio local",
+    "benefit1Title": "Inclusion financiera",
+    "benefit1Description": "Brinda a los residentes no bancarizados de {city} acceso a servicios financieros esenciales a traves de comercios de barrio.",
+    "benefit2Title": "Multiplicador keynesiano",
+    "benefit2Description": "Cada euro gastado localmente en {city} multiplica su impacto economico en la comunidad.",
+    "benefit3Title": "Hub comunitario",
+    "benefit3Description": "Los comercios locales de {city} se convierten en terceros lugares digitales — donde las finanzas se encuentran con la comunidad.",
+    "benefit4Title": "Panel de impacto",
+    "benefit4Description": "Sigue el impacto economico en tiempo real: empleos creados, dinero circulando localmente en {city}.",
+    "ctaTitle": "Listo para transformar {city}?",
+    "ctaDescription": "Unete a COLHYBRI y construye la inclusion financiera en tu barrio.",
+    "ctaButton": "Contactanos"
+  },
+  "games": {
+    "title": "Juegos COLHYBRI",
+    "subtitle": "Juega, aprende y descubre el poder del comercio local. Cada accion cuenta!",
+    "iframeTitle": "Mini-juegos COLHYBRI",
+    "loading": "Cargando juegos...",
+    "ctaTitle": "Tu barrio, tu futuro.",
+    "ctaDescription": "Listo para hacer un impacto real? Unete a COLHYBRI y transforma tu comunidad.",
+    "ctaButton": "Registrate ahora"
   }
 }

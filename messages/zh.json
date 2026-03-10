@@ -275,5 +275,40 @@
     "getStarted": "立即开始",
     "contactUs": "联系我们",
     "backToHome": "返回首页"
+  },
+  "city": {
+    "metaTitle": "COLHYBRI在{city} — 本地商业与金融普惠",
+    "metaDescription": "COLHYBRI加强{city}{region}的本地商业。加入您社区的金融普惠运动。",
+    "heroTitle": "COLHYBRI在{city}",
+    "heroDescription": "{city}及其{population}居民值得拥有便捷的金融服务。COLHYBRI将欠银行服务居民与本地商店连接，共建社区经济。",
+    "ctaJoin": "加入运动",
+    "ctaLearnMore": "了解更多",
+    "whyTitle": "为什么选择{city}？",
+    "statPopulation": "居民",
+    "statShopsValue": "1000+",
+    "statShops": "本地商店",
+    "statMultiplierValue": "\u00d72.5",
+    "statMultiplier": "凯恩斯乘数",
+    "benefitsTitle": "本地商业的益处",
+    "benefit1Title": "金融普惠",
+    "benefit1Description": "让{city}的欠银行服务居民通过社区商店获得基本金融服务。",
+    "benefit2Title": "凯恩斯乘数",
+    "benefit2Description": "在{city}本地花费的每一元都会在社区中倍增其经济影响。",
+    "benefit3Title": "社区中心",
+    "benefit3Description": "{city}的本地商店成为数字第三空间——金融与社区相遇的地方。",
+    "benefit4Title": "影响力仪表板",
+    "benefit4Description": "实时跟踪经济影响：在{city}创造的就业岗位和本地流通的资金。",
+    "ctaTitle": "准备好改变{city}了吗？",
+    "ctaDescription": "加入COLHYBRI，在您的社区建设金融普惠。",
+    "ctaButton": "联系我们"
+  },
+  "games": {
+    "title": "COLHYBRI游戏",
+    "subtitle": "游戏、学习，发现本地商业的力量。每一个行动都很重要！",
+    "iframeTitle": "COLHYBRI迷你游戏",
+    "loading": "加载游戏中...",
+    "ctaTitle": "你的社区，你的未来。",
+    "ctaDescription": "准备好产生真正的影响了吗？加入COLHYBRI，改变你的社区。",
+    "ctaButton": "立即注册"
   }
 }
