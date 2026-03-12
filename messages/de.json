@@ -275,5 +275,40 @@
     "getStarted": "Jetzt starten",
     "contactUs": "Kontaktieren Sie uns",
     "backToHome": "Zurück zur Startseite"
+  },
+  "city": {
+    "metaTitle": "COLHYBRI in {city} — Lokaler Handel & finanzielle Inklusion",
+    "metaDescription": "COLHYBRI starkt den lokalen Handel in {city}, {region}. Schliessen Sie sich der Bewegung fur finanzielle Inklusion in Ihrer Nachbarschaft an.",
+    "heroTitle": "COLHYBRI in {city}",
+    "heroDescription": "{city} und seine {population} Einwohner verdienen zugangliche Finanzdienstleistungen. COLHYBRI verbindet unterversorgte Bewohner mit lokalen Geschaften fur eine gemeinschaftliche Wirtschaft.",
+    "ctaJoin": "Der Bewegung beitreten",
+    "ctaLearnMore": "Mehr erfahren",
+    "whyTitle": "Warum {city}?",
+    "statPopulation": "Einwohner",
+    "statShopsValue": "1000+",
+    "statShops": "Lokale Geschafte",
+    "statMultiplierValue": "\u00d72,5",
+    "statMultiplier": "Keynesianischer Multiplikator",
+    "benefitsTitle": "Vorteile fur den lokalen Handel",
+    "benefit1Title": "Finanzielle Inklusion",
+    "benefit1Description": "Geben Sie unterversorgten Bewohnern in {city} Zugang zu wesentlichen Finanzdienstleistungen uber Nachbarschaftsgeschafte.",
+    "benefit2Title": "Keynesianischer Multiplikator",
+    "benefit2Description": "Jeder Euro, der lokal in {city} ausgegeben wird, vervielfacht seine wirtschaftliche Wirkung in der Gemeinschaft.",
+    "benefit3Title": "Gemeinschafts-Hub",
+    "benefit3Description": "Lokale Geschafte in {city} werden zu digitalen dritten Orten — wo Finanzen auf Gemeinschaft treffen.",
+    "benefit4Title": "Impact-Dashboard",
+    "benefit4Description": "Verfolgen Sie die wirtschaftliche Wirkung in Echtzeit: geschaffene Arbeitsplatze, lokal zirkulierendes Geld in {city}.",
+    "ctaTitle": "Bereit, {city} zu transformieren?",
+    "ctaDescription": "Treten Sie COLHYBRI bei und bauen Sie finanzielle Inklusion in Ihrer Nachbarschaft auf.",
+    "ctaButton": "Kontaktieren Sie uns"
+  },
+  "games": {
+    "title": "COLHYBRI Spiele",
+    "subtitle": "Spielen, lernen und die Kraft des lokalen Handels entdecken. Jede Aktion zahlt!",
+    "iframeTitle": "COLHYBRI Mini-Spiele",
+    "loading": "Spiele werden geladen...",
+    "ctaTitle": "Ihre Nachbarschaft. Ihre Zukunft.",
+    "ctaDescription": "Bereit, echte Wirkung zu erzielen? Treten Sie COLHYBRI bei und transformieren Sie Ihre Gemeinschaft.",
+    "ctaButton": "Jetzt anmelden"
   }
 }

@@ -167,5 +167,42 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
+  // City landing pages
+  const targetCities = ['nimes', 'montpellier', 'marseille', 'lyon', 'paris'];
+  for (const city of targetCities) {
+    for (const locale of locales) {
+      const languages: Record<string, string> = {};
+      for (const altLocale of locales) {
+        languages[altLocale] = `${BASE_URL}/${altLocale}/ville/${city}`;
+      }
+      languages['x-default'] = `${BASE_URL}/en/ville/${city}`;
+
+      entries.push({
+        url: `${BASE_URL}/${locale}/ville/${city}`,
+        lastModified: now,
+        changeFrequency: 'weekly',
+        priority: 0.85,
+        alternates: { languages },
+      });
+    }
+  }
+
+  // Games page
+  for (const locale of locales) {
+    const languages: Record<string, string> = {};
+    for (const altLocale of locales) {
+      languages[altLocale] = `${BASE_URL}/${altLocale}/games`;
+    }
+    languages['x-default'] = `${BASE_URL}/en/games`;
+
+    entries.push({
+      url: `${BASE_URL}/${locale}/games`,
+      lastModified: now,
+      changeFrequency: 'monthly',
+      priority: 0.6,
+      alternates: { languages },
+    });
+  }
+
   return entries;
 }

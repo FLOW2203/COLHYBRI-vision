@@ -6,6 +6,8 @@ import { getMessages } from 'next-intl/server';
 import { locales, type Locale } from '@/i18n';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
+import { JsonLd } from '@/components/JsonLd';
+import { generateOrganizationJsonLd, generateWebSiteJsonLd } from '@/lib/metadata';
 import '@/app/globals.css';
 
 export const metadata: Metadata = {
@@ -58,6 +60,8 @@ export default async function LocaleLayout({ children, params: { locale } }: Loc
         )}
       </head>
       <body className="font-sans bg-colhybri-light text-colhybri-dark min-h-screen flex flex-col">
+        <JsonLd data={generateOrganizationJsonLd(locale as Locale)} />
+        <JsonLd data={generateWebSiteJsonLd(locale as Locale)} />
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Header />
           <main className="flex-1">

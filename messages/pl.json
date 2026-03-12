@@ -275,5 +275,40 @@
     "getStarted": "Rozpocznij",
     "contactUs": "Skontaktuj się z nami",
     "backToHome": "Powrót na stronę główną"
+  },
+  "city": {
+    "metaTitle": "COLHYBRI w {city} — Lokalny handel i inkluzja finansowa",
+    "metaDescription": "COLHYBRI wzmacnia lokalny handel w {city}, {region}. Dolacz do ruchu inkluzji finansowej w Twojej okolicy.",
+    "heroTitle": "COLHYBRI w {city}",
+    "heroDescription": "{city} i jego {population} mieszkancow zasluguje na dostepne uslugi finansowe. COLHYBRI laczy osoby bez dostepu do bankow z lokalnymi sklepami, budujac gospodarke spolecznosci.",
+    "ctaJoin": "Dolacz do ruchu",
+    "ctaLearnMore": "Dowiedz sie wiecej",
+    "whyTitle": "Dlaczego {city}?",
+    "statPopulation": "Mieszkancow",
+    "statShopsValue": "1000+",
+    "statShops": "Lokalnych sklepow",
+    "statMultiplierValue": "\u00d72,5",
+    "statMultiplier": "Mnoznik keynesowski",
+    "benefitsTitle": "Korzysci dla lokalnego handlu",
+    "benefit1Title": "Inkluzja finansowa",
+    "benefit1Description": "Daj mieszkancom {city} bez dostepu do bankow dostep do podstawowych uslug finansowych przez sklepy w okolicy.",
+    "benefit2Title": "Mnoznik keynesowski",
+    "benefit2Description": "Kazde euro wydane lokalnie w {city} mnozy swoj wplyw ekonomiczny w spolecznosci.",
+    "benefit3Title": "Centrum spolecznosci",
+    "benefit3Description": "Lokalne sklepy w {city} staja sie cyfrowymi trzecimi miejscami — gdzie finanse spotykaja sie ze spolecznoscia.",
+    "benefit4Title": "Panel wplywu",
+    "benefit4Description": "Sledz wplyw ekonomiczny w czasie rzeczywistym: miejsca pracy, pieniadze krazace lokalnie w {city}.",
+    "ctaTitle": "Gotowy na transformacje {city}?",
+    "ctaDescription": "Dolacz do COLHYBRI i buduj inkluzje finansowa w swoim sasiedztwie.",
+    "ctaButton": "Skontaktuj sie z nami"
+  },
+  "games": {
+    "title": "Gry COLHYBRI",
+    "subtitle": "Graj, ucz sie i odkrywaj sile lokalnego handlu. Kazde dzialanie sie liczy!",
+    "iframeTitle": "Mini-gry COLHYBRI",
+    "loading": "Ladowanie gier...",
+    "ctaTitle": "Twoje sasiedztwo. Twoja przyszlosc.",
+    "ctaDescription": "Gotowy na prawdziwy wplyw? Dolacz do COLHYBRI i zmien swoja spolecznosc.",
+    "ctaButton": "Zarejestruj sie teraz"
   }
 }
