@@ -183,6 +183,36 @@ export const routeMap: Record<string, Record<string, string>> = {
     it: 'economie-sociale-solidaire', zh: 'economie-sociale-solidaire', ja: 'economie-sociale-solidaire',
     hi: 'economie-sociale-solidaire', pl: 'economie-sociale-solidaire',
   },
+  'technologie-impact-social': {
+    en: 'technologie-impact-social', 'en-gb': 'technologie-impact-social', fr: 'technologie-impact-social',
+    es: 'technologie-impact-social', pt: 'technologie-impact-social', de: 'technologie-impact-social',
+    it: 'technologie-impact-social', zh: 'technologie-impact-social', ja: 'technologie-impact-social',
+    hi: 'technologie-impact-social', pl: 'technologie-impact-social',
+  },
+  'app-solidaire-mobile': {
+    en: 'app-solidaire-mobile', 'en-gb': 'app-solidaire-mobile', fr: 'app-solidaire-mobile',
+    es: 'app-solidaire-mobile', pt: 'app-solidaire-mobile', de: 'app-solidaire-mobile',
+    it: 'app-solidaire-mobile', zh: 'app-solidaire-mobile', ja: 'app-solidaire-mobile',
+    hi: 'app-solidaire-mobile', pl: 'app-solidaire-mobile',
+  },
+  'gift-card-solidaire': {
+    en: 'gift-card-solidaire', 'en-gb': 'gift-card-solidaire', fr: 'gift-card-solidaire',
+    es: 'gift-card-solidaire', pt: 'gift-card-solidaire', de: 'gift-card-solidaire',
+    it: 'gift-card-solidaire', zh: 'gift-card-solidaire', ja: 'gift-card-solidaire',
+    hi: 'gift-card-solidaire', pl: 'gift-card-solidaire',
+  },
+  'plateforme-saas-solidaire': {
+    en: 'plateforme-saas-solidaire', 'en-gb': 'plateforme-saas-solidaire', fr: 'plateforme-saas-solidaire',
+    es: 'plateforme-saas-solidaire', pt: 'plateforme-saas-solidaire', de: 'plateforme-saas-solidaire',
+    it: 'plateforme-saas-solidaire', zh: 'plateforme-saas-solidaire', ja: 'plateforme-saas-solidaire',
+    hi: 'plateforme-saas-solidaire', pl: 'plateforme-saas-solidaire',
+  },
+  'impact-mesurable': {
+    en: 'impact-mesurable', 'en-gb': 'impact-mesurable', fr: 'impact-mesurable',
+    es: 'impact-mesurable', pt: 'impact-mesurable', de: 'impact-mesurable',
+    it: 'impact-mesurable', zh: 'impact-mesurable', ja: 'impact-mesurable',
+    hi: 'impact-mesurable', pl: 'impact-mesurable',
+  },
 };
 
 export function getLocalizedPath(routeKey: string, locale: Locale): string {
