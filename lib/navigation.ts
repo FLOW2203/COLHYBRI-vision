@@ -63,6 +63,48 @@ export const routeMap: Record<string, Record<string, string>> = {
     en: 'contact', 'en-gb': 'contact', fr: 'contact', es: 'contacto', pt: 'contato',
     de: 'kontakt', it: 'contatti', zh: '联系我们', ja: 'お問い合わせ', hi: 'sampark', pl: 'kontakt',
   },
+  'solidarite-proximite': {
+    en: 'solidarite-proximite', 'en-gb': 'solidarite-proximite', fr: 'solidarite-proximite',
+    es: 'solidarite-proximite', pt: 'solidarite-proximite', de: 'solidarite-proximite',
+    it: 'solidarite-proximite', zh: 'solidarite-proximite', ja: 'solidarite-proximite',
+    hi: 'solidarite-proximite', pl: 'solidarite-proximite',
+  },
+  'caffe-sospeso-histoire': {
+    en: 'caffe-sospeso-histoire', 'en-gb': 'caffe-sospeso-histoire', fr: 'caffe-sospeso-histoire',
+    es: 'caffe-sospeso-histoire', pt: 'caffe-sospeso-histoire', de: 'caffe-sospeso-histoire',
+    it: 'caffe-sospeso-histoire', zh: 'caffe-sospeso-histoire', ja: 'caffe-sospeso-histoire',
+    hi: 'caffe-sospeso-histoire', pl: 'caffe-sospeso-histoire',
+  },
+  'legende-colibri': {
+    en: 'legende-colibri', 'en-gb': 'legende-colibri', fr: 'legende-colibri',
+    es: 'legende-colibri', pt: 'legende-colibri', de: 'legende-colibri',
+    it: 'legende-colibri', zh: 'legende-colibri', ja: 'legende-colibri',
+    hi: 'legende-colibri', pl: 'legende-colibri',
+  },
+  'economie-solidaire-locale': {
+    en: 'economie-solidaire-locale', 'en-gb': 'economie-solidaire-locale', fr: 'economie-solidaire-locale',
+    es: 'economie-solidaire-locale', pt: 'economie-solidaire-locale', de: 'economie-solidaire-locale',
+    it: 'economie-solidaire-locale', zh: 'economie-solidaire-locale', ja: 'economie-solidaire-locale',
+    hi: 'economie-solidaire-locale', pl: 'economie-solidaire-locale',
+  },
+  'mutualisme-francais': {
+    en: 'mutualisme-francais', 'en-gb': 'mutualisme-francais', fr: 'mutualisme-francais',
+    es: 'mutualisme-francais', pt: 'mutualisme-francais', de: 'mutualisme-francais',
+    it: 'mutualisme-francais', zh: 'mutualisme-francais', ja: 'mutualisme-francais',
+    hi: 'mutualisme-francais', pl: 'mutualisme-francais',
+  },
+  'don-solidaire-quotidien': {
+    en: 'don-solidaire-quotidien', 'en-gb': 'don-solidaire-quotidien', fr: 'don-solidaire-quotidien',
+    es: 'don-solidaire-quotidien', pt: 'don-solidaire-quotidien', de: 'don-solidaire-quotidien',
+    it: 'don-solidaire-quotidien', zh: 'don-solidaire-quotidien', ja: 'don-solidaire-quotidien',
+    hi: 'don-solidaire-quotidien', pl: 'don-solidaire-quotidien',
+  },
+  'cafe-suspendu-numerique': {
+    en: 'cafe-suspendu-numerique', 'en-gb': 'cafe-suspendu-numerique', fr: 'cafe-suspendu-numerique',
+    es: 'cafe-suspendu-numerique', pt: 'cafe-suspendu-numerique', de: 'cafe-suspendu-numerique',
+    it: 'cafe-suspendu-numerique', zh: 'cafe-suspendu-numerique', ja: 'cafe-suspendu-numerique',
+    hi: 'cafe-suspendu-numerique', pl: 'cafe-suspendu-numerique',
+  },
 };
 
 export function getLocalizedPath(routeKey: string, locale: Locale): string {
