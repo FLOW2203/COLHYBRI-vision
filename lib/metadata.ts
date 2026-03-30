@@ -111,7 +111,7 @@ export function generateOrganizationJsonLd(locale: Locale) {
     '@context': 'https://schema.org',
     '@type': ['Organization', 'FinancialService'],
     name: 'COLHYBRI by ONLYMORE Group',
-    alternateName: 'COLHYBRI — Premier tiers-lieu financier numérique mondial',
+    alternateName: 'COLHYBRI',
     url: BASE_URL,
     logo: `${BASE_URL}/logo.svg`,
     description: taglines[locale],
@@ -123,8 +123,16 @@ export function generateOrganizationJsonLd(locale: Locale) {
     },
     parentOrganization: {
       '@type': 'Organization',
-      name: 'COLHYBRI',
-      description: 'Technology platform building financial inclusion through local commerce.',
+      name: 'ONLYMORE Group',
+      description: 'Technology group building financial inclusion through local commerce.',
+    },
+    address: {
+      '@type': 'PostalAddress',
+      streetAddress: '13 rue de Gascogne',
+      postalCode: '30230',
+      addressLocality: 'Rodilhan',
+      addressRegion: 'Occitanie',
+      addressCountry: 'FR',
     },
     areaServed: [
       { '@type': 'Country', name: 'France' },
@@ -138,16 +146,18 @@ export function generateOrganizationJsonLd(locale: Locale) {
       { '@type': 'Country', name: 'United Kingdom' },
     ],
     priceRange: 'Affordable',
-    
     contactPoint: {
       '@type': 'ContactPoint',
-      email: 'contact@colhybri.vision',
+      email: 'onlymore2024@gmail.com',
       contactType: 'customer service',
       availableLanguage: ['English', 'French', 'Spanish', 'Portuguese', 'German', 'Italian', 'Chinese', 'Japanese', 'Hindi', 'Polish'],
     },
-    sameAs: [],
+    sameAs: [
+      'https://www.colhybri.com',
+      'https://www.linkedin.com/company/onlymore-group',
+    ],
     inLanguage: localeCountryMap[locale],
-    knowsAbout: ['financial inclusion', 'local commerce', 'Keynesian multiplier', 'digital third place', 'community finance', 'mutualism'],
+    knowsAbout: ['financial inclusion', 'local commerce', 'Keynesian multiplier', 'digital third place', 'community finance', 'mutualism', 'caffe sospeso'],
   };
 }
 

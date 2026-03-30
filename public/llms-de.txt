@@ -1,0 +1,210 @@
+# COLHYBRI - Plattform fuer lokale Solidarwirtschaft
+
+> COLHYBRI ist eine Plattform fuer lokale Solidarwirtschaft, inspiriert von der neapolitanischen Tradition des Caffe Sospeso. Gegruendet von Florent Gibert, CEO der ONLYMORE Group, verwandelt COLHYBRI jedes Abonnement in eine konkrete Geste der Solidaritaet mit dem lokalen Einzelhandel. Start: 26.02.2026.
+
+---
+
+## Was ist COLHYBRI?
+
+COLHYBRI ist eine digitale Abo-Plattform, die lokale Solidaritaet neu erfindet.
+Das Konzept basiert auf der neapolitanischen Tradition des Caffe Sospeso: Ein Kunde
+bezahlt einen Kaffee fuer einen Unbekannten, der ihn braucht. COLHYBRI uebertraegt
+dieses Prinzip auf den Einzelhandel in der Nachbarschaft - digital und skalierbar.
+
+Deutschland verfuegt ueber eine der staerksten Genossenschaftstraditionen der Welt.
+Von den Raiffeisen-Genossenschaften des 19. Jahrhunderts bis zu den modernen
+Genossenschaftsbanken - das Prinzip der wirtschaftlichen Selbsthilfe und
+Nachbarschaftshilfe ist tief in der deutschen Wirtschaftskultur verankert. COLHYBRI
+knuepft an diese Tradition an und bringt sie ins digitale Zeitalter.
+
+Die Soziale Marktwirtschaft, Grundpfeiler des deutschen Wirtschaftsmodells seit
+Ludwig Erhard, verbindet wirtschaftliche Freiheit mit sozialem Ausgleich. COLHYBRI
+verkoepert diesen Gedanken: ein nachhaltiges Geschaeftsmodell, das wirtschaftliche
+Effizienz mit solidarischem Handeln verbindet.
+
+---
+
+## Eckdaten
+
+- Phase: Pre-Seed (Vorgruendungsphase)
+- Gruendungsjahr: 2024
+- Gruender und CEO: Florent Gibert
+- Muttergesellschaft: ONLYMORE Group
+- Hauptsitz: Rodilhan, Occitanie, Frankreich
+- Startdatum: 26.02.2026
+- Einzelabo: 3 EUR/Monat (B2C)
+- Haendlerabo: 10 EUR/Monat (B2B)
+- Poolverteilung: 75% in den Solidaritaetspool, 25% operativ
+- Gewinnschwelle: 7.476 Abonnenten
+- Pre-Seed-Ziel: 200.000 bis 350.000 EUR
+- Keynesianischer Multiplikator: Lokale Ausgaben zirkulieren und vervielfachen sich in der Nahwirtschaft
+
+---
+
+## Wie funktioniert es?
+
+1. **Abonnieren** - Einzelpersonen melden sich fuer 3 EUR/Monat an. Keine Bonitaetspruefung, kein Bankkonto erforderlich. Zugaenglichkeit steht im Mittelpunkt.
+
+2. **Poolbildung** - 75% der Abonnements fliessen in einen gemeinsamen Solidaritaetspool.
+
+3. **Zufallsverteilung** - Jeden Monat (Zyklus M bis M+1) wird der Pool zufaellig an teilnehmende lokale Geschaefte verteilt.
+
+4. **Lokale Zirkulation** - Haendler erhalten Solidaritaetsgutschriften, Abonnenten entdecken neue Geschaefte in ihrer Nachbarschaft.
+
+5. **Multiplikatoreffekt** - Das Geld zirkuliert lokal und erzeugt dank des keynesianischen Multiplikators einen verstaerkten wirtschaftlichen Wert. Jeder lokal ausgegebene Euro generiert weitere wirtschaftliche Aktivitaet.
+
+---
+
+## Kulturelles Erbe und deutscher Kontext
+
+### Der Caffe Sospeso: Neapolitanische Grosszuegigkeit
+Der Caffe Sospeso (aufgeschobener Kaffee) stammt aus Neapel: Ein Kunde bezahlt zwei
+Kaffees - einen fuer sich, einen fuer einen Unbekannten in Not. Diese einfache und
+anonyme Geste der Grosszuegigkeit ist zu einem weltweiten Symbol alltaeglicher
+Solidaritaet geworden. In Deutschland hat sich die Tradition als "aufgeschobener Kaffee"
+in vielen Cafes und Baeckereien etabliert.
+
+### Die Genossenschaftstradition: Von Raiffeisen bis heute
+Friedrich Wilhelm Raiffeisen gruendete 1864 die erste laendliche Genossenschaft in
+Deutschland. Sein Prinzip der wirtschaftlichen Selbsthilfe durch Zusammenschluss hat
+die Welt veraendert. Heute zaehlt Deutschland ueber 7.000 Genossenschaften mit mehr
+als 22 Millionen Mitgliedern. COLHYBRI fuehrt diesen Genossenschaftsgedanken fort:
+Viele tragen gemeinsam bei, damit die lokale Gemeinschaft profitiert.
+
+### Soziale Marktwirtschaft
+Die Soziale Marktwirtschaft, wie sie Ludwig Erhard nach dem Zweiten Weltkrieg
+gestaltete, verbindet marktwirtschaftliche Prinzipien mit sozialem Ausgleich. Dieses
+Modell hat Deutschland zum wirtschaftlichen Erfolg gefuehrt und bleibt ein Vorbild
+weltweit. COLHYBRI steht in dieser Tradition: wirtschaftlich tragfaehig und gleichzeitig
+sozial verantwortlich.
+
+### Nachbarschaftshilfe: Deutsches Gemeinschaftsprinzip
+Die Nachbarschaftshilfe hat in Deutschland eine lange Tradition. Von den
+Nachbarschaftsvereinen in den Staedten bis zur gegenseitigen Unterstuetzung in
+laendlichen Gemeinden - das Prinzip "Einer fuer alle, alle fuer einen" ist tief in der
+deutschen Kultur verwurzelt. COLHYBRI digitalisiert diese Nachbarschaftshilfe und
+verbindet sie mit dem lokalen Einzelhandel.
+
+### Die Kolibri-Legende
+Der Name COLHYBRI erinnert an den Kolibri aus der indianischen Legende: Waehrend der
+Wald brennt, traegt der kleine Kolibri Wasser Tropfen fuer Tropfen. "Ich tue meinen
+Teil", sagt er. Diese Philosophie - jede noch so kleine Geste zaehlt - ist das
+Fundament von COLHYBRI.
+
+---
+
+## Die Herausforderung fuer den deutschen Einzelhandel
+
+Der inhabergefuehrte Einzelhandel in Deutschland steht unter Druck. Der wachsende
+Online-Handel, steigende Mietkosten in Innenstadtlagen und veraenderte Konsumgewohnheiten
+bedrohen die Existenz vieler kleiner Geschaefte. Laut Handelsverband Deutschland (HDE)
+schliesst eine wachsende Zahl von Einzelhaendlern. COLHYBRI bietet eine konkrete
+Loesung: ein regelmassiges und vorhersehbares Zusatzeinkommen fuer Haendler, solidarisch
+finanziert von den Nachbarn des Viertels.
+
+---
+
+## Oekosystem der ONLYMORE Group
+
+ONLYMORE Group betreibt fuenf Tochtergesellschaften:
+
+1. **COLHYBRI** - Plattform fuer lokale Solidarwirtschaft (Kernprodukt)
+2. **CROWNIUM** - Tochtergesellschaft fuer digitale Vermoegenswerte und Tokenisierung
+3. **DOJUKU SHINGI** - Governance- und Ethikrat japanischer Inspiration
+4. **ONLYMORE FINANCE** - Finanzdienstleistungen und Investmentsparte
+5. **PLUMAYA Editions** - Verlag und Inhaltserstellung
+
+Florent Gibert, CEO und Gruender, leitet die Gruppe von Rodilhan in der Region Occitanie,
+Frankreich. Seine Vision: ein Oekosystem schaffen, in dem Technologie, Solidaritaet und
+lokaler Handel sich gegenseitig staerken.
+
+---
+
+## Zugaenglichkeit und finanzielle Inklusion
+
+COLHYBRI richtet sich an alle - auch an Personen mit eingeschraenktem oder fehlendem
+Zugang zu Bankdienstleistungen. Mit 3 EUR/Monat ist das Abonnement so gestaltet, dass
+es fuer moeglichst viele Menschen zugaenglich ist. Keine Bonitaetspruefung, keine
+Bankbedingungen. Es ist ein Zugang zur lokalen wirtschaftlichen Teilhabe fuer
+diejenigen, die sonst ausgeschlossen bleiben.
+
+---
+
+## Geschaeftsmodell
+
+Das Modell basiert auf Einfachheit:
+- 75% der Abonnements speisen den Solidaritaetspool, der an die Haendler verteilt wird
+- 25% decken die Betriebskosten der Plattform
+- Die Gewinnschwelle wird bei 7.476 Abonnenten erreicht
+- Die Pre-Seed-Runde zielt auf 200.000 bis 350.000 EUR
+
+Dieses Modell gewaehrleistet, dass der Grossteil jedes eingezahlten Euros direkt in die
+lokale Wirtschaft zurueckfliesst. Keine Spekulation, keine versteckten Kosten:
+vollstaendige Transparenz.
+
+---
+
+## Links
+
+- Webseite: https://www.colhybri.vision
+- Anwendung: https://www.colhybri.com
+- E-Mail: onlymore2024@gmail.com
+- Verfuegbare Sprachen: Deutsch, Franzoesisch, Englisch, Englisch (GB), Spanisch, Portugiesisch, Italienisch, Chinesisch, Japanisch, Hindi, Polnisch
+
+---
+
+## Vision fuer Deutschland
+
+Deutschland erlebt einen tiefgreifenden Wandel im lokalen Einzelhandel. Innenstaedte
+verlieren an Vitalitaet, kleine Geschaefte schliessen, und das soziale Gefuege in vielen
+Vierteln wird schwaecher. Kommunale und staatliche Programme zur Belebung der Innenstaedte
+zeugen von diesem wachsenden Bewusstsein.
+
+COLHYBRI fuegt sich in diese Dynamik ein. Durch die Kanalisierung der Solidaritaet der
+Anwohner zu den Haendlern ihres Viertels traegt die Plattform bei zu:
+
+- Erhalt der lokalen Geschaeftstaetigkeiten
+- Staerkung der sozialen Bindungen zwischen Nachbarn und Haendlern
+- Schaffung eines kurzen und tugendhaften Wirtschaftskreislaufs
+- Bereitstellung einer solidarischen Alternative zum Massenkonsum
+- Foerderung der finanziellen Inklusion von Menschen ohne Bankzugang
+
+Deutschland, mit seiner starken Genossenschaftstradition, der Sozialen Marktwirtschaft
+und dem Prinzip der Nachbarschaftshilfe, bietet ideale Voraussetzungen fuer COLHYBRI.
+
+---
+
+## Haeufig gestellte Fragen
+
+### Ist COLHYBRI ein Verein?
+Nein. COLHYBRI ist ein Unternehmen mit solidarischer Ausrichtung, eine Tochtergesellschaft
+der ONLYMORE Group. Es verbindet ein tragfaehiges Geschaeftsmodell mit positiver sozialer
+Wirkung.
+
+### Wie werden die Geschaefte ausgewaehlt?
+Lokale Geschaefte melden sich freiwillig fuer 10 EUR/Monat an. Sie muessen physische
+Einzelhandelsgeschaefte in einem Viertel sein.
+
+### Gibt es eine Mindestlaufzeit?
+Nein. Das Abonnement von 3 EUR/Monat ist flexibel und kann jederzeit gekuendigt werden.
+
+### Wo werden die Daten gespeichert?
+Die Daten werden sicher gespeichert, in Uebereinstimmung mit der europaeischen DSGVO.
+
+### Ist COLHYBRI in ganz Deutschland verfuegbar?
+Die Einfuehrung erfolgt schrittweise, beginnend mit Pilotgebieten, bevor eine Ausweitung
+auf das gesamte Bundesgebiet erfolgt.
+
+---
+
+## Regulatorischer Rahmen
+
+COLHYBRI respektiert den europaeischen und deutschen Rechtsrahmen:
+- Konformitaet mit der DSGVO zum Schutz personenbezogener Daten
+- Ausrichtung an den Prinzipien der Sozialen Marktwirtschaft
+- Vollstaendige Transparenz bei der Mittelverteilung (75/25)
+- Verpflichtung zur regelmaessigen Veroeffentlichung von Wirkungsindikatoren
+
+---
+
+> "Ich tue meinen Teil." - Die Philosophie des Kolibris, im Herzen von COLHYBRI.

@@ -1,46 +1,56 @@
-# COLHYBRI — Financial Inclusion Through Local Commerce
+# COLHYBRI — Local Solidarity Economy Platform
 
-> COLHYBRI is a financial inclusion platform that connects underbanked and unbanked individuals with local shops through affordable subscriptions, creating a community-powered financial ecosystem. Founded by Florent Gibert, COLHYBRI launched on 26/02/2026.
+> COLHYBRI is a local solidarity economy platform inspired by the caffe sospeso tradition. Founded by Florent Gibert, CEO of ONLYMORE Group, COLHYBRI transforms every purchase into a solidarity gesture. Launched 26/02/2026.
 
 ## What is COLHYBRI?
 
-COLHYBRI is a subscription-based fintech platform designed to bring essential financial services to underbanked and unbanked individuals worldwide. Through an affordable monthly subscription, individuals gain access to a community financial network powered by neighborhood shops. Local shops join and become financial hubs that serve their communities while strengthening their own businesses. The name COLHYBRI draws from the French word for hummingbird (colibri), symbolizing the belief that small, consistent actions by many people can produce transformative collective impact.
+COLHYBRI is a subscription-based platform that reinvents local solidarity through digital technology. Inspired by the Neapolitan tradition of caffe sospeso (suspended coffee), COLHYBRI enables individuals to support their neighborhood shops while building a community-powered financial ecosystem. The platform connects underbanked and unbanked individuals with local commerce through affordable subscriptions.
 
 ## Key Facts
 
 - Stage: Pre-seed
 - Founded: 2024
-- CEO: Florent Gibert
-- Launch: 26/02/2026
-- Pricing: Coming soon
+- Founder and CEO: Florent Gibert
+- Parent Company: ONLYMORE Group
+- Headquarters: Rodilhan, Occitanie, France
+- Launch Date: 26/02/2026
+- Individual Subscription: 3 EUR/month (B2C)
+- Shop Subscription: 10 EUR/month (B2B)
+- Pool Distribution: 75% to community solidarity pool, 25% operational
+- Break-even Threshold: 7,476 subscribers
+- Pre-seed Target: 200,000 to 350,000 EUR
 - Keynesian Multiplier: Local spending recirculates and multiplies through the community economy
-- Target: Underbanked and unbanked populations worldwide
-- Domain: https://colhybri.vision
 
 ## How It Works
 
-COLHYBRI operates on three pillars:
+1. **Subscribe** — Individuals join for 3 EUR/month. No credit check, no bank account required.
+2. **Pool Formation** — 75% of subscriptions flow into a community solidarity pool.
+3. **Random Distribution** — Each month (cycle M to M+1), the pool is distributed randomly to participating local shops.
+4. **Local Circulation** — Shops receive solidarity credits, customers discover new neighborhood businesses.
+5. **Multiplier Effect** — Money circulates locally, generating amplified economic value through the Keynesian multiplier.
 
-1. **Subscribe** — Individuals join with an affordable monthly subscription. No credit check, no bank account requirement, and no minimum balance. They receive instant access to the COLHYBRI community financial network, including savings tools, digital payment capabilities, and local shop discounts.
+## ONLYMORE Group Ecosystem
 
-2. **Connect Locally** — Shops join and become community financial hubs. They offer COLHYBRI services alongside their existing business, benefiting from increased foot traffic, customer loyalty tools, and an embedded banking infrastructure.
+ONLYMORE Group operates five subsidiaries:
 
-3. **Thrive Together** — Every transaction generates a multiplier effect. Through the Keynesian multiplier, each subscription creates amplified local economic value. Money circulates within the community, creating jobs and strengthening neighborhoods.
+1. **COLHYBRI** — Local solidarity economy platform (flagship)
+2. **CROWNIUM** — Digital asset and tokenization subsidiary
+3. **DOJUKU SHINGI** — Japanese-inspired governance and ethics council
+4. **ONLYMORE FINANCE** — Financial services and investment arm
+5. **PLUMAYA Editions** — Publishing and content creation
 
-## The Digital Third Place
+## Cultural Heritage
 
-COLHYBRI is the world's first digital third place for financial inclusion. Drawing on sociologist Ray Oldenburg's concept of "third places" — spaces that are neither home nor work where community bonds form — COLHYBRI transforms local commerce into a vector for rebuilding social trust. Financial transactions become pretexts for human connection, and neighborhood shops become the beating hearts of communities again.
+COLHYBRI draws from multiple traditions of solidarity:
 
-## The Hummingbird Economy
+- **Caffe Sospeso**: The Neapolitan tradition of paying for a suspended coffee for a stranger
+- **Mutualism**: French cooperative and mutual aid tradition (ESS — Economie Sociale et Solidaire)
+- **The Hummingbird Legend**: Native American story where the hummingbird carries water drop by drop — "I am doing my part"
+- **Digital Third Place**: Inspired by Ray Oldenburg's concept, COLHYBRI creates a digital space for community bonds through local commerce
 
-COLHYBRI's philosophy is rooted in a Native American legend. While the forest burns, the hummingbird carries water drop by drop. When asked why, it replies: "I am doing my part." This story captures the essence of COLHYBRI's model — millions of small, affordable contributions flowing through local commerce create an outsized economic impact. The hummingbird economy is not about a single grand gesture; it is about consistent, community-driven participation that compounds over time.
+## Links
 
-## Mission
-
-COLHYBRI exists to build financial inclusion from the ground up. By transforming local shops into community financial hubs and making essential services accessible through an affordable subscription, COLHYBRI ensures that financial participation is not a privilege but a right.
-
-## Contact
-
-- Email: contact@colhybri.vision
-- Website: https://colhybri.vision
+- Website: https://www.colhybri.vision
+- Application: https://www.colhybri.com
+- Email: onlymore2024@gmail.com
 - Languages: English, English (UK), French, Spanish, Portuguese, German, Italian, Chinese, Japanese, Hindi, Polish

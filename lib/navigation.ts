@@ -1,6 +1,6 @@
 import type { Locale } from '@/i18n';
 
-export const BASE_URL = 'https://colhybri.vision';
+export const BASE_URL = 'https://www.colhybri.vision';
 
 // Mapping of route keys to locale-specific slugs
 export const routeMap: Record<string, Record<string, string>> = {

@@ -57,7 +57,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
-            <a href="https://colhybri.vision" target="_blank" rel="noopener noreferrer" className="btn-primary text-lg px-8 py-4">
+            <a href="https://www.colhybri.com" target="_blank" rel="noopener noreferrer" className="btn-primary text-lg px-8 py-4">
               {t('hero.cta')}
             </a>
             <Link href={getLocalizedPath('how-it-works', l)} className="btn-secondary text-lg px-8 py-4">
@@ -299,7 +299,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
               — Florent Gibert, Founder &amp; CEO, COLHYBRI
             </footer>
           </blockquote>
-          <a href="https://colhybri.vision" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-4 rounded-lg bg-white text-colhybri-primary font-bold text-lg hover:bg-white/90 transition-colors">
+          <a href="https://www.colhybri.com" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-4 rounded-lg bg-white text-colhybri-primary font-bold text-lg hover:bg-white/90 transition-colors">
             {t('hero.cta')}
           </a>
         </div>

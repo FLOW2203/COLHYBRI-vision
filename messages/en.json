@@ -17,7 +17,8 @@
     "investors": "Investors",
     "blog": "Blog",
     "faq": "FAQ",
-    "contact": "Contact"
+    "contact": "Contact",
+    "openApp": "Open App"
   },
   "hero": {
     "tagline": "Financial Inclusion Through Local Commerce",
@@ -26,7 +27,7 @@
     "cta": "Join the Movement",
     "ctaSecondary": "See How It Works",
     "stats": {
-      "price": "\u2014",
+      "price": "—",
       "priceLabel": "Coming Soon",
       "stage": "Pre-seed",
       "stageLabel": "Current Stage",
@@ -76,7 +77,7 @@
     "headline": "Affordable for Everyone",
     "individuals": {
       "title": "For Individuals",
-      "price": "\u2014",
+      "price": "—",
       "period": "/month",
       "features": [
         "Access to local financial network",
@@ -90,7 +91,7 @@
     },
     "shops": {
       "title": "For Local Shops",
-      "price": "\u2014",
+      "price": "—",
       "period": "/month",
       "features": [
         "Become a community financial hub",
@@ -109,7 +110,7 @@
     "description": "Every dollar that circulates locally multiplies its value in economic activity. COLHYBRI channels spending into local commerce, creating jobs and strengthening communities.",
     "metrics": {
       "localValue": {
-        "value": "\u00d72.5",
+        "value": "×2.5",
         "label": "Estimated local value multiplier"
       },
       "jobsCreated": {
@@ -225,12 +226,13 @@
     "tagline": "Financial Inclusion Through Local Commerce",
     "quote": "\"I am doing my part.\" — Native American Legend (The Hummingbird)",
     "group": "COLHYBRI — Launched 26/02/2026",
-    "copyright": "\u00a9 2026 COLHYBRI. All rights reserved.",
+    "copyright": "© 2026 COLHYBRI. All rights reserved.",
     "links": {
       "about": "About",
       "privacy": "Privacy Policy",
       "terms": "Terms of Service"
-    }
+    },
+    "accessApp": "Access COLHYBRI App"
   },
   "localStats": {
     "title": "Local Impact in Your Country",
@@ -287,7 +289,7 @@
     "statPopulation": "Inhabitants",
     "statShopsValue": "1000+",
     "statShops": "Local shops",
-    "statMultiplierValue": "\u00d72.5",
+    "statMultiplierValue": "×2.5",
     "statMultiplier": "Keynesian multiplier",
     "benefitsTitle": "Benefits for Local Commerce",
     "benefit1Title": "Financial Inclusion",
