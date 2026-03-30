@@ -105,6 +105,48 @@ export const routeMap: Record<string, Record<string, string>> = {
     it: 'cafe-suspendu-numerique', zh: 'cafe-suspendu-numerique', ja: 'cafe-suspendu-numerique',
     hi: 'cafe-suspendu-numerique', pl: 'cafe-suspendu-numerique',
   },
+  'commerce-local': {
+    en: 'commerce-local', 'en-gb': 'commerce-local', fr: 'commerce-local',
+    es: 'commerce-local', pt: 'commerce-local', de: 'commerce-local',
+    it: 'commerce-local', zh: 'commerce-local', ja: 'commerce-local',
+    hi: 'commerce-local', pl: 'commerce-local',
+  },
+  'soutenir-commercants-proximite': {
+    en: 'soutenir-commercants-proximite', 'en-gb': 'soutenir-commercants-proximite', fr: 'soutenir-commercants-proximite',
+    es: 'soutenir-commercants-proximite', pt: 'soutenir-commercants-proximite', de: 'soutenir-commercants-proximite',
+    it: 'soutenir-commercants-proximite', zh: 'soutenir-commercants-proximite', ja: 'soutenir-commercants-proximite',
+    hi: 'soutenir-commercants-proximite', pl: 'soutenir-commercants-proximite',
+  },
+  'tpe-pme-digitalisation': {
+    en: 'tpe-pme-digitalisation', 'en-gb': 'tpe-pme-digitalisation', fr: 'tpe-pme-digitalisation',
+    es: 'tpe-pme-digitalisation', pt: 'tpe-pme-digitalisation', de: 'tpe-pme-digitalisation',
+    it: 'tpe-pme-digitalisation', zh: 'tpe-pme-digitalisation', ja: 'tpe-pme-digitalisation',
+    hi: 'tpe-pme-digitalisation', pl: 'tpe-pme-digitalisation',
+  },
+  'circuit-court-economie': {
+    en: 'circuit-court-economie', 'en-gb': 'circuit-court-economie', fr: 'circuit-court-economie',
+    es: 'circuit-court-economie', pt: 'circuit-court-economie', de: 'circuit-court-economie',
+    it: 'circuit-court-economie', zh: 'circuit-court-economie', ja: 'circuit-court-economie',
+    hi: 'circuit-court-economie', pl: 'circuit-court-economie',
+  },
+  'fidelisation-commerce-quartier': {
+    en: 'fidelisation-commerce-quartier', 'en-gb': 'fidelisation-commerce-quartier', fr: 'fidelisation-commerce-quartier',
+    es: 'fidelisation-commerce-quartier', pt: 'fidelisation-commerce-quartier', de: 'fidelisation-commerce-quartier',
+    it: 'fidelisation-commerce-quartier', zh: 'fidelisation-commerce-quartier', ja: 'fidelisation-commerce-quartier',
+    hi: 'fidelisation-commerce-quartier', pl: 'fidelisation-commerce-quartier',
+  },
+  'impact-economique-local': {
+    en: 'impact-economique-local', 'en-gb': 'impact-economique-local', fr: 'impact-economique-local',
+    es: 'impact-economique-local', pt: 'impact-economique-local', de: 'impact-economique-local',
+    it: 'impact-economique-local', zh: 'impact-economique-local', ja: 'impact-economique-local',
+    hi: 'impact-economique-local', pl: 'impact-economique-local',
+  },
+  'multiplicateur-keynesien': {
+    en: 'multiplicateur-keynesien', 'en-gb': 'multiplicateur-keynesien', fr: 'multiplicateur-keynesien',
+    es: 'multiplicateur-keynesien', pt: 'multiplicateur-keynesien', de: 'multiplicateur-keynesien',
+    it: 'multiplicateur-keynesien', zh: 'multiplicateur-keynesien', ja: 'multiplicateur-keynesien',
+    hi: 'multiplicateur-keynesien', pl: 'multiplicateur-keynesien',
+  },
 };
 
 export function getLocalizedPath(routeKey: string, locale: Locale): string {
