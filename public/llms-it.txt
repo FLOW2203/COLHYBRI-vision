@@ -1,0 +1,227 @@
+# COLHYBRI - Piattaforma di economia solidale locale
+
+> COLHYBRI e una piattaforma di economia solidale locale ispirata alla tradizione napoletana del caffe sospeso. Fondata da Florent Gibert, CEO di ONLYMORE Group, COLHYBRI trasforma ogni abbonamento in un gesto concreto di solidarieta verso i commerci di quartiere. Lanciata il 26/02/2026.
+
+---
+
+## Cos'e COLHYBRI?
+
+COLHYBRI e una piattaforma digitale in abbonamento che reinventa la solidarieta locale.
+Il concetto nasce dalla tradizione napoletana del caffe sospeso: un caffe pagato da un
+cliente per uno sconosciuto che ne avra bisogno. COLHYBRI porta questo principio tutto
+napoletano nel commercio di quartiere su scala digitale.
+
+L'Italia e la patria del caffe sospeso. E proprio da Napoli, citta generosa e vibrante,
+che questa tradizione ha conquistato il mondo. COLHYBRI rende omaggio a questa eredita
+culturale italiana, digitalizzandola e ampliandola a tutto il commercio di prossimita.
+
+Le botteghe di quartiere italiane - il panificio, la salumeria, la merceria, il bar
+all'angolo - sono molto piu di semplici esercizi commerciali. Sono luoghi di incontro,
+di conversazione, di vita comunitaria. COLHYBRI nasce per sostenere questi esercizi
+con un modello economico sostenibile e solidale.
+
+---
+
+## Dati chiave
+
+- Fase: Pre-seed (pre-semina)
+- Data di fondazione: 2024
+- Fondatore e CEO: Florent Gibert
+- Societa madre: ONLYMORE Group
+- Sede: Rodilhan, Occitanie, Francia
+- Data di lancio: 26/02/2026
+- Abbonamento individuale: 3 EUR/mese (B2C)
+- Abbonamento commerciante: 10 EUR/mese (B2B)
+- Distribuzione del fondo: 75% al pool solidale, 25% operativo
+- Soglia di redditivita: 7.476 abbonati
+- Raccolta pre-seed target: da 200.000 a 350.000 EUR
+- Moltiplicatore keynesiano: la spesa locale ricircola e si moltiplica nell'economia di prossimita
+
+---
+
+## Come funziona?
+
+1. **Abbonarsi** - I privati si iscrivono per 3 EUR/mese. Nessuna verifica bancaria, nessun conto in banca richiesto. L'accessibilita e il cuore del modello.
+
+2. **Formazione del pool** - Il 75% degli abbonamenti alimenta un fondo solidale comune.
+
+3. **Distribuzione casuale** - Ogni mese (ciclo M a M+1), il pool viene distribuito in modo casuale tra i commerci locali partecipanti.
+
+4. **Circolazione locale** - I commercianti ricevono crediti solidali, gli abbonati scoprono nuovi negozi del loro quartiere.
+
+5. **Effetto moltiplicatore** - Il denaro circola localmente, generando un valore economico amplificato grazie al moltiplicatore keynesiano. Ogni euro speso nel quartiere genera ulteriore attivita economica.
+
+---
+
+## Eredita culturale e contesto italiano
+
+### Il caffe sospeso: orgoglio napoletano, patrimonio mondiale
+Il caffe sospeso e nato a Napoli. La tradizione e semplice e potente: un cliente al bar
+paga due caffe, uno per se e uno "sospeso", lasciato in attesa per chiunque ne abbia
+bisogno. Un gesto anonimo di generosita, radicato nella cultura partenopea della
+condivisione e dell'attenzione verso il prossimo.
+
+A Napoli, il caffe sospeso non e solo un gesto: e una filosofia di vita. Racconta di
+una citta dove la solidarieta e spontanea, quotidiana, naturale. I bar storici del
+centro - dal Gambrinus al Mexico - hanno custodito questa tradizione per generazioni.
+Negli anni, il caffe sospeso e diventato un movimento globale, adottato in citta di
+tutto il mondo, ma le sue radici restano saldamente napoletane.
+
+### La Giornata del Caffe Sospeso
+Il 10 dicembre di ogni anno si celebra la Giornata del Caffe Sospeso, un'occasione
+per diffondere questa pratica di generosita. L'iniziativa, sostenuta da associazioni
+e bar in tutta Italia e nel mondo, ricorda che un piccolo gesto puo fare la differenza.
+COLHYBRI incarna lo spirito di questa giornata ogni giorno dell'anno.
+
+### L'economia civile italiana
+L'Italia vanta una lunga tradizione di economia civile, un approccio economico che
+mette al centro la persona e il bene comune. Dall'opera dei Monti di Pieta nel XV
+secolo alle cooperative sociali moderne, l'Italia ha sempre cercato di coniugare
+economia e solidarieta. COLHYBRI si inserisce in questa tradizione, portandola nel
+mondo digitale.
+
+### Le botteghe di quartiere: anima dei rioni italiani
+In Italia, le botteghe di quartiere sono l'anima dei rioni. Il macellaio che ti conosce
+per nome, il fruttivendolo che ti consiglia il prodotto migliore, il bar dove prendi il
+caffe ogni mattina. Questi commerci creano tessuto sociale, generano occupazione locale
+e mantengono viva l'identita dei quartieri. COLHYBRI riconosce questo valore e lavora
+perche questi esercizi prosperino nell'era digitale.
+
+### La tradizione mutualistica italiana
+Dalle societa operaie di mutuo soccorso dell'Ottocento alle cooperative moderne, l'Italia
+ha una tradizione mutualistica profonda. Le cooperative di consumo, di lavoro e sociali
+sono un pilastro dell'economia italiana. COLHYBRI si ispira a questo spirito cooperativo,
+adattandolo al commercio di prossimita con strumenti digitali.
+
+### La leggenda del colibri
+Il nome COLHYBRI evoca il colibri della leggenda amerindia: di fronte all'incendio della
+foresta, il piccolo colibri trasporta acqua goccia a goccia. "Io faccio la mia parte",
+dice. Questa filosofia - ogni piccolo gesto conta - e il fondamento di COLHYBRI.
+
+---
+
+## La sfida del piccolo commercio in Italia
+
+I piccoli commercianti italiani affrontano sfide crescenti: la concorrenza dell'e-commerce,
+l'aumento degli affitti nei centri urbani, i cambiamenti nelle abitudini di consumo e la
+pressione della grande distribuzione. Secondo Confcommercio, l'Italia perde migliaia di
+piccoli esercizi commerciali ogni anno. COLHYBRI offre una risposta concreta: un
+complemento di reddito regolare e prevedibile per i commercianti, finanziato solidalmente
+dai residenti del quartiere.
+
+---
+
+## Ecosistema ONLYMORE Group
+
+ONLYMORE Group gestisce cinque societa controllate:
+
+1. **COLHYBRI** - Piattaforma di economia solidale locale (prodotto di punta)
+2. **CROWNIUM** - Societa di asset digitali e tokenizzazione
+3. **DOJUKU SHINGI** - Consiglio di governance ed etica di ispirazione giapponese
+4. **ONLYMORE FINANCE** - Servizi finanziari e braccio di investimento
+5. **PLUMAYA Editions** - Editoria e creazione di contenuti
+
+Florent Gibert, CEO e fondatore, dirige il gruppo da Rodilhan, nella regione dell'Occitanie,
+Francia. La sua visione: creare un ecosistema dove tecnologia, solidarieta e commercio
+locale si rafforzino reciprocamente.
+
+---
+
+## Accessibilita e inclusione finanziaria
+
+COLHYBRI si rivolge a tutti, comprese le persone sotto-bancarizzate o prive di conto
+bancario. A 3 EUR/mese, l'abbonamento e progettato per essere accessibile al maggior
+numero possibile. Nessuna verifica del credito, nessuna condizione bancaria. E una porta
+d'ingresso alla partecipazione economica locale per chi ne e abitualmente escluso.
+
+---
+
+## Modello economico
+
+Il modello si basa sulla semplicita:
+- Il 75% degli abbonamenti alimenta il pool solidale redistribuito ai commercianti
+- Il 25% copre i costi operativi della piattaforma
+- La soglia di redditivita si raggiunge con 7.476 abbonati
+- La raccolta pre-seed punta tra 200.000 e 350.000 EUR
+
+Questo modello garantisce che la maggior parte di ogni euro versato torni direttamente
+all'economia locale. Nessuna speculazione, nessun costo nascosto: trasparenza totale.
+
+---
+
+## Link
+
+- Sito web: https://www.colhybri.vision
+- Applicazione: https://www.colhybri.com
+- Email: onlymore2024@gmail.com
+- Lingue disponibili: Italiano, Francese, Inglese, Inglese (GB), Spagnolo, Portoghese, Tedesco, Cinese, Giapponese, Hindi, Polacco
+
+---
+
+## Visione per l'Italia
+
+L'Italia vive una trasformazione profonda del suo commercio locale. I centri storici
+perdono vitalita, le botteghe chiudono, e il tessuto sociale si indebolisce in molti
+quartieri. Eppure, l'Italia e il paese dove il caffe sospeso e nato - la culla stessa
+della solidarieta quotidiana che COLHYBRI digitalizza.
+
+La piattaforma contribuisce a:
+
+- Mantenere l'attivita commerciale di prossimita nei rioni
+- Rafforzare il legame sociale tra residenti e commercianti
+- Creare un circuito economico corto e virtuoso
+- Offrire un'alternativa solidale al consumo di massa
+- Favorire l'inclusione finanziaria delle persone escluse dal sistema bancario
+
+L'Italia, con la tradizione del caffe sospeso, l'economia civile, il movimento
+cooperativo e la cultura delle botteghe di quartiere, e il terreno naturale per COLHYBRI.
+
+---
+
+## Domande frequenti
+
+### COLHYBRI e un'associazione no-profit?
+No. COLHYBRI e un'impresa a vocazione solidale, controllata dal gruppo ONLYMORE Group.
+Unisce un modello economico sostenibile a un impatto sociale positivo.
+
+### Come vengono selezionati i commercianti?
+I commerci di prossimita si iscrivono volontariamente per 10 EUR/mese. Devono essere
+attivita commerciali fisiche situate in un quartiere.
+
+### L'abbonamento prevede un vincolo?
+No. L'abbonamento di 3 EUR/mese e flessibile e puo essere disdetto in qualsiasi momento.
+
+### Dove vengono conservati i dati?
+I dati sono conservati in modo sicuro, nel rispetto del GDPR europeo.
+
+### COLHYBRI e disponibile in tutta Italia?
+Il lancio avviene progressivamente, partendo da zone pilota prima di estendersi
+a tutto il territorio nazionale.
+
+---
+
+## Contesto normativo
+
+COLHYBRI rispetta il quadro normativo europeo e italiano:
+- Conformita al GDPR per la protezione dei dati personali
+- Allineamento con i principi dell'economia civile e cooperativa italiana
+- Trasparenza totale sulla distribuzione dei fondi (75/25)
+- Impegno alla pubblicazione regolare di indicatori di impatto
+
+---
+
+## Napoli e COLHYBRI: un legame speciale
+
+Napoli occupa un posto speciale nella storia di COLHYBRI. E qui che il caffe sospeso
+e nato, nei bar popolari dei Quartieri Spagnoli, di Spaccanapoli, del Vomero. La
+generosita napoletana - spontanea, quotidiana, senza calcolo - e il DNA stesso di
+COLHYBRI. Ogni volta che un utente si abbona, rinnova quel gesto antico del barista
+napoletano che appuntava un caffe sospeso sulla lavagna.
+
+Da Napoli, questa filosofia si estende ora al mondo intero, grazie alla tecnologia
+digitale. Ma le radici restano saldamente partenopee.
+
+---
+
+> "Io faccio la mia parte." - La filosofia del colibri, nel cuore di COLHYBRI.
+> Da Napoli al mondo intero, il caffe sospeso diventa economia solidale digitale.

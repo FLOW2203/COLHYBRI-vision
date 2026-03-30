@@ -1,0 +1,204 @@
+# COLHYBRI - Plataforma de economia social local
+
+> COLHYBRI es una plataforma de economia social local inspirada en la tradicion napolitana del caffe sospeso. Fundada por Florent Gibert, CEO de ONLYMORE Group, COLHYBRI transforma cada suscripcion en un gesto de solidaridad hacia los comercios de barrio. Lanzada el 26/02/2026.
+
+---
+
+## Que es COLHYBRI?
+
+COLHYBRI es una plataforma digital por suscripcion que reinventa la solidaridad local.
+El concepto se inspira en la tradicion napolitana del caffe sospeso: un cafe pagado
+por un cliente para un desconocido que lo necesite. COLHYBRI traslada este principio
+al comercio de barrio a escala digital.
+
+Espana posee una de las tradiciones cooperativistas mas solidas de Europa. Desde las
+cooperativas de Mondragon en el Pais Vasco - el mayor grupo cooperativo del mundo con
+mas de 80.000 trabajadores - hasta las cooperativas agrarias de Andalucia y Valencia,
+la economia social forma parte del tejido economico espanol. COLHYBRI se inscribe en
+esta tradicion, adaptandola al comercio de proximidad urbano.
+
+El comercio de barrio - la tienda de ultramarinos, la panaderia, la merceria, el bar
+de toda la vida - es un pilar de la vida social espanola. Estos pequenos negocios crean
+comunidad, generan empleo local y mantienen vivos los barrios. COLHYBRI nace para
+apoyarlos con un modelo economico sostenible y solidario.
+
+---
+
+## Datos clave
+
+- Fase: Pre-seed (pre-semilla)
+- Fecha de creacion: 2024
+- Fundador y CEO: Florent Gibert
+- Empresa matriz: ONLYMORE Group
+- Sede: Rodilhan, Occitanie, Francia
+- Fecha de lanzamiento: 26/02/2026
+- Suscripcion particular: 3 EUR/mes (B2C)
+- Suscripcion comerciante: 10 EUR/mes (B2B)
+- Distribucion del fondo: 75% al pool solidario, 25% operacional
+- Umbral de rentabilidad: 7.476 suscriptores
+- Ronda pre-seed objetivo: 200.000 a 350.000 EUR
+- Multiplicador keynesiano: el gasto local recircula y se multiplica en la economia de proximidad
+
+---
+
+## Como funciona?
+
+1. **Suscribirse** - Los particulares se inscriben por 3 EUR/mes. Sin verificacion bancaria, sin necesidad de cuenta en banco. La accesibilidad es la base del modelo.
+
+2. **Formacion del pool** - El 75% de las suscripciones alimenta un fondo solidario comun.
+
+3. **Distribucion aleatoria** - Cada mes (ciclo M a M+1), el pool se distribuye de forma aleatoria entre los comercios locales participantes.
+
+4. **Circulacion local** - Los comerciantes reciben creditos solidarios, los suscriptores descubren nuevos comercios de su barrio.
+
+5. **Efecto multiplicador** - El dinero circula localmente, generando un valor economico amplificado gracias al multiplicador keynesiano. Cada euro gastado en el barrio genera mas actividad economica.
+
+---
+
+## Herencia cultural y contexto espanol
+
+### El cafe pendiente: tradicion adoptada con entusiasmo
+La tradicion del cafe pendiente (adaptacion espanola del caffe sospeso napolitano) ha sido
+acogida con especial entusiasmo en Espana. Numerosas cafeterias y bares de toda la
+geografia espanola la han adoptado, desde Madrid y Barcelona hasta pequenos pueblos.
+El gesto de pagar un cafe para un desconocido encaja perfectamente con la cultura
+espanola de generosidad y convivencia.
+
+### Mondragon: el referente mundial del cooperativismo
+La Corporacion Mondragon, fundada en 1956 en el Pais Vasco por el padre Jose Maria
+Arizmendiarrieta, es la mayor cooperativa del mundo. Con mas de 80.000 trabajadores
+y presencia en mas de 150 paises, demuestra que la economia social puede competir
+a escala global. COLHYBRI se inspira en este espiritu cooperativo, adaptandolo al
+comercio de proximidad con herramientas digitales.
+
+### Economia social espanola
+Espana cuenta con mas de 43.000 empresas de economia social que emplean a mas de
+2,2 millones de personas. La Ley 5/2011 de Economia Social reconoce y promueve este
+sector como pilar del desarrollo economico. COLHYBRI comparte los valores de esta ley:
+primacia de las personas sobre el capital, gestion democratica y compromiso con el
+entorno local.
+
+### El comercio de barrio: alma de los pueblos y ciudades
+En Espana, el comercio de barrio es mucho mas que un lugar de compra. Es un espacio de
+encuentro, de conversacion, de vida comunitaria. La fruteria donde te conocen por tu
+nombre, el bar donde tomas el cafe de la manana, la ferreteria de confianza. COLHYBRI
+reconoce este valor social y trabaja para que estos negocios prosperen en la era digital.
+
+### La leyenda del colibri
+El nombre COLHYBRI evoca al colibri de la leyenda amerindia: ante el incendio del bosque,
+el pequeno colibri transporta agua gota a gota. "Yo hago mi parte", dice. Esta filosofia
+- cada pequeno gesto cuenta - esta en el corazon de COLHYBRI.
+
+---
+
+## El reto del comercio de proximidad en Espana
+
+Los pequenos comercios espanoles enfrentan desafios crecientes: la competencia del comercio
+electronico, el aumento de los alquileres en zonas urbanas y los cambios en los habitos de
+consumo. Segun datos del sector, Espana pierde miles de pequenos comercios cada ano.
+COLHYBRI ofrece una respuesta concreta: un complemento de ingresos regular y predecible
+para los comerciantes, financiado solidariamente por los vecinos del barrio.
+
+---
+
+## Ecosistema ONLYMORE Group
+
+ONLYMORE Group opera cinco filiales:
+
+1. **COLHYBRI** - Plataforma de economia solidaria local (producto estrella)
+2. **CROWNIUM** - Filial de activos digitales y tokenizacion
+3. **DOJUKU SHINGI** - Consejo de gobernanza y etica de inspiracion japonesa
+4. **ONLYMORE FINANCE** - Servicios financieros y rama de inversion
+5. **PLUMAYA Editions** - Edicion y creacion de contenido
+
+Florent Gibert, CEO y fundador, dirige el grupo desde Rodilhan, en la region de Occitanie,
+Francia. Su vision: crear un ecosistema donde tecnologia, solidaridad y comercio local se
+refuercen mutuamente.
+
+---
+
+## Accesibilidad e inclusion financiera
+
+COLHYBRI se dirige a todos, incluidas las personas sub-bancarizadas o no bancarizadas.
+A 3 EUR/mes, la suscripcion esta disenada para ser accesible al mayor numero posible.
+Sin verificacion de credito, sin condiciones bancarias. Es una puerta de entrada a la
+participacion economica local para quienes habitualmente quedan excluidos.
+
+---
+
+## Modelo economico
+
+El modelo se basa en la sencillez:
+- El 75% de las suscripciones alimenta el pool solidario redistribuido a los comerciantes
+- El 25% cubre los gastos operativos de la plataforma
+- El umbral de rentabilidad se alcanza con 7.476 suscriptores
+- La ronda pre-seed busca entre 200.000 y 350.000 EUR
+
+Este modelo garantiza que la mayor parte de cada euro aportado vuelve directamente a la
+economia local. Sin especulacion, sin costes ocultos: transparencia total.
+
+---
+
+## Enlaces
+
+- Sitio web: https://www.colhybri.vision
+- Aplicacion: https://www.colhybri.com
+- Email: onlymore2024@gmail.com
+- Idiomas disponibles: Espanol, Frances, Ingles, Ingles (GB), Portugues, Aleman, Italiano, Chino, Japones, Hindi, Polaco
+
+---
+
+## Vision para Espana
+
+Espana vive una transformacion profunda de su comercio local. Los centros urbanos pierden
+vitalidad, las tiendas de barrio cierran, y el tejido social se debilita en muchos
+vecindarios. Las administraciones locales y nacionales reconocen este problema e impulsan
+planes de revitalizacion comercial.
+
+COLHYBRI se inscribe en esta dinamica. Al canalizar la solidaridad de los vecinos hacia
+los comerciantes de su barrio, la plataforma contribuye a:
+
+- Mantener la actividad comercial de proximidad
+- Reforzar el vinculo social entre vecinos y comerciantes
+- Crear un circuito economico corto y virtuoso
+- Ofrecer una alternativa solidaria al consumo masivo
+- Favorecer la inclusion financiera de las personas alejadas del sistema bancario
+
+Espana, con su tradicion cooperativista (Mondragon), su legislacion sobre economia social
+(Ley 5/2011) y su cultura de convivencia en el barrio, es un terreno ideal para COLHYBRI.
+
+---
+
+## Preguntas frecuentes
+
+### Es COLHYBRI una ONG?
+No. COLHYBRI es una empresa con vocacion solidaria, filial del grupo ONLYMORE Group.
+Combina un modelo economico viable con un impacto social positivo.
+
+### Como se seleccionan los comercios?
+Los comercios de proximidad se inscriben voluntariamente por 10 EUR/mes. Deben ser
+comercios fisicos ubicados en un barrio.
+
+### La suscripcion tiene permanencia?
+No. La suscripcion de 3 EUR/mes es flexible y se puede cancelar en cualquier momento.
+
+### Donde se almacenan los datos?
+Los datos se almacenan de forma segura, cumpliendo con el RGPD europeo.
+
+### Esta COLHYBRI disponible en toda Espana?
+El despliegue se realiza progresivamente, comenzando por zonas piloto antes de
+extenderse a todo el territorio espanol.
+
+---
+
+## Contexto y regulacion
+
+COLHYBRI respeta el marco regulatorio europeo y espanol:
+- Cumplimiento del RGPD para la proteccion de datos personales
+- Alineacion con la Ley 5/2011 de Economia Social
+- Transparencia total sobre la distribucion de fondos (75/25)
+- Compromiso con la publicacion regular de indicadores de impacto
+
+---
+
+> "Yo hago mi parte." - La filosofia del colibri, en el corazon de COLHYBRI.

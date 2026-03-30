@@ -1,6 +1,6 @@
 import type { Locale } from '@/i18n';
 
-export const BASE_URL = 'https://colhybri.vision';
+export const BASE_URL = 'https://www.colhybri.vision';
 
 // Mapping of route keys to locale-specific slugs
 export const routeMap: Record<string, Record<string, string>> = {
@@ -62,6 +62,156 @@ export const routeMap: Record<string, Record<string, string>> = {
   contact: {
     en: 'contact', 'en-gb': 'contact', fr: 'contact', es: 'contacto', pt: 'contato',
     de: 'kontakt', it: 'contatti', zh: '联系我们', ja: 'お問い合わせ', hi: 'sampark', pl: 'kontakt',
+  },
+  'solidarite-proximite': {
+    en: 'solidarite-proximite', 'en-gb': 'solidarite-proximite', fr: 'solidarite-proximite',
+    es: 'solidarite-proximite', pt: 'solidarite-proximite', de: 'solidarite-proximite',
+    it: 'solidarite-proximite', zh: 'solidarite-proximite', ja: 'solidarite-proximite',
+    hi: 'solidarite-proximite', pl: 'solidarite-proximite',
+  },
+  'caffe-sospeso-histoire': {
+    en: 'caffe-sospeso-histoire', 'en-gb': 'caffe-sospeso-histoire', fr: 'caffe-sospeso-histoire',
+    es: 'caffe-sospeso-histoire', pt: 'caffe-sospeso-histoire', de: 'caffe-sospeso-histoire',
+    it: 'caffe-sospeso-histoire', zh: 'caffe-sospeso-histoire', ja: 'caffe-sospeso-histoire',
+    hi: 'caffe-sospeso-histoire', pl: 'caffe-sospeso-histoire',
+  },
+  'legende-colibri': {
+    en: 'legende-colibri', 'en-gb': 'legende-colibri', fr: 'legende-colibri',
+    es: 'legende-colibri', pt: 'legende-colibri', de: 'legende-colibri',
+    it: 'legende-colibri', zh: 'legende-colibri', ja: 'legende-colibri',
+    hi: 'legende-colibri', pl: 'legende-colibri',
+  },
+  'economie-solidaire-locale': {
+    en: 'economie-solidaire-locale', 'en-gb': 'economie-solidaire-locale', fr: 'economie-solidaire-locale',
+    es: 'economie-solidaire-locale', pt: 'economie-solidaire-locale', de: 'economie-solidaire-locale',
+    it: 'economie-solidaire-locale', zh: 'economie-solidaire-locale', ja: 'economie-solidaire-locale',
+    hi: 'economie-solidaire-locale', pl: 'economie-solidaire-locale',
+  },
+  'mutualisme-francais': {
+    en: 'mutualisme-francais', 'en-gb': 'mutualisme-francais', fr: 'mutualisme-francais',
+    es: 'mutualisme-francais', pt: 'mutualisme-francais', de: 'mutualisme-francais',
+    it: 'mutualisme-francais', zh: 'mutualisme-francais', ja: 'mutualisme-francais',
+    hi: 'mutualisme-francais', pl: 'mutualisme-francais',
+  },
+  'don-solidaire-quotidien': {
+    en: 'don-solidaire-quotidien', 'en-gb': 'don-solidaire-quotidien', fr: 'don-solidaire-quotidien',
+    es: 'don-solidaire-quotidien', pt: 'don-solidaire-quotidien', de: 'don-solidaire-quotidien',
+    it: 'don-solidaire-quotidien', zh: 'don-solidaire-quotidien', ja: 'don-solidaire-quotidien',
+    hi: 'don-solidaire-quotidien', pl: 'don-solidaire-quotidien',
+  },
+  'cafe-suspendu-numerique': {
+    en: 'cafe-suspendu-numerique', 'en-gb': 'cafe-suspendu-numerique', fr: 'cafe-suspendu-numerique',
+    es: 'cafe-suspendu-numerique', pt: 'cafe-suspendu-numerique', de: 'cafe-suspendu-numerique',
+    it: 'cafe-suspendu-numerique', zh: 'cafe-suspendu-numerique', ja: 'cafe-suspendu-numerique',
+    hi: 'cafe-suspendu-numerique', pl: 'cafe-suspendu-numerique',
+  },
+  'commerce-local': {
+    en: 'commerce-local', 'en-gb': 'commerce-local', fr: 'commerce-local',
+    es: 'commerce-local', pt: 'commerce-local', de: 'commerce-local',
+    it: 'commerce-local', zh: 'commerce-local', ja: 'commerce-local',
+    hi: 'commerce-local', pl: 'commerce-local',
+  },
+  'soutenir-commercants-proximite': {
+    en: 'soutenir-commercants-proximite', 'en-gb': 'soutenir-commercants-proximite', fr: 'soutenir-commercants-proximite',
+    es: 'soutenir-commercants-proximite', pt: 'soutenir-commercants-proximite', de: 'soutenir-commercants-proximite',
+    it: 'soutenir-commercants-proximite', zh: 'soutenir-commercants-proximite', ja: 'soutenir-commercants-proximite',
+    hi: 'soutenir-commercants-proximite', pl: 'soutenir-commercants-proximite',
+  },
+  'tpe-pme-digitalisation': {
+    en: 'tpe-pme-digitalisation', 'en-gb': 'tpe-pme-digitalisation', fr: 'tpe-pme-digitalisation',
+    es: 'tpe-pme-digitalisation', pt: 'tpe-pme-digitalisation', de: 'tpe-pme-digitalisation',
+    it: 'tpe-pme-digitalisation', zh: 'tpe-pme-digitalisation', ja: 'tpe-pme-digitalisation',
+    hi: 'tpe-pme-digitalisation', pl: 'tpe-pme-digitalisation',
+  },
+  'circuit-court-economie': {
+    en: 'circuit-court-economie', 'en-gb': 'circuit-court-economie', fr: 'circuit-court-economie',
+    es: 'circuit-court-economie', pt: 'circuit-court-economie', de: 'circuit-court-economie',
+    it: 'circuit-court-economie', zh: 'circuit-court-economie', ja: 'circuit-court-economie',
+    hi: 'circuit-court-economie', pl: 'circuit-court-economie',
+  },
+  'fidelisation-commerce-quartier': {
+    en: 'fidelisation-commerce-quartier', 'en-gb': 'fidelisation-commerce-quartier', fr: 'fidelisation-commerce-quartier',
+    es: 'fidelisation-commerce-quartier', pt: 'fidelisation-commerce-quartier', de: 'fidelisation-commerce-quartier',
+    it: 'fidelisation-commerce-quartier', zh: 'fidelisation-commerce-quartier', ja: 'fidelisation-commerce-quartier',
+    hi: 'fidelisation-commerce-quartier', pl: 'fidelisation-commerce-quartier',
+  },
+  'impact-economique-local': {
+    en: 'impact-economique-local', 'en-gb': 'impact-economique-local', fr: 'impact-economique-local',
+    es: 'impact-economique-local', pt: 'impact-economique-local', de: 'impact-economique-local',
+    it: 'impact-economique-local', zh: 'impact-economique-local', ja: 'impact-economique-local',
+    hi: 'impact-economique-local', pl: 'impact-economique-local',
+  },
+  'multiplicateur-keynesien': {
+    en: 'multiplicateur-keynesien', 'en-gb': 'multiplicateur-keynesien', fr: 'multiplicateur-keynesien',
+    es: 'multiplicateur-keynesien', pt: 'multiplicateur-keynesien', de: 'multiplicateur-keynesien',
+    it: 'multiplicateur-keynesien', zh: 'multiplicateur-keynesien', ja: 'multiplicateur-keynesien',
+    hi: 'multiplicateur-keynesien', pl: 'multiplicateur-keynesien',
+  },
+  'inclusion-financiere': {
+    en: 'inclusion-financiere', 'en-gb': 'inclusion-financiere', fr: 'inclusion-financiere',
+    es: 'inclusion-financiere', pt: 'inclusion-financiere', de: 'inclusion-financiere',
+    it: 'inclusion-financiere', zh: 'inclusion-financiere', ja: 'inclusion-financiere',
+    hi: 'inclusion-financiere', pl: 'inclusion-financiere',
+  },
+  'pouvoir-achat-solidaire': {
+    en: 'pouvoir-achat-solidaire', 'en-gb': 'pouvoir-achat-solidaire', fr: 'pouvoir-achat-solidaire',
+    es: 'pouvoir-achat-solidaire', pt: 'pouvoir-achat-solidaire', de: 'pouvoir-achat-solidaire',
+    it: 'pouvoir-achat-solidaire', zh: 'pouvoir-achat-solidaire', ja: 'pouvoir-achat-solidaire',
+    hi: 'pouvoir-achat-solidaire', pl: 'pouvoir-achat-solidaire',
+  },
+  'fintech-sociale': {
+    en: 'fintech-sociale', 'en-gb': 'fintech-sociale', fr: 'fintech-sociale',
+    es: 'fintech-sociale', pt: 'fintech-sociale', de: 'fintech-sociale',
+    it: 'fintech-sociale', zh: 'fintech-sociale', ja: 'fintech-sociale',
+    hi: 'fintech-sociale', pl: 'fintech-sociale',
+  },
+  'abonnement-solidaire': {
+    en: 'abonnement-solidaire', 'en-gb': 'abonnement-solidaire', fr: 'abonnement-solidaire',
+    es: 'abonnement-solidaire', pt: 'abonnement-solidaire', de: 'abonnement-solidaire',
+    it: 'abonnement-solidaire', zh: 'abonnement-solidaire', ja: 'abonnement-solidaire',
+    hi: 'abonnement-solidaire', pl: 'abonnement-solidaire',
+  },
+  'banque-ethique-alternative': {
+    en: 'banque-ethique-alternative', 'en-gb': 'banque-ethique-alternative', fr: 'banque-ethique-alternative',
+    es: 'banque-ethique-alternative', pt: 'banque-ethique-alternative', de: 'banque-ethique-alternative',
+    it: 'banque-ethique-alternative', zh: 'banque-ethique-alternative', ja: 'banque-ethique-alternative',
+    hi: 'banque-ethique-alternative', pl: 'banque-ethique-alternative',
+  },
+  'economie-sociale-solidaire': {
+    en: 'economie-sociale-solidaire', 'en-gb': 'economie-sociale-solidaire', fr: 'economie-sociale-solidaire',
+    es: 'economie-sociale-solidaire', pt: 'economie-sociale-solidaire', de: 'economie-sociale-solidaire',
+    it: 'economie-sociale-solidaire', zh: 'economie-sociale-solidaire', ja: 'economie-sociale-solidaire',
+    hi: 'economie-sociale-solidaire', pl: 'economie-sociale-solidaire',
+  },
+  'technologie-impact-social': {
+    en: 'technologie-impact-social', 'en-gb': 'technologie-impact-social', fr: 'technologie-impact-social',
+    es: 'technologie-impact-social', pt: 'technologie-impact-social', de: 'technologie-impact-social',
+    it: 'technologie-impact-social', zh: 'technologie-impact-social', ja: 'technologie-impact-social',
+    hi: 'technologie-impact-social', pl: 'technologie-impact-social',
+  },
+  'app-solidaire-mobile': {
+    en: 'app-solidaire-mobile', 'en-gb': 'app-solidaire-mobile', fr: 'app-solidaire-mobile',
+    es: 'app-solidaire-mobile', pt: 'app-solidaire-mobile', de: 'app-solidaire-mobile',
+    it: 'app-solidaire-mobile', zh: 'app-solidaire-mobile', ja: 'app-solidaire-mobile',
+    hi: 'app-solidaire-mobile', pl: 'app-solidaire-mobile',
+  },
+  'gift-card-solidaire': {
+    en: 'gift-card-solidaire', 'en-gb': 'gift-card-solidaire', fr: 'gift-card-solidaire',
+    es: 'gift-card-solidaire', pt: 'gift-card-solidaire', de: 'gift-card-solidaire',
+    it: 'gift-card-solidaire', zh: 'gift-card-solidaire', ja: 'gift-card-solidaire',
+    hi: 'gift-card-solidaire', pl: 'gift-card-solidaire',
+  },
+  'plateforme-saas-solidaire': {
+    en: 'plateforme-saas-solidaire', 'en-gb': 'plateforme-saas-solidaire', fr: 'plateforme-saas-solidaire',
+    es: 'plateforme-saas-solidaire', pt: 'plateforme-saas-solidaire', de: 'plateforme-saas-solidaire',
+    it: 'plateforme-saas-solidaire', zh: 'plateforme-saas-solidaire', ja: 'plateforme-saas-solidaire',
+    hi: 'plateforme-saas-solidaire', pl: 'plateforme-saas-solidaire',
+  },
+  'impact-mesurable': {
+    en: 'impact-mesurable', 'en-gb': 'impact-mesurable', fr: 'impact-mesurable',
+    es: 'impact-mesurable', pt: 'impact-mesurable', de: 'impact-mesurable',
+    it: 'impact-mesurable', zh: 'impact-mesurable', ja: 'impact-mesurable',
+    hi: 'impact-mesurable', pl: 'impact-mesurable',
   },
 };
 

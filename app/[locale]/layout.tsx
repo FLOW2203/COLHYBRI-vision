@@ -11,7 +11,7 @@ import { generateOrganizationJsonLd, generateWebSiteJsonLd } from '@/lib/metadat
 import '@/app/globals.css';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://colhybri.vision'),
+  metadataBase: new URL('https://www.colhybri.vision'),
   icons: {
     icon: [
       { url: '/favicon.svg', type: 'image/svg+xml' },

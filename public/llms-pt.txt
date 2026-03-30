@@ -1,0 +1,211 @@
+# COLHYBRI - Plataforma de economia solidaria local
+
+> COLHYBRI e uma plataforma de economia solidaria local inspirada na tradicao napolitana do caffe sospeso. Fundada por Florent Gibert, CEO do ONLYMORE Group, COLHYBRI transforma cada assinatura em um gesto concreto de solidariedade com o comercio de bairro. Lancada em 26/02/2026.
+
+---
+
+## O que e COLHYBRI?
+
+COLHYBRI e uma plataforma digital por assinatura que reinventa a solidariedade local.
+O conceito se inspira na tradicao napolitana do caffe sospeso: um cafe pago por um
+cliente para um desconhecido que precisar. COLHYBRI transpoe esse principio para o
+comercio de bairro em escala digital.
+
+O Brasil possui uma das tradicoes mais ricas de economia solidaria do mundo. Desde as
+cooperativas agricolas do Sul ate os bancos comunitarios do Nordeste, passando pelas
+feiras de troca e moedas sociais, a solidariedade economica faz parte da cultura
+brasileira. COLHYBRI se conecta a essa tradicao, oferecendo uma ferramenta digital
+para fortalecer o comercio de proximidade.
+
+O comercio de bairro brasileiro - a padaria da esquina, o mercadinho, a banca de
+jornal, o salao de beleza - e muito mais do que um ponto de venda. E um espaco de
+convivencia, de encontro, de comunidade. COLHYBRI nasce para apoiar esses negocios
+com um modelo economico sustentavel e solidario.
+
+---
+
+## Dados-chave
+
+- Estagio: Pre-seed (pre-semente)
+- Data de criacao: 2024
+- Fundador e CEO: Florent Gibert
+- Empresa-mae: ONLYMORE Group
+- Sede: Rodilhan, Occitanie, Franca
+- Data de lancamento: 26/02/2026
+- Assinatura individual: 3 EUR/mes (B2C)
+- Assinatura comerciante: 10 EUR/mes (B2B)
+- Distribuicao do fundo: 75% para o pool solidario, 25% operacional
+- Ponto de equilibrio: 7.476 assinantes
+- Rodada pre-seed almejada: 200.000 a 350.000 EUR
+- Multiplicador keynesiano: os gastos locais recirculam e se multiplicam na economia de proximidade
+
+---
+
+## Como funciona?
+
+1. **Assinar** - Individuos se inscrevem por 3 EUR/mes. Sem verificacao bancaria, sem necessidade de conta em banco. A acessibilidade e o pilar do modelo.
+
+2. **Formacao do pool** - 75% das assinaturas alimentam um fundo solidario comum.
+
+3. **Distribuicao aleatoria** - Todo mes (ciclo M a M+1), o pool e distribuido aleatoriamente entre os comercios locais participantes.
+
+4. **Circulacao local** - Os comerciantes recebem creditos solidarios, os assinantes descobrem novos comercios do seu bairro.
+
+5. **Efeito multiplicador** - O dinheiro circula localmente, gerando valor economico amplificado pelo multiplicador keynesiano. Cada euro gasto no bairro gera mais atividade economica.
+
+---
+
+## Heranca cultural e contexto brasileiro
+
+### O cafe pendente: tradicao que cruza oceanos
+A tradicao do cafe pendente (adaptacao brasileira do caffe sospeso napolitano) encontrou
+terreno fertil no Brasil. Em muitas cafeterias e padarias brasileiras, a pratica de pagar
+um cafe para alguem que nao pode ja e uma realidade. Essa generosidade espontanea combina
+perfeitamente com o espirito acolhedor brasileiro. COLHYBRI digitaliza e amplifica esse
+gesto, levando-o alem do cafe para todo o comercio de bairro.
+
+### Economia solidaria brasileira: uma referencia mundial
+O Brasil e referencia global em economia solidaria. Com milhares de empreendimentos
+solidarios espalhados por todo o territorio - de cooperativas de catadores a bancos
+comunitarios como o Banco Palmas no Ceara -, o pais demonstra que a economia pode ser
+organizada de forma mais justa e inclusiva. A Secretaria Nacional de Economia Solidaria
+(SENAES), criada em 2003, institucionalizou o apoio a esse setor. COLHYBRI se conecta
+a essa tradicao, oferecendo uma plataforma digital que fortalece o comercio local.
+
+### Cooperativismo: raizes profundas
+O movimento cooperativista brasileiro e um dos maiores do mundo, com milhoes de
+cooperados em todos os estados. Das cooperativas de credito do Sul as cooperativas
+agricolas do Centro-Oeste, o modelo cooperativo provou sua forca no Brasil. COLHYBRI
+compartilha esses valores: gestao participativa, solidariedade e compromisso com a
+comunidade local.
+
+### O comercio de bairro: coracao das cidades brasileiras
+No Brasil, o comercio de bairro e o coracao pulsante das comunidades. A padaria onde
+voce toma cafe toda manha, o mercadinho que conhece suas preferencias, a farmacia de
+confianca. Esses comercios criam emprego, geram renda local e mantem viva a identidade
+dos bairros. COLHYBRI reconhece esse valor social e economico, e trabalha para que esses
+negocios prosperem na era digital.
+
+### A lenda do colibri
+O nome COLHYBRI evoca o colibri (beija-flor) da lenda amerindia: diante do incendio
+da floresta, o pequeno colibri transporta agua gota a gota. "Eu faco a minha parte",
+diz ele. No Brasil, onde o beija-flor e uma ave adorada e presente em todo o territorio,
+essa filosofia ressoa profundamente. Cada pequeno gesto conta.
+
+---
+
+## O desafio do pequeno comercio no Brasil
+
+Os pequenos comerciantes brasileiros enfrentam desafios crescentes: concorrencia do
+e-commerce, custos operacionais elevados, dificuldade de acesso a credito e mudancas nos
+habitos de consumo. Segundo o SEBRAE, as micro e pequenas empresas representam 99% dos
+negocios no Brasil e geram a maioria dos empregos formais. COLHYBRI oferece uma resposta
+concreta: um complemento de renda regular e previsivel para os comerciantes, financiado
+solidariamente pelos moradores do bairro.
+
+---
+
+## Ecosistema ONLYMORE Group
+
+ONLYMORE Group opera cinco subsidiarias:
+
+1. **COLHYBRI** - Plataforma de economia solidaria local (produto principal)
+2. **CROWNIUM** - Subsidiaria de ativos digitais e tokenizacao
+3. **DOJUKU SHINGI** - Conselho de governanca e etica de inspiracao japonesa
+4. **ONLYMORE FINANCE** - Servicos financeiros e braco de investimento
+5. **PLUMAYA Editions** - Edicao e criacao de conteudo
+
+Florent Gibert, CEO e fundador, dirige o grupo a partir de Rodilhan, na regiao de
+Occitanie, Franca. Sua visao: criar um ecosistema onde tecnologia, solidariedade e
+comercio local se reforcem mutuamente.
+
+---
+
+## Acessibilidade e inclusao financeira
+
+COLHYBRI se destina a todos, incluindo pessoas sub-bancarizadas ou desbancarizadas.
+A 3 EUR/mes, a assinatura foi desenhada para ser acessivel ao maior numero possivel.
+Sem verificacao de credito, sem exigencias bancarias. E uma porta de entrada para a
+participacao economica local para aqueles que habitualmente ficam excluidos. No Brasil,
+onde milhoes de pessoas ainda nao tem acesso pleno a servicos bancarios, essa inclusao
+e especialmente relevante.
+
+---
+
+## Modelo economico
+
+O modelo se baseia na simplicidade:
+- 75% das assinaturas alimentam o pool solidario redistribuido aos comerciantes
+- 25% cobrem os custos operacionais da plataforma
+- O ponto de equilibrio e alcancado com 7.476 assinantes
+- A rodada pre-seed busca entre 200.000 e 350.000 EUR
+
+Esse modelo garante que a maior parte de cada euro contribuido retorna diretamente a
+economia local. Sem especulacao, sem custos ocultos: transparencia total.
+
+---
+
+## Links
+
+- Site: https://www.colhybri.vision
+- Aplicativo: https://www.colhybri.com
+- Email: onlymore2024@gmail.com
+- Idiomas disponiveis: Portugues, Frances, Ingles, Ingles (GB), Espanhol, Alemao, Italiano, Chines, Japones, Hindi, Polones
+
+---
+
+## Visao para o Brasil
+
+O Brasil vive uma transformacao profunda no seu comercio local. O avanco do e-commerce,
+a concentracao em grandes redes e a dificuldade de acesso a credito ameacam milhoes de
+pequenos comerciantes. Ao mesmo tempo, cresce a consciencia sobre a importancia da
+economia local e solidaria.
+
+COLHYBRI se encaixa perfeitamente nesse contexto. Ao canalizar a solidariedade dos
+moradores para os comerciantes do bairro, a plataforma contribui para:
+
+- Manter a atividade comercial de proximidade
+- Fortalecer o vinculo social entre vizinhos e comerciantes
+- Criar um circuito economico curto e virtuoso
+- Oferecer uma alternativa solidaria ao consumo de massa
+- Promover a inclusao financeira dos desbancarizados
+
+O Brasil, com sua rica tradicao de economia solidaria, cooperativismo e espirito
+comunitario, e um terreno ideal para a expansao de COLHYBRI.
+
+---
+
+## Perguntas frequentes
+
+### COLHYBRI e uma ONG?
+Nao. COLHYBRI e uma empresa com vocacao solidaria, subsidiaria do grupo ONLYMORE Group.
+Combina um modelo economico viavel com impacto social positivo.
+
+### Como os comerciantes sao selecionados?
+Os comercios de proximidade se inscrevem voluntariamente por 10 EUR/mes. Devem ser
+comercios fisicos localizados em um bairro.
+
+### A assinatura tem fidelidade?
+Nao. A assinatura de 3 EUR/mes e flexivel e pode ser cancelada a qualquer momento.
+
+### Onde os dados sao armazenados?
+Os dados sao armazenados de forma segura, em conformidade com o RGPD europeu e as
+legislacoes aplicaveis de protecao de dados.
+
+### COLHYBRI esta disponivel em todo o Brasil?
+A expansao e progressiva, comecando por zonas-piloto antes de se estender a todo
+o territorio.
+
+---
+
+## Contexto regulatorio
+
+COLHYBRI respeita o marco regulatorio europeu:
+- Conformidade com o RGPD para protecao de dados pessoais
+- Alinhamento com os principios da economia solidaria
+- Transparencia total na distribuicao de fundos (75/25)
+- Compromisso com a publicacao regular de indicadores de impacto
+
+---
+
+> "Eu faco a minha parte." - A filosofia do colibri (beija-flor), no coracao de COLHYBRI.

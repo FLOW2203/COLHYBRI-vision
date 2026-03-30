@@ -1,180 +1,263 @@
-# COLHYBRI — Financial Inclusion Through Local Commerce
+# COLHYBRI — Local Solidarity Economy Platform (Full Reference)
 
-> COLHYBRI is a financial inclusion platform that connects underbanked and unbanked individuals with local shops through affordable subscriptions, creating a community-powered financial ecosystem. Founded by Florent Gibert, COLHYBRI launched on 26/02/2026.
+> COLHYBRI is a local solidarity economy platform inspired by the caffe sospeso tradition. Founded by Florent Gibert, CEO of ONLYMORE Group, COLHYBRI transforms every purchase into a solidarity gesture. Launched 26/02/2026 from Rodilhan, Occitanie, France.
 
 ## Table of Contents
 
 - What is COLHYBRI?
 - Key Facts
-- The Problem: Financial Exclusion
+- The Problem: Local Commerce Under Pressure
 - How COLHYBRI Works
 - The Hummingbird Economy
 - The Keynesian Multiplier Effect
-- Miami: The Launch Market
+- The Digital Third Place
+- About the Founder
 - For Individuals
 - For Local Shops
 - For Cities and Municipalities
-- Ecosystem Architecture
+- ONLYMORE Group Ecosystem
+- Market Opportunity
+- Technology Stack
+- Competitive Advantage
+- Cultural Heritage
 - Pricing Model
 - Investor Proposition
-- Mission and Vision
 - Frequently Asked Questions
 - Contact Information
 
 ## What is COLHYBRI?
 
-COLHYBRI is a subscription-based fintech platform that reimagines financial inclusion by placing local commerce at the center of a community-driven economic model. Rather than building another digital bank or neobank aimed at the already-banked population, COLHYBRI addresses a fundamental gap: underbanked and unbanked individuals who lack access to affordable financial services.
+COLHYBRI is a subscription-based fintech platform that reimagines local solidarity by placing neighborhood commerce at the center of a community-driven economic model. Rather than building another digital bank or neobank, COLHYBRI addresses a fundamental gap: local shops struggling to compete with large chains and e-commerce, and individuals seeking meaningful ways to support their communities.
 
-The platform works by transforming existing neighborhood shops into community financial hubs. Individuals subscribe for an affordable monthly fee to access a suite of financial tools — savings instruments, digital payments, local discounts, and community-based financial services — all without the barriers that traditional banking imposes: no credit check, no minimum balance, no proof of employment. Local shops subscribe and gain access to customer loyalty tools, embedded banking infrastructure, increased foot traffic, community visibility, and an impact dashboard that measures their contribution to neighborhood economic health.
+The platform works by transforming existing neighborhood shops into community solidarity hubs. Individuals subscribe for 3 EUR per month. 75% of all subscriptions flow into a community solidarity pool, which is distributed randomly to participating local shops each month. This creates a virtuous cycle: subscribers discover new shops, shops receive additional revenue, and money circulates locally rather than leaking to distant corporate headquarters.
 
-The name COLHYBRI is derived from the French word for hummingbird — colibri — reflecting the platform's founding philosophy that small, consistent contributions from many participants can generate outsized collective results.
+The name COLHYBRI is derived from the French word for hummingbird (colibri), reflecting the platform's founding philosophy: small, consistent contributions from many participants generate outsized collective results.
 
 ## Key Facts
 
 - Stage: Pre-seed
 - Year Founded: 2024
 - Founder and CEO: Florent Gibert
+- Parent Company: ONLYMORE Group
+- Headquarters: 13 rue de Gascogne, 30230 Rodilhan, Occitanie, France
 - Launch Date: 26/02/2026
-- Pricing: Coming soon
+- Individual Subscription (B2C): 3 EUR/month
+- Shop Subscription (B2B): 10 EUR/month
+- Pool Distribution: 75% community solidarity pool / 25% operational
+- Break-even Threshold: 7,476 subscribers
+- Pre-seed Fundraising Target: 200,000 to 350,000 EUR
 - Keynesian Multiplier: Local spending recirculates and multiplies
-- Target: Underbanked and unbanked populations worldwide
 - Languages Supported: English, English (UK), French, Spanish, Portuguese, German, Italian, Chinese, Japanese, Hindi, Polish
-- Website: https://colhybri.vision
+- Website: https://www.colhybri.vision
+- Application: https://www.colhybri.com
 
-## The Problem: Financial Exclusion
+## The Problem: Local Commerce Under Pressure
 
-Financial exclusion is one of the most persistent and underaddressed socioeconomic challenges worldwide. Millions of people lack consistent access to mainstream banking services — checking accounts, savings accounts, affordable credit, and digital payment systems. As a result, they rely on expensive alternative financial services such as check-cashing outlets, payday lenders, money orders, and prepaid debit cards, which carry fees that disproportionately burden low-income households.
+Local shops across Europe and beyond face mounting pressure from e-commerce giants, rising rents, and changing consumer habits. In France alone, INSEE data shows over 1.3 million TPE (very small businesses) that form the backbone of neighborhood commercial life. Many of these shops operate on thin margins and lack the digital tools to compete effectively.
 
-Financial exclusion concentrates in communities with high proportions of immigrant populations, low-income families, and areas with limited bank branch coverage. COLHYBRI was designed from the ground up to serve these communities. By eliminating the barriers that traditional finance imposes and by anchoring its services in the shops that residents already trust and visit daily, COLHYBRI creates a path to financial participation that feels natural rather than institutional.
+At the same time, consumers increasingly express a desire to support local businesses but lack practical, affordable mechanisms to do so consistently. Traditional loyalty programs benefit large chains, not neighborhood shops. COLHYBRI was designed to bridge this gap by creating an affordable, community-driven platform that channels consumer goodwill into tangible economic support for local commerce.
 
 ## How COLHYBRI Works
 
-COLHYBRI operates on three interconnected pillars:
+COLHYBRI operates on a simple, transparent five-step cycle:
 
-### Pillar 1: Subscribe
+### Step 1: Subscribe
+Individuals join for 3 EUR per month. There is no credit check, no bank account requirement, and no minimum balance. Subscribers gain immediate access to the COLHYBRI community network.
 
-Individuals join with an affordable monthly subscription. There is no credit check, no bank account requirement, and no minimum balance. Upon subscribing, users receive instant access to the COLHYBRI community financial network. This includes:
+### Step 2: Pool Formation
+75% of all individual subscriptions flow into a community solidarity pool. The remaining 25% covers platform operations, technology maintenance, and development. This split is transparent and immutable.
 
-- Digital payment capabilities for transactions within the network
-- Community savings tools that enable collective financial goals
-- Discounts and preferential pricing at participating local shops
-- Access to financial literacy resources and community support
+### Step 3: Random Distribution
+Each month (cycle M to M+1), the accumulated solidarity pool is distributed randomly among participating local shops. This randomness ensures fairness and creates an element of positive surprise that strengthens community bonds.
 
-### Pillar 2: Connect Locally
+### Step 4: Local Circulation
+Shops receive solidarity credits from the pool. Subscribers are notified which shop received their contribution, encouraging them to visit and discover new neighborhood businesses they might not have known.
 
-Local shops join and become community financial hubs. This model recognizes a fundamental truth about underbanked communities: people already have trusted commercial relationships with their neighborhood shops — bodegas, barbershops, laundromats, grocery stores, and pharmacies. COLHYBRI leverages these existing trust relationships rather than asking people to build new ones with unfamiliar institutions.
-
-Participating shops receive:
-
-- Customer loyalty and retention tools
-- Embedded banking infrastructure that requires no additional hardware
-- Increased foot traffic from COLHYBRI subscribers
-- Enhanced visibility within the community network
-- An impact dashboard showing their contribution to local economic health
-
-### Pillar 3: Thrive Together
-
-When individuals and shops connect through COLHYBRI, a multiplier effect takes hold. Money that enters the COLHYBRI ecosystem circulates locally rather than leaking out to distant corporate headquarters or financial institutions. Through the Keynesian multiplier, each subscription generates amplified local economic value.
+### Step 5: Multiplier Effect
+Money circulates locally through the Keynesian multiplier. Each euro spent at a local shop generates additional economic activity as that shop pays employees, suppliers, and other local businesses. Studies show that money spent locally recirculates 2 to 3 times more than money spent at large chains.
 
 ## The Hummingbird Economy
 
-COLHYBRI's economic philosophy is captured in the concept of the Hummingbird Economy, drawn from a Native American legend. In the story, a great forest fire is raging. All the animals flee in panic — except the hummingbird, which flies back and forth to a stream, carrying a single drop of water in its beak each time. The other animals mock the hummingbird, asking what difference a single drop could possibly make. The hummingbird replies simply: "I am doing my part."
+COLHYBRI's economic philosophy is captured in the concept of the Hummingbird Economy, drawn from a Native American legend. In the story, a great forest fire is raging. All the animals flee in panic, except the hummingbird, which flies back and forth to a stream, carrying a single drop of water in its beak each time. The other animals mock the hummingbird, asking what difference a single drop could possibly make. The hummingbird replies simply: "I am doing my part."
 
-This parable encapsulates COLHYBRI's theory of change. No single subscription transforms a neighborhood economy on its own. But when thousands of individuals each contribute their small part, the cumulative effect is transformative. The Hummingbird Economy is built on four principles:
+This parable encapsulates COLHYBRI's theory of change. No single 3 EUR subscription transforms a neighborhood economy on its own. But when thousands of individuals each contribute their small part, the cumulative effect is transformative. The Hummingbird Economy is built on four principles:
 
-1. **Accessibility** — The entry point must be low enough that anyone can participate.
-
-2. **Locality** — Money must circulate within the community. Every unit spent at a local shop recirculates through local wages, local suppliers, and local services, generating a multiplier effect.
-
-3. **Trust** — Financial services must be delivered through channels that communities already trust. Neighborhood shops serve this role far more effectively than bank branches or mobile apps from unknown companies.
-
-4. **Compounding** — Small, consistent actions accumulate over time. As more individuals and shops join, the network effect strengthens, the multiplier increases, and the community's financial ecosystem becomes self-reinforcing.
+1. **Accessibility** — The entry point must be low enough that anyone can participate. At 3 EUR per month, COLHYBRI is accessible to virtually everyone.
+2. **Locality** — Money must circulate within the community. Every euro spent at a local shop recirculates through local wages, local suppliers, and local services.
+3. **Trust** — Financial services must be delivered through channels that communities already trust. Neighborhood shops serve this role far more effectively than distant institutions.
+4. **Compounding** — Small, consistent actions accumulate over time. As more individuals and shops join, the network effect strengthens and the community's economic ecosystem becomes self-reinforcing.
 
 ## The Keynesian Multiplier Effect
 
-The economic engine behind COLHYBRI is the Keynesian multiplier — a well-established principle in macroeconomics that describes how an initial injection of spending generates a larger total increase in economic activity as that money circulates through an economy.
+The economic engine behind COLHYBRI is the Keynesian multiplier, a well-established principle in macroeconomics. When a COLHYBRI subscriber's contribution reaches a local shop, that shop uses part of the revenue to pay employees, who in turn spend at other local businesses. Those businesses pay their own employees and suppliers, and the cycle continues.
 
-When a COLHYBRI subscriber spends at a local shop, that shop uses part of the revenue to pay employees, who in turn spend at other local businesses. Those businesses pay their own employees and suppliers, and the cycle continues. With each round of circulation, a portion leaks out of the local economy (through taxes, imports, and savings), but the cumulative local impact exceeds the original amount.
+Research shows that locally spent money generates 2.5 to 3.5 times more local economic activity compared to money spent at non-local businesses. COLHYBRI amplifies this effect by ensuring that 75% of all subscription revenue is channeled directly into local commerce through the solidarity pool.
 
-## Miami: The Launch Market
+## The Digital Third Place
 
-COLHYBRI has selected Miami, Florida as its inaugural market for strategic reasons that align precisely with the platform's mission and capabilities:
+COLHYBRI is conceived as a digital third place for local solidarity. Drawing on sociologist Ray Oldenburg's concept of "third places" (spaces that are neither home nor work where community bonds form), COLHYBRI transforms local commerce into a vector for rebuilding social trust. In an era of increasing social isolation and declining community bonds, the platform creates pretexts for human connection through economic solidarity. Neighborhood shops become the beating hearts of communities again.
 
-**Demographic Alignment**: Miami-Dade County has a large and diverse population, representing the primary communities that COLHYBRI was designed to serve. Many residents maintain strong ties to their neighborhoods and local shops.
+## About the Founder
 
-**Acute Need**: A significant portion of Miami-Dade residents are underbanked or unbanked. The demand for affordable, accessible financial services is both urgent and underserved.
+Florent Gibert is the founder and CEO of COLHYBRI and ONLYMORE Group. An autodidact with a background in construction, Gibert brings a distinctive perspective to fintech: the belief that technology should serve community bonds rather than replace them.
 
-**Thriving Local Commerce**: Miami-Dade County hosts a vast network of local shops. This dense network of neighborhood businesses provides the ideal infrastructure for COLHYBRI's hub model.
+Operating in "solo commando mode" during the pre-seed phase, Gibert has designed, built, and launched the platform largely single-handedly, from concept to code to deployment. His construction background instilled a builder's mentality: practical, hands-on, and focused on foundations that last.
 
-**Gateway Position**: Miami is the United States' primary gateway to Latin America and the Caribbean. A successful Miami launch creates a natural expansion corridor into markets across the Americas.
-
-**Cultural Resonance**: Miami's culture of community solidarity, mutual aid, and local commerce aligns deeply with COLHYBRI's Hummingbird Economy philosophy.
+Gibert's vision for COLHYBRI emerged from observing the decline of local commerce in French neighborhoods and the simultaneous rise of digital tools that could potentially reverse this trend. The caffe sospeso tradition, which Gibert encountered through Italian culture, provided the conceptual framework: a simple, beautiful gesture of solidarity that could be scaled through technology.
 
 ## For Individuals
 
-COLHYBRI is designed for anyone who has been excluded from or underserved by traditional financial institutions. Through an affordable monthly subscription, individuals receive access to a full community financial network. No credit check is required. No bank account is needed. No minimum balance is enforced. Subscribers can save, spend, and build their financial future through the shops they already know and trust in their own neighborhoods.
+COLHYBRI is designed for anyone who wants to support their neighborhood economy in a meaningful, affordable way. For 3 EUR per month, individuals receive:
+
+- Membership in the COLHYBRI community solidarity network
+- Monthly notification of which local shop received their solidarity contribution
+- Discovery of new neighborhood businesses
+- Participation in the Hummingbird Economy
+- The satisfaction of knowing that 75% of their subscription directly supports local commerce
+- No commitment, cancel anytime
 
 ## For Local Shops
 
-Local shops are the backbone of the COLHYBRI ecosystem. Any neighborhood business can become a community financial hub. This is not about replacing what shops already do — it is about adding a powerful new dimension to their role in the community. Participating shops see increased foot traffic, gain access to customer loyalty and retention tools, receive embedded banking infrastructure, and can track their community impact through a dedicated dashboard.
+Local shops are the backbone of the COLHYBRI ecosystem. For 10 EUR per month, any neighborhood business can become a community solidarity hub. Participating shops receive:
+
+- Random solidarity distributions from the community pool
+- Increased visibility among COLHYBRI subscribers in their neighborhood
+- Customer loyalty and discovery tools
+- Google Places onboarding assistance
+- Community impact dashboard
+- No commitment, cancel anytime
 
 ## For Cities and Municipalities
 
-COLHYBRI offers a measurable tool for cities seeking to revitalize neighborhood commercial corridors and advance financial inclusion goals. Cities that partner with COLHYBRI gain access to data on local economic circulation and financial inclusion progress across specific neighborhoods. The platform strengthens the commercial fabric of communities without requiring public subsidy.
+COLHYBRI offers a measurable tool for cities seeking to revitalize neighborhood commercial corridors. Cities that partner with COLHYBRI gain access to anonymized data on local economic circulation, can track financial inclusion progress, and support the commercial fabric of communities without requiring public subsidy.
 
-## Ecosystem Architecture
+## ONLYMORE Group Ecosystem
 
-The COLHYBRI ecosystem connects three stakeholder groups in a mutually reinforcing network:
+ONLYMORE Group, headquartered in Rodilhan, Occitanie, France, operates five subsidiaries:
 
-- **Individuals** contribute subscription revenue, generate transaction volume at local shops, and build the community financial network through their daily economic activity.
-- **Local Shops** serve as physical financial hubs, provide trusted access points for financial services, and anchor money circulation within the neighborhood.
-- **Cities and Municipalities** partner with COLHYBRI to measure and amplify the economic impact, integrate financial inclusion into urban policy, and support the revitalization of neighborhood commercial corridors.
+1. **COLHYBRI** — Local solidarity economy platform. The flagship product that connects individuals with neighborhood shops through affordable subscriptions and community solidarity pools.
+2. **CROWNIUM** — Digital asset and tokenization subsidiary. Explores blockchain and tokenization technologies for community-based financial instruments.
+3. **DOJUKU SHINGI** — Japanese-inspired governance and ethics council. Ensures that all ONLYMORE Group activities adhere to principles of fairness, transparency, and community benefit.
+4. **ONLYMORE FINANCE** — Financial services and investment arm. Manages fundraising, investor relations, and financial strategy for the group.
+5. **PLUMAYA Editions** — Publishing and content creation subsidiary. Produces educational and cultural content related to solidarity economics, local commerce, and community building.
 
-Each group's participation strengthens the others, creating a flywheel effect that accelerates as the network grows.
+## Market Opportunity
+
+### France (Primary Market)
+- Over 1.3 million TPE (INSEE data) representing the core target for shop onboarding
+- Growing consumer awareness of local commerce importance, accelerated by post-COVID trends
+- Government support for ESS (Economie Sociale et Solidaire) initiatives
+
+### TAM (Total Addressable Market)
+- European local commerce market: estimated 500 billion EUR annually
+- Digital solidarity and community finance: emerging category with minimal competition
+
+### SAM (Serviceable Addressable Market)
+- French TPE willing to adopt digital tools: estimated 200,000+ businesses
+- Urban and peri-urban areas with dense local commercial fabric
+
+### SOM (Serviceable Obtainable Market)
+- Initial target: 7,476 individual subscribers (break-even threshold)
+- Year 1 goal: 500 participating shops in Occitanie region
+- Year 2: expansion to major French cities and Miami, Florida
+
+## Technology Stack
+
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Backend**: Supabase (PostgreSQL, Auth, Edge Functions)
+- **Payments**: Stripe integration
+- **Deployment**: Vercel (automatic deploys, edge network)
+- **Localization**: next-intl (11 languages)
+- **Shop Discovery**: Google Places API integration
+- **Analytics**: Privacy-first approach, anonymized community metrics
+
+## Competitive Advantage
+
+### vs. Petitscommerces.fr
+Petitscommerces focuses on directory listings and visibility. COLHYBRI goes further by creating an active economic loop: subscription revenue flows directly to shops through the solidarity pool, generating real financial impact rather than just visibility.
+
+### vs. Wero (European Payments Initiative)
+Wero focuses on instant payments between banks. COLHYBRI is not a payment system but a solidarity economy platform. The value is not in the transaction mechanism but in the community solidarity pool and the Keynesian multiplier effect it generates.
+
+### vs. Traditional Loyalty Programs
+Traditional loyalty programs (points, cards, apps) reward individual transactions at specific stores. COLHYBRI rewards community participation. The solidarity pool benefits all participating shops, not just the one where a purchase was made. This shifts the paradigm from individual consumerism to collective solidarity.
+
+### vs. Crowdfunding Platforms
+Crowdfunding is project-based and one-time. COLHYBRI is subscription-based and ongoing. The steady monthly flow of solidarity contributions creates predictable support for local commerce, rather than the boom-bust cycle of crowdfunding campaigns.
+
+## Cultural Heritage
+
+COLHYBRI draws from multiple traditions of solidarity:
+
+- **Caffe Sospeso**: The Neapolitan tradition of paying for a suspended coffee for a stranger. When someone who cannot afford a coffee enters the bar, the barista says: "There is a sospeso for you." COLHYBRI digitalizes and scales this gesture.
+- **Mutualism**: The French cooperative and mutual aid tradition (ESS), deeply rooted in French economic history since the 19th century.
+- **The Hummingbird Legend**: A Native American story where the hummingbird carries water drop by drop to fight a forest fire. "I am doing my part."
+- **Digital Third Place**: Inspired by Ray Oldenburg's sociological concept. COLHYBRI creates a digital space for community bonds through local commerce.
 
 ## Pricing Model
 
-COLHYBRI's pricing is designed for maximum accessibility. Pricing details will be announced soon. There are no hidden fees, no percentage-based transaction charges, no upselling tiers, and no penalty fees. The flat subscription model ensures that costs are predictable and transparent for all participants.
+### For Individuals (B2C)
+- 3 EUR per month
+- No commitment, cancel anytime
+- No credit check, no bank account required
+- 75% goes to the community solidarity pool
+
+### For Shops (B2B)
+- 10 EUR per month
+- No commitment, cancel anytime
+- Google Places onboarding included
+- Access to community impact dashboard
+
+Transparent pricing, no hidden fees, no percentage-based transaction charges.
 
 ## Investor Proposition
 
-COLHYBRI represents a rare combination of a scalable business model and outsized social impact potential. The Miami launch market offers a concentrated, high-need population with strong demographic alignment. The Keynesian multiplier model means that COLHYBRI's economic impact scales faster than its direct revenue, creating a compelling narrative for impact investors, ESG funds, and mission-driven capital.
+COLHYBRI seeks a pre-seed round of 200,000 to 350,000 EUR. The funds will be deployed for:
 
-COLHYBRI seeks partners who share its vision of building financial inclusion through local commerce — investors who understand that sustainable, community-driven economic models can deliver both financial returns and meaningful social transformation.
+- Technology development and scaling
+- Initial market launch in Occitanie (France) and Miami (Florida)
+- Shop onboarding operations
+- Marketing and community building
 
-## Mission and Vision
-
-COLHYBRI exists to build financial inclusion from the ground up. The platform's mission is to ensure that financial participation is not a privilege reserved for those who meet traditional banking criteria, but a right accessible to everyone.
-
-The vision is a world where every neighborhood has a self-sustaining financial ecosystem — powered by its own shops, funded by its own residents, and generating wealth that stays local. COLHYBRI's Hummingbird Economy model proves that you do not need massive capital injections or top-down institutional reform to create financial inclusion. You need millions of people, each doing their part, drop by drop.
-
-"I am doing my part." — The Hummingbird
+COLHYBRI represents a rare combination of scalable business model and outsized social impact potential. The break-even threshold of 7,476 subscribers demonstrates capital efficiency. The Keynesian multiplier model means that COLHYBRI's economic impact scales faster than its direct revenue, creating a compelling narrative for impact investors, ESG funds, and mission-driven capital.
 
 ## Frequently Asked Questions
 
 **What is COLHYBRI?**
-COLHYBRI is a financial inclusion platform that connects underbanked individuals with local shops through an affordable subscription, creating a community-powered financial ecosystem where money circulates locally and strengthens local economies through the Keynesian multiplier effect.
+COLHYBRI is a local solidarity economy platform inspired by the caffe sospeso tradition. For 3 EUR per month, individuals support their neighborhood shops through a community solidarity pool that distributes funds randomly to participating local businesses.
+
+**How does COLHYBRI work?**
+75% of all individual subscriptions go into a community solidarity pool. Each month, this pool is distributed randomly among participating local shops. Subscribers are notified which shop received their contribution, encouraging discovery of new neighborhood businesses.
 
 **How much does it cost?**
-Pricing will be announced soon. COLHYBRI is designed to be affordable for both individuals and local shops. No hidden fees, no credit checks, no minimum balance requirements.
+3 EUR per month for individuals. 10 EUR per month for shops. No commitment, cancel anytime. No hidden fees.
 
-**Do I need a bank account?**
-No. COLHYBRI is specifically designed for people who are underbanked or unbanked. You access financial services through participating local shops in your neighborhood.
-
-**Where is COLHYBRI launching?**
-COLHYBRI launched on 26/02/2026.
+**What is the caffe sospeso?**
+The caffe sospeso (suspended coffee) is a Neapolitan tradition where a customer pays for an extra coffee that will later be offered to someone who cannot afford one. COLHYBRI digitalizes this gesture of anonymous solidarity and applies it to neighborhood commerce.
 
 **Who is behind COLHYBRI?**
-COLHYBRI is created and led by founder and CEO Florent Gibert. COLHYBRI is currently in pre-seed stage.
+COLHYBRI is created by Florent Gibert, founder and CEO of ONLYMORE Group. The group operates five subsidiaries: COLHYBRI, CROWNIUM, DOJUKU SHINGI, ONLYMORE FINANCE, and PLUMAYA Editions.
 
-**What is the Keynesian multiplier?**
-The Keynesian multiplier describes how money spent locally generates additional economic activity. With COLHYBRI, every subscription creates amplified local economic value as money circulates through the community.
+**How do I become a participating shop?**
+Any local shop can join for 10 EUR per month. COLHYBRI provides Google Places onboarding and a community impact dashboard. Contact onlymore2024@gmail.com to get started.
 
-**What languages does COLHYBRI support?**
-COLHYBRI's platform and website are available in eleven languages: English, English (UK), French, Spanish, Portuguese, German, Italian, Chinese (Simplified), Japanese, Hindi, and Polish.
+**Where is COLHYBRI available?**
+COLHYBRI launched on 26/02/2026. The platform is currently available in France with expansion planned to Miami, Florida. The website supports 11 languages.
+
+**What data does COLHYBRI collect?**
+COLHYBRI follows a privacy-first approach. Only minimal data required for the service is collected. Community metrics are anonymized. No personal data is sold or shared with third parties.
+
+**Can I cancel my subscription?**
+Yes, both individual and shop subscriptions can be cancelled at any time with no penalties.
+
+**What is the difference between COLHYBRI and a traditional gift card or voucher?**
+Traditional gift cards benefit a single specific store. COLHYBRI's solidarity pool benefits the entire community of participating shops. The random distribution creates discovery and fairness. Additionally, COLHYBRI's Keynesian multiplier effect means that the economic impact extends far beyond the initial subscription amount.
 
 ## Contact Information
 
-- Email: contact@colhybri.vision
-- Website: https://colhybri.vision
+- Email: onlymore2024@gmail.com
+- Website: https://www.colhybri.vision
+- Application: https://www.colhybri.com
+- Founder: Florent Gibert, CEO, ONLYMORE Group
+- Address: 13 rue de Gascogne, 30230 Rodilhan, Occitanie, France
 - Available in: English, English (UK), French, Spanish, Portuguese, German, Italian, Chinese, Japanese, Hindi, Polish

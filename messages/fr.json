@@ -17,7 +17,8 @@
     "investors": "Investisseurs",
     "blog": "Blog",
     "faq": "FAQ",
-    "contact": "Contact"
+    "contact": "Contact",
+    "openApp": "Ouvrir l'app"
   },
   "hero": {
     "tagline": "L'inclusion financière par le commerce local",
@@ -26,7 +27,7 @@
     "cta": "Rejoindre le mouvement",
     "ctaSecondary": "Comment ça marche",
     "stats": {
-      "price": "\u2014",
+      "price": "—",
       "priceLabel": "Bientôt",
       "stage": "Pre-seed",
       "stageLabel": "Phase actuelle",
@@ -76,7 +77,7 @@
     "headline": "Accessible à Tous",
     "individuals": {
       "title": "Pour les Particuliers",
-      "price": "\u2014",
+      "price": "—",
       "period": "/mois",
       "features": [
         "Accès au réseau financier local",
@@ -90,7 +91,7 @@
     },
     "shops": {
       "title": "Pour les Commerces",
-      "price": "\u2014",
+      "price": "—",
       "period": "/mois",
       "features": [
         "Devenez un hub financier communautaire",
@@ -109,7 +110,7 @@
     "description": "Chaque euro qui circule localement multiplie sa valeur en activité économique. COLHYBRI canalise les dépenses vers le commerce local, créant des emplois et renforçant les communautés.",
     "metrics": {
       "localValue": {
-        "value": "\u00d72,5",
+        "value": "×2,5",
         "label": "Multiplicateur estimé de valeur locale"
       },
       "jobsCreated": {
@@ -230,7 +231,8 @@
       "about": "À propos",
       "privacy": "Politique de confidentialité",
       "terms": "Conditions d'utilisation"
-    }
+    },
+    "accessApp": "Acceder a l'application COLHYBRI"
   },
   "localStats": {
     "title": "Impact Local en France",
@@ -287,7 +289,7 @@
     "statPopulation": "Habitants",
     "statShopsValue": "1000+",
     "statShops": "Commerces locaux",
-    "statMultiplierValue": "\u00d72,5",
+    "statMultiplierValue": "×2,5",
     "statMultiplier": "Multiplicateur keynesien",
     "benefitsTitle": "Benefices pour le commerce local",
     "benefit1Title": "Inclusion financiere",

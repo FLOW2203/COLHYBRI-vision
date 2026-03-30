@@ -61,14 +61,34 @@ export function Footer({ locale }: FooterProps) {
             </div>
           </div>
 
-          {/* Contact & Group */}
+          {/* Contact & App */}
           <div>
             <h3 className="font-semibold mb-4 text-white/80">{nav('contact')}</h3>
             <a
-              href="mailto:contact@colhybri.vision"
+              href="mailto:onlymore2024@gmail.com"
+              className="text-sm text-white/60 hover:text-colhybri-primary transition-colors block mb-2"
+            >
+              onlymore2024@gmail.com
+            </a>
+            <a
+              href="https://www.colhybri.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-white/60 hover:text-colhybri-primary transition-colors block mb-2"
+            >
+              {t('accessApp')}
+            </a>
+            <a
+              href="https://www.colhybri.vision/fr/mission"
+              className="text-sm text-white/60 hover:text-colhybri-primary transition-colors block mb-2"
+            >
+              {nav('mission')}
+            </a>
+            <a
+              href="https://www.colhybri.vision/fr/faq"
               className="text-sm text-white/60 hover:text-colhybri-primary transition-colors block mb-4"
             >
-              contact@colhybri.vision
+              {nav('faq')}
             </a>
             <p className="text-sm text-white/40">{t('group')}</p>
           </div>

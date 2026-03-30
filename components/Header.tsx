@@ -71,9 +71,14 @@ export function Header() {
           {/* Right side */}
           <div className="flex items-center gap-3">
             <LanguageSwitcher />
-            <Link href={getLocalizedPath('contact', locale)} className="hidden sm:inline-flex btn-primary text-sm px-4 py-2">
-              {t('contact')}
-            </Link>
+            <a
+              href="https://www.colhybri.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hidden sm:inline-flex btn-primary text-sm px-4 py-2"
+            >
+              {t('openApp')}
+            </a>
 
             {/* Mobile menu button */}
             <button
