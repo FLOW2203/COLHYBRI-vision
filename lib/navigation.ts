@@ -147,6 +147,42 @@ export const routeMap: Record<string, Record<string, string>> = {
     it: 'multiplicateur-keynesien', zh: 'multiplicateur-keynesien', ja: 'multiplicateur-keynesien',
     hi: 'multiplicateur-keynesien', pl: 'multiplicateur-keynesien',
   },
+  'inclusion-financiere': {
+    en: 'inclusion-financiere', 'en-gb': 'inclusion-financiere', fr: 'inclusion-financiere',
+    es: 'inclusion-financiere', pt: 'inclusion-financiere', de: 'inclusion-financiere',
+    it: 'inclusion-financiere', zh: 'inclusion-financiere', ja: 'inclusion-financiere',
+    hi: 'inclusion-financiere', pl: 'inclusion-financiere',
+  },
+  'pouvoir-achat-solidaire': {
+    en: 'pouvoir-achat-solidaire', 'en-gb': 'pouvoir-achat-solidaire', fr: 'pouvoir-achat-solidaire',
+    es: 'pouvoir-achat-solidaire', pt: 'pouvoir-achat-solidaire', de: 'pouvoir-achat-solidaire',
+    it: 'pouvoir-achat-solidaire', zh: 'pouvoir-achat-solidaire', ja: 'pouvoir-achat-solidaire',
+    hi: 'pouvoir-achat-solidaire', pl: 'pouvoir-achat-solidaire',
+  },
+  'fintech-sociale': {
+    en: 'fintech-sociale', 'en-gb': 'fintech-sociale', fr: 'fintech-sociale',
+    es: 'fintech-sociale', pt: 'fintech-sociale', de: 'fintech-sociale',
+    it: 'fintech-sociale', zh: 'fintech-sociale', ja: 'fintech-sociale',
+    hi: 'fintech-sociale', pl: 'fintech-sociale',
+  },
+  'abonnement-solidaire': {
+    en: 'abonnement-solidaire', 'en-gb': 'abonnement-solidaire', fr: 'abonnement-solidaire',
+    es: 'abonnement-solidaire', pt: 'abonnement-solidaire', de: 'abonnement-solidaire',
+    it: 'abonnement-solidaire', zh: 'abonnement-solidaire', ja: 'abonnement-solidaire',
+    hi: 'abonnement-solidaire', pl: 'abonnement-solidaire',
+  },
+  'banque-ethique-alternative': {
+    en: 'banque-ethique-alternative', 'en-gb': 'banque-ethique-alternative', fr: 'banque-ethique-alternative',
+    es: 'banque-ethique-alternative', pt: 'banque-ethique-alternative', de: 'banque-ethique-alternative',
+    it: 'banque-ethique-alternative', zh: 'banque-ethique-alternative', ja: 'banque-ethique-alternative',
+    hi: 'banque-ethique-alternative', pl: 'banque-ethique-alternative',
+  },
+  'economie-sociale-solidaire': {
+    en: 'economie-sociale-solidaire', 'en-gb': 'economie-sociale-solidaire', fr: 'economie-sociale-solidaire',
+    es: 'economie-sociale-solidaire', pt: 'economie-sociale-solidaire', de: 'economie-sociale-solidaire',
+    it: 'economie-sociale-solidaire', zh: 'economie-sociale-solidaire', ja: 'economie-sociale-solidaire',
+    hi: 'economie-sociale-solidaire', pl: 'economie-sociale-solidaire',
+  },
 };
 
 export function getLocalizedPath(routeKey: string, locale: Locale): string {
