@@ -176,6 +176,7 @@ export default function InclusionFinancierePage({ params: { locale } }: PageProp
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href={`/${locale}/solidarite-proximite`} className="text-colhybri-primary hover:underline text-center">Solidarite de proximite</Link>
               <Link href={`/${locale}/commerce-local`} className="text-colhybri-primary hover:underline text-center">Commerce local</Link>
+              <Link href={`/${locale}/technologie-impact-social`} className="text-colhybri-primary hover:underline text-center">Technologie et impact</Link>
               <Link href={getLocalizedPath('home', l)} className="text-colhybri-primary hover:underline text-center">Accueil COLHYBRI</Link>
             </div>
           </div>

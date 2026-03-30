@@ -186,6 +186,14 @@ export default function SolidariteProximitePage({ params: { locale } }: PageProp
             </Link>
           </div>
 
+          <div className="max-w-3xl mx-auto mb-8">
+            <h3 className="text-lg font-bold text-colhybri-dark mb-4 text-center">Decouvrir les autres piliers</h3>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Link href={`/${locale}/commerce-local`} className="text-colhybri-primary hover:underline text-center">Commerce local</Link>
+              <Link href={`/${locale}/inclusion-financiere`} className="text-colhybri-primary hover:underline text-center">Inclusion financiere</Link>
+              <Link href={`/${locale}/technologie-impact-social`} className="text-colhybri-primary hover:underline text-center">Technologie et impact</Link>
+            </div>
+          </div>
           <div className="text-center space-y-4">
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href={getLocalizedPath('home', l)} className="btn-secondary">
