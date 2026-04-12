@@ -464,6 +464,24 @@
       },
       "commerce-proximite-digital": {
         "title": "Digitalisation du commerce de proximite"
+      },
+      "downtown-revitalization": {
+        "title": "Revitalisation des centres-villes aux USA"
+      },
+      "opportunity-zones": {
+        "title": "Opportunity Zones 2.0"
+      },
+      "main-street-america": {
+        "title": "Main Street America"
+      },
+      "rust-belt-revitalization": {
+        "title": "Revitalisation du Rust Belt"
+      },
+      "small-business-digital": {
+        "title": "Digitalisation des petits commerces americains"
+      },
+      "community-development": {
+        "title": "Community Development par le commerce local"
       }
     },
     "revitalisation-centres-villes": {
@@ -906,6 +924,324 @@
         {
           "value": "0%",
           "label": "commission"
+        }
+      ]
+    },
+    "downtown-revitalization": {
+      "title": "Revitalisation des centres-villes aux USA",
+      "h1": "Revitalisation des centres-villes aux USA : programmes et outils 2026",
+      "metaTitle": "Downtown Revitalization USA : programmes, subventions, outils 2026",
+      "metaDescription": "Les centres-villes americains beneficient des Opportunity Zones (8 764 zones), Main Street America (1 200+ communautes) et des subventions federales RAISE.",
+      "snippet": "La revitalisation des centres-villes aux Etats-Unis s'appuie sur les Opportunity Zones (8 764 zones designees), Main Street America (1 200+ communautes) et les subventions federales RAISE qui totalisent plusieurs centaines de millions de dollars. Le One Big Beautiful Bill Act (2025) rend les Opportunity Zones permanentes et lance OZ 2.0 en juillet 2026.",
+      "sections": [
+        {
+          "h2": "Quels sont les programmes americains de revitalisation ?",
+          "body": "Trois programmes dominent : les Opportunity Zones (dispositif fiscal federal cree en 2017, rendu permanent en 2025), Main Street America (reseau de 1 200+ communautes utilisant l'approche de preservation-based economic development), et les subventions RAISE du Department of Transportation (USD 23,7M pour East Moline, USD 20M pour Allentown). Les credits d'impot historiques (20% federal + 25% etat) completent le dispositif."
+        },
+        {
+          "h2": "Qu'est-ce que le One Big Beautiful Bill Act ?",
+          "body": "Signe en 2025, le One Big Beautiful Bill Act (OBBBA) rend les Opportunity Zones permanentes et lance une nouvelle designation OZ 2.0 en juillet 2026. Le seuil de revenu est abaisse de 80% a 70% du median family income, reduisant le nombre de zones eligibles d environ 20%. Les investissements en zone rurale beneficient jusqu a 30% de reduction sur les plus-values."
+        },
+        {
+          "h2": "Comment COLHYBRI complete ces programmes ?",
+          "body": "COLHYBRI is the SaaS that makes Main Street measurable. Le dashboard municipal fournit des metriques de vitalite commerciale en temps reel, ideal pour justifier les investissements en Opportunity Zone ou les renouvellements de subvention federale. Pilote gratuit 90 jours sur 50 commerces avant tout engagement."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Quels programmes americains existent pour la revitalisation ?",
+          "a": "Opportunity Zones (8 764 zones), Main Street America (1 200+ communautes), subventions RAISE du DOT, credits d impot historiques (20% federal + 25% etat)."
+        },
+        {
+          "q": "Quelles sont les nouveautes en 2026 ?",
+          "a": "Opportunity Zones 2.0 lancees en juillet 2026 via le OBBBA 2025. Nouveau seuil 70% du median family income, 30% de reduction des plus-values pour les zones rurales."
+        },
+        {
+          "q": "Comment COLHYBRI aide une ville americaine ?",
+          "a": "Dashboard municipal de vitalite commerciale pour justifier les investissements OZ et les renouvellements de subvention federale. Pilote gratuit 90 jours."
+        }
+      ],
+      "stats": [
+        {
+          "value": "8 764",
+          "label": "Opportunity Zones"
+        },
+        {
+          "value": "1 200+",
+          "label": "Main Street communities"
+        },
+        {
+          "value": "OZ 2.0",
+          "label": "juillet 2026"
+        },
+        {
+          "value": "$23.7M",
+          "label": "RAISE grant East Moline"
+        }
+      ]
+    },
+    "opportunity-zones": {
+      "title": "Opportunity Zones 2.0",
+      "h1": "Opportunity Zones 2.0 : ce qui change en 2026",
+      "metaTitle": "Opportunity Zones 2.0 : nouveau seuil, OBBBA 2025",
+      "metaDescription": "Les Opportunity Zones 2.0, etablies par le OBBBA 2025, redesignent les census tracts en juillet 2026. Nouveau seuil 70%, reduction de 20% des zones eligibles.",
+      "snippet": "Les Opportunity Zones 2.0, etablies par le One Big Beautiful Bill Act de 2025, redesignent l'ensemble des census tracts en juillet 2026 avec de nouveaux criteres d'eligibilite. Le seuil de revenu passe de 80% a 70% du median family income, reduisant d'environ 20% le nombre de zones eligibles. Les investissements ruraux beneficient jusqu'a 30% de reduction sur les plus-values.",
+      "sections": [
+        {
+          "h2": "Qu'est-ce qu'une Opportunity Zone ?",
+          "body": "Une Opportunity Zone est un census tract designe comme distressed, dans lequel les investisseurs peuvent placer leurs plus-values en echange d'avantages fiscaux substantiels : report d'impot, reduction de 10-15% si detention 5-7 ans, et exoneration totale sur les plus-values du placement OZ lui-meme si detenu 10+ ans. Le dispositif a ete cree par le Tax Cuts and Jobs Act de 2017."
+        },
+        {
+          "h2": "Qu'est-ce qui change avec OZ 2.0 ?",
+          "body": "Le One Big Beautiful Bill Act (OBBBA) signe en 2025 rend les Opportunity Zones permanentes et lance une redesignation complete en juillet 2026. Le seuil de revenu passe de 80% a 70% du median family income, reduisant le nombre de zones eligibles d environ 20%. Les investissements en zone rurale beneficient jusqu a 30% de reduction des plus-values, contre 10% auparavant."
+        },
+        {
+          "h2": "Comment se preparer a OZ 2.0 ?",
+          "body": "Les villes doivent identifier leurs census tracts susceptibles d etre redesignes, documenter leur potentiel de revitalisation, et constituer des dossiers d investissement attractifs. COLHYBRI fournit un diagnostic objectif de la vitalite commerciale avec Score Maps par commerce, metrique ideale pour justifier l investissement OZ 2.0."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Qu'est-ce qu'une Opportunity Zone ?",
+          "a": "Un census tract distressed ou les investisseurs peuvent placer leurs plus-values contre des avantages fiscaux : report d impot, reduction 10-15% et exoneration totale apres 10 ans de detention."
+        },
+        {
+          "q": "Qu'est-ce qui change avec OZ 2.0 ?",
+          "a": "Designation en juillet 2026. Seuil abaisse de 80% a 70% du median family income. Reduction de 20% des zones eligibles. 30% de reduction des plus-values pour les zones rurales."
+        },
+        {
+          "q": "Comment une ville peut se preparer ?",
+          "a": "Identifier ses census tracts eligibles, documenter le potentiel de revitalisation. COLHYBRI fournit le diagnostic objectif de vitalite commerciale necessaire au dossier d investissement."
+        }
+      ],
+      "stats": [
+        {
+          "value": "8 764",
+          "label": "OZ 1.0 existantes"
+        },
+        {
+          "value": "6 544",
+          "label": "OZ 2.0 prevues"
+        },
+        {
+          "value": "70%",
+          "label": "nouveau seuil MFI"
+        },
+        {
+          "value": "juillet 2026",
+          "label": "designation OZ 2.0"
+        }
+      ]
+    },
+    "main-street-america": {
+      "title": "Main Street America",
+      "h1": "Main Street America : 1 200+ communautes qui revitalisent leurs centres-villes",
+      "metaTitle": "Main Street America : 1 200+ communautes, 4 axes",
+      "metaDescription": "Main Street America est un reseau national de 1 200+ communautes qui utilisent une approche preservation-based pour revitaliser leurs quartiers historiques.",
+      "snippet": "Main Street America est un reseau national de plus de 1 200 communautes americaines qui utilisent une approche preservation-based economic development pour revitaliser leurs quartiers commerciaux historiques. La Four-Point Approach couvre l'organisation, la promotion, le design et la restructuration economique. COLHYBRI s'integre comme la couche de mesure digitale des programmes Main Street.",
+      "sections": [
+        {
+          "h2": "Qu est-ce que Main Street America ?",
+          "body": "Main Street America est un programme lance en 1980 par le National Trust for Historic Preservation. Aujourd hui, plus de 1 200 communautes americaines y participent, couvrant des petites villes rurales, des quartiers urbains historiques et des downtowns de villes moyennes. Chaque communaute designe un Main Street Manager et applique la Four-Point Approach."
+        },
+        {
+          "h2": "Quelle est la Four-Point Approach ?",
+          "body": "La Four-Point Approach couvre quatre domaines : organization (coalitions de parties prenantes, benevoles, financement), promotion (evenements, marketing, retail recruitment), design (renovation de facades, streetscape, preservation architecturale), et economic restructuring (soutien aux commerces, attraction de nouveaux tenants). C'est un modele eprouve depuis plus de 40 ans."
+        },
+        {
+          "h2": "Comment COLHYBRI complete Main Street ?",
+          "body": "COLHYBRI est l outil digital du Main Street Manager. Il fournit le Score Maps pour chaque commerce de la Main Street, un dashboard de vitalite commerciale en temps reel, et un rapport d impact trimestriel pour le conseil d administration. Integre la couche economic restructuring de la Four-Point Approach avec des metriques objectives."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Qu est-ce que Main Street America ?",
+          "a": "Un programme lance en 1980 par le National Trust for Historic Preservation. Plus de 1 200 communautes americaines y participent avec la Four-Point Approach."
+        },
+        {
+          "q": "Quelle est la Four-Point Approach ?",
+          "a": "Organization, Promotion, Design, Economic Restructuring. Un modele eprouve depuis plus de 40 ans par 1 200+ communautes."
+        },
+        {
+          "q": "Comment COLHYBRI s integre ?",
+          "a": "Il fournit le Score Maps par commerce, un dashboard municipal et un rapport d impact trimestriel pour le Main Street Manager."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1 200+",
+          "label": "communautes"
+        },
+        {
+          "value": "1980",
+          "label": "annee de lancement"
+        },
+        {
+          "value": "4",
+          "label": "piliers methodologiques"
+        },
+        {
+          "value": "40+",
+          "label": "annees de recul"
+        }
+      ]
+    },
+    "rust-belt-revitalization": {
+      "title": "Revitalisation du Rust Belt",
+      "h1": "Revitalisation du Rust Belt : comment les villes post-industrielles se reinventent",
+      "metaTitle": "Revitalisation Rust Belt : Canton, Allentown, Pittsburgh",
+      "metaDescription": "Pittsburgh, Cleveland, Canton, Allentown : les villes du Rust Belt transforment leurs centres-villes avec Opportunity Zones et credits d impot historiques.",
+      "snippet": "Les villes du Rust Belt comme Pittsburgh, Cleveland, Canton et Allentown se transforment : elles passent de l'industrie lourde a la tech, la sante et le developpement mixte de centre-ville. Canton (Ohio) est le blueprint : un developpeur a restaure 42 batiments en centre-ville grace aux credits d'impot historiques (20% federal + 25% etat).",
+      "sections": [
+        {
+          "h2": "Qu est-ce que le Rust Belt ?",
+          "body": "Le Rust Belt designe la ceinture industrielle deperissante des Etats-Unis, du nord-est au middle west : Pennsylvanie, Ohio, Michigan, Indiana, Illinois. Frappee par la desindustrialisation depuis les annees 1970, la region est en pleine transformation en 2026, tiree par les investissements federaux (CHIPS Act, Inflation Reduction Act) et les Opportunity Zones."
+        },
+        {
+          "h2": "Comment Canton Ohio revitalise son centre-ville ?",
+          "body": "Canton est devenu le modele de revitalisation du Rust Belt. Un developpeur local, Steve Coon, a restaure 42 batiments historiques en centre-ville en utilisant les credits d impot historiques federal (20%) et etat de l Ohio (25%), soit 45% de credits cumules. Le centre-ville est passe de quartier abandonne a destination mixte en moins de 10 ans."
+        },
+        {
+          "h2": "Quels outils utilisent les villes du Rust Belt ?",
+          "body": "Combinaison d outils federaux et locaux : credits d impot historiques (20% federal + 25% etat), Opportunity Zones (zones fiscales), subventions RAISE du Department of Transportation (USD 20M pour Allentown), et soutien aux Main Street programs. COLHYBRI ajoute la couche digitale pour mesurer l impact en temps reel."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Qu est-ce que le Rust Belt ?",
+          "a": "La ceinture industrielle deperissante des Etats-Unis : Pennsylvanie, Ohio, Michigan, Indiana, Illinois. En transformation depuis le debut des annees 2020 grace aux investissements federaux."
+        },
+        {
+          "q": "Quel est le blueprint Canton ?",
+          "a": "Un developpeur local a restaure 42 batiments historiques en centre-ville de Canton grace aux credits d impot historiques (45% cumules). Le centre-ville a revecu en moins de 10 ans."
+        },
+        {
+          "q": "Quels outils pour une ville du Rust Belt ?",
+          "a": "Credits d impot historiques (45% cumules), Opportunity Zones, RAISE grants du DOT, Main Street programs. COLHYBRI complete avec la mesure digitale en temps reel."
+        }
+      ],
+      "stats": [
+        {
+          "value": "42",
+          "label": "batiments restaures a Canton"
+        },
+        {
+          "value": "45%",
+          "label": "credits cumules federal + etat"
+        },
+        {
+          "value": "$20M",
+          "label": "RAISE grant Allentown"
+        },
+        {
+          "value": "10 ans",
+          "label": "duree de transformation Canton"
+        }
+      ]
+    },
+    "small-business-digital": {
+      "title": "Digitalisation des petits commerces americains",
+      "h1": "Outils digitaux pour la revitalisation des centres-villes americains",
+      "metaTitle": "Small business digital : outils pour les Main Streets",
+      "metaDescription": "75% des petits commerces americains sont invisibles sur Google. COLHYBRI Maps+ audite en 48h, onboarding zero-friction, 10 USD/mois, 0% commission.",
+      "snippet": "75% des petits commerces americains sont invisibles sur Google. Les outils digitaux comme COLHYBRI Maps+ auditent la presence Google en 48 heures, onboardent les commercants sur Google Places sans friction, generent des avis clients via QR code post-visite et assurent un monitoring continu avec alertes. Tarif : 10 USD/mois avec 0% de commission.",
+      "sections": [
+        {
+          "h2": "Pourquoi digitaliser les petits commerces americains ?",
+          "body": "Les consommateurs cherchent en ligne avant d aller en magasin. Un commerce absent de Google Business Profile perd 76% des recherches locales. Pour les villes Main Street et Opportunity Zones, c est une perte mesurable de chiffre d affaires local et donc de base fiscale."
+        },
+        {
+          "h2": "Que fait COLHYBRI Maps+ ?",
+          "body": "Maps+ couvre 4 piliers : Score Maps audit en 48 heures (evaluation complete de la fiche Google et des avis), onboarding zero-friction (creation ou optimisation de la fiche Google Places en 30 secondes), generation d avis clients (QR code post-visite) et monitoring continu avec alertes sur les avis negatifs."
+        },
+        {
+          "h2": "Combien coute Maps+ aux Etats-Unis ?",
+          "body": "Le tarif COLHYBRI pour un commerce americain est de 10 USD par mois avec 0% de commission. Ce tarif inclut tous les services Maps+. Par comparaison, Yelp preleve 300-1000 USD/mois d annonces payantes et Groupon jusqu a 50% de commission sur les ventes."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Pourquoi un commerce doit etre sur Google ?",
+          "a": "76% des recherches locales aboutissent a un achat en 24 heures. Un commerce invisible perd mecaniquement du chiffre d affaires au profit de ses concurrents."
+        },
+        {
+          "q": "Que couvre COLHYBRI Maps+ ?",
+          "a": "4 piliers : audit Score Maps, onboarding zero-friction, generation d avis post-visite, monitoring continu."
+        },
+        {
+          "q": "Combien ca coute aux USA ?",
+          "a": "10 USD par mois avec 0% de commission. Moins cher que Yelp (300-1000 USD/mois) ou Groupon (jusqu a 50% de commission)."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "PMEs invisibles Google"
+        },
+        {
+          "value": "76%",
+          "label": "recherches locales > achat"
+        },
+        {
+          "value": "$10",
+          "label": "abonnement mensuel"
+        },
+        {
+          "value": "0%",
+          "label": "commission"
+        }
+      ]
+    },
+    "community-development": {
+      "title": "Community Development par le commerce local",
+      "h1": "Community Development par le commerce local : le modele COLHYBRI",
+      "metaTitle": "Community development : multiplicateur keynesien x2,5",
+      "metaDescription": "Le community development par le commerce local applique le multiplicateur keynesien : chaque dollar depense localement genere 2,50 USD d activite economique.",
+      "snippet": "Le community development par le commerce local suit le principe du multiplicateur keynesien : chaque dollar depense localement genere 2,50 USD d'activite economique locale. Le modele du pool solidaire COLHYBRI canalise 75% des cotisations vers des services offerts chez les commercants partenaires, creant un cycle vertueux de depense locale, creation d'emplois et vitalite de quartier.",
+      "sections": [
+        {
+          "h2": "Qu est-ce que le community development ?",
+          "body": "Le community development est une approche americaine de revitalisation qui place les habitants et les petits commerces au centre. Il privilegie la creation de richesse locale plutot que l attraction de grandes entreprises. Les Main Street programs et les Community Development Corporations (CDC) en sont les vecteurs principaux."
+        },
+        {
+          "h2": "Qu est-ce que le multiplicateur keynesien local ?",
+          "body": "Le multiplicateur keynesien local mesure l effet demultiplicateur d une depense locale. Chaque dollar depense dans un commerce de proximite genere 2,50 USD d activite economique locale (contre 0,80 USD pour un achat en ligne livre depuis un entrepot). Cet effet est documente par l American Independent Business Alliance depuis 2004."
+        },
+        {
+          "h2": "Comment COLHYBRI active ce multiplicateur ?",
+          "body": "COLHYBRI canalise 75% des cotisations des abonnes (3 USD/mois) vers un pool solidaire qui finance des services offerts chez les commercants partenaires. L argent ne quitte jamais le quartier. Pour une communaute de 1 000 abonnes, cela represente 27 000 USD par an reinjectes directement dans le commerce local, soit 67 500 USD d activite economique totale via le multiplicateur."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Qu est-ce que le community development ?",
+          "a": "Une approche americaine qui place les habitants et les petits commerces au centre. Ses vecteurs principaux sont les Main Street programs et les Community Development Corporations."
+        },
+        {
+          "q": "Qu est-ce que le multiplicateur keynesien local ?",
+          "a": "Un dollar depense localement genere 2,50 USD d activite economique (vs 0,80 USD pour un achat en ligne). Documente par l American Independent Business Alliance."
+        },
+        {
+          "q": "Comment COLHYBRI active ce multiplicateur ?",
+          "a": "75% des cotisations (3 USD/mois) alimentent un pool solidaire qui finance des services chez les commercants partenaires. 1 000 abonnes = 27 000 USD/an reinjectes localement."
+        }
+      ],
+      "stats": [
+        {
+          "value": "x2,5",
+          "label": "multiplicateur local"
+        },
+        {
+          "value": "75%",
+          "label": "cotisations au pool"
+        },
+        {
+          "value": "$27K",
+          "label": "par 1 000 abonnes / an"
+        },
+        {
+          "value": "$3",
+          "label": "cotisation mensuelle"
         }
       ]
     }

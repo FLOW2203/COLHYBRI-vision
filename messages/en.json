@@ -467,6 +467,24 @@
       },
       "commerce-proximite-digital": {
         "title": "Local commerce digitalization"
+      },
+      "downtown-revitalization": {
+        "title": "Downtown revitalization in the USA"
+      },
+      "opportunity-zones": {
+        "title": "Opportunity Zones 2.0"
+      },
+      "main-street-america": {
+        "title": "Main Street America"
+      },
+      "rust-belt-revitalization": {
+        "title": "Rust Belt revitalization"
+      },
+      "small-business-digital": {
+        "title": "Digital tools for US small business"
+      },
+      "community-development": {
+        "title": "Community Development through local commerce"
       }
     },
     "revitalisation-centres-villes": {
@@ -909,6 +927,324 @@
         {
           "value": "0%",
           "label": "commission"
+        }
+      ]
+    },
+    "downtown-revitalization": {
+      "title": "Downtown revitalization in the USA",
+      "h1": "Downtown Revitalization in the USA: Programs, Grants and Digital Tools (2026)",
+      "metaTitle": "Downtown Revitalization USA: programs and tools 2026",
+      "metaDescription": "American downtowns are powered by Opportunity Zones (8,764 tracts), Main Street America (1,200+ communities) and federal RAISE grants totaling hundreds of millions.",
+      "snippet": "Downtown revitalization in the United States is powered by Opportunity Zones (8,764 designated tracts), Main Street America (1,200+ communities) and federal RAISE grants totaling hundreds of millions of dollars. The One Big Beautiful Bill Act of 2025 makes Opportunity Zones permanent and launches OZ 2.0 nominations in July 2026.",
+      "sections": [
+        {
+          "h2": "What programs drive downtown revitalization in the USA?",
+          "body": "Three programs dominate: Opportunity Zones (federal tax tool created in 2017, made permanent in 2025), Main Street America (a network of 1,200+ communities using preservation-based economic development), and RAISE grants from the Department of Transportation ($23.7M for East Moline, $20M for Allentown). Historic tax credits (20% federal + 25% state) complete the toolkit."
+        },
+        {
+          "h2": "What is the One Big Beautiful Bill Act?",
+          "body": "Signed in 2025, the One Big Beautiful Bill Act (OBBBA) makes Opportunity Zones permanent and launches a new OZ 2.0 designation in July 2026. The income threshold drops from 80% to 70% of median family income, reducing eligible tracts by about 20%. Rural OZ investments qualify for up to 30% capital gains reduction."
+        },
+        {
+          "h2": "How does COLHYBRI complement these programs?",
+          "body": "COLHYBRI is the SaaS that makes Main Street measurable. The municipal dashboard delivers real-time commercial vitality metrics, ideal for justifying Opportunity Zone investments or federal grant renewals. Free 90-day pilot on 50 shops before any commitment."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What American revitalization programs exist?",
+          "a": "Opportunity Zones (8,764 tracts), Main Street America (1,200+ communities), DOT RAISE grants, historic tax credits (20% federal + 25% state)."
+        },
+        {
+          "q": "What is new in 2026?",
+          "a": "OZ 2.0 launches in July 2026 via the OBBBA 2025. New 70% median family income threshold and 30% capital gains reduction for rural tracts."
+        },
+        {
+          "q": "How does COLHYBRI help a US city?",
+          "a": "Municipal vitality dashboard to justify OZ investments and federal grant renewals. Free 90-day pilot."
+        }
+      ],
+      "stats": [
+        {
+          "value": "8,764",
+          "label": "Opportunity Zones"
+        },
+        {
+          "value": "1,200+",
+          "label": "Main Street communities"
+        },
+        {
+          "value": "OZ 2.0",
+          "label": "July 2026"
+        },
+        {
+          "value": "$23.7M",
+          "label": "East Moline RAISE"
+        }
+      ]
+    },
+    "opportunity-zones": {
+      "title": "Opportunity Zones 2.0",
+      "h1": "Opportunity Zones 2.0: What Changes in 2026",
+      "metaTitle": "Opportunity Zones 2.0: new threshold, OBBBA 2025",
+      "metaDescription": "Opportunity Zones 2.0, established by OBBBA 2025, redesignate census tracts starting July 2026. New 70% threshold, 20% fewer eligible tracts.",
+      "snippet": "Opportunity Zones 2.0, established by the One Big Beautiful Bill Act of 2025, redesignate all census tracts starting July 2026 with new eligibility criteria. The income threshold drops from 80% to 70% of median family income, reducing eligible tracts by approximately 20%. Rural OZ investments qualify for up to 30% capital gains reduction.",
+      "sections": [
+        {
+          "h2": "What is an Opportunity Zone?",
+          "body": "An Opportunity Zone is a census tract designated as distressed where investors can place capital gains in exchange for substantial tax benefits: deferral, 10-15% reduction if held 5-7 years, and full exemption on gains from the OZ investment itself if held 10+ years. The tool was created by the Tax Cuts and Jobs Act of 2017."
+        },
+        {
+          "h2": "What changes with OZ 2.0?",
+          "body": "The One Big Beautiful Bill Act (OBBBA) signed in 2025 makes Opportunity Zones permanent and launches a full redesignation in July 2026. The income threshold drops from 80% to 70% of median family income, reducing eligible tracts by about 20%. Rural OZ investments qualify for up to 30% capital gains reduction, up from 10%."
+        },
+        {
+          "h2": "How to prepare for OZ 2.0?",
+          "body": "Cities must identify census tracts likely to be redesignated, document revitalization potential and build attractive investment cases. COLHYBRI provides an objective commercial vitality diagnosis with per-shop Score Maps, an ideal metric to justify OZ 2.0 investment."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is an Opportunity Zone?",
+          "a": "A distressed census tract where investors can place capital gains for tax benefits: deferral, 10-15% reduction and full exemption after 10-year hold."
+        },
+        {
+          "q": "What changes with OZ 2.0?",
+          "a": "July 2026 designation. Income threshold drops from 80% to 70% of MFI. 20% fewer eligible tracts. 30% capital gains reduction for rural tracts."
+        },
+        {
+          "q": "How can a city prepare?",
+          "a": "Identify eligible census tracts and document revitalization potential. COLHYBRI provides the objective commercial vitality diagnosis needed for investment cases."
+        }
+      ],
+      "stats": [
+        {
+          "value": "8,764",
+          "label": "OZ 1.0 existing"
+        },
+        {
+          "value": "6,544",
+          "label": "OZ 2.0 expected"
+        },
+        {
+          "value": "70%",
+          "label": "new MFI threshold"
+        },
+        {
+          "value": "July 2026",
+          "label": "OZ 2.0 designation"
+        }
+      ]
+    },
+    "main-street-america": {
+      "title": "Main Street America",
+      "h1": "Main Street America: How 1,200+ Communities Are Revitalizing Their Downtowns",
+      "metaTitle": "Main Street America: 1,200+ communities, 4-Point Approach",
+      "metaDescription": "Main Street America is a nationwide network of 1,200+ communities using preservation-based economic development to revitalize historic commercial districts.",
+      "snippet": "Main Street America is a nationwide network of over 1,200 communities using a preservation-based economic development approach to revitalize historic commercial districts. The Four-Point Approach covers organization, promotion, design, and economic restructuring. COLHYBRI integrates as the digital measurement layer for Main Street programs.",
+      "sections": [
+        {
+          "h2": "What is Main Street America?",
+          "body": "Main Street America is a program launched in 1980 by the National Trust for Historic Preservation. Today, more than 1,200 American communities participate, covering small rural towns, historic urban neighborhoods and midsize downtowns. Each community designates a Main Street Manager and applies the Four-Point Approach."
+        },
+        {
+          "h2": "What is the Four-Point Approach?",
+          "body": "The Four-Point Approach covers four domains: organization (stakeholder coalitions, volunteers, funding), promotion (events, marketing, retail recruitment), design (facade renovation, streetscape, architectural preservation), and economic restructuring (shop support, tenant attraction). A proven model over 40+ years."
+        },
+        {
+          "h2": "How does COLHYBRI complement Main Street?",
+          "body": "COLHYBRI is the Main Street Manager digital toolkit. It provides per-shop Score Maps on the Main Street, a real-time commercial vitality dashboard, and a quarterly impact report for the board. It integrates the economic restructuring pillar with objective metrics."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is Main Street America?",
+          "a": "A program launched in 1980 by the National Trust for Historic Preservation. Over 1,200 American communities participate using the Four-Point Approach."
+        },
+        {
+          "q": "What is the Four-Point Approach?",
+          "a": "Organization, Promotion, Design, Economic Restructuring. A proven model used by 1,200+ communities for 40+ years."
+        },
+        {
+          "q": "How does COLHYBRI integrate?",
+          "a": "It provides per-shop Score Maps, a municipal vitality dashboard, and a quarterly impact report for the Main Street Manager."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1,200+",
+          "label": "communities"
+        },
+        {
+          "value": "1980",
+          "label": "launch year"
+        },
+        {
+          "value": "4",
+          "label": "methodology pillars"
+        },
+        {
+          "value": "40+",
+          "label": "years of track record"
+        }
+      ]
+    },
+    "rust-belt-revitalization": {
+      "title": "Rust Belt revitalization",
+      "h1": "Rust Belt Revitalization: How Post-Industrial Cities Are Reinventing Their Downtowns",
+      "metaTitle": "Rust Belt revitalization: Canton, Allentown, Pittsburgh",
+      "metaDescription": "Pittsburgh, Cleveland, Canton, Allentown: Rust Belt cities reinvent their downtowns using Opportunity Zones, historic tax credits and federal grants.",
+      "snippet": "Rust Belt cities like Pittsburgh, Cleveland, Canton and Allentown are transforming from heavy manufacturing to tech, healthcare and mixed-use downtown development. Canton, Ohio serves as a blueprint: one developer restored 42 buildings using historic tax credits (20% federal + 25% state). Allentown received a $20 million EDA grant for small-scale manufacturing on brownfield sites.",
+      "sections": [
+        {
+          "h2": "What is the Rust Belt?",
+          "body": "The Rust Belt refers to the declining industrial belt of the United States, from the Northeast to the Midwest: Pennsylvania, Ohio, Michigan, Indiana, Illinois. Hit by deindustrialization since the 1970s, the region is in full transformation in 2026, driven by federal investments (CHIPS Act, Inflation Reduction Act) and Opportunity Zones."
+        },
+        {
+          "h2": "How does Canton Ohio revitalize its downtown?",
+          "body": "Canton has become the Rust Belt revitalization model. Local developer Steve Coon restored 42 historic downtown buildings using federal historic tax credits (20%) plus Ohio state historic credits (25%), stacking 45% in combined credits. Downtown went from abandoned district to mixed-use destination in under 10 years."
+        },
+        {
+          "h2": "What tools do Rust Belt cities use?",
+          "body": "A combination of federal and local tools: historic tax credits (20% federal + 25% state), Opportunity Zones, RAISE grants from the Department of Transportation ($20M for Allentown), and Main Street program support. COLHYBRI adds the digital layer to measure impact in real time."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the Rust Belt?",
+          "a": "The declining industrial belt: Pennsylvania, Ohio, Michigan, Indiana, Illinois. Transforming since the early 2020s thanks to federal investments."
+        },
+        {
+          "q": "What is the Canton blueprint?",
+          "a": "A local developer restored 42 historic downtown buildings in Canton using historic tax credits stacked 45%. Downtown revived in under 10 years."
+        },
+        {
+          "q": "What tools for a Rust Belt city?",
+          "a": "Stacked historic tax credits (45%), Opportunity Zones, RAISE grants from DOT, Main Street programs. COLHYBRI adds real-time digital measurement."
+        }
+      ],
+      "stats": [
+        {
+          "value": "42",
+          "label": "buildings restored in Canton"
+        },
+        {
+          "value": "45%",
+          "label": "stacked tax credits"
+        },
+        {
+          "value": "$20M",
+          "label": "Allentown RAISE grant"
+        },
+        {
+          "value": "10 yrs",
+          "label": "Canton transformation"
+        }
+      ]
+    },
+    "small-business-digital": {
+      "title": "Digital tools for US small business",
+      "h1": "Digital Tools for Small Business Downtown Revitalization",
+      "metaTitle": "Small business digital: tools for Main Streets",
+      "metaDescription": "75% of small businesses are invisible on Google. COLHYBRI Maps+ audits in 48h, zero-friction onboarding, $10/month, 0% commission.",
+      "snippet": "75% of small businesses are invisible on Google. Digital tools like COLHYBRI Maps+ audit Google presence in 48 hours, onboard merchants to Google Places with zero friction, generate customer reviews via post-visit QR codes, and provide continuous monitoring with negative review alerts. All for $10/month with 0% commission.",
+      "sections": [
+        {
+          "h2": "Why digitalize American small businesses?",
+          "body": "Consumers search online before visiting in person. A business missing from Google Business Profile loses 76% of local searches. For Main Street and Opportunity Zone cities, it is a measurable loss of local revenue and therefore of tax base."
+        },
+        {
+          "h2": "What does COLHYBRI Maps+ do?",
+          "body": "Maps+ covers 4 pillars: 48-hour Score Maps audit (full Google listing and review assessment), zero-friction onboarding (create or optimize Google Places listing in 30 seconds), review generation (post-visit QR codes), and continuous monitoring with negative review alerts."
+        },
+        {
+          "h2": "How much does Maps+ cost in the USA?",
+          "body": "The COLHYBRI merchant rate for an American shop is $10 per month with 0% commission. This includes all Maps+ services. For comparison, Yelp charges $300-1000/month for paid ads and Groupon takes up to 50% commission on sales."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why must a shop be on Google?",
+          "a": "76% of local searches convert within 24 hours. An invisible shop mechanically loses revenue to better-referenced competitors."
+        },
+        {
+          "q": "What does COLHYBRI Maps+ cover?",
+          "a": "4 pillars: Score Maps audit, zero-friction onboarding, post-visit review generation, continuous monitoring."
+        },
+        {
+          "q": "How much in the USA?",
+          "a": "$10 per month with 0% commission. Cheaper than Yelp ($300-1000/month) or Groupon (up to 50% commission)."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "SMBs invisible on Google"
+        },
+        {
+          "value": "76%",
+          "label": "local searches > purchase"
+        },
+        {
+          "value": "$10",
+          "label": "monthly subscription"
+        },
+        {
+          "value": "0%",
+          "label": "commission"
+        }
+      ]
+    },
+    "community-development": {
+      "title": "Community Development through local commerce",
+      "h1": "Community Development Through Local Commerce: The COLHYBRI Model",
+      "metaTitle": "Community development: x2.5 Keynesian multiplier",
+      "metaDescription": "Community development through local commerce applies the Keynesian multiplier: every dollar spent locally generates $2.50 in local economic activity.",
+      "snippet": "Community development through local commerce follows the Keynesian multiplier principle: every dollar spent locally generates $2.50 in local economic activity. COLHYBRI solidarity pool channels 75% of subscriber fees into services gifted at partner shops, creating a virtuous cycle of local spending, job creation and neighborhood vitality.",
+      "sections": [
+        {
+          "h2": "What is community development?",
+          "body": "Community development is an American revitalization approach that puts residents and small shops at the center. It favors local wealth creation over attracting large corporations. Main Street programs and Community Development Corporations (CDCs) are the main vehicles."
+        },
+        {
+          "h2": "What is the local Keynesian multiplier?",
+          "body": "The local Keynesian multiplier measures the amplification effect of local spending. Every dollar spent at a local shop generates $2.50 in local economic activity (versus $0.80 for an online purchase shipped from a warehouse). Documented by the American Independent Business Alliance since 2004."
+        },
+        {
+          "h2": "How does COLHYBRI activate this multiplier?",
+          "body": "COLHYBRI channels 75% of subscriber fees ($3/month) into a solidarity pool that funds services gifted at partner shops. The money never leaves the neighborhood. For a 1,000-subscriber community, that is $27,000 per year directly reinjected into local commerce, generating $67,500 of total economic activity through the multiplier."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is community development?",
+          "a": "An American approach putting residents and small shops at the center. Main vehicles: Main Street programs and Community Development Corporations."
+        },
+        {
+          "q": "What is the local Keynesian multiplier?",
+          "a": "A dollar spent locally generates $2.50 in economic activity (vs $0.80 for online). Documented by the American Independent Business Alliance."
+        },
+        {
+          "q": "How does COLHYBRI activate this?",
+          "a": "75% of subscriber fees ($3/month) fund services at partner shops. 1,000 subscribers = $27K/year reinjected locally = $67.5K total activity."
+        }
+      ],
+      "stats": [
+        {
+          "value": "x2.5",
+          "label": "local multiplier"
+        },
+        {
+          "value": "75%",
+          "label": "pool allocation"
+        },
+        {
+          "value": "$27K",
+          "label": "per 1,000 subs / year"
+        },
+        {
+          "value": "$3",
+          "label": "monthly fee"
         }
       ]
     }
