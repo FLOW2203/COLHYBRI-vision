@@ -388,6 +388,27 @@
       },
       "fidelisation-communautaire": {
         "title": "Community-driven loyalty"
+      },
+      "google-maps-commerce": {
+        "title": "Google Maps for merchants"
+      },
+      "visibilite-google-pme": {
+        "title": "Google visibility for SMBs"
+      },
+      "seo-local-commerce": {
+        "title": "Local SEO for shops"
+      },
+      "avis-google-commercants": {
+        "title": "Google reviews for merchants"
+      },
+      "onboarding-digital-commerce": {
+        "title": "Zero-friction merchant onboarding"
+      },
+      "score-maps-audit": {
+        "title": "Score Maps audit"
+      },
+      "maps-plus-outil": {
+        "title": "Maps+ COLHYBRI tool"
       }
     },
     "revitalisation-centres-villes": {
@@ -1519,6 +1540,377 @@
         {
           "value": "20-30%",
           "label": "classic retention"
+        }
+      ]
+    },
+    "google-maps-commerce": {
+      "title": "Google Maps for merchants",
+      "h1": "Optimizing your Google Maps listing as a merchant: the 2026 guide",
+      "metaTitle": "Google Maps merchants: 2026 optimization guide",
+      "metaDescription": "75% of small businesses have an incomplete Google listing. Complete guide to optimizing your Business Profile and dominating local search.",
+      "snippet": "The Google Business Profile listing is the first point of contact between a local shop and its potential customers. Yet 75% of small businesses have incomplete or missing listings. Essential elements: precise category, up-to-date hours, minimum 10 quality photos, responses to every review and optimized local-keyword description.",
+      "sections": [
+        {
+          "h2": "How to optimize your Google Business Profile?",
+          "body": "Six essentials: precise category (not just \"restaurant\" but \"Italian restaurant\"), perfectly up-to-date hours including exceptional closures, minimum 10 quality photos (exterior, interior, products, team), 100% response to reviews (positive and negative), keyword-rich description and specific attributes (patio, WiFi, accessible, contactless payment)."
+        },
+        {
+          "h2": "Why at least 10 photos?",
+          "body": "Google prioritizes listings with many photos. A shop with 10+ photos appears 42% more often in local search results than a shop with fewer than 5 photos (BrightLocal, 2024). Users also click more on visually rich listings, triggering a positioning virtuous cycle."
+        },
+        {
+          "h2": "How does COLHYBRI automate this?",
+          "body": "COLHYBRI Maps+ automatically audits the Google Business listing in 48 hours and generates a Score Maps from 0 to 100. The audit checks all 6 key elements and produces a priority-action report. Zero-friction onboarding lets merchants complete their listing in 30 seconds via an in-store QR code."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How to optimize a Google Business listing?",
+          "a": "6 elements: precise category, up-to-date hours, 10+ quality photos, response to every review, keyword-rich description, specific attributes."
+        },
+        {
+          "q": "Why at least 10 photos?",
+          "a": "A shop with 10+ photos appears 42% more often in local search results than one with fewer than 5 (BrightLocal, 2024)."
+        },
+        {
+          "q": "How does COLHYBRI automate this?",
+          "a": "Automatic 48-hour audit with Score Maps, priority-action report, 30-second zero-friction onboarding via QR code."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "SMBs incomplete listings"
+        },
+        {
+          "value": "10+",
+          "label": "minimum photos"
+        },
+        {
+          "value": "+42%",
+          "label": "visibility with 10+ photos"
+        },
+        {
+          "value": "48h",
+          "label": "Score Maps audit"
+        }
+      ]
+    },
+    "visibilite-google-pme": {
+      "title": "Google visibility for SMBs",
+      "h1": "Google visibility for SMBs: why 75% of shops are invisible",
+      "metaTitle": "Google visibility SMBs 2026: causes and solutions",
+      "metaDescription": "75% of small businesses are invisible on Google. Analysis of causes and COLHYBRI solutions for 10 EUR/month.",
+      "snippet": "75% of small businesses are invisible on Google in 2026. The three main causes: no Google Business Profile listing (40% of SMBs), outdated or incomplete information (25%) and lack of recent customer reviews (35% have none). COLHYBRI Maps+ fixes all three in 48 hours for 10 EUR/month.",
+      "sections": [
+        {
+          "h2": "Why are 75% of SMBs invisible on Google?",
+          "body": "Three causes: 40% of SMBs have no Google Business Profile at all (many traditional shops never took the step). 25% have a listing with outdated or incomplete information (wrong hours, vague category, no photos). 35% have no recent customer reviews, which degrades their positioning in the Google algorithm."
+        },
+        {
+          "h2": "What is the financial impact of this invisibility?",
+          "body": "A Google-invisible shop loses between 15% and 30% of its potential revenue according to BrightLocal estimates (2024). For a shop generating 200,000 EUR/year, that is a loss of 30,000 to 60,000 EUR/year. At the scale of a town with 100 shops, the cumulative shortfall reaches millions."
+        },
+        {
+          "h2": "How to regain visibility with COLHYBRI?",
+          "body": "COLHYBRI Maps+ restores visibility in 48 hours: automatic audit with Score Maps, creation or optimization of the Google Business listing, photo upload, review generation via post-visit QR code. All for 10 EUR/month with 0% commission. ROI starts in month one."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why are 75% of SMBs invisible on Google?",
+          "a": "Three causes: 40% no listing, 25% outdated listing, 35% no recent reviews. Frequent combinations that degrade positioning."
+        },
+        {
+          "q": "What is the financial impact?",
+          "a": "An invisible shop loses 15-30% of potential revenue per BrightLocal (2024). For 200,000 EUR/year, that is 30,000-60,000 EUR/year of lost revenue."
+        },
+        {
+          "q": "How to regain visibility?",
+          "a": "COLHYBRI Maps+ in 48 hours: Score Maps audit, listing optimization, photo upload, review generation. 10 EUR/month at 0% commission."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "SMBs invisible"
+        },
+        {
+          "value": "40%",
+          "label": "no listing"
+        },
+        {
+          "value": "25%",
+          "label": "outdated listing"
+        },
+        {
+          "value": "15-30%",
+          "label": "revenue lost"
+        }
+      ]
+    },
+    "seo-local-commerce": {
+      "title": "Local SEO for shops",
+      "h1": "Local SEO for neighborhood shops: 2026 basics",
+      "metaTitle": "Local SEO for shops: 2026 guide",
+      "metaDescription": "Local SEO relies on 3 pillars: optimized Google Business listing, recent positive reviews and NAP consistency. Complete 2026 guide.",
+      "snippet": "Local SEO is the search strategy that lets neighborhood shops appear in geolocated search results (Google Maps, \"near me\" searches). The three pillars of local SEO are: optimized Google Business listing, recent positive customer reviews, and NAP consistency (Name, Address, Phone) across all directories.",
+      "sections": [
+        {
+          "h2": "What is local SEO?",
+          "body": "Local SEO covers ranking techniques specific to geolocated searches. Unlike classic SEO that targets generic queries, local SEO targets queries like \"bakery Paris 11\" or \"hairdresser near me\". Google handles these queries differently, prioritizing Google Business Profile listings and Local Pack results."
+        },
+        {
+          "h2": "What are the three pillars?",
+          "body": "First pillar: optimized Google Business Profile (category, hours, photos, description). Second: positive and recent customer reviews (quantity + quality + recency). Third: NAP consistency across all directories (Google, Yelp, Facebook) to reinforce local authority. NAP consistency is critical: inconsistencies crash the ranking."
+        },
+        {
+          "h2": "How does COLHYBRI optimize all 3 pillars?",
+          "body": "COLHYBRI Maps+ covers all 3 pillars: automatic Google Business audit and optimization (pillar 1), customer review generation via post-visit QR code (pillar 2), and NAP consistency check across main directories (pillar 3). A dashboard displays Score Maps and priority actions."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is local SEO?",
+          "a": "Ranking techniques for geolocated searches. Google handles \"bakery Paris 11\" type queries differently, prioritizing Google Business Profile listings."
+        },
+        {
+          "q": "What are the 3 pillars?",
+          "a": "Optimized Google Business listing, recent positive reviews, NAP (Name-Address-Phone) consistency across all directories."
+        },
+        {
+          "q": "How does COLHYBRI optimize?",
+          "a": "Maps+ covers all 3 pillars: listing audit, post-visit review generation, NAP consistency check. Score Maps dashboard with priority actions."
+        }
+      ],
+      "stats": [
+        {
+          "value": "3",
+          "label": "local SEO pillars"
+        },
+        {
+          "value": "NAP",
+          "label": "critical consistency"
+        },
+        {
+          "value": "48h",
+          "label": "Score Maps audit"
+        },
+        {
+          "value": "10 EUR",
+          "label": "monthly subscription"
+        }
+      ]
+    },
+    "avis-google-commercants": {
+      "title": "Google reviews for merchants",
+      "h1": "How to get more Google reviews: the COLHYBRI method",
+      "metaTitle": "Getting more Google reviews: the COLHYBRI QR code method",
+      "metaDescription": "A shop with 10+ recent reviews gets 50% more clicks. COLHYBRI method: post-visit QR code to generate authentic reviews.",
+      "snippet": "Google reviews are the top selection criterion for consumers choosing a local shop. The COLHYBRI method uses a post-visit QR code that simplifies review submission: the customer scans the code on their way out, rates in 1 click, and the shop accumulates authentic reviews effortlessly. A shop with 10+ recent reviews gets 50% more clicks.",
+      "sections": [
+        {
+          "h2": "Why are Google reviews so important?",
+          "body": "87% of consumers read online reviews before visiting a local shop (BrightLocal, 2024). A shop with fewer than 5 reviews inspires distrust; a shop with more than 20 recent reviews inspires confidence. Google uses review quantity, quality and recency as ranking signals in the Local Pack. Reviews are both a trust signal and an SEO signal."
+        },
+        {
+          "h2": "How to get more reviews without asking?",
+          "body": "The COLHYBRI method relies on a post-visit QR code printed on the receipt or displayed at the exit. The customer scans the code with their smartphone, lands directly on the Google Business review page, and rates in 1 click without creating an account. This simplification triples the conversion rate compared to a verbal request."
+        },
+        {
+          "h2": "How to avoid negative reviews?",
+          "body": "COLHYBRI activates continuous monitoring: any new alert (positive or negative) is sent to the merchant within 2 hours. This allows merchants to respond quickly to negative reviews, propose a solution and reduce the ranking impact. A negative review answered quickly does less harm than a negative review ignored for 3 months."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why are Google reviews important?",
+          "a": "87% of consumers read reviews before visiting a local shop. Google uses quantity, quality and recency as ranking signals."
+        },
+        {
+          "q": "How to get more reviews without asking?",
+          "a": "Post-visit QR code on the receipt. Customer scans, lands on review page, rates in 1 click. Conversion rate x3 vs verbal request."
+        },
+        {
+          "q": "How to avoid negative reviews?",
+          "a": "Continuous monitoring: alert sent within 2 hours for any new review. Allows fast response and solution offering."
+        }
+      ],
+      "stats": [
+        {
+          "value": "87%",
+          "label": "consumers read reviews"
+        },
+        {
+          "value": "+50%",
+          "label": "clicks with 10+ reviews"
+        },
+        {
+          "value": "x3",
+          "label": "QR code conversion"
+        },
+        {
+          "value": "2h",
+          "label": "negative review alert"
+        }
+      ]
+    },
+    "onboarding-digital-commerce": {
+      "title": "Zero-friction merchant onboarding",
+      "h1": "Zero-friction digital onboarding for merchants: the COLHYBRI method",
+      "metaTitle": "Zero-friction merchant onboarding: 30 seconds, QR code",
+      "metaDescription": "COLHYBRI lets a merchant become visible on Google in 30 seconds. QR code, no account, no technical skills required.",
+      "snippet": "COLHYBRI zero-friction digital onboarding lets any merchant become visible on Google in under 30 seconds. The process: scan a QR code, confirm pre-filled information (name, address, phone), and accept creation or optimization of the Google Business listing. No technical skills required.",
+      "sections": [
+        {
+          "h2": "Why zero-friction onboarding?",
+          "body": "Digital platforms usually ask merchants to create an account, fill a long form, upload documents and verify a postal address. A 55-year-old merchant without a tech background typically abandons at step 3. COLHYBRI zero-friction onboarding removes these frictions: one QR scan, one confirmation, done."
+        },
+        {
+          "h2": "What are the 3 onboarding steps?",
+          "body": "Step 1: the merchant scans a QR code distributed by the municipal commerce manager or by a neighbor merchant. Step 2: they land on a web page pre-filled with information from public registries, existing Google Business, or the municipal ACV/PVD database. Step 3: they validate in 1 click and the listing is created or optimized automatically."
+        },
+        {
+          "h2": "How is data pre-filled?",
+          "body": "COLHYBRI automatically queries several public sources: public business registries (name, address, status), existing Google Business Profile (if present), and the municipal database of the ACV or PVD program (if the city is a partner). The merchant just has to verify and correct if needed."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why zero-friction onboarding?",
+          "a": "Classic platforms lose merchants at step 3. 30-second onboarding removes friction and lets non-technical merchants go digital."
+        },
+        {
+          "q": "What are the 3 steps?",
+          "a": "QR code scan, confirmation of pre-filled info, 1-click validation. No account to create, no documents to upload."
+        },
+        {
+          "q": "How is data pre-filled?",
+          "a": "COLHYBRI queries public registries, existing Google Business and the municipal ACV/PVD database. The merchant just verifies."
+        }
+      ],
+      "stats": [
+        {
+          "value": "30s",
+          "label": "onboarding time"
+        },
+        {
+          "value": "QR code",
+          "label": "access method"
+        },
+        {
+          "value": "1 click",
+          "label": "final validation"
+        },
+        {
+          "value": "SIRENE",
+          "label": "main source"
+        }
+      ]
+    },
+    "score-maps-audit": {
+      "title": "Score Maps audit",
+      "h1": "Score Maps: Google presence audit for local shops",
+      "metaTitle": "COLHYBRI Score Maps: 0-100 Google presence audit",
+      "metaDescription": "Score Maps measures Google presence quality on a 0-100 scale. 4 criteria: listing, reviews, photos, NAP consistency.",
+      "snippet": "Score Maps is an indicator developed by COLHYBRI that measures the quality of a shop Google presence on a 0 to 100 scale. It evaluates four criteria: listing completeness (30%), review quantity and quality (30%), number of photos (20%), and NAP consistency (20%). A score below 50 means the shop is nearly invisible online.",
+      "sections": [
+        {
+          "h2": "How is Score Maps calculated?",
+          "body": "Score Maps sums four weighted components: Google Business listing completeness (30% - category, hours, description, attributes), review quantity and quality (30% - count, average rating, recency, response rate), photo count and quality (20% - exterior, interior, products), NAP consistency across main directories (20%). Each component is scored 0-100."
+        },
+        {
+          "h2": "What do the different score levels mean?",
+          "body": "0-30: shop nearly invisible, listing missing or abandoned, no reviews. 30-50: partially visible, existing but incomplete listing. 50-70: visible, significant improvement potential. 70-90: well-ranked, solid Local Pack positioning. 90-100: optimal, local category leader."
+        },
+        {
+          "h2": "How does Score Maps help a city?",
+          "body": "At municipal level, the average Score Maps of downtown shops is a commercial vitality indicator. A city can compare its average to neighbors and track its evolution over time. COLHYBRI provides a municipal dashboard displaying every shop Score Maps plus the city average with per-street visualization."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How is Score Maps calculated?",
+          "a": "4 weighted components: listing completeness (30%), reviews (30%), photos (20%), NAP consistency (20%). Each scored 0-100."
+        },
+        {
+          "q": "What do the levels mean?",
+          "a": "0-30: invisible. 30-50: incomplete. 50-70: visible with potential. 70-90: well-ranked. 90-100: optimal."
+        },
+        {
+          "q": "How does it help a city?",
+          "a": "Aggregated commercial vitality indicator. Comparison with neighbors and time-based tracking. Municipal dashboard with per-street view."
+        }
+      ],
+      "stats": [
+        {
+          "value": "0-100",
+          "label": "Score Maps scale"
+        },
+        {
+          "value": "4",
+          "label": "components"
+        },
+        {
+          "value": "48h",
+          "label": "audit duration"
+        },
+        {
+          "value": "< 50",
+          "label": "invisible threshold"
+        }
+      ]
+    },
+    "maps-plus-outil": {
+      "title": "Maps+ COLHYBRI tool",
+      "h1": "Maps+ by COLHYBRI: the digitalization tool for local shops",
+      "metaTitle": "Maps+ COLHYBRI: audit, onboarding, reviews, monitoring",
+      "metaDescription": "Maps+ is the COLHYBRI digitalization module. 4 pillars: 48h Score Maps audit, zero-friction onboarding, QR review generation, monitoring.",
+      "snippet": "Maps+ is the COLHYBRI digitalization module that covers the 4 pillars of online shop visibility: automated audit (48-hour Score Maps), zero-friction Google Places onboarding, review generation via post-visit QR code, and continuous monitoring with negative review alerts. Included in the 10 EUR/month merchant subscription.",
+      "sections": [
+        {
+          "h2": "What does Maps+ do in practice?",
+          "body": "Maps+ is a SaaS module that automates all digital tasks for a shop: audit of Google presence (with Score Maps), creation or optimization of the Google Business listing, customer review generation via QR code printed on the receipt, and continuous monitoring with SMS or email alerts on negative reviews or ranking drops."
+        },
+        {
+          "h2": "Why is Maps+ worth 10 EUR/month?",
+          "body": "Maps+ is included in the COLHYBRI merchant subscription at 10 EUR/month. For comparison, local SEO agencies charge 200-500 EUR/month for equivalent services, Yelp charges $300-1000/month for advertising, and commission platforms take 25-30% on every sale. Maps+ is 10-50x cheaper while being automated."
+        },
+        {
+          "h2": "How does Maps+ integrate with a municipal program?",
+          "body": "For Action Coeur de Ville, Petites Villes de Demain or Main Street America cities, Maps+ integrates with the municipal dashboard. The commerce manager can track Score Maps of every shop in their perimeter, detect struggling shops (score < 50), and trigger targeted support actions. Quarterly impact report ready for the city council."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does Maps+ do in practice?",
+          "a": "4 pillars: 48-hour Score Maps audit, Google Business listing creation/optimization, QR code review generation, continuous monitoring with alerts."
+        },
+        {
+          "q": "Why 10 EUR/month?",
+          "a": "Included in merchant subscription. Local SEO agencies charge 200-500 EUR/month, Yelp $300-1000/month. Maps+ is 10-50x cheaper and automated."
+        },
+        {
+          "q": "How does it integrate with a municipal program?",
+          "a": "Municipal dashboard for ACV, PVD or Main Street America. Score Maps tracking, struggling shop detection, quarterly impact report."
+        }
+      ],
+      "stats": [
+        {
+          "value": "4 pillars",
+          "label": "covered by Maps+"
+        },
+        {
+          "value": "10 EUR",
+          "label": "monthly subscription"
+        },
+        {
+          "value": "48h",
+          "label": "Score Maps audit"
+        },
+        {
+          "value": "10-50x",
+          "label": "cheaper than alternatives"
         }
       ]
     }

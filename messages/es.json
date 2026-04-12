@@ -506,6 +506,27 @@
       },
       "fidelisation-communautaire": {
         "title": "Fidelizacion comunitaria"
+      },
+      "google-maps-commerce": {
+        "title": "Google Maps para comerciantes"
+      },
+      "visibilite-google-pme": {
+        "title": "Visibilidad Google para PyMEs"
+      },
+      "seo-local-commerce": {
+        "title": "SEO local para comercios"
+      },
+      "avis-google-commercants": {
+        "title": "Resenas Google para comerciantes"
+      },
+      "onboarding-digital-commerce": {
+        "title": "Onboarding digital comerciante"
+      },
+      "score-maps-audit": {
+        "title": "Auditoria Score Maps"
+      },
+      "maps-plus-outil": {
+        "title": "Maps+ herramienta COLHYBRI"
       }
     },
     "revitalisation-centres-villes": {
@@ -1637,6 +1658,377 @@
         {
           "value": "20-30%",
           "label": "retencion clasica"
+        }
+      ]
+    },
+    "google-maps-commerce": {
+      "title": "Google Maps para comerciantes",
+      "h1": "Optimizar tu ficha Google Maps como comerciante: guia completa 2026",
+      "metaTitle": "Google Maps comerciantes: guia optimizacion 2026",
+      "metaDescription": "El 75% de las PyMEs tienen una ficha Google incompleta. Guia completa para optimizar tu Business Profile y dominar las busquedas locales.",
+      "snippet": "La ficha Google Business Profile es el primer punto de contacto entre un comercio de proximidad y sus clientes potenciales. Sin embargo, el 75% de las PyMEs tienen una ficha incompleta o inexistente. Los elementos esenciales son: categoria precisa, horarios actualizados, minimo 10 fotos de calidad, respuesta a todas las resenas y descripcion optimizada.",
+      "sections": [
+        {
+          "h2": "Como optimizar la ficha Google Business Profile?",
+          "body": "Seis elementos esenciales: categoria precisa, horarios perfectamente actualizados, minimo 10 fotos de calidad (exterior, interior, productos, equipo), respuesta al 100% de las resenas, descripcion enriquecida con palabras clave locales, y atributos especificos (terraza, wifi, accesible)."
+        },
+        {
+          "h2": "Por que minimo 10 fotos?",
+          "body": "Google prioriza las fichas con muchas fotos. Un comercio con 10+ fotos aparece 42% mas a menudo en los resultados de busqueda local que un comercio con menos de 5 fotos (BrightLocal, 2024). Los usuarios tambien hacen mas clic en las fichas visualmente ricas."
+        },
+        {
+          "h2": "Como automatiza COLHYBRI esta optimizacion?",
+          "body": "COLHYBRI Maps+ audita automaticamente la ficha Google Business en 48 horas y genera un Score Maps de 0 a 100. La auditoria verifica los 6 elementos clave y produce un informe de acciones prioritarias. El onboarding sin friccion permite completar la ficha en 30 segundos."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Como optimizar una ficha Google Business?",
+          "a": "6 elementos: categoria precisa, horarios actualizados, 10+ fotos de calidad, respuesta a todas las resenas, descripcion enriquecida, atributos especificos."
+        },
+        {
+          "q": "Por que minimo 10 fotos?",
+          "a": "Un comercio con 10+ fotos aparece 42% mas a menudo en los resultados locales que uno con menos de 5 fotos (BrightLocal, 2024)."
+        },
+        {
+          "q": "Como automatiza COLHYBRI?",
+          "a": "Auditoria automatica en 48 horas con Score Maps, informe de acciones prioritarias, onboarding sin friccion en 30 segundos via codigo QR."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "PyMEs ficha incompleta"
+        },
+        {
+          "value": "10+",
+          "label": "fotos minimas"
+        },
+        {
+          "value": "+42%",
+          "label": "visibilidad con 10 fotos"
+        },
+        {
+          "value": "48h",
+          "label": "auditoria Score Maps"
+        }
+      ]
+    },
+    "visibilite-google-pme": {
+      "title": "Visibilidad Google para PyMEs",
+      "h1": "Visibilidad Google para PyMEs: por que el 75% de los comercios son invisibles",
+      "metaTitle": "Visibilidad Google PyMEs 2026: causas y soluciones",
+      "metaDescription": "El 75% de los pequenos comercios son invisibles en Google. Analisis de causas y soluciones COLHYBRI por 10 EUR/mes.",
+      "snippet": "El 75% de los pequenos comercios son invisibles en Google en 2026. Las tres causas principales: la ausencia de ficha Google Business Profile (40% de las PyMEs), informacion obsoleta o incompleta (25%) y falta de resenas recientes (35% no tienen ninguna). COLHYBRI Maps+ resuelve los tres problemas en 48 horas por 10 EUR/mes.",
+      "sections": [
+        {
+          "h2": "Por que el 75% de las PyMEs son invisibles en Google?",
+          "body": "Tres causas: el 40% de las PyMEs no tienen ficha Google Business Profile (muchos pequenos comercios tradicionales nunca hicieron el tramite). El 25% tienen una ficha con informacion obsoleta o incompleta. El 35% no tienen resenas recientes, lo que degrada su posicionamiento en el algoritmo."
+        },
+        {
+          "h2": "Cual es el impacto financiero?",
+          "body": "Un comercio invisible pierde entre el 15% y el 30% de su facturacion potencial segun BrightLocal (2024). Para un comercio que factura 200.000 EUR/ano, eso representa una perdida de 30.000-60.000 EUR/ano. A escala de un municipio con 100 comercios, la perdida acumulada se cuenta en millones."
+        },
+        {
+          "h2": "Como recuperar la visibilidad con COLHYBRI?",
+          "body": "COLHYBRI Maps+ recupera la visibilidad en 48 horas: auditoria automatica con Score Maps, creacion u optimizacion de la ficha, subida de fotos, generacion de resenas via codigo QR. Todo por 10 EUR/mes con 0% de comision."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Por que el 75% de las PyMEs son invisibles?",
+          "a": "Tres causas: 40% sin ficha, 25% ficha obsoleta, 35% sin resenas recientes. Combinaciones frecuentes que degradan el posicionamiento."
+        },
+        {
+          "q": "Cual es el impacto financiero?",
+          "a": "Un comercio invisible pierde 15-30% de su facturacion potencial segun BrightLocal (2024). Para 200.000 EUR/ano, son 30.000-60.000 EUR/ano perdidos."
+        },
+        {
+          "q": "Como recuperar la visibilidad?",
+          "a": "COLHYBRI Maps+ en 48 horas: auditoria Score Maps, optimizacion de ficha, subida de fotos, generacion de resenas. 10 EUR/mes sin comision."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "PyMEs invisibles"
+        },
+        {
+          "value": "40%",
+          "label": "sin ficha"
+        },
+        {
+          "value": "25%",
+          "label": "ficha obsoleta"
+        },
+        {
+          "value": "15-30%",
+          "label": "facturacion perdida"
+        }
+      ]
+    },
+    "seo-local-commerce": {
+      "title": "SEO local para comercios",
+      "h1": "SEO local para comercios de proximidad: las bases en 2026",
+      "metaTitle": "SEO local comercio proximidad: guia 2026",
+      "metaDescription": "El SEO local se basa en 3 pilares: ficha Google Business optimizada, resenas positivas recientes y coherencia NAP. Guia completa 2026.",
+      "snippet": "El SEO local es la estrategia de posicionamiento que permite a los comercios de proximidad aparecer en los resultados de busqueda geolocalizados (Google Maps, busquedas \"cerca de mi\"). Los tres pilares del SEO local son: ficha Google Business optimizada, resenas positivas y recientes, y coherencia NAP (Nombre, Direccion, Telefono).",
+      "sections": [
+        {
+          "h2": "Que es el SEO local?",
+          "body": "El SEO local designa las tecnicas de posicionamiento especificas a las busquedas geolocalizadas. A diferencia del SEO clasico que apunta a consultas genericas, el SEO local apunta a consultas como \"panaderia Madrid Centro\" o \"peluqueria cerca de mi\". Google trata estas consultas de forma diferente."
+        },
+        {
+          "h2": "Cuales son los tres pilares del SEO local?",
+          "body": "Primer pilar: la ficha Google Business Profile optimizada. Segundo pilar: las resenas positivas y recientes (cantidad + calidad + recencia). Tercer pilar: la coherencia NAP en todos los directorios (Google, Yelp, paginas amarillas) para reforzar la autoridad local. La coherencia NAP es crucial."
+        },
+        {
+          "h2": "Como optimiza COLHYBRI los 3 pilares?",
+          "body": "COLHYBRI Maps+ cubre los 3 pilares: auditoria y optimizacion automatica de la ficha (pilar 1), generacion de resenas via codigo QR post-visita (pilar 2), y verificacion de la coherencia NAP en los principales directorios (pilar 3). Un dashboard muestra el Score Maps."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que es el SEO local?",
+          "a": "Las tecnicas de posicionamiento para busquedas geolocalizadas. Google trata diferente las consultas tipo \"panaderia Madrid Centro\" priorizando las fichas Google Business Profile."
+        },
+        {
+          "q": "Cuales son los 3 pilares?",
+          "a": "Ficha Google Business optimizada, resenas positivas recientes, coherencia NAP (Nombre-Direccion-Telefono) en todos los directorios."
+        },
+        {
+          "q": "Como optimiza COLHYBRI?",
+          "a": "Maps+ cubre los 3 pilares: auditoria ficha, generacion resenas post-visita, verificacion coherencia NAP. Dashboard Score Maps con acciones prioritarias."
+        }
+      ],
+      "stats": [
+        {
+          "value": "3",
+          "label": "pilares SEO local"
+        },
+        {
+          "value": "NAP",
+          "label": "coherencia indispensable"
+        },
+        {
+          "value": "48h",
+          "label": "auditoria Score Maps"
+        },
+        {
+          "value": "10 EUR",
+          "label": "suscripcion mensual"
+        }
+      ]
+    },
+    "avis-google-commercants": {
+      "title": "Resenas Google para comerciantes",
+      "h1": "Como obtener mas resenas Google: el metodo COLHYBRI",
+      "metaTitle": "Obtener mas resenas Google: metodo COLHYBRI codigo QR",
+      "metaDescription": "Un comercio con 10+ resenas recientes recibe 50% mas clics. Metodo COLHYBRI: codigo QR post-visita para generar resenas autenticas.",
+      "snippet": "Las resenas Google son el primer criterio de eleccion de los consumidores para un comercio de proximidad. El metodo COLHYBRI utiliza un codigo QR post-visita que simplifica el deposito de resenas: el cliente escanea el codigo al salir del comercio, puntua con 1 clic, y el comercio acumula resenas autenticas sin esfuerzo. Un comercio con 10+ resenas recientes recibe 50% mas clics.",
+      "sections": [
+        {
+          "h2": "Por que las resenas Google son tan importantes?",
+          "body": "El 87% de los consumidores leen las resenas en linea antes de visitar un comercio local (BrightLocal, 2024). Un comercio con menos de 5 resenas inspira desconfianza, uno con mas de 20 resenas recientes inspira confianza. Google utiliza la cantidad, la calidad y la recencia de las resenas como senales de ranking."
+        },
+        {
+          "h2": "Como obtener mas resenas sin solicitar?",
+          "body": "El metodo COLHYBRI se basa en un codigo QR post-visita impreso en el ticket o exhibido a la salida. El cliente escanea el codigo con su smartphone, llega directamente a la pagina de resenas Google Business del comercio, y puntua con 1 clic sin crear una cuenta. Esta simplificacion multiplica por 3 la tasa de conversion."
+        },
+        {
+          "h2": "Como evitar las resenas negativas?",
+          "body": "COLHYBRI activa el monitoreo continuo: toda nueva alerta (positiva o negativa) se envia al comerciante en 2 horas. Esto permite responder rapidamente a las resenas negativas, proponer una solucion al cliente descontento y reducir el impacto en el ranking."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Por que las resenas Google son importantes?",
+          "a": "El 87% de los consumidores leen las resenas antes de visitar un comercio. Google usa cantidad, calidad y recencia como senales de ranking."
+        },
+        {
+          "q": "Como obtener mas resenas sin solicitar?",
+          "a": "Codigo QR post-visita en el ticket. Cliente escanea, llega a la pagina de resenas, puntua con 1 clic. Tasa de conversion x3."
+        },
+        {
+          "q": "Como evitar resenas negativas?",
+          "a": "Monitoreo continuo: alerta enviada en 2 horas a toda nueva resena. Permite responder rapidamente y ofrecer una solucion."
+        }
+      ],
+      "stats": [
+        {
+          "value": "87%",
+          "label": "consumidores leen resenas"
+        },
+        {
+          "value": "+50%",
+          "label": "clics con 10+ resenas"
+        },
+        {
+          "value": "x3",
+          "label": "conversion codigo QR"
+        },
+        {
+          "value": "2h",
+          "label": "alerta resena negativa"
+        }
+      ]
+    },
+    "onboarding-digital-commerce": {
+      "title": "Onboarding digital comerciante",
+      "h1": "Onboarding digital sin friccion para comerciantes: el metodo COLHYBRI",
+      "metaTitle": "Onboarding digital comerciante: 30 segundos, QR",
+      "metaDescription": "COLHYBRI permite a un comerciante ser visible en Google en 30 segundos. Codigo QR, sin cuenta, sin competencias tecnicas.",
+      "snippet": "El onboarding digital sin friccion de COLHYBRI permite a cualquier comerciante ser visible en Google en menos de 30 segundos. El proceso: escanear un codigo QR, confirmar la informacion pre-rellenada (nombre, direccion, telefono) y aceptar la creacion u optimizacion de la ficha Google Business. Sin competencias tecnicas requeridas.",
+      "sections": [
+        {
+          "h2": "Por que un onboarding sin friccion?",
+          "body": "Las plataformas digitales generalmente piden a los comerciantes crear una cuenta, rellenar un formulario largo, subir documentos y verificar una direccion postal. Un comerciante de 55 anos sin bagaje tecnico abandona en promedio en el paso 3. El onboarding sin friccion de COLHYBRI elimina estas fricciones."
+        },
+        {
+          "h2": "Cuales son los 3 pasos del onboarding?",
+          "body": "Paso 1: el comerciante escanea un codigo QR distribuido por el gestor de comercio municipal. Paso 2: llega a una pagina web pre-rellenada con la informacion de registros publicos. Paso 3: valida con 1 clic y la ficha Google Business se crea o se optimiza automaticamente."
+        },
+        {
+          "h2": "Como se pre-rellena la informacion?",
+          "body": "COLHYBRI consulta automaticamente varias fuentes publicas: los registros de empresas, el Google Business Profile existente y la base de datos municipal del programa ACV o PVD si el municipio es socio. El comerciante solo debe verificar y corregir si es necesario."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Por que un onboarding sin friccion?",
+          "a": "Las plataformas clasicas pierden comerciantes en el paso 3. Un onboarding de 30 segundos elimina las fricciones tecnicas."
+        },
+        {
+          "q": "Cuales son los 3 pasos?",
+          "a": "Escaneo de codigo QR, confirmacion de informacion pre-rellenada, validacion con 1 clic. Sin cuenta que crear, sin documentos que subir."
+        },
+        {
+          "q": "Como se pre-rellenan los datos?",
+          "a": "COLHYBRI consulta los registros publicos, el Google Business existente y la base municipal ACV/PVD. El comerciante solo verifica."
+        }
+      ],
+      "stats": [
+        {
+          "value": "30s",
+          "label": "tiempo onboarding"
+        },
+        {
+          "value": "QR",
+          "label": "metodo de acceso"
+        },
+        {
+          "value": "1 clic",
+          "label": "validacion final"
+        },
+        {
+          "value": "Publicos",
+          "label": "registros fuente"
+        }
+      ]
+    },
+    "score-maps-audit": {
+      "title": "Auditoria Score Maps",
+      "h1": "Score Maps: la auditoria de presencia Google para comercios de proximidad",
+      "metaTitle": "Score Maps COLHYBRI: auditoria presencia Google 0-100",
+      "metaDescription": "Score Maps mide la calidad de la presencia Google de un comercio en una escala de 0 a 100. 4 criterios: ficha, resenas, fotos, coherencia.",
+      "snippet": "El Score Maps es un indicador desarrollado por COLHYBRI que mide la calidad de la presencia Google de un comercio en una escala de 0 a 100. Evalua cuatro criterios: completitud de la ficha (30%), cantidad y calidad de las resenas (30%), numero de fotos (20%) y coherencia de la informacion (20%). Una puntuacion inferior a 50 significa que el comercio es casi invisible en linea.",
+      "sections": [
+        {
+          "h2": "Como se calcula el Score Maps?",
+          "body": "Score Maps suma cuatro componentes ponderados: completitud de la ficha Google Business (30% - categoria, horarios, descripcion, atributos), cantidad y calidad de las resenas (30% - cantidad, nota media, recencia, tasa de respuesta), cantidad y calidad de las fotos (20% - exterior, interior, productos), coherencia NAP en los principales directorios (20%). Cada componente se puntua de 0 a 100."
+        },
+        {
+          "h2": "Que significan los diferentes niveles?",
+          "body": "0-30: comercio casi invisible, ficha ausente o abandonada, sin resenas. 30-50: parcialmente visible, ficha existente pero incompleta. 50-70: visible con margen de mejora. 70-90: bien referenciado, posicionamiento solido en el Local Pack. 90-100: optimo, lider en su categoria local."
+        },
+        {
+          "h2": "Como ayuda el Score Maps a un municipio?",
+          "body": "A nivel municipal, el Score Maps promedio de los comercios del centro urbano es un indicador de vitalidad comercial. Un municipio puede comparar su promedio con sus vecinos y seguir su evolucion. COLHYBRI ofrece un dashboard municipal que muestra el Score Maps de cada comercio con visualizacion por calle."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Como se calcula el Score Maps?",
+          "a": "4 componentes ponderados: completitud ficha (30%), resenas (30%), fotos (20%), coherencia NAP (20%). Cada uno puntuado 0-100."
+        },
+        {
+          "q": "Que significan los niveles?",
+          "a": "0-30: invisible. 30-50: incompleto. 50-70: visible con margen. 70-90: bien referenciado. 90-100: optimo."
+        },
+        {
+          "q": "Como ayuda a un municipio?",
+          "a": "Indicador de vitalidad agregado. Comparacion con vecinos y seguimiento temporal. Dashboard municipal con vista por calle."
+        }
+      ],
+      "stats": [
+        {
+          "value": "0-100",
+          "label": "escala Score Maps"
+        },
+        {
+          "value": "4",
+          "label": "componentes"
+        },
+        {
+          "value": "48h",
+          "label": "duracion auditoria"
+        },
+        {
+          "value": "< 50",
+          "label": "umbral invisible"
+        }
+      ]
+    },
+    "maps-plus-outil": {
+      "title": "Maps+ herramienta COLHYBRI",
+      "h1": "Maps+ by COLHYBRI: la herramienta de digitalizacion para comercios de proximidad",
+      "metaTitle": "Maps+ COLHYBRI: auditoria, onboarding, resenas, monitoreo",
+      "metaDescription": "Maps+ es el modulo de digitalizacion COLHYBRI. 4 pilares: auditoria Score Maps 48h, onboarding sin friccion, generacion resenas QR, monitoreo.",
+      "snippet": "Maps+ es el modulo de digitalizacion de COLHYBRI que cubre los 4 pilares de la visibilidad en linea de los comercios: auditoria automatizada (Score Maps en 48h), onboarding Google Places sin friccion, generacion de resenas via codigo QR post-visita y monitoreo continuo con alertas sobre resenas negativas. Incluido en la suscripcion comerciante de 10 EUR/mes.",
+      "sections": [
+        {
+          "h2": "Que hace Maps+ concretamente?",
+          "body": "Maps+ es un modulo SaaS que automatiza todas las tareas digitales de un comercio: auditoria de la presencia Google, creacion u optimizacion de la ficha Google Business, generacion de resenas de clientes via codigo QR impreso en el ticket, y monitoreo continuo con alertas por SMS o email sobre resenas negativas."
+        },
+        {
+          "h2": "Por que Maps+ vale 10 EUR/mes?",
+          "body": "La tarifa de Maps+ esta incluida en la suscripcion comerciante COLHYBRI de 10 EUR/mes. Las agencias de SEO local cobran 200-500 EUR/mes por servicios equivalentes, Yelp 300-1000 USD/mes por publicidad, y las plataformas con comision cobran 25-30%. Maps+ es 10-50 veces mas barato."
+        },
+        {
+          "h2": "Como se integra Maps+ a un programa municipal?",
+          "body": "Para los municipios Action Coeur de Ville, Petites Villes de Demain o Main Street America, Maps+ se integra al dashboard municipal. El gestor de comercio puede seguir el Score Maps de todos los comercios, detectar los comercios en dificultad y desencadenar acciones de acompanamiento focalizadas."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que hace Maps+ concretamente?",
+          "a": "Automatizacion de los 4 pilares: auditoria Score Maps 48h, creacion/optimizacion ficha, generacion resenas via QR, monitoreo continuo con alertas."
+        },
+        {
+          "q": "Por que 10 EUR/mes?",
+          "a": "Incluido en la suscripcion comerciante. Las agencias SEO cobran 200-500 EUR/mes. Maps+ es 10-50 veces mas barato y automatizado."
+        },
+        {
+          "q": "Como se integra a un programa municipal?",
+          "a": "Dashboard municipal para ACV, PVD o Main Street America. Seguimiento Score Maps, deteccion de comercios en dificultad, informe trimestral."
+        }
+      ],
+      "stats": [
+        {
+          "value": "4 pilares",
+          "label": "cubiertos por Maps+"
+        },
+        {
+          "value": "10 EUR",
+          "label": "suscripcion mensual"
+        },
+        {
+          "value": "48h",
+          "label": "auditoria Score Maps"
+        },
+        {
+          "value": "10-50x",
+          "label": "mas barato que alternativas"
         }
       ]
     }

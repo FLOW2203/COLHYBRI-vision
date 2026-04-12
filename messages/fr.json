@@ -503,6 +503,27 @@
       },
       "fidelisation-communautaire": {
         "title": "Fidelisation communautaire"
+      },
+      "google-maps-commerce": {
+        "title": "Google Maps pour commercants"
+      },
+      "visibilite-google-pme": {
+        "title": "Visibilite Google pour PME"
+      },
+      "seo-local-commerce": {
+        "title": "SEO local pour commerces"
+      },
+      "avis-google-commercants": {
+        "title": "Avis Google pour commercants"
+      },
+      "onboarding-digital-commerce": {
+        "title": "Onboarding digital commercant"
+      },
+      "score-maps-audit": {
+        "title": "Score Maps audit"
+      },
+      "maps-plus-outil": {
+        "title": "Maps+ outil COLHYBRI"
       }
     },
     "revitalisation-centres-villes": {
@@ -1634,6 +1655,377 @@
         {
           "value": "20-30%",
           "label": "retention classique"
+        }
+      ]
+    },
+    "google-maps-commerce": {
+      "title": "Google Maps pour commercants",
+      "h1": "Optimiser sa fiche Google Maps quand on est commercant : guide complet 2026",
+      "metaTitle": "Google Maps commercants : guide optimisation 2026",
+      "metaDescription": "75% des PME ont une fiche Google incomplete. Guide complet pour optimiser sa fiche Business Profile et dominer les recherches locales.",
+      "snippet": "La fiche Google Business Profile est le premier point de contact entre un commerce de proximite et ses clients potentiels. Pourtant, 75% des PME ont une fiche incomplete ou inexistante. Les elements essentiels sont : categorie precise, horaires a jour, minimum 10 photos de qualite, reponse a tous les avis, et description optimisee avec mots-cles locaux.",
+      "sections": [
+        {
+          "h2": "Comment optimiser sa fiche Google Business Profile ?",
+          "body": "Six elements sont essentiels : categorie precise (pas juste restaurant mais restaurant italien), horaires parfaitement a jour y compris les fermetures exceptionnelles, minimum 10 photos de qualite (exterieur, interieur, produits, equipe), reponse a 100% des avis (positifs et negatifs), description enrichie de mots-cles locaux, et ajout des attributs specifiques (terrasse, wifi, accessible PMR, paiement sans contact)."
+        },
+        {
+          "h2": "Pourquoi 10 photos minimum ?",
+          "body": "Google affiche en priorite les fiches avec beaucoup de photos. Un commerce avec 10+ photos apparait 42% plus souvent dans les resultats de recherche locale qu un commerce avec moins de 5 photos (source : etude BrightLocal, 2024). Les utilisateurs cliquent aussi davantage sur les fiches visuellement riches, ce qui declenche un cercle vertueux de positionnement."
+        },
+        {
+          "h2": "Comment COLHYBRI automatise cette optimisation ?",
+          "body": "COLHYBRI Maps+ audite automatiquement la fiche Google Business en 48 heures et genere un Score Maps de 0 a 100. L audit verifie les 6 elements cles et produit un rapport avec actions prioritaires. L onboarding zero-friction permet de completer la fiche en 30 secondes via un QR code scanne en boutique."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Comment optimiser sa fiche Google Business ?",
+          "a": "6 elements : categorie precise, horaires a jour, 10+ photos de qualite, reponse a tous les avis, description enrichie, attributs specifiques (wifi, PMR, etc.)."
+        },
+        {
+          "q": "Pourquoi 10 photos minimum ?",
+          "a": "Un commerce avec 10+ photos apparait 42% plus souvent dans les resultats locaux qu un commerce avec moins de 5 photos (BrightLocal, 2024)."
+        },
+        {
+          "q": "Comment COLHYBRI automatise ?",
+          "a": "Audit automatique en 48 heures avec Score Maps, rapport d actions prioritaires, onboarding zero-friction en 30 secondes via QR code."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "PME fiche incomplete"
+        },
+        {
+          "value": "10+",
+          "label": "photos minimum"
+        },
+        {
+          "value": "+42%",
+          "label": "visibilite avec 10 photos"
+        },
+        {
+          "value": "48h",
+          "label": "audit Score Maps"
+        }
+      ]
+    },
+    "visibilite-google-pme": {
+      "title": "Visibilite Google pour PME",
+      "h1": "Visibilite Google pour les PME : pourquoi 75% des commerces sont invisibles",
+      "metaTitle": "Visibilite Google PME 2026 : causes et solutions",
+      "metaDescription": "75% des petits commerces sont invisibles sur Google. Analyse des causes et solutions COLHYBRI pour 10 EUR/mois.",
+      "snippet": "75% des petits commerces sont invisibles sur Google en 2026. Les trois causes principales sont : l'absence de fiche Google Business Profile (40% des PME), les informations obsoletes ou incompletes (25%), et le manque d'avis clients recents (35% n'ont aucun avis). COLHYBRI Maps+ resout ces trois problemes en 48 heures pour 10 EUR/mois.",
+      "sections": [
+        {
+          "h2": "Pourquoi 75% des PME sont invisibles sur Google ?",
+          "body": "Trois causes : 40% des PME n ont pas de fiche Google Business Profile du tout (beaucoup de petits commerces traditionnels n ont jamais fait la demarche). 25% ont une fiche avec des informations obsoletes ou incompletes (horaires faux, categorie vague, pas de photos). 35% n ont aucun avis client recent, ce qui degrade leur positionnement dans l algorithme Google."
+        },
+        {
+          "h2": "Quel est l impact financier de cette invisibilite ?",
+          "body": "Un commerce invisible sur Google perd entre 15% et 30% de son chiffre d affaires potentiel selon les estimations de BrightLocal (2024). Pour un commerce qui realise 200 000 EUR/an de CA, cela represente une perte de 30 000 a 60 000 EUR/an. A l echelle d une commune de 100 commerces, le manque a gagner cumule se chiffre en millions d euros."
+        },
+        {
+          "h2": "Comment retrouver sa visibilite avec COLHYBRI ?",
+          "body": "COLHYBRI Maps+ retrouve la visibilite en 48 heures : audit automatique avec Score Maps, creation ou optimisation de la fiche Google Business, ajout de photos, generation d avis via QR code post-visite. Le tout pour 10 EUR/mois avec 0% de commission. ROI immediat des le premier mois."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Pourquoi 75% des PME sont invisibles sur Google ?",
+          "a": "Trois causes : 40% pas de fiche, 25% fiche obsolete, 35% sans avis recents. Combinaisons frequentes qui degradent le positionnement."
+        },
+        {
+          "q": "Quel est l impact financier ?",
+          "a": "Un commerce invisible perd 15-30% de son CA potentiel selon BrightLocal (2024). Pour 200 000 EUR/an de CA, cela represente 30 000-60 000 EUR/an de manque a gagner."
+        },
+        {
+          "q": "Comment retrouver sa visibilite ?",
+          "a": "COLHYBRI Maps+ en 48 heures : audit Score Maps, optimisation fiche, ajout photos, generation avis. 10 EUR/mois avec 0% commission."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "PME invisibles"
+        },
+        {
+          "value": "40%",
+          "label": "sans fiche"
+        },
+        {
+          "value": "25%",
+          "label": "fiche obsolete"
+        },
+        {
+          "value": "15-30%",
+          "label": "CA perdu"
+        }
+      ]
+    },
+    "seo-local-commerce": {
+      "title": "SEO local pour commerces",
+      "h1": "SEO local pour commerces de proximite : les bases en 2026",
+      "metaTitle": "SEO local commerce proximite : guide 2026",
+      "metaDescription": "Le SEO local repose sur 3 piliers : fiche Google Business optimisee, avis positifs recents et coherence NAP. Guide complet 2026.",
+      "snippet": "Le SEO local est la strategie de referencement qui permet aux commerces de proximite d'apparaitre dans les resultats de recherche geolocalises (Google Maps, recherches 'pres de moi'). Les trois piliers du SEO local sont : la fiche Google Business optimisee, les avis clients positifs et recents, et la coherence des informations NAP (Nom, Adresse, Telephone) sur tous les annuaires.",
+      "sections": [
+        {
+          "h2": "Qu est-ce que le SEO local ?",
+          "body": "Le SEO local (Search Engine Optimization local) designe les techniques de referencement specifiques aux recherches geolocalisees. Contrairement au SEO classique qui cible des requetes generiques, le SEO local cible des requetes du type boulangerie Paris 11 ou coiffeur pres de moi. Google traite ces requetes differemment en privilegiant les fiches Google Business Profile et les resultats du Local Pack."
+        },
+        {
+          "h2": "Quels sont les trois piliers du SEO local ?",
+          "body": "Premier pilier : la fiche Google Business Profile optimisee (categorie, horaires, photos, description). Deuxieme pilier : les avis clients positifs et recents (quantite + qualite + recence). Troisieme pilier : la coherence NAP sur tous les annuaires (Google, Yelp, Pages Jaunes, Facebook) pour renforcer l autorite locale. La coherence NAP est cruciale : une incoherence fait plonger le ranking."
+        },
+        {
+          "h2": "Comment COLHYBRI optimise les 3 piliers ?",
+          "body": "COLHYBRI Maps+ couvre les 3 piliers : audit et optimisation automatique de la fiche Google Business (pilier 1), generation d avis clients via QR code post-visite (pilier 2), et verification de la coherence NAP sur les principaux annuaires (pilier 3). Un tableau de bord affiche le Score Maps et les actions prioritaires."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Qu est-ce que le SEO local ?",
+          "a": "Les techniques de referencement pour les recherches geolocalisees. Google traite differemment les requetes type boulangerie Paris 11 en privilegiant les fiches Google Business Profile."
+        },
+        {
+          "q": "Quels sont les 3 piliers ?",
+          "a": "Fiche Google Business optimisee, avis clients positifs recents, coherence NAP (Nom-Adresse-Telephone) sur tous les annuaires."
+        },
+        {
+          "q": "Comment COLHYBRI optimise ?",
+          "a": "Maps+ couvre les 3 piliers : audit fiche, generation avis post-visite, verification coherence NAP. Tableau de bord Score Maps avec actions prioritaires."
+        }
+      ],
+      "stats": [
+        {
+          "value": "3",
+          "label": "piliers du SEO local"
+        },
+        {
+          "value": "NAP",
+          "label": "coherence indispensable"
+        },
+        {
+          "value": "48h",
+          "label": "audit Score Maps"
+        },
+        {
+          "value": "10 EUR",
+          "label": "abonnement mensuel"
+        }
+      ]
+    },
+    "avis-google-commercants": {
+      "title": "Avis Google pour commercants",
+      "h1": "Comment obtenir plus d avis Google pour son commerce : methode COLHYBRI",
+      "metaTitle": "Obtenir plus d avis Google : methode COLHYBRI QR code",
+      "metaDescription": "Un commerce avec 10+ avis recents recoit 50% de clics en plus. Methode COLHYBRI : QR code post-visite pour generer des avis authentiques.",
+      "snippet": "Les avis Google sont le premier critere de choix des consommateurs pour un commerce de proximite. La methode COLHYBRI utilise un QR code post-visite qui simplifie le depot d'avis : le client scanne le code en sortant du commerce, note en 1 clic, et le commerce accumule des avis authentiques sans effort. Un commerce avec 10+ avis recents recoit 50% de clics en plus.",
+      "sections": [
+        {
+          "h2": "Pourquoi les avis Google sont si importants ?",
+          "body": "87% des consommateurs lisent les avis en ligne avant de visiter un commerce local (BrightLocal, 2024). Un commerce avec moins de 5 avis inspire de la mefiance, un commerce avec plus de 20 avis recents inspire la confiance. Google utilise la quantite, la qualite et la recence des avis comme signaux de ranking dans le Local Pack. Les avis sont donc a la fois un signal de confiance et un signal SEO."
+        },
+        {
+          "h2": "Comment obtenir plus d avis sans solliciter ?",
+          "body": "La methode COLHYBRI repose sur un QR code post-visite imprime sur le ticket de caisse ou affiche a la sortie. Le client scanne le code avec son smartphone, arrive directement sur la page d avis Google Business du commerce, et peut noter en 1 clic sans creer de compte. Cette simplification multiplie par 3 le taux de conversion par rapport a une demande verbale."
+        },
+        {
+          "h2": "Comment eviter les avis negatifs ?",
+          "body": "COLHYBRI active le monitoring continu : toute nouvelle alerte (positive ou negative) est envoyee au commercant sous 2 heures. Cela permet de repondre rapidement aux avis negatifs, de proposer une solution au client mecontent et de reduire l impact sur le ranking. Un avis negatif rapidement repondu fait moins de mal qu un avis negatif ignore pendant 3 mois."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Pourquoi les avis Google sont importants ?",
+          "a": "87% des consommateurs lisent les avis avant de visiter un commerce local. Google utilise la quantite, la qualite et la recence comme signaux de ranking."
+        },
+        {
+          "q": "Comment obtenir plus d avis sans solliciter ?",
+          "a": "QR code post-visite sur le ticket de caisse. Le client scanne, arrive sur la page d avis, note en 1 clic. Taux de conversion x3 vs demande verbale."
+        },
+        {
+          "q": "Comment eviter les avis negatifs ?",
+          "a": "Monitoring continu : alerte envoyee sous 2 heures a tout nouvel avis. Permet de repondre rapidement et proposer une solution au client mecontent."
+        }
+      ],
+      "stats": [
+        {
+          "value": "87%",
+          "label": "consommateurs lisent les avis"
+        },
+        {
+          "value": "+50%",
+          "label": "clics avec 10+ avis"
+        },
+        {
+          "value": "x3",
+          "label": "conversion QR code"
+        },
+        {
+          "value": "2h",
+          "label": "alerte avis negatif"
+        }
+      ]
+    },
+    "onboarding-digital-commerce": {
+      "title": "Onboarding digital commercant",
+      "h1": "Onboarding digital zero-friction pour commercants : la methode COLHYBRI",
+      "metaTitle": "Onboarding digital commercant : 30 secondes, QR code",
+      "metaDescription": "COLHYBRI permet a un commercant de devenir visible sur Google en 30 secondes. QR code, pas de compte, aucune competence technique requise.",
+      "snippet": "L'onboarding digital zero-friction de COLHYBRI permet a n'importe quel commercant de devenir visible sur Google en moins de 30 secondes. Le processus : scanner un QR code, confirmer les informations pre-remplies (nom, adresse, telephone), et accepter la creation ou l'optimisation de la fiche Google Business. Aucune competence technique requise.",
+      "sections": [
+        {
+          "h2": "Pourquoi un onboarding zero-friction ?",
+          "body": "Les plateformes digitales demandent en general aux commercants de creer un compte, remplir un formulaire long, uploader des documents, verifier une adresse postale. Un commercant de 55 ans sans bagage technique abandonne en moyenne a l etape 3. L onboarding zero-friction de COLHYBRI elimine ces frictions : un scan de QR code, une confirmation, et c est fait."
+        },
+        {
+          "h2": "Quelles sont les 3 etapes de l onboarding ?",
+          "body": "Etape 1 : le commercant scanne un QR code distribue par le manager de commerce municipal ou par un commercant voisin. Etape 2 : il arrive sur une page web pre-remplie avec les informations issues du SIRENE, de Google Business ou d une base de donnees municipale. Etape 3 : il valide en 1 clic et la fiche Google Business est creee ou optimisee automatiquement."
+        },
+        {
+          "h2": "Comment les donnees sont pre-remplies ?",
+          "body": "COLHYBRI interroge automatiquement plusieurs sources publiques : la base SIRENE (nom, adresse, statut), Google Business Profile existant (si present), et la base de donnees municipale du programme ACV ou PVD (si la commune est partenaire). Le commercant n a qu a verifier et corriger si necessaire, pas a tout saisir."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Pourquoi un onboarding zero-friction ?",
+          "a": "Les plateformes classiques abandonnent en moyenne a l etape 3. Un onboarding en 30 secondes elimine les frictions techniques et permet aux commercants sans bagage technique de se digitaliser."
+        },
+        {
+          "q": "Quelles sont les 3 etapes ?",
+          "a": "Scan QR code, confirmation des informations pre-remplies, validation en 1 clic. Aucun compte a creer, aucun document a uploader."
+        },
+        {
+          "q": "Comment les donnees sont pre-remplies ?",
+          "a": "COLHYBRI interroge SIRENE, Google Business existant et la base municipale ACV/PVD si la commune est partenaire. Le commercant n a qu a verifier."
+        }
+      ],
+      "stats": [
+        {
+          "value": "30s",
+          "label": "duree onboarding"
+        },
+        {
+          "value": "QR code",
+          "label": "methode d acces"
+        },
+        {
+          "value": "1 clic",
+          "label": "validation finale"
+        },
+        {
+          "value": "SIRENE",
+          "label": "source principale"
+        }
+      ]
+    },
+    "score-maps-audit": {
+      "title": "Score Maps audit",
+      "h1": "Score Maps : l audit de presence Google pour les commerces de proximite",
+      "metaTitle": "Score Maps COLHYBRI : audit presence Google 0-100",
+      "metaDescription": "Le Score Maps mesure la qualite de la presence Google d un commerce sur une echelle de 0 a 100. 4 criteres : fiche, avis, photos, coherence.",
+      "snippet": "Le Score Maps est un indicateur developpe par COLHYBRI qui mesure la qualite de la presence Google d'un commerce sur une echelle de 0 a 100. Il evalue quatre criteres : completude de la fiche (30%), nombre et qualite des avis (30%), nombre de photos (20%), et coherence des informations (20%). Un score inferieur a 50 signifie que le commerce est quasiment invisible en ligne.",
+      "sections": [
+        {
+          "h2": "Comment est calcule le Score Maps ?",
+          "body": "Le Score Maps additionne quatre composantes ponderees : completude de la fiche Google Business (30% - categorie, horaires, description, attributs), nombre et qualite des avis (30% - quantite, note moyenne, recence, taux de reponse), nombre et qualite des photos (20% - exterieur, interieur, produits), coherence des informations NAP sur les principaux annuaires (20%). Chaque composante est notee de 0 a 100."
+        },
+        {
+          "h2": "Que signifient les differents niveaux de score ?",
+          "body": "0-30 : commerce quasiment invisible, fiche absente ou abandonnee, aucun avis. 30-50 : commerce partiellement visible, fiche existante mais incomplete. 50-70 : commerce visible, marge d amelioration significative. 70-90 : commerce bien reference, positionnement solide dans le Local Pack. 90-100 : commerce optimal, leader dans sa categorie locale."
+        },
+        {
+          "h2": "Comment le Score Maps aide une commune ?",
+          "body": "Au niveau municipal, le Score Maps moyen des commerces du centre-ville est un indicateur de vitalite commerciale. Une commune peut comparer son score moyen a ses voisines et suivre son evolution dans le temps. COLHYBRI fournit un dashboard municipal qui affiche le Score Maps de chaque commerce et le score moyen de la commune avec visualisation par rue commercante."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Comment est calcule le Score Maps ?",
+          "a": "4 composantes ponderees : completude fiche (30%), avis (30%), photos (20%), coherence NAP (20%). Chaque composante notee 0-100."
+        },
+        {
+          "q": "Que signifient les differents niveaux ?",
+          "a": "0-30 : invisible. 30-50 : incomplet. 50-70 : visible avec marge. 70-90 : bien reference. 90-100 : optimal."
+        },
+        {
+          "q": "Comment aide une commune ?",
+          "a": "Indicateur de vitalite commerciale agrege. Comparaison avec les communes voisines et suivi dans le temps. Dashboard municipal avec vue par rue commercante."
+        }
+      ],
+      "stats": [
+        {
+          "value": "0-100",
+          "label": "echelle Score Maps"
+        },
+        {
+          "value": "4",
+          "label": "composantes"
+        },
+        {
+          "value": "48h",
+          "label": "duree audit"
+        },
+        {
+          "value": "< 50",
+          "label": "seuil invisible"
+        }
+      ]
+    },
+    "maps-plus-outil": {
+      "title": "Maps+ outil COLHYBRI",
+      "h1": "Maps+ by COLHYBRI : l outil de digitalisation pour les commerces de proximite",
+      "metaTitle": "Maps+ COLHYBRI : audit, onboarding, avis, monitoring",
+      "metaDescription": "Maps+ est le module de digitalisation COLHYBRI. 4 piliers : audit Score Maps 48h, onboarding zero-friction, generation avis QR, monitoring.",
+      "snippet": "Maps+ est le module de digitalisation de COLHYBRI qui couvre les 4 piliers de la visibilite en ligne des commerces : audit automatise (Score Maps en 48h), onboarding Google Places zero-friction, generation d'avis via QR code post-visite et monitoring continu avec alertes sur les avis negatifs. Inclus dans l'abonnement commercant a 10 EUR/mois.",
+      "sections": [
+        {
+          "h2": "Que fait Maps+ concretement ?",
+          "body": "Maps+ est un module SaaS qui automatise l ensemble des taches digitales d un commerce : audit de la presence Google (avec le Score Maps), creation ou optimisation de la fiche Google Business, generation d avis clients via un QR code imprime sur le ticket de caisse, et monitoring continu avec alertes par SMS ou email sur les avis negatifs ou les baisses de positionnement."
+        },
+        {
+          "h2": "Pourquoi Maps+ vaut 10 EUR/mois ?",
+          "body": "Le tarif de Maps+ est inclus dans l abonnement commercant COLHYBRI a 10 EUR/mois. En comparaison, les agences de SEO local facturent 200-500 EUR/mois pour des services equivalents, Yelp facture 300-1000 USD/mois pour de la publicite, et les plateformes a commission prelevent 25-30% sur chaque vente. Maps+ est 10 a 50 fois moins cher tout en etant automatise."
+        },
+        {
+          "h2": "Comment Maps+ s integre a un programme municipal ?",
+          "body": "Pour les communes Action Coeur de Ville, Petites Villes de Demain ou Main Street America, Maps+ s integre au dashboard municipal. Le manager de commerce peut suivre le Score Maps de tous les commerces de son perimetre, detecter les commerces en difficulte (score < 50), et declencher des actions d accompagnement ciblees. Le rapport d impact trimestriel est pret pour le conseil municipal."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que fait Maps+ concretement ?",
+          "a": "Automatisation des 4 piliers : audit Score Maps 48h, creation/optimisation fiche Google Business, generation avis via QR code, monitoring continu avec alertes."
+        },
+        {
+          "q": "Pourquoi 10 EUR/mois ?",
+          "a": "Tarif inclus dans l abonnement commercant. Les agences SEO local facturent 200-500 EUR/mois, Yelp 300-1000 USD/mois. Maps+ est 10-50x moins cher et automatise."
+        },
+        {
+          "q": "Comment s integre a un programme municipal ?",
+          "a": "Dashboard municipal pour ACV, PVD ou Main Street America. Suivi du Score Maps, detection des commerces en difficulte, rapport d impact trimestriel."
+        }
+      ],
+      "stats": [
+        {
+          "value": "4 piliers",
+          "label": "couverts par Maps+"
+        },
+        {
+          "value": "10 EUR",
+          "label": "abonnement mensuel"
+        },
+        {
+          "value": "48h",
+          "label": "audit Score Maps"
+        },
+        {
+          "value": "10-50x",
+          "label": "moins cher que concurrents"
         }
       ]
     }
