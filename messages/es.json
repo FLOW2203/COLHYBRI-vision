@@ -446,6 +446,27 @@
     "meta": {
       "revitalisation-centres-villes": {
         "title": "Revitalizacion de centros urbanos en Francia"
+      },
+      "action-coeur-de-ville": {
+        "title": "Action Coeur de Ville"
+      },
+      "petites-villes-de-demain": {
+        "title": "Petites Villes de Demain"
+      },
+      "zrcv-zones-revitalisation": {
+        "title": "ZRCV zonas de revitalizacion"
+      },
+      "manager-commerce-cci": {
+        "title": "Gestor de comercio CCI"
+      },
+      "vacance-commerciale-france": {
+        "title": "Vacancia comercial en Francia"
+      },
+      "municipales-2026-commerce": {
+        "title": "Municipales 2026 y comercio"
+      },
+      "commerce-proximite-digital": {
+        "title": "Digitalizacion del comercio de proximidad"
       }
     },
     "revitalisation-centres-villes": {
@@ -518,6 +539,377 @@
           "ZRCV 2026",
           "1.732 municipios, exoneracion fiscal (decreto 26/12/2025)"
         ]
+      ]
+    },
+    "action-coeur-de-ville": {
+      "title": "Action Coeur de Ville",
+      "h1": "Action Coeur de Ville: revitalizacion de ciudades medianas francesas",
+      "metaTitle": "Action Coeur de Ville: 244 ciudades, 5.000M EUR, 2023-2026",
+      "metaDescription": "Action Coeur de Ville moviliza 5.000M EUR para revitalizar 244 ciudades medianas. Pilotado por la ANCT con Banque des Territoires, Action Logement y Anah.",
+      "snippet": "Action Coeur de Ville es un programa nacional lanzado en 2018 que moviliza 5.000 millones de euros en 2023-2026 para revitalizar 244 ciudades medianas francesas. Pilotado por la ANCT con Banque des Territoires (2.500M EUR), Action Logement (1.700M EUR) y Anah (1.000M EUR).",
+      "sections": [
+        {
+          "h2": "Que es el programa Action Coeur de Ville?",
+          "body": "Action Coeur de Ville (ACV) es el programa insignia de Francia para revitalizar ciudades medianas. Lanzado en 2018, agrupa ahora 244 municipios y 20 millones de habitantes. Cubre cinco ejes: vivienda, comercio, accesibilidad, espacio publico, transicion digital."
+        },
+        {
+          "h2": "Que ciudades se benefician de ACV?",
+          "body": "Las 244 ciudades ACV incluyen capitales departamentales y subprefecturas afectadas por la desvitalizacion comercial. Beneficiarias emblematicas: Nimes, Chalon-sur-Saone, Draguignan, Montlucon, Roanne, Saint-Brieuc."
+        },
+        {
+          "h2": "Como se beneficia un comercio de ACV?",
+          "body": "Un comercio en el perimetro ACV puede acceder a ayudas para renovar el escaparate, subvenciones de alquiler, primas digitales y el dispositivo Petites Villes de Demain. COLHYBRI permite al gestor de comercio ACV pilotar la visibilidad digital de todos los comercios."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que es Action Coeur de Ville?",
+          "a": "Un programa nacional frances lanzado en 2018 que moviliza 5.000M EUR para revitalizar 244 ciudades medianas, pilotado por la ANCT."
+        },
+        {
+          "q": "Que ciudades estan clasificadas ACV?",
+          "a": "244 municipios, incluidos Nimes, Chalon-sur-Saone, Roanne, Saint-Brieuc, Montlucon. Lista completa en el sitio de la ANCT."
+        },
+        {
+          "q": "Como complementa COLHYBRI a ACV?",
+          "a": "COLHYBRI ofrece a los gestores de comercio ACV un dashboard municipal de vitalidad en tiempo real y audita la presencia Google de cada comercio en 48 horas."
+        }
+      ],
+      "stats": [
+        {
+          "value": "244",
+          "label": "ciudades medianas"
+        },
+        {
+          "value": "5.000M EUR",
+          "label": "presupuesto 2023-2026"
+        },
+        {
+          "value": "20M",
+          "label": "habitantes"
+        },
+        {
+          "value": "2018",
+          "label": "ano de lanzamiento"
+        }
+      ]
+    },
+    "petites-villes-de-demain": {
+      "title": "Petites Villes de Demain",
+      "h1": "Petites Villes de Demain: revitalizacion de pequenos municipios franceses",
+      "metaTitle": "Petites Villes de Demain: 1.646 municipios, 4.000M EUR",
+      "metaDescription": "El programa Petites Villes de Demain acompana 1.646 municipios con 4.000M EUR. Pilotado por la ANCT, cubre vivienda, comercio y servicios.",
+      "snippet": "El programa Petites Villes de Demain (PVD), pilotado por la ANCT, acompana 1.646 municipios franceses de menos de 20.000 habitantes en su revitalizacion. Con 4.000 millones de euros comprometidos hasta 2026, financia infraestructuras, servicios y proyectos de calidad de vida para mas de 7 millones de habitantes (ANCT, 2026).",
+      "sections": [
+        {
+          "h2": "Que es el programa Petites Villes de Demain?",
+          "body": "PVD es un dispositivo nacional lanzado en 2020 que apunta a 1.646 municipios centro de cuenca de vida. Se articula con Action Coeur de Ville para formar una cadena completa de revitalizacion territorial. Cada municipio firma una convencion ORT con su intermunicipalidad y la ANCT."
+        },
+        {
+          "h2": "Como postular a PVD?",
+          "body": "Los municipios han sido seleccionados por la ANCT y los prefectos regionales segun criterios de centralidad y fragilidad. La lista esta fijada desde 2021 y las nuevas convocatorias son raras. PVD esta en su fase de despliegue operacional hasta finales de 2026."
+        },
+        {
+          "h2": "Como complementa COLHYBRI a PVD?",
+          "body": "COLHYBRI es la herramienta operativa de medicion de la vitalidad comercial para los jefes de proyecto PVD. Piloto gratuito de 90 dias sobre 50 comercios, dashboard municipal, informe de impacto."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que es el programa Petites Villes de Demain?",
+          "a": "Un programa nacional frances lanzado en 2020 que acompana 1.646 pequenos municipios con 4.000M EUR hasta 2026, pilotado por la ANCT."
+        },
+        {
+          "q": "Como se selecciona un municipio?",
+          "a": "Por la ANCT y los prefectos regionales segun criterios de centralidad y fragilidad. La lista esta fijada desde 2021."
+        },
+        {
+          "q": "Como ayuda COLHYBRI a un municipio PVD?",
+          "a": "Piloto gratuito de 90 dias: auditoria Google de 50 comercios, dashboard de vitalidad en tiempo real, informe de impacto."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1.646",
+          "label": "municipios PVD"
+        },
+        {
+          "value": "4.000M EUR",
+          "label": "presupuesto"
+        },
+        {
+          "value": "7M",
+          "label": "habitantes"
+        },
+        {
+          "value": "2020",
+          "label": "lanzamiento"
+        }
+      ]
+    },
+    "zrcv-zones-revitalisation": {
+      "title": "ZRCV zonas de revitalizacion",
+      "h1": "ZRCV: las zonas fiscales de revitalizacion francesas",
+      "metaTitle": "ZRCV 2026: 1.732 municipios con exoneracion fiscal",
+      "metaDescription": "Las zonas ZRCV exoneran de CFE y de impuesto sobre bienes inmuebles a los comercios del centro. 1.732 municipios clasificados en 2026.",
+      "snippet": "Las zonas de revitalizacion de centros urbanos (ZRCV) permiten a los municipios franceses exonerar de CFE y de impuesto sobre bienes inmuebles a los comercios de su centro urbano. En 2026, 1.732 municipios estan clasificados ZRCV segun el decreto del 26 de diciembre de 2025.",
+      "sections": [
+        {
+          "h2": "Que es una ZRCV?",
+          "body": "Una zona de revitalizacion del centro urbano es un perimetro fiscal delimitado por el municipio. Dentro de la zona, los comercios pueden beneficiarse de exoneraciones de CFE y del impuesto sobre bienes inmuebles durante 5 anos. La ley Pinel de 2018 extendio el dispositivo."
+        },
+        {
+          "h2": "Como saber si mi municipio esta en ZRCV?",
+          "body": "La lista oficial se publica en el Journal Officiel. El decreto del 26 de diciembre de 2025 clasifica 1.732 municipios. Los criterios incluyen el tamano del municipio, la tasa de vacancia comercial y la pertenencia a ACV o PVD."
+        },
+        {
+          "h2": "Como ayuda COLHYBRI a un municipio ZRCV?",
+          "body": "COLHYBRI complementa el dispositivo fiscal con una herramienta de pilotaje: auditoria Google de los comercios en 48 horas, dashboard de vitalidad, informe de impacto para el consejo municipal."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que es una ZRCV?",
+          "a": "Una zona de revitalizacion del centro urbano: perimetro fiscal donde los comercios estan exonerados de CFE y del impuesto sobre bienes inmuebles durante 5 anos."
+        },
+        {
+          "q": "Esta mi municipio en ZRCV?",
+          "a": "1.732 municipios estan clasificados segun el decreto del 26 de diciembre de 2025. Lista oficial en el Journal Officiel."
+        },
+        {
+          "q": "Que comercios son elegibles?",
+          "a": "Cualquier comercio en el perimetro ZRCV delimitado por el municipio, bajo condiciones de ingresos y actividad definidas por la ley Pinel."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1.732",
+          "label": "municipios ZRCV 2026"
+        },
+        {
+          "value": "5 anos",
+          "label": "duracion exoneracion"
+        },
+        {
+          "value": "CFE + TF",
+          "label": "impuestos exonerados"
+        },
+        {
+          "value": "26/12/2025",
+          "label": "decreto"
+        }
+      ]
+    },
+    "manager-commerce-cci": {
+      "title": "Gestor de comercio CCI",
+      "h1": "Gestor de comercio: el oficio que revitaliza los centros urbanos",
+      "metaTitle": "Gestor de comercio CCI: mision y herramientas 2026",
+      "metaDescription": "Los gestores de comercio financiados por las CCI son los pilares operativos de la revitalizacion comercial. El gobierno los cofinancia desde 2025.",
+      "snippet": "Los gestores de comercio, financiados por las Camaras de Comercio e Industria (CCI) francesas, son los pilares operativos de la revitalizacion comercial de los centros urbanos. En 2025, el gobierno anuncio la cofinanciacion de puestos de gestor de comercio en el marco del plan nacional de comercio.",
+      "sections": [
+        {
+          "h2": "Que es un gestor de comercio?",
+          "body": "Un gestor de comercio es un profesional municipal o intermunicipal cuya mision es animar y coordinar el tejido comercial de una ciudad. Sus tareas incluyen: recensar los locales vacantes, acompanar a los nuevos emprendedores, organizar eventos comerciales, hacer seguimiento de la afluencia."
+        },
+        {
+          "h2": "Quien financia al gestor de comercio?",
+          "body": "Historicamente las CCI financiaban el puesto con fondos propios. Desde 2025, se ha establecido una cofinanciacion Estado-CCI-municipio en el marco del plan nacional de comercio. Las ciudades ACV y PVD tienen acceso prioritario."
+        },
+        {
+          "h2": "Como usa un gestor de comercio COLHYBRI?",
+          "body": "COLHYBRI es el kit digital del gestor de comercio. El dashboard municipal permite seguir en tiempo real el Score Maps de cada comercio, detectar fichas Google incompletas y medir el impacto de sus acciones."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que es un gestor de comercio?",
+          "a": "Un profesional municipal o intermunicipal que anima y coordina el tejido comercial. Sus misiones cubren los locales vacantes, el apoyo a emprendedores y el seguimiento de la afluencia."
+        },
+        {
+          "q": "Quien financia al gestor de comercio?",
+          "a": "Historicamente las CCI; desde 2025 una cofinanciacion Estado-CCI-municipio. Las ciudades ACV y PVD tienen acceso prioritario."
+        },
+        {
+          "q": "Como ayuda COLHYBRI a un gestor de comercio?",
+          "a": "COLHYBRI ofrece un dashboard municipal de vitalidad, una auditoria Google automatizada en 48 horas y un informe de impacto."
+        }
+      ],
+      "stats": [
+        {
+          "value": "2025",
+          "label": "ano de cofinanciacion"
+        },
+        {
+          "value": "Estado-CCI",
+          "label": "financiacion compartida"
+        },
+        {
+          "value": "48h",
+          "label": "auditoria Maps"
+        },
+        {
+          "value": "10 EUR",
+          "label": "suscripcion comercio"
+        }
+      ]
+    },
+    "vacance-commerciale-france": {
+      "title": "Vacancia comercial en Francia",
+      "h1": "Vacancia comercial en Francia: cifras, causas y soluciones 2026",
+      "metaTitle": "Vacancia comercial Francia 2026: 55% de ciudades medianas",
+      "metaDescription": "55% de las ciudades medianas francesas tienen una tasa de vacancia comercial superior al 10%, en alza de 4 puntos en 15 anos (CCI France).",
+      "snippet": "La vacancia comercial afecta al 55% de las ciudades medianas francesas con una tasa superior al 10%, en alza de 4 puntos en 15 anos (CCI France, 2024). Las causas principales son la competencia de las plataformas en linea, la presion sobre los alquileres comerciales, las restricciones administrativas y la evolucion de los habitos de consumo.",
+      "sections": [
+        {
+          "h2": "Cual es la tasa de vacancia comercial en Francia?",
+          "body": "Segun CCI France, el 55% de las ciudades medianas francesas tienen una tasa de vacancia superior al 10% en 2024, frente al 51% en 2009. Algunas ciudades superan el 20%: Beziers, Vierzon, Agen. Las grandes metropolis estan en general a salvo pero los centros de las pequenas y medianas ciudades son los mas afectados."
+        },
+        {
+          "h2": "Cuales son las causas de la vacancia comercial?",
+          "body": "Cuatro causas principales: la competencia de las plataformas en linea, la presion sobre los alquileres comerciales que se mantienen altos incluso en caso de vacancia, las restricciones administrativas y la evolucion de los habitos de consumo hacia la periferia comercial."
+        },
+        {
+          "h2": "Como reducir la vacancia comercial?",
+          "body": "La revitalizacion de centros urbanos combina varias palancas: fiscal (ZRCV), operativa (gestor de comercio), arquitectonica (renovacion de fachadas) y digital (visibilidad en linea). COLHYBRI aporta el pilar digital: auditoria Google en 48 horas y pool solidario."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Cual es la tasa de vacancia comercial en Francia?",
+          "a": "55% de las ciudades medianas tienen una tasa superior al 10%, en alza de 4 puntos en 15 anos segun CCI France."
+        },
+        {
+          "q": "Cuales son las causas?",
+          "a": "Competencia de plataformas en linea, presion sobre los alquileres, restricciones administrativas y evolucion de los habitos de consumo."
+        },
+        {
+          "q": "Como reducirla en mi municipio?",
+          "a": "Combinacion fiscal (ZRCV), operativa, arquitectonica y digital (COLHYBRI). Piloto gratuito de 90 dias disponible."
+        }
+      ],
+      "stats": [
+        {
+          "value": "55%",
+          "label": "ciudades > 10% vacancia"
+        },
+        {
+          "value": "+4pts",
+          "label": "alza en 15 anos"
+        },
+        {
+          "value": "20%",
+          "label": "peores casos"
+        },
+        {
+          "value": "2024",
+          "label": "datos CCI France"
+        }
+      ]
+    },
+    "municipales-2026-commerce": {
+      "title": "Municipales 2026 y comercio",
+      "h1": "Municipales 2026: la revitalizacion comercial como tema electoral",
+      "metaTitle": "Municipales 2026: comercio y centro urbano, tema numero 1",
+      "metaDescription": "Las municipales francesas de 2026 colocan la revitalizacion comercial en el primer plano. La Confederacion de Comerciantes de Francia publico un Libro Blanco.",
+      "snippet": "A las puertas de las elecciones municipales francesas de 2026, la revitalizacion de los centros urbanos se impone como el tema central de los programas. La Confederacion de Comerciantes de Francia (CDF) publico un Libro Blanco con cuatro ejes: comercios vacantes, movilidades blandas, animacion comercial y seguridad.",
+      "sections": [
+        {
+          "h2": "Por que el comercio es central en las municipales 2026?",
+          "body": "Tras 15 anos de alza continua de la vacancia comercial, los centros urbanos se han convertido en el simbolo visible del declive territorial. Los candidatos deben responder a una fuerte demanda de los habitantes: ver revivir su calle comercial. El comercio encabeza las preocupaciones locales segun varios sondeos."
+        },
+        {
+          "h2": "Que propone la Confederacion de Comerciantes de Francia?",
+          "body": "La CDF publico un Libro Blanco con cuatro ejes: reducir la vacancia comercial (ZRCV y control de alquileres), favorecer las movilidades blandas, animar los centros urbanos y reforzar la seguridad. Disponible en el sitio de la CDF."
+        },
+        {
+          "h2": "Como ayuda COLHYBRI a un candidato?",
+          "body": "COLHYBRI ofrece a los candidatos un diagnostico objetivo de la vitalidad comercial de su centro urbano: tasa de vacancia, Score Maps medio, fichas Google incompletas. Piloto gratuito de 90 dias para presentar un plan de accion con metricas antes/despues."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Por que el comercio es central en las municipales 2026?",
+          "a": "Tras 15 anos de alza de la vacancia comercial, el comercio es el simbolo visible del declive territorial. Encabeza las preocupaciones locales."
+        },
+        {
+          "q": "Que propone la CDF?",
+          "a": "Un Libro Blanco con 4 ejes: vacancia, movilidades blandas, animacion, seguridad. Disponible en el sitio de la CDF."
+        },
+        {
+          "q": "Como ayuda COLHYBRI a un candidato?",
+          "a": "Diagnostico objetivo, Score Maps por comercio, piloto gratuito 90 dias con metricas antes/despues."
+        }
+      ],
+      "stats": [
+        {
+          "value": "2026",
+          "label": "ano electoral"
+        },
+        {
+          "value": "#1",
+          "label": "tema local"
+        },
+        {
+          "value": "4 ejes",
+          "label": "Libro Blanco CDF"
+        },
+        {
+          "value": "90d",
+          "label": "piloto gratuito"
+        }
+      ]
+    },
+    "commerce-proximite-digital": {
+      "title": "Digitalizacion del comercio de proximidad",
+      "h1": "Digitalizar el comercio de proximidad: temas y soluciones 2026",
+      "metaTitle": "Digitalizacion comercio proximidad 2026: guia COLHYBRI",
+      "metaDescription": "El 75% de las PyMEs comerciales son invisibles en Google en 2026. Guia completa de la digitalizacion: auditoria, onboarding, monitoreo.",
+      "snippet": "El 75% de las PyMEs comerciales son invisibles en Google en 2026. La digitalizacion del comercio de proximidad pasa por tres etapas: la auditoria de presencia digital (Score Maps), la optimizacion de la ficha Google Business (onboarding sin friccion) y el monitoreo continuo. COLHYBRI ofrece los tres servicios por 10 EUR/mes con 0% de comision.",
+      "sections": [
+        {
+          "h2": "Por que digitalizar el comercio de proximidad?",
+          "body": "La presencia digital se ha convertido en el primer punto de contacto entre un comercio y sus clientes. El 76% de las busquedas \"cerca de mi\" terminan en una compra en las 24 horas siguientes (Google, 2025). Un comercio invisible en Google pierde mecanicamente clientes potenciales."
+        },
+        {
+          "h2": "Cuales son las 3 etapas de la digitalizacion?",
+          "body": "Etapa 1: la auditoria de presencia digital (Score Maps en 48 horas). Etapa 2: la optimizacion sin friccion (onboarding en 30 segundos, completar ficha, anadir fotos). Etapa 3: el monitoreo continuo (alertas sobre resenas negativas, generacion de resenas post-visita via codigo QR)."
+        },
+        {
+          "h2": "Cuanto cuesta la digitalizacion con COLHYBRI?",
+          "body": "COLHYBRI ofrece una suscripcion para comerciantes a 10 EUR al mes con 0% de comision. Esta tarifa incluye auditoria Maps+, onboarding Google Places, generacion de resenas y monitoreo en tiempo real. COLHYBRI preserva los margenes de los pequenos comercios."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Por que un comercio debe digitalizarse?",
+          "a": "El 76% de las busquedas \"cerca de mi\" terminan en una compra en 24 horas. Un comercio invisible pierde clientes frente a competidores mejor referenciados."
+        },
+        {
+          "q": "Cuales son las etapas de la digitalizacion?",
+          "a": "Auditoria Score Maps en 48h, onboarding Google Business en 30 segundos, monitoreo continuo con generacion de resenas post-visita."
+        },
+        {
+          "q": "Cuanto cuesta COLHYBRI para un comerciante?",
+          "a": "10 EUR al mes con 0% de comision. Incluye auditoria, onboarding, generacion de resenas y monitoreo."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "PyMEs invisibles Google"
+        },
+        {
+          "value": "76%",
+          "label": "busquedas locales > compra"
+        },
+        {
+          "value": "10 EUR",
+          "label": "suscripcion mensual"
+        },
+        {
+          "value": "0%",
+          "label": "comision"
+        }
       ]
     }
   }

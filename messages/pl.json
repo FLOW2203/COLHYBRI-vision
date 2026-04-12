@@ -328,6 +328,27 @@
     "meta": {
       "revitalisation-centres-villes": {
         "title": "Downtown revitalization in France"
+      },
+      "action-coeur-de-ville": {
+        "title": "Action Coeur de Ville"
+      },
+      "petites-villes-de-demain": {
+        "title": "Petites Villes de Demain"
+      },
+      "zrcv-zones-revitalisation": {
+        "title": "ZRCV downtown revitalization zones"
+      },
+      "manager-commerce-cci": {
+        "title": "Commerce manager (CCI)"
+      },
+      "vacance-commerciale-france": {
+        "title": "Commercial vacancy in France"
+      },
+      "municipales-2026-commerce": {
+        "title": "2026 French municipal elections"
+      },
+      "commerce-proximite-digital": {
+        "title": "Local commerce digitalization"
       }
     },
     "revitalisation-centres-villes": {
@@ -400,6 +421,377 @@
           "ZRCV 2026",
           "1,732 towns, local tax exemption (decree 26 Dec 2025)"
         ]
+      ]
+    },
+    "action-coeur-de-ville": {
+      "title": "Action Coeur de Ville",
+      "h1": "Action Coeur de Ville: revitalizing French midsize towns",
+      "metaTitle": "Action Coeur de Ville: 244 towns, 5B EUR, 2023-2026",
+      "metaDescription": "France's Action Coeur de Ville program mobilizes 5B EUR to revitalize 244 midsize towns. Led by ANCT with Banque des Territoires, Action Logement and Anah.",
+      "snippet": "Action Coeur de Ville is a national program launched in 2018 mobilizing 5 billion EUR over 2023-2026 to revitalize 244 French midsize towns. Led by ANCT with Banque des Territoires (2.5B EUR), Action Logement (1.7B EUR) and Anah (1B EUR), it covers housing renovation, commercial return and digital transition.",
+      "sections": [
+        {
+          "h2": "What is the Action Coeur de Ville program?",
+          "body": "Action Coeur de Ville (ACV) is the flagship French program for revitalizing midsize towns. Launched in 2018, it now includes 244 towns and 20 million inhabitants. Scope covers five axes: housing, commerce, accessibility, public space, digital transition. Financing crosses Banque des Territoires, Action Logement and Anah."
+        },
+        {
+          "h2": "Which towns benefit from ACV?",
+          "body": "The 244 ACV towns include departmental capitals and sub-prefectures facing commercial decline. Flagship beneficiaries include Nimes, Chalon-sur-Saone, Draguignan, Montlucon, Roanne and Saint-Brieuc. Each town gets a multi-year agreement, dedicated project lead and priority access to ANCT funding."
+        },
+        {
+          "h2": "How does a shop benefit from ACV?",
+          "body": "A shop in the ACV perimeter can access storefront renovation grants, rent subsidies, digital premiums and complementary Petites Villes de Demain support. COLHYBRI lets the ACV commerce manager pilot digital visibility of every shop through a single municipal dashboard."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is Action Coeur de Ville?",
+          "a": "A French national program launched in 2018 mobilizing 5B EUR to revitalize 244 midsize towns, led by ANCT with Banque des Territoires, Action Logement and Anah."
+        },
+        {
+          "q": "Which towns are ACV-classified?",
+          "a": "244 towns including Nimes, Chalon-sur-Saone, Roanne, Saint-Brieuc, Montlucon. Full list available on the ANCT website."
+        },
+        {
+          "q": "How does COLHYBRI complement ACV?",
+          "a": "COLHYBRI provides ACV commerce managers with a real-time municipal vitality dashboard and audits every shop Google presence in 48 hours."
+        }
+      ],
+      "stats": [
+        {
+          "value": "244",
+          "label": "midsize towns"
+        },
+        {
+          "value": "5B EUR",
+          "label": "2023-2026 budget"
+        },
+        {
+          "value": "20M",
+          "label": "inhabitants"
+        },
+        {
+          "value": "2018",
+          "label": "launch year"
+        }
+      ]
+    },
+    "petites-villes-de-demain": {
+      "title": "Petites Villes de Demain",
+      "h1": "Petites Villes de Demain: revitalizing French small towns",
+      "metaTitle": "Petites Villes de Demain: 1,646 towns, 4B EUR",
+      "metaDescription": "The Petites Villes de Demain program supports 1,646 small towns with 4B EUR. Led by ANCT, covering housing, commerce and services.",
+      "snippet": "The Petites Villes de Demain program (PVD), led by ANCT, supports 1,646 French towns under 20,000 inhabitants in their revitalization. With 4 billion EUR committed through 2026, it funds infrastructure, services and quality of life projects reaching over 7 million inhabitants (ANCT, 2026).",
+      "sections": [
+        {
+          "h2": "What is the Petites Villes de Demain program?",
+          "body": "PVD is a national initiative launched in 2020 targeting 1,646 small towns at the center of their local living area. It complements Action Coeur de Ville to form a complete territorial revitalization chain. Each town signs an ORT convention with its inter-municipal body and ANCT."
+        },
+        {
+          "h2": "How to apply for PVD?",
+          "body": "Towns were selected by ANCT and regional prefects on centrality and fragility criteria. The list has been fixed since 2021 and new calls are rare. PVD is now in its operational deployment phase through end-2026."
+        },
+        {
+          "h2": "How does COLHYBRI complement PVD?",
+          "body": "COLHYBRI is the operational tool for measuring commercial vitality for PVD project leads. Free 90-day pilot on 50 shops, municipal dashboard, impact report. Especially suited to small towns without a dedicated commerce manager."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the Petites Villes de Demain program?",
+          "a": "A French national program launched in 2020 supporting 1,646 small towns with 4B EUR through 2026, led by ANCT."
+        },
+        {
+          "q": "How is a town selected?",
+          "a": "By ANCT and regional prefects on centrality and fragility criteria. The list has been fixed since 2021; new calls are rare."
+        },
+        {
+          "q": "How does COLHYBRI help a PVD town?",
+          "a": "Free 90-day pilot: Google audit of 50 shops, real-time vitality dashboard, city council impact report."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1,646",
+          "label": "PVD towns"
+        },
+        {
+          "value": "4B EUR",
+          "label": "committed budget"
+        },
+        {
+          "value": "7M",
+          "label": "inhabitants"
+        },
+        {
+          "value": "2020",
+          "label": "launch year"
+        }
+      ]
+    },
+    "zrcv-zones-revitalisation": {
+      "title": "ZRCV downtown revitalization zones",
+      "h1": "ZRCV: French downtown revitalization tax zones explained",
+      "metaTitle": "ZRCV 2026: 1,732 towns with tax exemption",
+      "metaDescription": "France's ZRCV tax zones exempt downtown shops from local business tax and property tax. 1,732 towns classified in 2026.",
+      "snippet": "Downtown revitalization zones (ZRCV) let French municipalities exempt their downtown shops from local business tax (CFE) and property tax. In 2026, 1,732 towns are classified ZRCV under the December 26, 2025 decree. The tool remains underused: many towns are unaware they are eligible.",
+      "sections": [
+        {
+          "h2": "What is a ZRCV?",
+          "body": "A downtown revitalization zone is a fiscal perimeter defined by the municipality. Inside the zone, shops benefit from exemption on Cotisation Fonciere des Entreprises (CFE) and property tax for 5 years. The 2018 Pinel law extended the scheme, and the December 26, 2025 decree updated the list."
+        },
+        {
+          "h2": "How to know if my town is a ZRCV?",
+          "body": "The official list is published in the French Journal Officiel. The December 26, 2025 decree classifies 1,732 towns. Criteria include population, commercial vacancy rate, demographic pressure and belonging to an ACV or PVD program. The DGE publishes the interactive map."
+        },
+        {
+          "h2": "How does COLHYBRI help a ZRCV town?",
+          "body": "COLHYBRI complements the fiscal tool with operational measurement: 48-hour Google audit of shops in the perimeter, vitality dashboard, city council impact report. Combining tax exemption with a digital tool maximizes revitalization success."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is a ZRCV?",
+          "a": "A French downtown revitalization zone: a fiscal perimeter where shops are exempt from CFE and property tax for 5 years, created by the 2018 Pinel law."
+        },
+        {
+          "q": "Is my town a ZRCV?",
+          "a": "1,732 French towns are classified under the December 26, 2025 decree. The official list is in the Journal Officiel and on the DGE website."
+        },
+        {
+          "q": "Which shops are eligible?",
+          "a": "Any shop inside the ZRCV perimeter defined by the municipality, subject to revenue and activity conditions set by the 2018 Pinel law."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1,732",
+          "label": "2026 ZRCV towns"
+        },
+        {
+          "value": "5 years",
+          "label": "exemption length"
+        },
+        {
+          "value": "CFE + TF",
+          "label": "taxes exempted"
+        },
+        {
+          "value": "26 Dec 2025",
+          "label": "decree date"
+        }
+      ]
+    },
+    "manager-commerce-cci": {
+      "title": "Commerce manager (CCI)",
+      "h1": "Commerce manager: the job that revitalizes French downtowns",
+      "metaTitle": "Commerce manager CCI: mission and tools 2026",
+      "metaDescription": "Commerce managers funded by French Chambers of Commerce are the operational backbone of downtown revitalization. The government co-funds the role since 2025.",
+      "snippet": "Commerce managers, funded by French Chambers of Commerce and Industry (CCI), are the operational backbone of downtown revitalization. In 2025, the French government announced co-funding for commerce manager positions as part of the national commerce plan.",
+      "sections": [
+        {
+          "h2": "What is a commerce manager?",
+          "body": "A commerce manager is a municipal or inter-municipal professional whose mission is to animate and coordinate the commercial fabric of a town. Tasks include: identifying vacant units, supporting new project leaders, organizing commercial events, tracking foot traffic and engaging with private landlords."
+        },
+        {
+          "h2": "Who funds the commerce manager?",
+          "body": "Historically, CCI funded the role on their own budget. Since 2025, a State-CCI-city co-funding scheme has been launched as part of the national commerce plan. Action Coeur de Ville and Petites Villes de Demain cities get priority access."
+        },
+        {
+          "h2": "How does a commerce manager use COLHYBRI?",
+          "body": "COLHYBRI is the commerce manager digital toolkit. The municipal dashboard tracks each shop Score Maps in real time, flags incomplete Google listings, prompts shops lacking recent reviews and measures the impact of actions on commercial vitality."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is a commerce manager?",
+          "a": "A municipal or inter-municipal professional who animates and coordinates the commercial fabric. Missions cover vacant units, new project support and foot traffic tracking."
+        },
+        {
+          "q": "Who funds the commerce manager?",
+          "a": "Historically CCI; since 2025 a State-CCI-city co-funding scheme. ACV and PVD cities get priority access."
+        },
+        {
+          "q": "How does COLHYBRI help a commerce manager?",
+          "a": "A municipal vitality dashboard, 48-hour automated Google audit and a city council impact report."
+        }
+      ],
+      "stats": [
+        {
+          "value": "2025",
+          "label": "co-funding year"
+        },
+        {
+          "value": "State-CCI",
+          "label": "shared funding"
+        },
+        {
+          "value": "48h",
+          "label": "Maps audit"
+        },
+        {
+          "value": "10 EUR",
+          "label": "shop subscription"
+        }
+      ]
+    },
+    "vacance-commerciale-france": {
+      "title": "Commercial vacancy in France",
+      "h1": "Commercial vacancy in France: figures, causes and solutions 2026",
+      "metaTitle": "Commercial vacancy in France 2026: 55% of midsize towns",
+      "metaDescription": "55% of French midsize towns have commercial vacancy rates above 10%, up 4 points in 15 years (CCI France). Analysis and solutions.",
+      "snippet": "Commercial vacancy affects 55% of French midsize towns with a rate above 10%, up 4 points in 15 years (CCI France, 2024). Main causes are online platform competition, commercial rent pressure, administrative constraints and evolving consumer habits toward peripheral retail.",
+      "sections": [
+        {
+          "h2": "What is the commercial vacancy rate in France?",
+          "body": "According to CCI France, 55% of midsize French towns have a vacancy rate above 10% in 2024, versus 51% in 2009. Some towns exceed 20% vacancy: Beziers, Vierzon, Agen. Major cities are largely spared (6-8% average) but small and midsize downtowns are the hardest hit."
+        },
+        {
+          "h2": "What causes commercial vacancy?",
+          "body": "Four main causes: online platform competition (Amazon, Shein), commercial rent pressure that remains high even during vacancy, administrative constraints (permits, accessibility, standards) and the shift of consumer habits toward peripheral retail and drive-through."
+        },
+        {
+          "h2": "How to reduce commercial vacancy?",
+          "body": "Downtown revitalization combines several levers: fiscal (ZRCV), operational (commerce manager), architectural (storefront renovation) and digital (online visibility). COLHYBRI delivers the digital pillar: 48-hour Google audit and community pool driving traffic to remaining shops."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the commercial vacancy rate in France?",
+          "a": "55% of midsize towns have rates above 10%, up 4 points in 15 years per CCI France. Some towns exceed 20%: Beziers, Vierzon, Agen."
+        },
+        {
+          "q": "What are the main causes?",
+          "a": "Online platform competition, commercial rent pressure, administrative constraints and consumer shift toward peripheral retail."
+        },
+        {
+          "q": "How to reduce vacancy in my town?",
+          "a": "Combining fiscal (ZRCV), operational (commerce manager), architectural and digital (COLHYBRI). Free 90-day pilot available."
+        }
+      ],
+      "stats": [
+        {
+          "value": "55%",
+          "label": "midsize towns > 10% vacancy"
+        },
+        {
+          "value": "+4pts",
+          "label": "15-year increase"
+        },
+        {
+          "value": "20%",
+          "label": "worst-hit rate"
+        },
+        {
+          "value": "2024",
+          "label": "CCI France data"
+        }
+      ]
+    },
+    "municipales-2026-commerce": {
+      "title": "2026 French municipal elections",
+      "h1": "2026 French municipal elections: downtown as the top issue",
+      "metaTitle": "2026 French municipal elections: downtown, issue number 1",
+      "metaDescription": "The 2026 French municipal elections put downtown revitalization at the top of the agenda. The Confederation of French Merchants published a White Paper.",
+      "snippet": "Ahead of the 2026 French municipal elections, downtown revitalization has become the central issue for mandate programs. The Confederation of French Merchants (CDF) published a White Paper proposing solutions around four axes: vacant shops, soft mobility, commercial animation and security.",
+      "sections": [
+        {
+          "h2": "Why is commerce the top issue for the 2026 municipals?",
+          "body": "After 15 years of rising commercial vacancy, French downtowns have become the visible symbol of territorial decline. Candidates in the 2026 municipals must answer a strong voter demand: bring the main street back to life. Polls rank commerce first among local concerns, ahead of security and mobility."
+        },
+        {
+          "h2": "What does the Confederation of French Merchants propose?",
+          "body": "The CDF published a 2026 municipal elections White Paper with four axes: reduce commercial vacancy (via ZRCV and rent oversight), encourage soft mobility (targeted pedestrianization), animate downtowns (events, markets) and reinforce security (police presence, lighting). Available on the CDF website."
+        },
+        {
+          "h2": "How does COLHYBRI help a candidate build a program?",
+          "body": "COLHYBRI provides candidates with an objective diagnosis of downtown commercial vitality: vacancy rate, average Score Maps, incomplete Google listings, shops without recent reviews. The free 90-day pilot lets candidates present a concrete action plan with before/after metrics."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why is commerce central to the 2026 municipals?",
+          "a": "After 15 years of rising commercial vacancy, commerce has become the visible symbol of territorial decline. It tops local concerns in polls."
+        },
+        {
+          "q": "What does the CDF propose?",
+          "a": "A White Paper with 4 axes: vacancy, soft mobility, animation, security. Available on the CDF website."
+        },
+        {
+          "q": "How does COLHYBRI help a candidate?",
+          "a": "Objective vitality diagnosis, per-shop Score Maps, free 90-day pilot to build an action plan with before/after metrics."
+        }
+      ],
+      "stats": [
+        {
+          "value": "2026",
+          "label": "election year"
+        },
+        {
+          "value": "#1",
+          "label": "local issue"
+        },
+        {
+          "value": "4 axes",
+          "label": "CDF White Paper"
+        },
+        {
+          "value": "90d",
+          "label": "free pilot"
+        }
+      ]
+    },
+    "commerce-proximite-digital": {
+      "title": "Local commerce digitalization",
+      "h1": "Digitalizing local commerce: issues and solutions 2026",
+      "metaTitle": "Local commerce digitalization 2026: the COLHYBRI guide",
+      "metaDescription": "75% of small retail businesses are invisible on Google in 2026. Complete guide to digitalization: audit, onboarding, monitoring.",
+      "snippet": "75% of small retail businesses are invisible on Google in 2026. Digitalizing local commerce follows three steps: digital presence audit (Score Maps), Google Business Profile optimization (zero-friction onboarding) and continuous review monitoring. COLHYBRI delivers all three for 10 EUR/month with 0% commission.",
+      "sections": [
+        {
+          "h2": "Why digitalize local commerce?",
+          "body": "Digital presence is now the first point of contact between a shop and its customers. 76% of \"near me\" searches lead to a purchase within 24 hours (Google, 2025). A shop invisible on Google mechanically loses potential customers to better-referenced competitors."
+        },
+        {
+          "h2": "What are the 3 steps of digitalization?",
+          "body": "Step 1: digital presence audit (48-hour Score Maps, Google Business listing and reviews assessment). Step 2: zero-friction optimization (30-second onboarding, listing completion, photo upload). Step 3: continuous monitoring (negative review alerts, ranking tracking, post-visit QR code review generation)."
+        },
+        {
+          "h2": "How much does COLHYBRI cost?",
+          "body": "COLHYBRI offers a merchant subscription at 10 EUR per month with 0% commission. This includes Maps+ audit, Google Places onboarding, post-visit review generation and real-time monitoring. Compared to delivery platforms (30% UberEats, 25% JustEat), COLHYBRI preserves small shop margins."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why should a shop be digitalized?",
+          "a": "76% of \"near me\" searches lead to a purchase within 24 hours. An invisible shop mechanically loses customers to better-referenced competitors."
+        },
+        {
+          "q": "What are the digitalization steps?",
+          "a": "48-hour Score Maps audit, 30-second Google Business onboarding, continuous monitoring with post-visit review generation."
+        },
+        {
+          "q": "How much does COLHYBRI cost?",
+          "a": "10 EUR per month with 0% commission. Includes audit, onboarding, review generation and monitoring."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "shops invisible on Google"
+        },
+        {
+          "value": "76%",
+          "label": "local searches > purchase"
+        },
+        {
+          "value": "10 EUR",
+          "label": "monthly subscription"
+        },
+        {
+          "value": "0%",
+          "label": "commission"
+        }
       ]
     }
   }
