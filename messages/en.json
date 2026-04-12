@@ -39,9 +39,21 @@
     "headline": "The problem is measurable",
     "subheadline": "Downtown commercial vitality is collapsing. The programs exist. The tools are missing.",
     "stats": {
-      "vacancy": { "value": "55", "unit": "%", "label": "of midsize downtowns facing commercial vacancy" },
-      "invisible": { "value": "75", "unit": "%", "label": "of small businesses invisible on Google" },
-      "commission": { "value": "0", "unit": "%", "label": "COLHYBRI commission (vs 30% on platforms)" }
+      "vacancy": {
+        "value": "55",
+        "unit": "%",
+        "label": "of midsize downtowns facing commercial vacancy"
+      },
+      "invisible": {
+        "value": "75",
+        "unit": "%",
+        "label": "of small businesses invisible on Google"
+      },
+      "commission": {
+        "value": "0",
+        "unit": "%",
+        "label": "COLHYBRI commission (vs 30% on platforms)"
+      }
     }
   },
   "solution": {
@@ -78,26 +90,59 @@
     "headline": "Our impact, from local to global",
     "subheadline": "One tool, adapted to every territory. From a French ZRCV town to an American Main Street.",
     "regions": {
-      "france": { "title": "France", "detail": "1,732 ZRCV towns. 244 Action Coeur de Ville. 1,646 Petites Villes de Demain." },
-      "usa": { "title": "United States", "detail": "8,764 Opportunity Zones. 6,544 OZ 2.0 in 2026. 1,200 Main Street communities." },
-      "europe": { "title": "Europe", "detail": "Barcelona, European Capital of Small Commerce 2026. EUI Call 4: 60M EUR ERDF." },
-      "latam": { "title": "Latin America", "detail": "55% informal employment. 2.1% growth in 2026. Formalization through digitalization." },
-      "africa": { "title": "Africa", "detail": "4.3% growth in 2026. Rapid urbanization. No digital tool dedicated to urban commerce." }
+      "france": {
+        "title": "France",
+        "detail": "1,732 ZRCV towns. 244 Action Coeur de Ville. 1,646 Petites Villes de Demain."
+      },
+      "usa": {
+        "title": "United States",
+        "detail": "8,764 Opportunity Zones. 6,544 OZ 2.0 in 2026. 1,200 Main Street communities."
+      },
+      "europe": {
+        "title": "Europe",
+        "detail": "Barcelona, European Capital of Small Commerce 2026. EUI Call 4: 60M EUR ERDF."
+      },
+      "latam": {
+        "title": "Latin America",
+        "detail": "55% informal employment. 2.1% growth in 2026. Formalization through digitalization."
+      },
+      "africa": {
+        "title": "Africa",
+        "detail": "4.3% growth in 2026. Rapid urbanization. No digital tool dedicated to urban commerce."
+      }
     }
   },
   "triplePlay": {
     "headline": "The ONLYMORE triple-play",
     "subheadline": "Three pillars, one ecosystem. Downtown revitalization through commerce, sport and credit.",
-    "col1": { "brand": "COLHYBRI", "tag": "Local commerce" },
-    "col2": { "brand": "CROWNIUM", "tag": "Local sports club" },
-    "col3": { "brand": "ONLYMORE FINANCE", "tag": "Community credit" },
+    "col1": {
+      "brand": "COLHYBRI",
+      "tag": "Local commerce"
+    },
+    "col2": {
+      "brand": "CROWNIUM",
+      "tag": "Local sports club"
+    },
+    "col3": {
+      "brand": "ONLYMORE FINANCE",
+      "tag": "Community credit"
+    },
     "quote": "A sports club that fills the downtown. Merchants who keep the neighborhood alive. A credit line that finances growth."
   },
   "finalCta": {
     "headline": "Ready to revitalize your downtown?",
-    "cta1": { "title": "Open App", "sub": "Individuals and merchants" },
-    "cta2": { "title": "Book a demo", "sub": "Cities and institutions" },
-    "cta3": { "title": "See the deck", "sub": "Investors and accelerators" }
+    "cta1": {
+      "title": "Open App",
+      "sub": "Individuals and merchants"
+    },
+    "cta2": {
+      "title": "Book a demo",
+      "sub": "Cities and institutions"
+    },
+    "cta3": {
+      "title": "See the deck",
+      "sub": "Investors and accelerators"
+    }
   },
   "mission": {
     "title": "Our Mission",
@@ -385,5 +430,95 @@
     "ctaTitle": "Own Your Neighborhood. Own Your Future.",
     "ctaDescription": "Ready to make a real impact? Join COLHYBRI and transform your community.",
     "ctaButton": "Sign Up Now"
+  },
+  "cocon": {
+    "common": {
+      "home": "Home",
+      "faqTitle": "Frequently asked questions",
+      "relatedTitle": "Go further",
+      "pillarBadge": "Main topic",
+      "relatedBadge": "Related",
+      "crossBadge": "Cross-topic",
+      "ctaTitle": "Ready to revitalize your downtown?",
+      "ctaApp": "Open the app",
+      "ctaDemo": "Book a demo"
+    },
+    "meta": {
+      "revitalisation-centres-villes": {
+        "title": "Downtown revitalization in France"
+      }
+    },
+    "revitalisation-centres-villes": {
+      "title": "Downtown revitalization in France",
+      "h1": "Downtown revitalization in France: 2026 programs",
+      "metaTitle": "Downtown revitalization in France: 2026 programs",
+      "metaDescription": "9B EUR mobilized by Action Coeur de Ville and Petites Villes de Demain for 1,890 towns. Complete guide to commercial revitalization in France.",
+      "snippet": "France mobilizes 9 billion EUR for downtown revitalization through Action Coeur de Ville (244 midsize towns, 5B EUR) and Petites Villes de Demain (1,646 small towns, 4B EUR). In 2026, 1,732 towns are classified as downtown revitalization zones (ZRCV) per the December 26, 2025 decree (ANCT).",
+      "sections": [
+        {
+          "h2": "What is downtown revitalization?",
+          "body": "Downtown revitalization refers to public policies and operational tools that revive commercial cores of towns suffering from vacancy, population decline and service loss. It is built around three levers: housing, local commerce and public services. France's ANCT coordinates national programs alongside Banque des Territoires."
+        },
+        {
+          "h2": "What are the national programs in France?",
+          "body": "Two programs dominate: Action Coeur de Ville (244 midsize towns, 5B EUR over 2023-2026) and Petites Villes de Demain (1,646 towns under 20,000 inhabitants, 4B EUR). A third tool, ZRCV tax zones, exempts downtown merchants from local business and property taxes. 1,732 towns are classified ZRCV in 2026."
+        },
+        {
+          "h2": "How does COLHYBRI contribute to revitalization?",
+          "body": "COLHYBRI provides the missing layer: a SaaS tool to measure downtown vitality in real time. Maps+ audits every shop Google presence in 48 hours, the community pool drives foot traffic to partner merchants and the municipal dashboard delivers verifiable metrics to the city council. A free 90-day pilot lets a city test the setup on 50 shops before committing."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is downtown revitalization?",
+          "a": "Public policies that revive commercial cores through housing, commerce and services. In France it is coordinated by ANCT through the Action Coeur de Ville and Petites Villes de Demain programs."
+        },
+        {
+          "q": "What are the national programs in France?",
+          "a": "Action Coeur de Ville (244 towns, 5B EUR, 2023-2026), Petites Villes de Demain (1,646 towns, 4B EUR), and the ZRCV tax zones covering 1,732 towns in 2026."
+        },
+        {
+          "q": "How does COLHYBRI help a city in practice?",
+          "a": "Free 90-day pilot: Google audit of 50 shops, municipal vitality dashboard, city council impact report and deployment support."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1,732",
+          "label": "2026 ZRCV towns"
+        },
+        {
+          "value": "244",
+          "label": "Action Coeur de Ville"
+        },
+        {
+          "value": "1,646",
+          "label": "Petites Villes de Demain"
+        },
+        {
+          "value": "9B EUR",
+          "label": "mobilized 2023-2026"
+        }
+      ],
+      "tableTitle": "Revitalization programs at a glance",
+      "tableHeader": [
+        "Program",
+        "Budget and scope"
+      ],
+      "tableRows": [
+        [
+          "Action Coeur de Ville",
+          "244 midsize towns, 5B EUR, 2023-2026 (ANCT)"
+        ],
+        [
+          "Petites Villes de Demain",
+          "1,646 towns, 4B EUR, 2020-2026 (ANCT)"
+        ],
+        [
+          "ZRCV 2026",
+          "1,732 towns, local tax exemption (decree 26 Dec 2025)"
+        ]
+      ]
+    }
   }
 }

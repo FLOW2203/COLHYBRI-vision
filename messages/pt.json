@@ -312,5 +312,95 @@
     "ctaTitle": "Seu bairro, seu futuro.",
     "ctaDescription": "Pronto para fazer um impacto real? Junte-se ao COLHYBRI e transforme sua comunidade.",
     "ctaButton": "Cadastre-se agora"
+  },
+  "cocon": {
+    "common": {
+      "home": "Home",
+      "faqTitle": "Frequently asked questions",
+      "relatedTitle": "Go further",
+      "pillarBadge": "Main topic",
+      "relatedBadge": "Related",
+      "crossBadge": "Cross-topic",
+      "ctaTitle": "Ready to revitalize your downtown?",
+      "ctaApp": "Open the app",
+      "ctaDemo": "Book a demo"
+    },
+    "meta": {
+      "revitalisation-centres-villes": {
+        "title": "Downtown revitalization in France"
+      }
+    },
+    "revitalisation-centres-villes": {
+      "title": "Downtown revitalization in France",
+      "h1": "Downtown revitalization in France: 2026 programs",
+      "metaTitle": "Downtown revitalization in France: 2026 programs",
+      "metaDescription": "9B EUR mobilized by Action Coeur de Ville and Petites Villes de Demain for 1,890 towns. Complete guide to commercial revitalization in France.",
+      "snippet": "France mobilizes 9 billion EUR for downtown revitalization through Action Coeur de Ville (244 midsize towns, 5B EUR) and Petites Villes de Demain (1,646 small towns, 4B EUR). In 2026, 1,732 towns are classified as downtown revitalization zones (ZRCV) per the December 26, 2025 decree (ANCT).",
+      "sections": [
+        {
+          "h2": "What is downtown revitalization?",
+          "body": "Downtown revitalization refers to public policies and operational tools that revive commercial cores of towns suffering from vacancy, population decline and service loss. It is built around three levers: housing, local commerce and public services. France's ANCT coordinates national programs alongside Banque des Territoires."
+        },
+        {
+          "h2": "What are the national programs in France?",
+          "body": "Two programs dominate: Action Coeur de Ville (244 midsize towns, 5B EUR over 2023-2026) and Petites Villes de Demain (1,646 towns under 20,000 inhabitants, 4B EUR). A third tool, ZRCV tax zones, exempts downtown merchants from local business and property taxes. 1,732 towns are classified ZRCV in 2026."
+        },
+        {
+          "h2": "How does COLHYBRI contribute to revitalization?",
+          "body": "COLHYBRI provides the missing layer: a SaaS tool to measure downtown vitality in real time. Maps+ audits every shop Google presence in 48 hours, the community pool drives foot traffic to partner merchants and the municipal dashboard delivers verifiable metrics to the city council. A free 90-day pilot lets a city test the setup on 50 shops before committing."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is downtown revitalization?",
+          "a": "Public policies that revive commercial cores through housing, commerce and services. In France it is coordinated by ANCT through the Action Coeur de Ville and Petites Villes de Demain programs."
+        },
+        {
+          "q": "What are the national programs in France?",
+          "a": "Action Coeur de Ville (244 towns, 5B EUR, 2023-2026), Petites Villes de Demain (1,646 towns, 4B EUR), and the ZRCV tax zones covering 1,732 towns in 2026."
+        },
+        {
+          "q": "How does COLHYBRI help a city in practice?",
+          "a": "Free 90-day pilot: Google audit of 50 shops, municipal vitality dashboard, city council impact report and deployment support."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1,732",
+          "label": "2026 ZRCV towns"
+        },
+        {
+          "value": "244",
+          "label": "Action Coeur de Ville"
+        },
+        {
+          "value": "1,646",
+          "label": "Petites Villes de Demain"
+        },
+        {
+          "value": "9B EUR",
+          "label": "mobilized 2023-2026"
+        }
+      ],
+      "tableTitle": "Revitalization programs at a glance",
+      "tableHeader": [
+        "Program",
+        "Budget and scope"
+      ],
+      "tableRows": [
+        [
+          "Action Coeur de Ville",
+          "244 midsize towns, 5B EUR, 2023-2026 (ANCT)"
+        ],
+        [
+          "Petites Villes de Demain",
+          "1,646 towns, 4B EUR, 2020-2026 (ANCT)"
+        ],
+        [
+          "ZRCV 2026",
+          "1,732 towns, local tax exemption (decree 26 Dec 2025)"
+        ]
+      ]
+    }
   }
 }

@@ -103,9 +103,8 @@ export function WorldMap({ locale }: WorldMapProps) {
               onClick={() => goTo(m.region)}
               onMouseEnter={() => setHovered(m.key)}
               onMouseLeave={() => setHovered(null)}
-              style={{ cursor: 'pointer' }}
             >
-              <g>
+              <g style={{ cursor: 'pointer' }}>
                 {/* outer pulse */}
                 <circle r={10} fill="#008080" fillOpacity={0.25} className="animate-pulse-slow" />
                 {/* core marker */}

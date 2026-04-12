@@ -39,9 +39,21 @@
     "headline": "Le probleme est mesurable",
     "subheadline": "La vitalite commerciale des centres-villes s'effondre. Les programmes existent. Les outils manquent.",
     "stats": {
-      "vacancy": { "value": "55", "unit": "%", "label": "des villes moyennes en vacance commerciale" },
-      "invisible": { "value": "75", "unit": "%", "label": "des PME invisibles sur Google" },
-      "commission": { "value": "0", "unit": "%", "label": "commission COLHYBRI (vs 30% des plateformes)" }
+      "vacancy": {
+        "value": "55",
+        "unit": "%",
+        "label": "des villes moyennes en vacance commerciale"
+      },
+      "invisible": {
+        "value": "75",
+        "unit": "%",
+        "label": "des PME invisibles sur Google"
+      },
+      "commission": {
+        "value": "0",
+        "unit": "%",
+        "label": "commission COLHYBRI (vs 30% des plateformes)"
+      }
     }
   },
   "solution": {
@@ -78,26 +90,59 @@
     "headline": "Notre impact, du local au global",
     "subheadline": "Un meme outil, adapte a chaque territoire. De la commune ZRCV francaise a la Main Street americaine.",
     "regions": {
-      "france": { "title": "France", "detail": "1 732 communes ZRCV. 244 Action Coeur de Ville. 1 646 Petites Villes de Demain." },
-      "usa": { "title": "Etats-Unis", "detail": "8 764 Opportunity Zones. 6 544 OZ 2.0 en 2026. 1 200 Main Street communities." },
-      "europe": { "title": "Europe", "detail": "Barcelona, Capitale Europeenne du Petit Commerce 2026. EUI Call 4 : 60M EUR FEDER." },
-      "latam": { "title": "Amerique Latine", "detail": "55% d'emploi informel. Croissance 2.1% en 2026. Formalisation par la digitalisation." },
-      "africa": { "title": "Afrique", "detail": "Croissance 4.3% en 2026. Urbanisation rapide. Zero outil digital dedie au commerce urbain." }
+      "france": {
+        "title": "France",
+        "detail": "1 732 communes ZRCV. 244 Action Coeur de Ville. 1 646 Petites Villes de Demain."
+      },
+      "usa": {
+        "title": "Etats-Unis",
+        "detail": "8 764 Opportunity Zones. 6 544 OZ 2.0 en 2026. 1 200 Main Street communities."
+      },
+      "europe": {
+        "title": "Europe",
+        "detail": "Barcelona, Capitale Europeenne du Petit Commerce 2026. EUI Call 4 : 60M EUR FEDER."
+      },
+      "latam": {
+        "title": "Amerique Latine",
+        "detail": "55% d'emploi informel. Croissance 2.1% en 2026. Formalisation par la digitalisation."
+      },
+      "africa": {
+        "title": "Afrique",
+        "detail": "Croissance 4.3% en 2026. Urbanisation rapide. Zero outil digital dedie au commerce urbain."
+      }
     }
   },
   "triplePlay": {
     "headline": "Le triple-play ONLYMORE",
     "subheadline": "Trois piliers, un meme ecosysteme. La revitalisation du centre-ville par le commerce, le sport et le credit.",
-    "col1": { "brand": "COLHYBRI", "tag": "Commerce de proximite" },
-    "col2": { "brand": "CROWNIUM", "tag": "Club sportif local" },
-    "col3": { "brand": "ONLYMORE FINANCE", "tag": "Credit solidaire" },
+    "col1": {
+      "brand": "COLHYBRI",
+      "tag": "Commerce de proximite"
+    },
+    "col2": {
+      "brand": "CROWNIUM",
+      "tag": "Club sportif local"
+    },
+    "col3": {
+      "brand": "ONLYMORE FINANCE",
+      "tag": "Credit solidaire"
+    },
     "quote": "Un club sportif qui remplit le downtown. Des commercants qui font vivre le quartier. Un credit qui finance la croissance."
   },
   "finalCta": {
     "headline": "Pret a revitaliser votre centre-ville ?",
-    "cta1": { "title": "Ouvrir l'app", "sub": "Particuliers et commercants" },
-    "cta2": { "title": "Planifier une demo", "sub": "Collectivites et institutions" },
-    "cta3": { "title": "Consulter le dossier", "sub": "Investisseurs et accelerateurs" }
+    "cta1": {
+      "title": "Ouvrir l'app",
+      "sub": "Particuliers et commercants"
+    },
+    "cta2": {
+      "title": "Planifier une demo",
+      "sub": "Collectivites et institutions"
+    },
+    "cta3": {
+      "title": "Consulter le dossier",
+      "sub": "Investisseurs et accelerateurs"
+    }
   },
   "mission": {
     "title": "Notre Mission",
@@ -382,5 +427,95 @@
     "ctaTitle": "Chaque geste compte. Le votre aussi.",
     "ctaDescription": "Pret a faire une vraie difference ? Rejoignez COLHYBRI et transformez votre communaute.",
     "ctaButton": "S'inscrire maintenant"
+  },
+  "cocon": {
+    "common": {
+      "home": "Accueil",
+      "faqTitle": "Questions frequentes",
+      "relatedTitle": "Pour aller plus loin",
+      "pillarBadge": "Dossier principal",
+      "relatedBadge": "Sur le meme theme",
+      "crossBadge": "Transversal",
+      "ctaTitle": "Pret a revitaliser votre centre-ville ?",
+      "ctaApp": "Ouvrir l'app",
+      "ctaDemo": "Planifier une demo"
+    },
+    "meta": {
+      "revitalisation-centres-villes": {
+        "title": "Revitalisation des centres-villes"
+      }
+    },
+    "revitalisation-centres-villes": {
+      "title": "Revitalisation des centres-villes",
+      "h1": "Revitalisation des centres-villes en France : programmes 2026",
+      "metaTitle": "Revitalisation des centres-villes : programmes 2026",
+      "metaDescription": "9 Mds EUR mobilises par Action Coeur de Ville et Petites Villes de Demain pour 1 890 communes. Guide complet de la revitalisation commerciale en France.",
+      "snippet": "La revitalisation des centres-villes francais mobilise 9 milliards d'euros via Action Coeur de Ville (244 communes, 5 Mds EUR) et Petites Villes de Demain (1 646 communes, 4 Mds EUR). En 2026, 1 732 communes sont classees en zone de revitalisation (ZRCV) selon l'arrete du 26 decembre 2025 (ANCT).",
+      "sections": [
+        {
+          "h2": "Qu'est-ce que la revitalisation des centres-villes ?",
+          "body": "La revitalisation des centres-villes designe l'ensemble des politiques publiques qui redynamisent les coeurs commercants frappes par la vacance et la devitalisation. Elle s'articule autour de trois leviers : l'habitat, le commerce de proximite et les services publics. L'Agence Nationale de la Cohesion des Territoires (ANCT) pilote les programmes nationaux en lien avec la Banque des Territoires."
+        },
+        {
+          "h2": "Quels sont les programmes nationaux en France ?",
+          "body": "Deux programmes dominent : Action Coeur de Ville (244 villes moyennes, 5 Mds EUR sur 2023-2026) et Petites Villes de Demain (1 646 communes de moins de 20 000 habitants, 4 Mds EUR). S'y ajoute le dispositif fiscal ZRCV qui exonere de CFE et de taxe fonciere les commerces du centre. En 2026, 1 732 communes sont classees ZRCV selon l'arrete du 26 decembre 2025."
+        },
+        {
+          "h2": "Comment COLHYBRI contribue-t-il a la revitalisation ?",
+          "body": "COLHYBRI apporte le maillon manquant : un outil SaaS de mesure de la vitalite commerciale en temps reel. Le module Maps+ audite la presence Google de chaque commerce en 48 heures, le pool solidaire genere du trafic vers les commercants partenaires et le dashboard municipal fournit au conseil municipal des metriques verifiables. Un pilote gratuit de 90 jours permet a une commune de tester le dispositif sur 50 commerces avant tout engagement."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Qu'est-ce que la revitalisation des centres-villes ?",
+          "a": "Des politiques publiques qui redynamisent les coeurs commercants via trois leviers : habitat, commerce et services. En France elle est pilotee par l'ANCT a travers les programmes Action Coeur de Ville et Petites Villes de Demain."
+        },
+        {
+          "q": "Quels sont les programmes nationaux en France ?",
+          "a": "Action Coeur de Ville (244 villes, 5 Mds EUR, 2023-2026), Petites Villes de Demain (1 646 communes, 4 Mds EUR) et le dispositif fiscal ZRCV qui couvre 1 732 communes en 2026."
+        },
+        {
+          "q": "Comment COLHYBRI aide-t-il une commune concretement ?",
+          "a": "Pilote gratuit de 90 jours : audit Google de 50 commerces, dashboard municipal de vitalite, rapport d'impact pour le conseil municipal et accompagnement au deploiement terrain."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1 732",
+          "label": "communes ZRCV 2026"
+        },
+        {
+          "value": "244",
+          "label": "Action Coeur de Ville"
+        },
+        {
+          "value": "1 646",
+          "label": "Petites Villes de Demain"
+        },
+        {
+          "value": "9 Mds EUR",
+          "label": "mobilises 2023-2026"
+        }
+      ],
+      "tableTitle": "Les programmes de revitalisation en chiffres",
+      "tableHeader": [
+        "Programme",
+        "Budget et perimetre"
+      ],
+      "tableRows": [
+        [
+          "Action Coeur de Ville",
+          "244 villes moyennes, 5 Mds EUR, 2023-2026 (ANCT)"
+        ],
+        [
+          "Petites Villes de Demain",
+          "1 646 communes, 4 Mds EUR, 2020-2026 (ANCT)"
+        ],
+        [
+          "ZRCV 2026",
+          "1 732 communes classees, exoneration CFE et foncier (arrete 26/12/2025)"
+        ]
+      ]
+    }
   }
 }
