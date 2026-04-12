@@ -485,6 +485,27 @@
       },
       "community-development": {
         "title": "Community Development por el comercio local"
+      },
+      "mutualisme-digital": {
+        "title": "Mutualismo digital"
+      },
+      "caffe-sospeso": {
+        "title": "Caffe sospeso"
+      },
+      "economie-solidaire": {
+        "title": "Economia solidaria de barrio"
+      },
+      "pool-solidaire-quartier": {
+        "title": "Pool solidario de barrio"
+      },
+      "commerce-equitable-local": {
+        "title": "Comercio justo local"
+      },
+      "cooperative-quartier": {
+        "title": "Cooperativa de barrio digital"
+      },
+      "fidelisation-communautaire": {
+        "title": "Fidelizacion comunitaria"
       }
     },
     "revitalisation-centres-villes": {
@@ -1245,6 +1266,377 @@
         {
           "value": "$3",
           "label": "cuota mensual"
+        }
+      ]
+    },
+    "mutualisme-digital": {
+      "title": "Mutualismo digital",
+      "h1": "El mutualismo digital: cuando 220 anos de tradicion se encuentran con la tecnologia",
+      "metaTitle": "Mutualismo digital: COLHYBRI en la tradicion francesa",
+      "metaDescription": "El mutualismo digital transpone los principios cooperativos franceses (1806) a la economia digital. COLHYBRI aplica este modelo al comercio local.",
+      "snippet": "El mutualismo digital es la transposicion de los principios cooperativos franceses (nacidos en 1806 con las primeras mutuelles) a la economia digital. COLHYBRI aplica este modelo al comercio de proximidad: cada suscriptor cotiza a un pool solidario que financia servicios ofrecidos en comercios asociados, creando una red de seguridad comunitaria digital.",
+      "sections": [
+        {
+          "h2": "Que es el mutualismo frances?",
+          "body": "El mutualismo frances tiene sus origenes en 1806 con la creacion de las primeras sociedades de socorro mutuo. Estas estructuras permitian a los obreros mutualizar sus recursos ante la enfermedad, la invalidez y el desempleo. De este movimiento nacieron la Seguridad Social (1945) y las grandes mutuelles actuales."
+        },
+        {
+          "h2": "Que es el mutualismo digital?",
+          "body": "El mutualismo digital transpone estos principios a la economia digital: cotizacion modesta, mutualizacion del riesgo, redistribucion a los miembros. COLHYBRI aplica este modelo al comercio de proximidad: 3 EUR/mes por habitante, 75% al pool solidario, servicios ofrecidos aleatoriamente. No es caridad; es una mutua."
+        },
+        {
+          "h2": "Por que el mutualismo digital esta adaptado a 2026?",
+          "body": "Responde a las expectativas de 2026: 79% de los franceses aspiran a mas fraternidad (IFOP, 2025), pero 78% no confian en sus conciudadanos. La mutualizacion sin intermediario resuelve esta paradoja creando un marco ligero y transparente."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que es el mutualismo frances?",
+          "a": "Una tradicion de solidaridad nacida en 1806 con las sociedades de socorro mutuo. De este movimiento nacieron la Seguridad Social y las grandes mutuelles actuales."
+        },
+        {
+          "q": "Que es el mutualismo digital?",
+          "a": "La transposicion de estos principios a la economia digital: cotizacion modesta (3 EUR/mes), mutualizacion del riesgo, redistribucion a los miembros."
+        },
+        {
+          "q": "Por que esta adaptado a 2026?",
+          "a": "Responde a la paradoja fraternidad/desconfianza: 79% aspiran a mas fraternidad pero 78% no confian en sus conciudadanos. La mutualizacion sin intermediario resuelve esta paradoja."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1806",
+          "label": "primeras mutuelles"
+        },
+        {
+          "value": "220",
+          "label": "anos de tradicion"
+        },
+        {
+          "value": "79%",
+          "label": "aspiran a la fraternidad"
+        },
+        {
+          "value": "3 EUR",
+          "label": "cuota mensual"
+        }
+      ]
+    },
+    "caffe-sospeso": {
+      "title": "Caffe sospeso",
+      "h1": "El caffe sospeso: la tradicion napolitana que inspira a COLHYBRI",
+      "metaTitle": "Caffe sospeso: tradicion napolitana digital",
+      "metaDescription": "El caffe sospeso (cafe suspendido) es una tradicion napolitana de 1900 donde un cliente paga dos cafes. COLHYBRI digitaliza este principio.",
+      "snippet": "El caffe sospeso (cafe suspendido) es una tradicion napolitana que data de 1900 donde un cliente paga dos cafes: uno para el y otro para un desconocido en necesidad. COLHYBRI digitaliza este principio de solidaridad anonima aplicandolo a todo el comercio de proximidad: peluquero, tintoreria, panaderia y todo servicio cotidiano.",
+      "sections": [
+        {
+          "h2": "Que es el caffe sospeso?",
+          "body": "El caffe sospeso es una tradicion nacida en los bares de Napoles a principios del siglo XX. Un cliente que tuvo suerte paga dos cafes en lugar de uno: consume el primero y deja el segundo suspendido en el bar para un desconocido que lo necesite. Es un gesto de solidaridad anonimo que no humilla a nadie."
+        },
+        {
+          "h2": "Por que COLHYBRI se inspira en el?",
+          "body": "El caffe sospeso ilustra perfectamente el modelo COLHYBRI: solidaridad anonima, gesto modesto, sin intermediario. COLHYBRI extiende este principio: en lugar de ofrecer solo cafes, permite ofrecer cualquier servicio de un comercio asociado. La digitalizacion elimina las fricciones preservando el espiritu."
+        },
+        {
+          "h2": "Como funciona concretamente?",
+          "body": "Cada suscriptor COLHYBRI paga 3 EUR/mes. El 75% de esa suma alimenta un pool solidario de barrio. Cada mes, el pool se redistribuye en forma de servicios ofrecidos aleatoriamente en comercios asociados. Un suscriptor puede a la vez dar y recibir. Es el caffe sospeso en version 2026."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que es el caffe sospeso?",
+          "a": "Una tradicion napolitana de principios del siglo XX: un cliente paga dos cafes, uno para el y otro suspendido en el bar para un desconocido en necesidad."
+        },
+        {
+          "q": "Por que COLHYBRI se inspira en el?",
+          "a": "El caffe sospeso ilustra el modelo COLHYBRI: solidaridad anonima, gesto modesto, sin intermediario. COLHYBRI lo extiende a todos los comercios."
+        },
+        {
+          "q": "Como funciona concretamente?",
+          "a": "3 EUR/mes, 75% al pool, servicios ofrecidos aleatoriamente en comercios asociados. Un suscriptor puede dar y recibir."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1900",
+          "label": "origen caffe sospeso"
+        },
+        {
+          "value": "Napoles",
+          "label": "ciudad de origen"
+        },
+        {
+          "value": "3 EUR",
+          "label": "cuota mensual"
+        },
+        {
+          "value": "75%",
+          "label": "al pool solidario"
+        }
+      ]
+    },
+    "economie-solidaire": {
+      "title": "Economia solidaria de barrio",
+      "h1": "La economia solidaria de barrio: como COLHYBRI reinventa el vinculo local",
+      "metaTitle": "Economia solidaria de barrio: el modelo COLHYBRI",
+      "metaDescription": "La economia solidaria de barrio combina mutualizacion, digitalizacion y compromiso. COLHYBRI activa los tres mecanismos por 3 EUR/mes.",
+      "snippet": "La economia solidaria de barrio combina tres mecanismos: la mutualizacion de recursos (pool solidario), la digitalizacion de los comercios (Maps+) y el compromiso comunitario (gamificacion). Por 3 EUR/mes por habitante y 10 EUR/mes por comercio, COLHYBRI crea un ecosistema donde la solidaridad genera facturacion para los comerciantes.",
+      "sections": [
+        {
+          "h2": "Que es la economia solidaria?",
+          "body": "La economia social y solidaria (ESS) agrupa asociaciones, mutuelles, cooperativas y fundaciones que ponen al ser humano antes que al beneficio. En Francia, representa el 14% del empleo privado y el 10% del PIB (Confederation francaise de l ESS, 2025)."
+        },
+        {
+          "h2": "Como se inscribe COLHYBRI en la ESS?",
+          "body": "COLHYBRI es una iniciativa privada que aplica los principios de la ESS al comercio de proximidad: gobernanza participativa, redistribucion equitativa, transparencia. El pool solidario redistribuye el 75% de las cotizaciones; el 25% restante cubre costes tecnicos."
+        },
+        {
+          "h2": "Cuales son los tres mecanismos de activacion?",
+          "body": "Primer mecanismo: la mutualizacion (pool solidario que redistribuye el 75%). Segundo: la digitalizacion (Maps+ hace visibles los comercios en Google). Tercer: el compromiso (26 mini-juegos locales, desafios de barrio, rankings por calle comercial)."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que es la economia solidaria?",
+          "a": "La ESS agrupa asociaciones, mutuelles, cooperativas y fundaciones. En Francia: 14% del empleo privado y 10% del PIB."
+        },
+        {
+          "q": "Como se inscribe COLHYBRI en la ESS?",
+          "a": "COLHYBRI aplica los principios de la ESS al comercio de proximidad: gobernanza participativa, redistribucion equitativa, transparencia."
+        },
+        {
+          "q": "Cuales son los tres mecanismos?",
+          "a": "Mutualizacion (pool), digitalizacion (Maps+) y compromiso (mini-juegos, desafios). Los tres crean un circulo virtuoso."
+        }
+      ],
+      "stats": [
+        {
+          "value": "14%",
+          "label": "empleo privado ESS FR"
+        },
+        {
+          "value": "10%",
+          "label": "PIB ESS FR"
+        },
+        {
+          "value": "75%",
+          "label": "redistribucion pool"
+        },
+        {
+          "value": "3 palancas",
+          "label": "circulo virtuoso"
+        }
+      ]
+    },
+    "pool-solidaire-quartier": {
+      "title": "Pool solidario de barrio",
+      "h1": "El pool solidario COLHYBRI: como funciona concretamente",
+      "metaTitle": "Pool solidario COLHYBRI: 4 pasos simples",
+      "metaDescription": "El pool solidario COLHYBRI funciona en 4 pasos: cotizacion, mutualizacion, distribucion aleatoria, servicio ofrecido. 3 EUR/mes, 75% redistribuido.",
+      "snippet": "El pool solidario COLHYBRI funciona en 4 pasos. Paso 1: cada suscriptor paga 3 EUR/mes. Paso 2: el 75% de las cotizaciones (2,25 EUR) alimenta el pool solidario comunitario. Paso 3: cada mes, el pool se distribuye de manera aleatoria en forma de bonos. Paso 4: los beneficiarios disfrutan de servicios ofrecidos en comercios asociados.",
+      "sections": [
+        {
+          "h2": "Que es un pool solidario?",
+          "body": "Un pool solidario es una caja comun alimentada por las contribuciones de varios miembros y redistribuida segun una regla transparente. COLHYBRI eligio una regla simple: cada mes, los beneficiarios son elegidos al azar entre los suscriptores del barrio. Todos tienen las mismas oportunidades."
+        },
+        {
+          "h2": "Como se seleccionan los beneficiarios?",
+          "body": "Los beneficiarios se eligen al azar por un algoritmo transparente y verificable cada mes. Un suscriptor puede ser elegido varias veces al ano, o nunca. Este azar asegura la equidad y crea un efecto de sorpresa positiva. La seleccion es publica."
+        },
+        {
+          "h2": "Por que 75% y no 100%?",
+          "body": "El 75% de las cotizaciones alimenta el pool redistribuido. El 25% restante cubre los costes tecnicos de la plataforma, los costes operativos (contabilidad, legal) y el margen de COLHYBRI. Es un ratio transparente que permite al modelo funcionar de forma sostenible."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que es un pool solidario?",
+          "a": "Una caja comun alimentada por las contribuciones de varios miembros y redistribuida segun una regla transparente. En COLHYBRI, los beneficiarios son elegidos al azar cada mes."
+        },
+        {
+          "q": "Como se seleccionan los beneficiarios?",
+          "a": "Al azar por un algoritmo transparente y verificable. Un suscriptor puede ser elegido varias veces o nunca. La seleccion es publica."
+        },
+        {
+          "q": "Por que 75% y no 100%?",
+          "a": "75% alimenta el pool redistribuido. 25% cubre costes tecnicos, operativos y el margen. Ratio transparente, modelo sostenible sin subvencion."
+        }
+      ],
+      "stats": [
+        {
+          "value": "4 pasos",
+          "label": "mecanismo del pool"
+        },
+        {
+          "value": "75%",
+          "label": "al pool redistribuido"
+        },
+        {
+          "value": "3 EUR",
+          "label": "cuota mensual"
+        },
+        {
+          "value": "aleatorio",
+          "label": "seleccion mensual"
+        }
+      ]
+    },
+    "commerce-equitable-local": {
+      "title": "Comercio justo local",
+      "h1": "Comercio justo local: cero comision, 100% solidaridad",
+      "metaTitle": "Comercio justo local: modelo 0% comision",
+      "metaDescription": "UberEats cobra 30%, JustEat 25%, Petitscommerces 15%. COLHYBRI ofrece 0% de comision con una cuota fija de 10 EUR/mes.",
+      "snippet": "Mientras que UberEats cobra el 30% de comision, JustEat el 25% y Petitscommerces el 15%, COLHYBRI ofrece un modelo de 0% de comision para los comerciantes. La cuota fija de 10 EUR/mes reemplaza las comisiones variables que erosionan los margenes. Es el comercio justo aplicado al local.",
+      "sections": [
+        {
+          "h2": "Que es el comercio justo local?",
+          "body": "El comercio justo local es la aplicacion de los principios del comercio justo (precio justo, relacion directa, sin intermediario parasito) a los intercambios de proximidad. Busca preservar los margenes de los productores y comerciantes frente a las plataformas que cobran altas comisiones."
+        },
+        {
+          "h2": "Por que 0% de comision?",
+          "body": "Las comisiones variables de las plataformas (30% UberEats, 25% JustEat) erosionan mecanicamente los margenes de los comercios, que ya estan entre 8-15% neto. Un comercio que vende a 10 EUR via una plataforma al 30% solo conserva 7 EUR brutos. COLHYBRI preserva los margenes con una cuota fija de 10 EUR/mes."
+        },
+        {
+          "h2": "Como es rentable COLHYBRI al 0%?",
+          "body": "COLHYBRI es rentable gracias al efecto volumen de la suscripcion. Para 500 comerciantes por ciudad, son 5.000 EUR/mes de ingresos recurrentes por ciudad, sin depender del volumen de venta. Es un modelo SaaS clasico aplicado al comercio local."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que es el comercio justo local?",
+          "a": "La aplicacion de los principios del comercio justo a los intercambios de proximidad. Objetivo: preservar los margenes de los comerciantes."
+        },
+        {
+          "q": "Por que 0% de comision en COLHYBRI?",
+          "a": "Las plataformas clasicas erosionan mecanicamente los margenes. COLHYBRI los preserva con una cuota fija de 10 EUR/mes."
+        },
+        {
+          "q": "Como es rentable COLHYBRI al 0%?",
+          "a": "Efecto volumen: 500 comerciantes = 5.000 EUR/mes de ingresos recurrentes por ciudad. Modelo SaaS clasico."
+        }
+      ],
+      "stats": [
+        {
+          "value": "0%",
+          "label": "comision COLHYBRI"
+        },
+        {
+          "value": "30%",
+          "label": "comision UberEats"
+        },
+        {
+          "value": "10 EUR",
+          "label": "cuota fija"
+        },
+        {
+          "value": "8-15%",
+          "label": "margen neto comercios"
+        }
+      ]
+    },
+    "cooperative-quartier": {
+      "title": "Cooperativa de barrio digital",
+      "h1": "La cooperativa de barrio digital: el modelo COLHYBRI",
+      "metaTitle": "Cooperativa de barrio digital: mutua, no caridad",
+      "metaDescription": "COLHYBRI es una mutua de barrio digital. Autofinanciada por las suscripciones, sin subvencion ni donacion. Esto no es caridad.",
+      "snippet": "COLHYBRI funciona como una cooperativa de barrio digital donde cada miembro (suscriptor o comerciante) contribuye a un bien comun: el pool solidario. Contrariamente a una asociacion o una ONG, el modelo es autofinanciado por las suscripciones y no depende de ninguna subvencion. Es una mutua, no caridad.",
+      "sections": [
+        {
+          "h2": "Que es una cooperativa de barrio?",
+          "body": "Una cooperativa de barrio es una estructura de intercambio local basada en la contribucion voluntaria de sus miembros. Historicamente, las cooperativas de consumo permitian a los trabajadores comprar juntos para obtener mejores precios. COLHYBRI transpone este principio a lo digital con una herramienta SaaS."
+        },
+        {
+          "h2": "Cual es la diferencia con una asociacion?",
+          "body": "Una asociacion vive de donaciones, subvenciones y cuotas voluntarias. Depende estructuralmente de financiadores externos. COLHYBRI no tiene donaciones ni subvenciones: el modelo es autofinanciado por las suscripciones (3 EUR particulares, 10 EUR comerciantes). Esto garantiza la sostenibilidad y la independencia."
+        },
+        {
+          "h2": "Por que no es caridad?",
+          "body": "La caridad implica una relacion asimetrica: un donante acomodado y un beneficiario en necesidad. COLHYBRI es simetrico: cada suscriptor paga la misma cuota y tiene las mismas oportunidades de recibir un servicio. Nadie es humillado, nadie es etiquetado como pobre."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que es una cooperativa de barrio?",
+          "a": "Una estructura de intercambio local basada en la contribucion voluntaria de sus miembros. COLHYBRI lo transpone a lo digital con una herramienta SaaS."
+        },
+        {
+          "q": "Cual es la diferencia con una asociacion?",
+          "a": "Las asociaciones dependen de donaciones y subvenciones. COLHYBRI es autofinanciado por las suscripciones, garantizando la sostenibilidad."
+        },
+        {
+          "q": "Por que no es caridad?",
+          "a": "Caridad = relacion asimetrica donante/beneficiario. COLHYBRI es simetrico: cada suscriptor paga la misma cuota y tiene oportunidades iguales."
+        }
+      ],
+      "stats": [
+        {
+          "value": "Mutua",
+          "label": "no caridad"
+        },
+        {
+          "value": "Autofinanciado",
+          "label": "sin subvencion"
+        },
+        {
+          "value": "Simetrico",
+          "label": "cada suscriptor igual"
+        },
+        {
+          "value": "0 donacion",
+          "label": "en el modelo"
+        }
+      ]
+    },
+    "fidelisation-communautaire": {
+      "title": "Fidelizacion comunitaria",
+      "h1": "Fidelizacion comunitaria: como COLHYBRI retiene a los clientes locales",
+      "metaTitle": "Fidelizacion comunitaria: pool, gamificacion, efecto red",
+      "metaDescription": "COLHYBRI combina pool solidario, gamificacion (26 mini-juegos) y efecto red para alcanzar mas del 60% de retencion.",
+      "snippet": "La fidelizacion comunitaria COLHYBRI se basa en tres palancas: el pool solidario (los suscriptores reciben servicios ofrecidos), la gamificacion (26 mini-juegos, desafios de barrio, rankings) y el efecto red (mas suscriptores = mas servicios disponibles). La tasa de retencion esperada supera el 60%, frente a menos del 30% de los programas clasicos.",
+      "sections": [
+        {
+          "h2": "Que es la fidelizacion comunitaria?",
+          "body": "La fidelizacion comunitaria se distingue de la fidelizacion individual clasica (tarjetas de puntos) por su dimension colectiva. En lugar de recompensar las compras repetidas, recompensa la participacion en una comunidad de barrio. El compromiso es social en lugar de transaccional."
+        },
+        {
+          "h2": "Cuales son las tres palancas de COLHYBRI?",
+          "body": "Primera palanca: el pool solidario que redistribuye el 75% de las cotizaciones. Segunda: la gamificacion con 26 mini-juegos locales, desafios y rankings. Tercera: el efecto red que aumenta el valor percibido a medida que nuevos suscriptores se unen a la comunidad."
+        },
+        {
+          "h2": "Por que la retencion es superior?",
+          "body": "Los programas clasicos alcanzan el 20-30% de retencion anual. COLHYBRI apunta a mas del 60% gracias a tres efectos acumulados: la adiccion a los mini-juegos (similar a Duolingo), la sorpresa positiva de los servicios ofrecidos, y el efecto red que hace costoso socialmente darse de baja."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Que es la fidelizacion comunitaria?",
+          "a": "Un modelo que recompensa la participacion en una comunidad de barrio en lugar de las compras repetidas. El compromiso es social en lugar de transaccional."
+        },
+        {
+          "q": "Cuales son las tres palancas?",
+          "a": "Pool solidario (servicios ofrecidos), gamificacion (26 mini-juegos, desafios), efecto red (valor creciente con el numero de suscriptores)."
+        },
+        {
+          "q": "Por que la retencion es superior?",
+          "a": "Apunta a mas del 60% gracias a la adiccion a los mini-juegos, la sorpresa de los servicios ofrecidos, y el efecto red."
+        }
+      ],
+      "stats": [
+        {
+          "value": "60%+",
+          "label": "retencion objetivo"
+        },
+        {
+          "value": "26",
+          "label": "mini-juegos"
+        },
+        {
+          "value": "3 palancas",
+          "label": "fidelizacion"
+        },
+        {
+          "value": "20-30%",
+          "label": "retencion clasica"
         }
       ]
     }
