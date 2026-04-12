@@ -4,10 +4,17 @@
 
 @layer base {
   :root {
-    --colhybri-primary: #00A878;
-    --colhybri-secondary: #FF6B35;
+    /* New brand palette (revitalization positioning) */
+    --colhybri-teal: #008080;
+    --colhybri-gold: #D4A843;
+    --colhybri-cream: #FAFAF8;
     --colhybri-dark: #1A1A2E;
-    --colhybri-light: #FAFAF7;
+    --colhybri-success: #2D8C4E;
+    --colhybri-danger: #CC3333;
+    /* Legacy aliases */
+    --colhybri-primary: #008080;
+    --colhybri-secondary: #D4A843;
+    --colhybri-light: #FAFAF8;
   }
 
   html {
@@ -17,36 +24,36 @@
   }
 
   body {
-    @apply bg-colhybri-light text-colhybri-dark antialiased;
+    @apply bg-colhybri-cream text-colhybri-dark antialiased font-sans;
     font-feature-settings: 'kern' 1, 'liga' 1;
     overflow-x: hidden;
   }
 
   h1, h2, h3, h4, h5, h6 {
-    @apply font-bold tracking-tight;
+    @apply font-display font-semibold tracking-tight;
   }
 }
 
 @layer components {
   .btn-primary {
     @apply inline-flex items-center justify-center px-6 py-3 rounded-lg
-           bg-colhybri-primary text-white font-semibold
-           hover:bg-colhybri-primary/90 transition-colors duration-200
-           focus:outline-none focus:ring-2 focus:ring-colhybri-primary focus:ring-offset-2;
+           bg-colhybri-teal text-white font-semibold
+           hover:bg-colhybri-teal/90 transition-colors duration-200
+           focus:outline-none focus:ring-2 focus:ring-colhybri-teal focus:ring-offset-2;
   }
 
   .btn-secondary {
     @apply inline-flex items-center justify-center px-6 py-3 rounded-lg
-           border-2 border-colhybri-primary text-colhybri-primary font-semibold
-           hover:bg-colhybri-primary hover:text-white transition-colors duration-200
-           focus:outline-none focus:ring-2 focus:ring-colhybri-primary focus:ring-offset-2;
+           border-2 border-colhybri-gold text-colhybri-dark font-semibold
+           hover:bg-colhybri-gold hover:text-colhybri-dark transition-colors duration-200
+           focus:outline-none focus:ring-2 focus:ring-colhybri-gold focus:ring-offset-2;
   }
 
   .btn-accent {
     @apply inline-flex items-center justify-center px-6 py-3 rounded-lg
-           bg-colhybri-secondary text-white font-semibold
-           hover:bg-colhybri-secondary/90 transition-colors duration-200
-           focus:outline-none focus:ring-2 focus:ring-colhybri-secondary focus:ring-offset-2;
+           bg-colhybri-gold text-colhybri-dark font-semibold
+           hover:bg-colhybri-gold/90 transition-colors duration-200
+           focus:outline-none focus:ring-2 focus:ring-colhybri-gold focus:ring-offset-2;
   }
 
   .section-container {
@@ -54,16 +61,20 @@
   }
 
   .section-heading {
-    @apply text-3xl sm:text-4xl lg:text-5xl font-bold text-colhybri-dark mb-6;
+    @apply font-display text-3xl sm:text-4xl lg:text-5xl font-semibold text-colhybri-dark mb-6;
   }
 
   .section-subheading {
-    @apply text-lg sm:text-xl text-colhybri-dark/70 max-w-3xl;
+    @apply text-lg sm:text-xl text-colhybri-dark/70 max-w-3xl font-sans;
   }
 
   .card {
     @apply bg-white rounded-2xl shadow-sm border border-gray-100 p-6 sm:p-8
            hover:shadow-md transition-shadow duration-200;
+  }
+
+  .data-number {
+    @apply font-mono font-bold text-colhybri-teal;
   }
 }
 

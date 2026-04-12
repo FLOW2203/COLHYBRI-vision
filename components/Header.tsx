@@ -11,23 +11,17 @@ import type { Locale } from '@/i18n';
 const navLinks = [
   'mission',
   'how-it-works',
-  'pricing',
   'impact',
-  'for-shops',
-  'miami',
-  'faq',
-  'contact',
+  'for-cities',
+  'investors',
 ] as const;
 
 const navTranslationMap: Record<string, string> = {
   mission: 'mission',
   'how-it-works': 'howItWorks',
-  pricing: 'pricing',
   impact: 'impact',
-  'for-shops': 'forShops',
-  miami: 'miami',
-  faq: 'faq',
-  contact: 'contact',
+  'for-cities': 'forCities',
+  investors: 'investors',
 };
 
 export function Header() {
@@ -37,7 +31,7 @@ export function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 bg-colhybri-light/95 backdrop-blur-sm border-b border-gray-100">
+    <header className="sticky top-0 z-50 bg-colhybri-cream/95 backdrop-blur-sm border-b border-gray-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
@@ -47,12 +41,12 @@ export function Header() {
           >
             <span className="text-2xl" role="img" aria-label="Hummingbird">
               <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-                <circle cx="16" cy="16" r="16" fill="#00A878" />
+                <circle cx="16" cy="16" r="16" fill="#008080" />
                 <path d="M10 20c2-4 6-8 12-10-2 4-4 6-6 8l-2 4-4-2z" fill="white" />
-                <circle cx="20" cy="12" r="1.5" fill="white" />
+                <circle cx="20" cy="12" r="1.5" fill="#D4A843" />
               </svg>
             </span>
-            <span>COLHYBRI</span>
+            <span className="font-display">COLHYBRI</span>
           </Link>
 
           {/* Desktop Nav */}
@@ -61,7 +55,7 @@ export function Header() {
               <Link
                 key={key}
                 href={getLocalizedPath(key, locale)}
-                className="text-sm font-medium text-colhybri-dark/70 hover:text-colhybri-primary transition-colors"
+                className="text-sm font-medium text-colhybri-dark/70 hover:text-colhybri-teal transition-colors"
               >
                 {t(navTranslationMap[key])}
               </Link>
@@ -106,7 +100,7 @@ export function Header() {
                 <Link
                   key={key}
                   href={getLocalizedPath(key, locale)}
-                  className="px-3 py-2 rounded-lg text-sm font-medium text-colhybri-dark/70 hover:bg-colhybri-primary/5 hover:text-colhybri-primary transition-colors"
+                  className="px-3 py-2 rounded-lg text-sm font-medium text-colhybri-dark/70 hover:bg-colhybri-teal/5 hover:text-colhybri-teal transition-colors"
                   onClick={() => setMobileOpen(false)}
                 >
                   {t(navTranslationMap[key])}

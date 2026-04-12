@@ -33,9 +33,9 @@ export function Footer({ locale }: FooterProps) {
           <div className="md:col-span-1">
             <Link href={`/${locale}`} className="flex items-center gap-2 font-bold text-xl mb-4">
               <svg width="28" height="28" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-                <circle cx="16" cy="16" r="16" fill="#00A878" />
+                <circle cx="16" cy="16" r="16" fill="#008080" />
                 <path d="M10 20c2-4 6-8 12-10-2 4-4 6-6 8l-2 4-4-2z" fill="white" />
-                <circle cx="20" cy="12" r="1.5" fill="white" />
+                <circle cx="20" cy="12" r="1.5" fill="#D4A843" />
               </svg>
               <span>COLHYBRI</span>
             </Link>
@@ -53,7 +53,7 @@ export function Footer({ locale }: FooterProps) {
                 <Link
                   key={key}
                   href={getLocalizedPath(key, locale)}
-                  className="text-sm text-white/60 hover:text-colhybri-primary transition-colors py-1"
+                  className="text-sm text-white/60 hover:text-colhybri-teal transition-colors py-1"
                 >
                   {label}
                 </Link>
@@ -66,7 +66,7 @@ export function Footer({ locale }: FooterProps) {
             <h3 className="font-semibold mb-4 text-white/80">{nav('contact')}</h3>
             <a
               href="mailto:onlymore2024@gmail.com"
-              className="text-sm text-white/60 hover:text-colhybri-primary transition-colors block mb-2"
+              className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block mb-2"
             >
               onlymore2024@gmail.com
             </a>
@@ -74,19 +74,19 @@ export function Footer({ locale }: FooterProps) {
               href="https://www.colhybri.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-sm text-white/60 hover:text-colhybri-primary transition-colors block mb-2"
+              className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block mb-2"
             >
               {t('accessApp')}
             </a>
             <a
               href="https://www.colhybri.vision/fr/mission"
-              className="text-sm text-white/60 hover:text-colhybri-primary transition-colors block mb-2"
+              className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block mb-2"
             >
               {nav('mission')}
             </a>
             <a
               href="https://www.colhybri.vision/fr/faq"
-              className="text-sm text-white/60 hover:text-colhybri-primary transition-colors block mb-4"
+              className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block mb-4"
             >
               {nav('faq')}
             </a>

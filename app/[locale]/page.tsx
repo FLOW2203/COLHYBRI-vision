@@ -7,8 +7,6 @@ import { getLocalizedPath } from '@/lib/navigation';
 import { JsonLd } from '@/components/JsonLd';
 import { AnimatedCounter } from '@/components/AnimatedCounter';
 import { LocalStats } from '@/components/LocalStats';
-import { ThirdPlaceHero } from '@/components/ThirdPlaceHero';
-import { LegendHero } from '@/components/LegendHero';
 
 interface PageProps {
   params: { locale: string };
@@ -21,16 +19,63 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
     routeKey: 'home',
     title: 'COLHYBRI',
     description: t('description'),
-    semanticPrimary: 'financial inclusion platform local commerce',
-    semanticSecondary: 'underbanked, fintech, community banking, Keynesian multiplier, hummingbird economy',
+    semanticPrimary: 'downtown revitalization neighborhood community support',
+    semanticSecondary: 'main street revitalization, local commerce, digital mutual, Keynesian multiplier, ZRCV, Opportunity Zones',
     chunkType: 'landing',
-    audience: 'underbanked individuals, local shop owners, city officials, investors',
+    audience: 'cities, institutions, merchants, investors, residents',
   });
+}
+
+// SVG Icons as inline components for the three solution pillars
+function IconDrop() {
+  return (
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#008080" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+      <path d="M12 2.69l5.66 5.66a8 8 0 11-11.31 0z" />
+    </svg>
+  );
+}
+
+function IconRadar() {
+  return (
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#008080" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+      <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z" />
+      <circle cx="12" cy="10" r="3" />
+    </svg>
+  );
+}
+
+function IconPlay() {
+  return (
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#008080" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+      <polygon points="12 2 15 8.5 22 9.3 17 14.1 18.2 21 12 17.8 5.8 21 7 14.1 2 9.3 9 8.5 12 2" />
+    </svg>
+  );
+}
+
+// Animated hummingbird silhouette in hero background
+function HummingbirdBackdrop() {
+  return (
+    <svg
+      className="pointer-events-none absolute inset-0 mx-auto my-auto h-[70%] w-[70%] max-w-4xl opacity-10"
+      viewBox="0 0 400 300"
+      aria-hidden="true"
+    >
+      <g fill="#008080">
+        <path d="M200 150c-30-20-60-15-85 5 15-35 50-50 85-40 20 5 35 15 45 30-12 10-30 10-45 5z" />
+        <g style={{ transformOrigin: '200px 145px' }} className="animate-wing-flap">
+          <path d="M205 140c20-30 60-45 95-35-15 30-50 50-85 45-5 0-7-5-10-10z" opacity="0.7" />
+        </g>
+        <circle cx="245" cy="128" r="3" fill="#D4A843" />
+      </g>
+    </svg>
+  );
 }
 
 export default function HomePage({ params: { locale } }: PageProps) {
   const t = useTranslations();
   const l = locale as Locale;
+
+  const institutionalBadges = [0, 1, 2, 3, 4];
 
   return (
     <>
@@ -38,35 +83,43 @@ export default function HomePage({ params: { locale } }: PageProps) {
       <JsonLd data={generateWebSiteJsonLd(l)} />
       <JsonLd data={generateMythologyJsonLd(l)} />
 
-      {/* Hero Section */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-colhybri-light via-white to-colhybri-primary/5">
-        <div className="section-container text-center">
-          {/* Embedding-optimized opening: entity + concept + value + location + person within first 200 words */}
+      {/* ================= Section 1: HERO ================= */}
+      <section className="relative overflow-hidden bg-colhybri-cream min-h-[85vh] flex items-center">
+        <HummingbirdBackdrop />
+        <div className="section-container text-center relative z-10">
           <div data-type="definition" data-concept="COLHYBRI" lang={locale}>
-            <p className="text-colhybri-primary font-semibold mb-4 text-sm sm:text-base tracking-wide uppercase">
+            <p className="text-colhybri-teal font-sans font-semibold mb-6 text-sm sm:text-base tracking-widest uppercase">
               {t('hero.tagline')}
             </p>
           </div>
 
-          <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-extrabold text-colhybri-dark mb-6 max-w-5xl mx-auto leading-tight">
+          <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-semibold text-colhybri-dark mb-6 max-w-5xl mx-auto leading-[1.05]">
             {t('hero.headline')}
           </h1>
 
-          <p className="text-lg sm:text-xl text-colhybri-dark/70 max-w-3xl mx-auto mb-10 leading-relaxed">
+          <p className="font-sans text-lg sm:text-xl text-colhybri-dark/70 max-w-3xl mx-auto mb-10 leading-relaxed">
             {t('hero.subheadline')}
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
-            <a href="https://www.colhybri.com" target="_blank" rel="noopener noreferrer" className="btn-primary text-lg px-8 py-4">
+            <a
+              href="https://www.colhybri.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-primary text-lg px-8 py-4"
+            >
               {t('hero.cta')}
             </a>
-            <Link href={getLocalizedPath('how-it-works', l)} className="btn-secondary text-lg px-8 py-4">
+            <Link
+              href={getLocalizedPath('impact', l)}
+              className="btn-secondary text-lg px-8 py-4"
+            >
               {t('hero.ctaSecondary')}
             </Link>
           </div>
 
-          {/* Stats */}
-          <div className="grid grid-cols-3 gap-8 max-w-3xl mx-auto">
+          {/* Three hero stats (no pre-seed, no pricing) */}
+          <div className="grid grid-cols-3 gap-6 sm:gap-8 max-w-3xl mx-auto">
             <AnimatedCounter
               value={t('hero.stats.stage')}
               label={t('hero.stats.stageLabel')}
@@ -83,225 +136,186 @@ export default function HomePage({ params: { locale } }: PageProps) {
         </div>
       </section>
 
-      {/* Mission Section */}
-      <section className="bg-white" id="mission">
+      {/* ================= Section 2: THE PROBLEM ================= */}
+      <section className="bg-white" id="problem">
         <div className="section-container">
-          <div className="text-center mb-16">
-            <h2 className="section-heading">{t('mission.headline')}</h2>
-            <p className="section-subheading mx-auto">{t('mission.description')}</p>
-          </div>
-
-          <div className="grid md:grid-cols-3 gap-8">
-            <div className="card text-center">
-              <div className="w-16 h-16 rounded-2xl bg-colhybri-primary/10 flex items-center justify-center mx-auto mb-6">
-                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#00A878" strokeWidth="2" aria-hidden="true">
-                  <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
-                </svg>
-              </div>
-              <h3 className="text-xl font-bold mb-3">{t('mission.pillars.inclusion.title')}</h3>
-              <p className="text-colhybri-dark/60">{t('mission.pillars.inclusion.description')}</p>
-            </div>
-
-            <div className="card text-center">
-              <div className="w-16 h-16 rounded-2xl bg-colhybri-secondary/10 flex items-center justify-center mx-auto mb-6">
-                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#FF6B35" strokeWidth="2" aria-hidden="true">
-                  <path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z" />
-                  <polyline points="9 22 9 12 15 12 15 22" />
-                </svg>
-              </div>
-              <h3 className="text-xl font-bold mb-3">{t('mission.pillars.commerce.title')}</h3>
-              <p className="text-colhybri-dark/60">{t('mission.pillars.commerce.description')}</p>
-            </div>
-
-            <div className="card text-center">
-              <div className="w-16 h-16 rounded-2xl bg-colhybri-primary/10 flex items-center justify-center mx-auto mb-6">
-                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#00A878" strokeWidth="2" aria-hidden="true">
-                  <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2" />
-                  <circle cx="9" cy="7" r="4" />
-                  <path d="M23 21v-2a4 4 0 00-3-3.87" />
-                  <path d="M16 3.13a4 4 0 010 7.75" />
-                </svg>
-              </div>
-              <h3 className="text-xl font-bold mb-3">{t('mission.pillars.community.title')}</h3>
-              <p className="text-colhybri-dark/60">{t('mission.pillars.community.description')}</p>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* How It Works Section */}
-      <section className="bg-colhybri-light" id="how-it-works">
-        <div className="section-container">
-          <div className="text-center mb-16">
-            <h2 className="section-heading">{t('howItWorks.headline')}</h2>
+          <div className="text-center mb-16 max-w-3xl mx-auto">
+            <h2 className="section-heading">{t('problem.headline')}</h2>
+            <p className="section-subheading mx-auto">{t('problem.subheadline')}</p>
           </div>
 
           <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
-            {(['subscribe', 'connect', 'thrive'] as const).map((step, index) => (
-              <div key={step} className="relative">
-                <div className="card text-center">
-                  <div className="w-12 h-12 rounded-full bg-colhybri-primary text-white flex items-center justify-center mx-auto mb-6 text-xl font-bold">
-                    {index + 1}
-                  </div>
-                  <h3 className="text-xl font-bold mb-3">{t(`howItWorks.steps.${step}.title`)}</h3>
-                  <p className="text-colhybri-dark/60">{t(`howItWorks.steps.${step}.description`)}</p>
+            {(['vacancy', 'invisible', 'commission'] as const).map((key) => (
+              <div
+                key={key}
+                className="text-center p-8 rounded-2xl bg-colhybri-cream border border-colhybri-teal/10"
+              >
+                <div className="font-mono font-bold text-5xl sm:text-6xl text-colhybri-teal mb-2 leading-none">
+                  {t(`problem.stats.${key}.value`)}
+                  <span className="text-3xl">{t(`problem.stats.${key}.unit`)}</span>
                 </div>
-                {index < 2 && (
-                  <div className="hidden md:block absolute top-1/2 -right-4 transform -translate-y-1/2 text-colhybri-primary/30">
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-                      <path d="M5 12h14M12 5l7 7-7 7" />
-                    </svg>
-                  </div>
-                )}
+                <p className="font-sans text-colhybri-dark/70 mt-4 text-sm sm:text-base">
+                  {t(`problem.stats.${key}.label`)}
+                </p>
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Impact Section */}
-      <section className="bg-colhybri-dark text-white" id="impact">
-        <div className="section-container text-center">
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-6">{t('impact.headline')}</h2>
-          <p className="text-white/70 text-lg max-w-3xl mx-auto mb-12">{t('impact.description')}</p>
+      {/* ================= Section 3: THE SOLUTION (3 pillars) ================= */}
+      <section className="bg-colhybri-cream" id="solution">
+        <div className="section-container">
+          <div className="text-center mb-16 max-w-3xl mx-auto">
+            <h2 className="section-heading">{t('solution.headline')}</h2>
+            <p className="section-subheading mx-auto">{t('solution.subheadline')}</p>
+          </div>
 
-          <div className="grid sm:grid-cols-3 gap-8 max-w-4xl mx-auto">
-            <div>
-              <div className="text-4xl sm:text-5xl font-bold text-colhybri-primary mb-2">
-                <span data-fact="true" data-value="7.50" data-unit="USD">{t('impact.metrics.localValue.value')}</span>
+          <div className="grid md:grid-cols-3 gap-8">
+            <div className="card text-left hover:-translate-y-1 transition-transform">
+              <div className="w-16 h-16 rounded-2xl bg-colhybri-teal/10 flex items-center justify-center mb-6">
+                <IconDrop />
               </div>
-              <p className="text-white/60">{t('impact.metrics.localValue.label')}</p>
+              <h3 className="font-display text-2xl font-semibold mb-3">{t('solution.pillar1.title')}</h3>
+              <p className="text-colhybri-dark/70 font-sans">{t('solution.pillar1.description')}</p>
             </div>
-            <div>
-              <div className="text-4xl sm:text-5xl font-bold text-colhybri-secondary mb-2">
-                {t('impact.metrics.jobsCreated.value')}
+
+            <div className="card text-left hover:-translate-y-1 transition-transform">
+              <div className="w-16 h-16 rounded-2xl bg-colhybri-teal/10 flex items-center justify-center mb-6">
+                <IconRadar />
               </div>
-              <p className="text-white/60">{t('impact.metrics.jobsCreated.label')}</p>
+              <h3 className="font-display text-2xl font-semibold mb-3">{t('solution.pillar2.title')}</h3>
+              <p className="text-colhybri-dark/70 font-sans">{t('solution.pillar2.description')}</p>
             </div>
-            <div>
-              <div className="text-4xl sm:text-5xl font-bold text-colhybri-primary mb-2">
-                <span data-fact="true" data-value="68" data-unit="percent">{t('impact.metrics.moneyLocal.value')}</span>
+
+            <div className="card text-left hover:-translate-y-1 transition-transform">
+              <div className="w-16 h-16 rounded-2xl bg-colhybri-teal/10 flex items-center justify-center mb-6">
+                <IconPlay />
               </div>
-              <p className="text-white/60">{t('impact.metrics.moneyLocal.label')}</p>
+              <h3 className="font-display text-2xl font-semibold mb-3">{t('solution.pillar3.title')}</h3>
+              <p className="text-colhybri-dark/70 font-sans">{t('solution.pillar3.description')}</p>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Trust & Loneliness Barometer — Third Place Section */}
-      <ThirdPlaceHero locale={locale} />
+      {/* ================= Section 4: INSTITUTIONAL BADGES ================= */}
+      <section className="bg-white" id="institutional">
+        <div className="section-container text-center">
+          <h2 className="section-heading">{t('institutional.headline')}</h2>
+          <p className="section-subheading mx-auto mb-12">{t('institutional.subheadline')}</p>
 
-      {/* Local Impact Section */}
+          <div className="flex flex-wrap gap-4 justify-center max-w-4xl mx-auto">
+            {institutionalBadges.map((i) => (
+              <span
+                key={i}
+                className="inline-block border-2 border-colhybri-teal/20 rounded-full px-6 py-3 font-sans font-medium text-colhybri-dark bg-colhybri-cream"
+              >
+                {t(`institutional.badges.${i}`)}
+              </span>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ================= Section 5: WORLD IMPACT (regional cards) ================= */}
+      <section className="bg-colhybri-cream" id="world-impact">
+        <div className="section-container">
+          <div className="text-center mb-16 max-w-3xl mx-auto">
+            <h2 className="section-heading">{t('worldImpact.headline')}</h2>
+            <p className="section-subheading mx-auto">{t('worldImpact.subheadline')}</p>
+          </div>
+
+          <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-6">
+            {(['france', 'usa', 'europe', 'latam', 'africa'] as const).map((region) => (
+              <Link
+                key={region}
+                href={`${getLocalizedPath('impact', l)}/${region}`}
+                className="group card text-left hover:border-colhybri-teal transition-colors"
+              >
+                <h3 className="font-display text-xl font-semibold mb-2 group-hover:text-colhybri-teal transition-colors">
+                  {t(`worldImpact.regions.${region}.title`)}
+                </h3>
+                <p className="text-sm text-colhybri-dark/70 font-sans leading-relaxed">
+                  {t(`worldImpact.regions.${region}.detail`)}
+                </p>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ================= Section 6: TRIPLE-PLAY ONLYMORE ================= */}
+      <section className="bg-white" id="triple-play">
+        <div className="section-container">
+          <div className="text-center mb-16 max-w-3xl mx-auto">
+            <h2 className="section-heading">{t('triplePlay.headline')}</h2>
+            <p className="section-subheading mx-auto">{t('triplePlay.subheadline')}</p>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+            {(['col1', 'col2', 'col3'] as const).map((key, i) => (
+              <div
+                key={key}
+                className="text-center p-8 rounded-2xl bg-colhybri-cream border border-colhybri-teal/10"
+              >
+                <div className="font-display text-3xl font-bold text-colhybri-dark mb-2">
+                  {t(`triplePlay.${key}.brand`)}
+                </div>
+                <div className="h-1 w-16 mx-auto my-4" style={{ background: i === 1 ? '#D4A843' : '#008080' }} />
+                <p className="font-sans text-colhybri-dark/70">{t(`triplePlay.${key}.tag`)}</p>
+              </div>
+            ))}
+          </div>
+
+          <blockquote className="mt-16 max-w-3xl mx-auto text-center">
+            <p className="font-display italic text-xl sm:text-2xl text-colhybri-dark/80 leading-relaxed">
+              {t('triplePlay.quote')}
+            </p>
+          </blockquote>
+        </div>
+      </section>
+
+      {/* Local impact (kept from existing component) */}
       <LocalStats locale={l} />
 
-      {/* Pricing Section */}
-      <section className="bg-white" id="pricing">
-        <div className="section-container">
-          <div className="text-center mb-16">
-            <h2 className="section-heading">{t('pricing.headline')}</h2>
-          </div>
-
-          <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-            {/* Individuals Card */}
-            <div className="card border-2 border-colhybri-primary/20 hover:border-colhybri-primary transition-colors">
-              <div className="text-center">
-                <h3 className="text-xl font-bold mb-4">{t('pricing.individuals.title')}</h3>
-                <div className="mb-6">
-                  <span className="text-5xl font-extrabold text-colhybri-primary">{t('pricing.individuals.price')}</span>
-                  <span className="text-colhybri-dark/50">{t('pricing.individuals.period')}</span>
-                </div>
-                <ul className="text-left space-y-3 mb-8">
-                  {[0, 1, 2, 3, 4, 5].map((i) => (
-                    <li key={i} className="flex items-start gap-3">
-                      <svg className="w-5 h-5 text-colhybri-primary flex-shrink-0 mt-0.5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                        <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                      </svg>
-                      <span className="text-colhybri-dark/70">{t(`pricing.individuals.features.${i}`)}</span>
-                    </li>
-                  ))}
-                </ul>
-                <Link href={getLocalizedPath('contact', l)} className="btn-primary w-full">
-                  {t('pricing.individuals.cta')}
-                </Link>
-              </div>
-            </div>
-
-            {/* Shops Card */}
-            <div className="card border-2 border-colhybri-secondary/20 hover:border-colhybri-secondary transition-colors">
-              <div className="text-center">
-                <h3 className="text-xl font-bold mb-4">{t('pricing.shops.title')}</h3>
-                <div className="mb-6">
-                  <span className="text-5xl font-extrabold text-colhybri-secondary">{t('pricing.shops.price')}</span>
-                  <span className="text-colhybri-dark/50">{t('pricing.shops.period')}</span>
-                </div>
-                <ul className="text-left space-y-3 mb-8">
-                  {[0, 1, 2, 3, 4, 5].map((i) => (
-                    <li key={i} className="flex items-start gap-3">
-                      <svg className="w-5 h-5 text-colhybri-secondary flex-shrink-0 mt-0.5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                        <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                      </svg>
-                      <span className="text-colhybri-dark/70">{t(`pricing.shops.features.${i}`)}</span>
-                    </li>
-                  ))}
-                </ul>
-                <Link href={getLocalizedPath('contact', l)} className="btn-accent w-full">
-                  {t('pricing.shops.cta')}
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Miami Section */}
-      <section className="bg-gradient-to-br from-colhybri-primary/5 to-colhybri-secondary/5" id="miami">
-        <div className="section-container">
-          <div className="max-w-4xl mx-auto">
-            <h2 className="section-heading text-center">{t('miami.headline')}</h2>
-            <p className="section-subheading text-center mx-auto mb-12">{t('miami.description')}</p>
-
-            <div className="card">
-              <h3 className="text-xl font-bold mb-6">{t('miami.whyMiami.title')}</h3>
-              <ul className="space-y-4">
-                {[0, 1, 2, 3].map((i) => (
-                  <li key={i} className="flex items-start gap-3">
-                    <div className="w-6 h-6 rounded-full bg-colhybri-primary/10 flex items-center justify-center flex-shrink-0 mt-0.5">
-                      <svg className="w-3 h-3 text-colhybri-primary" viewBox="0 0 12 12" fill="currentColor" aria-hidden="true">
-                        <path d="M10 3L4.5 8.5 2 6" stroke="currentColor" strokeWidth="2" fill="none" />
-                      </svg>
-                    </div>
-                    <span className="text-colhybri-dark/70">{t(`miami.whyMiami.reasons.${i}`)}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-
-            <div className="text-center mt-10">
-              <Link href={getLocalizedPath('miami', l)} className="btn-primary">
-                {t('common.learnMore')}
-              </Link>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Cultural Legend Section */}
-      <LegendHero locale={locale} />
-
-      {/* CTA Section */}
-      <section className="bg-colhybri-primary">
+      {/* ================= Section 7: FINAL CTA ================= */}
+      <section className="bg-colhybri-teal text-white">
         <div className="section-container text-center">
-          <blockquote cite="https://colhybri.vision" lang={locale} className="mb-8">
-            <p className="text-2xl sm:text-3xl font-bold text-white mb-4">
-              &ldquo;I am doing my part.&rdquo;
-            </p>
-            <footer className="text-white/70">
-              — Florent Gibert, Founder &amp; CEO, COLHYBRI
-            </footer>
-          </blockquote>
-          <a href="https://www.colhybri.com" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-4 rounded-lg bg-white text-colhybri-primary font-bold text-lg hover:bg-white/90 transition-colors">
-            {t('hero.cta')}
-          </a>
+          <h2 className="font-display text-3xl sm:text-4xl lg:text-5xl font-semibold mb-12">
+            {t('finalCta.headline')}
+          </h2>
+
+          <div className="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
+            {/* CTA 1: Open app */}
+            <a
+              href="https://www.colhybri.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block p-8 rounded-2xl bg-white text-colhybri-teal hover:bg-colhybri-cream transition-colors"
+            >
+              <div className="font-display text-2xl font-semibold mb-2">{t('finalCta.cta1.title')}</div>
+              <div className="font-sans text-sm text-colhybri-dark/70">{t('finalCta.cta1.sub')}</div>
+            </a>
+
+            {/* CTA 2: Book demo */}
+            <Link
+              href={getLocalizedPath('for-cities', l)}
+              className="block p-8 rounded-2xl bg-colhybri-gold text-colhybri-dark hover:bg-colhybri-gold/90 transition-colors"
+            >
+              <div className="font-display text-2xl font-semibold mb-2">{t('finalCta.cta2.title')}</div>
+              <div className="font-sans text-sm text-colhybri-dark/70">{t('finalCta.cta2.sub')}</div>
+            </Link>
+
+            {/* CTA 3: Investors */}
+            <Link
+              href={getLocalizedPath('investors', l)}
+              className="block p-8 rounded-2xl border-2 border-white text-white hover:bg-white/10 transition-colors"
+            >
+              <div className="font-display text-2xl font-semibold mb-2">{t('finalCta.cta3.title')}</div>
+              <div className="font-sans text-sm text-white/70">{t('finalCta.cta3.sub')}</div>
+            </Link>
+          </div>
         </div>
       </section>
     </>
