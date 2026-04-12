@@ -2097,5 +2097,432 @@
       "title": "FIFA Innovation Programme y conexion deporte-comercio",
       "desc": "FIFA Innovation apoya la conexion deporte-comunidad."
     }
+  },
+  "missionPage": {
+    "meta": {
+      "title": "Nuestra mision: revitalizar los centros urbanos | COLHYBRI",
+      "description": "Que cada uno pueda vivir y prosperar donde crecio. Tres combates: reducir la pobreza, detener la fuga de talentos, combatir la emigracion forzada."
+    },
+    "hero": {
+      "badge": "NUESTRA MISION",
+      "why": "Que cada uno pueda vivir y prosperar donde crecio."
+    },
+    "legend": {
+      "title": "La leyenda del colibri",
+      "para1": "En un bosque en llamas, todos los animales huyen. Excepto el colibri, que transporta gotas de agua en su pico.",
+      "para2": "El armadillo le dice: estas loco, no puedes hacer nada.",
+      "quote": "Lo se, pero hago mi parte."
+    },
+    "heritage": {
+      "title": "El legado",
+      "mutualism": "220 anos de mutualismo frances (desde 1806). Una tradicion donde cada miembro contribuye Y se beneficia. Asi nacio la Seguridad Social.",
+      "sospeso": "El caffe sospeso napolitano (desde 1900). Un cafe pagado por adelantado, ofrecido al siguiente que lo necesite. Anonimo, generoso, universal.",
+      "synthesis": "COLHYBRI digitaliza estas dos tradiciones para el siglo XXI. No por caridad. Por mutualismo."
+    },
+    "founder": {
+      "title": "El fundador",
+      "body": "Florent Gibert, fundador y CEO. Autodidacta. De la construccion a la fintech. De Marsella a Occitania. 220 anos de mutualismo en el ADN."
+    },
+    "cta": {
+      "title": "Descubre como COLHYBRI pone esta mision en accion."
+    }
+  },
+  "solutionHub": {
+    "meta": {
+      "title": "La solucion COLHYBRI: pool solidario, Maps+, gamificacion",
+      "description": "Tres pilares para revitalizar tu centro urbano: solidaridad de barrio, visibilidad digital, compromiso comunitario."
+    },
+    "hero": {
+      "badge": "SOLUCION",
+      "title": "Como COLHYBRI revitaliza tu centro urbano",
+      "subtitle": "Tres pilares: solidaridad de barrio, visibilidad digital, compromiso comunitario."
+    },
+    "pillars": {
+      "pool": {
+        "title": "Solidaridad de barrio",
+        "body": "3 EUR/mes. 75% al pool solidario. Servicios ofrecidos aleatoriamente en comercios asociados.",
+        "cta": "Descubrir el pool"
+      },
+      "maps": {
+        "title": "Visibilidad digital (Maps+)",
+        "body": "Auditoria Google en 48h. Onboarding sin friccion. Resenas automaticas. Monitoreo continuo. 10 EUR/mes, 0% comision.",
+        "cta": "Descubrir Maps+"
+      },
+      "gamification": {
+        "title": "Compromiso comunitario",
+        "body": "26 mini-juegos de barrio. Desafios solidarios. Rankings. El comercio se convierte en un juego colectivo.",
+        "cta": "Proximamente"
+      }
+    },
+    "gamification": {
+      "title": "El comercio se convierte en un juego colectivo",
+      "body": "26 mini-juegos de barrio, desafios solidarios, rankings de calle. El compromiso comunitario toma la forma de un juego, no de una obligacion.",
+      "tags": {
+        "challenges": "Desafios solidarios",
+        "rankings": "Rankings",
+        "minigames": "26 mini-juegos",
+        "streetRankings": "Rankings de calle"
+      }
+    }
+  },
+  "mapsPlus": {
+    "meta": {
+      "title": "Maps+: el 75% de las PyMEs son invisibles en Google. Las tuyas no.",
+      "description": "Auditoria Google 48h, onboarding sin friccion, generacion de resenas, monitoreo continuo. 4 pilares, 10 EUR/mes, 0% comision."
+    },
+    "hero": {
+      "title": "El 75% de las PyMEs son invisibles en Google. Las tuyas no.",
+      "subtitle": "Auditoria, onboarding, resenas, monitoreo. 4 pilares, 10 EUR/mes."
+    },
+    "features": {
+      "audit": {
+        "title": "Score Maps (auditoria 48h)",
+        "body": "Indicador 0-100 evaluando la presencia Google: completitud (30%), resenas (30%), fotos (20%), coherencia NAP (20%)."
+      },
+      "onboarding": {
+        "title": "Onboarding sin friccion",
+        "body": "Escanear un codigo QR. Confirmar datos. Ficha Google creada u optimizada en 30 segundos."
+      },
+      "reviews": {
+        "title": "Generacion de resenas",
+        "body": "Codigo QR en caja. El cliente escanea al salir. Puntua en 1 clic. Resenas autenticas sin esfuerzo."
+      },
+      "monitoring": {
+        "title": "Monitoreo continuo",
+        "body": "Alertas de resenas negativas. Deteccion de cambios no autorizados. Seguimiento evolucion Score Maps."
+      }
+    },
+    "demo": {
+      "title": "Prueba el Score Maps de tu comercio",
+      "subtitle": "Ingresa el nombre de tu comercio. Obten una vista previa de tu visibilidad Google en 30 segundos."
+    },
+    "cta": {
+      "title": "Audita tu comercio gratis",
+      "button": "Abrir app"
+    }
+  },
+  "poolSolidaire": {
+    "meta": {
+      "title": "Pool solidario: la mutua de barrio del siglo XXI",
+      "description": "3 EUR/mes. 75% redistribuido como servicios ofrecidos en tus comercios. No es caridad, es mutualismo."
+    },
+    "hero": {
+      "badge": "POOL SOLIDARIO",
+      "title": "La mutua de barrio del siglo XXI",
+      "subtitle": "3 EUR/mes. 75% redistribuido. Servicios ofrecidos en tus comercios."
+    },
+    "steps": {
+      "step1": {
+        "title": "Suscribete (3 EUR/mes)",
+        "body": "Inscripcion en 30 segundos. Sin verificacion de credito. Sin saldo minimo."
+      },
+      "step2": {
+        "title": "75% al pool solidario",
+        "body": "2,25 EUR de cada suscripcion alimentan el pool comunitario del barrio."
+      },
+      "step3": {
+        "title": "Distribucion aleatoria",
+        "body": "Cada mes, el pool se redistribuye en forma de bonos en los comercios asociados. Seleccion aleatoria: equidad garantizada."
+      },
+      "step4": {
+        "title": "Disfruta del servicio ofrecido",
+        "body": "Cafe, peluqueria, tintoreria, panaderia. El beneficiario recibe una notificacion y va al comercio."
+      }
+    },
+    "notCharity": {
+      "title": "Esto NO es caridad",
+      "body": "Es una mutua. Cada miembro contribuye Y se beneficia. Asi como la Seguridad Social nacio del mutualismo, COLHYBRI hace nacer la solidaridad de proximidad."
+    },
+    "cta": {
+      "title": "Unete al pool solidario de tu barrio",
+      "button": "Abrir app"
+    }
+  },
+  "forCitiesPage": {
+    "meta": {
+      "title": "Para colectividades: el dashboard de vitalidad comercial",
+      "description": "Piloto gratuito 90 dias. Score Maps en 48h. Informe de impacto municipal. Despues: 500 EUR/mes, menos que medio puesto de becario."
+    },
+    "hero": {
+      "badge": "COLECTIVIDADES",
+      "title": "El dashboard de vitalidad comercial que tu centro urbano necesita",
+      "subtitle": "Piloto gratuito 90 dias. Score Maps en 48h. Informe de impacto municipal."
+    },
+    "context": {
+      "title": "El piloto gratuito de 90 dias",
+      "stats": {
+        "0": {
+          "value": "50",
+          "label": "comercios auditados"
+        },
+        "1": {
+          "value": "48h",
+          "label": "para Score Maps"
+        },
+        "2": {
+          "value": "500 EUR",
+          "label": "al mes despues del piloto"
+        },
+        "3": {
+          "value": "0",
+          "label": "compromiso, cancela cuando quieras"
+        }
+      }
+    },
+    "features": {
+      "title": "Lo que recibes",
+      "feature1": {
+        "title": "Score Maps de cada comercio",
+        "body": "Evaluacion 0-100 de la presencia Google de cada comercio auditado. Entregado en 48h."
+      },
+      "feature2": {
+        "title": "Dashboard de seguimiento mensual",
+        "body": "Vitalidad comercial de tu centro urbano en tiempo real. Evolucion de puntuaciones, alertas, tendencias."
+      },
+      "feature3": {
+        "title": "Informe de impacto municipal",
+        "body": "Documento listo para presentar al consejo municipal. Cifras, graficos, recomendaciones."
+      },
+      "feature4": {
+        "title": "Acompanamiento en terreno",
+        "body": "Despliegue acompanado en los comercios. Formacion del manager de comercio. Seguimiento semanal."
+      }
+    },
+    "pilot": {
+      "title": "El piloto gratuito de 90 dias",
+      "bullet1": "Score Maps de cada comercio auditado en 48h",
+      "bullet2": "Dashboard de seguimiento mensual en tiempo real",
+      "bullet3": "Informe de impacto para el consejo municipal",
+      "price": "Despues del piloto: 500 EUR/mes (10 EUR x 50 comercios)",
+      "note": "Menos que medio puesto de becario. Cancela cuando quieras."
+    },
+    "barcelona": {
+      "badge": "EL MODELO BARCELONA",
+      "title": "Capital Europea del Pequeno Comercio 2026",
+      "body": "En 2026, Barcelona fue nombrada Capital Europea del Pequeno Comercio. 40+ iniciativas publicas. COLHYBRI hace este modelo accesible a cualquier ciudad de 25.000 habitantes, en SaaS.",
+      "stats": {
+        "0": {
+          "value": "40+",
+          "label": "iniciativas publicas Barcelona"
+        },
+        "1": {
+          "value": "2026",
+          "label": "capital UE Pequeno Comercio"
+        },
+        "2": {
+          "value": "25k hab.",
+          "label": "tamano ciudad accesible en SaaS"
+        }
+      }
+    },
+    "form": {
+      "title": "Planificar una demo para tu municipio",
+      "subtitle": "Rellena este formulario. Volveremos a ti en 48h con un horario de demostracion."
+    }
+  },
+  "investorsPage": {
+    "meta": {
+      "title": "Inversores: pre-seed 200K-350K EUR | COLHYBRI",
+      "description": "Pre-seed. 200K-350K EUR. Valoracion 500K-800K EUR. ARR proyectado 2,31M EUR en Y3. TAM: 450.000 comercios en Francia."
+    },
+    "hero": {
+      "badge": "INVERSORES",
+      "title": "Invertir en la revitalizacion de los centros urbanos",
+      "subtitle": "Pre-seed. 200K-350K EUR. Valoracion 500K-800K EUR."
+    },
+    "keyNumbers": {
+      "0": {
+        "value": "500K-800K EUR",
+        "label": "valoracion pre-money (3 metodos)"
+      },
+      "1": {
+        "value": "2,31M EUR",
+        "label": "ARR proyectado Y3"
+      },
+      "2": {
+        "value": "450.000",
+        "label": "comercios de proximidad en Francia (TAM)"
+      },
+      "3": {
+        "value": "25+ paises",
+        "label": "expansion internacional Y5"
+      },
+      "4": {
+        "value": "1,3M-2,15M EUR",
+        "label": "ONLYMORE Group consolidado"
+      },
+      "5": {
+        "value": "211K EUR",
+        "label": "activos tecnicos desarrollados"
+      },
+      "title": "Cifras clave"
+    },
+    "flywheel": {
+      "title": "El flywheel ONLYMORE",
+      "subtitle": "Un ecosistema donde cada pilar financia al siguiente.",
+      "step1": "Las suscripciones B2C del pool solidario",
+      "step2": "Financian el despliegue B2B (Maps+, colectividades)",
+      "step3": "Que financia las inversiones deportivas (COLHYBRI Sports)",
+      "step4": "Que alimentan el credito comunitario",
+      "step5": "Que cierra el ciclo hacia las suscripciones B2C",
+      "quote": "Un ecosistema que se financia a si mismo, lo opuesto al modelo extractivo de las plataformas."
+    },
+    "useOfFunds": {
+      "title": "Uso de los fondos",
+      "product": {
+        "title": "Producto",
+        "desc": "Dev, infraestructura, IA"
+      },
+      "gtm": {
+        "title": "Go-to-market",
+        "desc": "Ventas, alianzas"
+      },
+      "ops": {
+        "title": "Operaciones",
+        "desc": "Equipo, legal, contabilidad"
+      }
+    },
+    "team": {
+      "title": "El equipo",
+      "florent": {
+        "role": "Fundador y CEO",
+        "bio": "Autodidacta. De la construccion a la fintech. De Marsella a Occitania. 220 anos de mutualismo en el ADN."
+      },
+      "joao": {
+        "role": "CFO",
+        "bio": "Ex-ONEtoONE Corporate Finance. Modelizacion financiera, captacion de fondos, estructuracion de deals."
+      },
+      "stephane": {
+        "role": "CTO",
+        "bio": "Arquitecto SaaS. Infraestructura escalable, seguridad, integraciones Google Business Profile."
+      }
+    },
+    "deck": {
+      "title": "Deck completo para inversores",
+      "body": "Dossier detallado: modelo economico, valoracion, roadmap de producto, equipo, estructura del deal.",
+      "cta": "Solicitar el deck"
+    },
+    "form": {
+      "title": "Reservar una reunion",
+      "subtitle": "Un mensaje corto es suficiente. Volveremos a ti en 48h."
+    }
+  },
+  "pressePage": {
+    "meta": {
+      "title": "Sala de prensa COLHYBRI | Kit de prensa, logos, biografia",
+      "description": "Kit de prensa, logos, cifras clave, biografia del fundador Florent Gibert. Contacto de prensa: onlymore2024@gmail.com"
+    },
+    "hero": {
+      "badge": "SALA DE PRENSA",
+      "title": "Sala de prensa",
+      "subtitle": "Kit de prensa, logos, cifras clave, biografia. Todo lo que necesitas para hablar de COLHYBRI."
+    },
+    "logo": {
+      "title": "Kit de prensa",
+      "body": "Logos vectoriales (SVG, PNG), guia grafica, visuales de producto. De uso libre para la prensa.",
+      "download": "Descargar el logo"
+    },
+    "figures": {
+      "title": "Cifras clave",
+      "items": {
+        "0": "220 anos de mutualismo frances digitalizado (desde 1806)",
+        "1": "3 EUR/mes: suscripcion al pool solidario",
+        "2": "10 EUR/mes: suscripcion Maps+, 0% comision",
+        "3": "75% del pool redistribuido a los habitantes",
+        "4": "De Paris a Pittsburgh: 5 continentes, 25+ paises objetivo"
+      }
+    },
+    "founder": {
+      "title": "Biografia del fundador",
+      "bio": "Florent Gibert, fundador autodidacta, de Marsella a Occitania. COLHYBRI digitaliza 220 anos de mutualismo frances para revitalizar los centros urbanos. De la construccion a la fintech, de Marsella a Occitania."
+    },
+    "releases": {
+      "title": "Comunicados de prensa",
+      "body": "Para cualquier solicitud de entrevista, visuales adicionales o acceso a datos de impacto, contactenos directamente."
+    },
+    "contact": {
+      "title": "Contacto de prensa"
+    }
+  },
+  "worldMap": {
+    "hint": "Haz clic en un marcador para descubrir nuestro impacto local.",
+    "markers": {
+      "paris": {
+        "label": "Paris: 1.732 ZRCV"
+      },
+      "pittsburgh": {
+        "label": "Pittsburgh: 8.764 Opportunity Zones"
+      },
+      "barcelona": {
+        "label": "Barcelona: Capital UE Pequeno Comercio 2026"
+      },
+      "dakar": {
+        "label": "Dakar: expansion Africa"
+      },
+      "saopaulo": {
+        "label": "Sao Paulo: 55% empleo informal"
+      }
+    }
+  },
+  "forms": {
+    "city": {
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "role": "Cargo",
+      "rolePlaceholder": "Elige tu cargo",
+      "roles": {
+        "mayor": "Alcalde",
+        "deputy": "Teniente de alcalde",
+        "dgs": "Director general",
+        "manager": "Manager de comercio",
+        "cci": "Camara de Comercio",
+        "intercom": "Intermunicipal",
+        "other": "Otro"
+      },
+      "city": "Municipio",
+      "postcode": "Codigo postal",
+      "email": "Email profesional",
+      "phone": "Telefono",
+      "message": "Mensaje (opcional)",
+      "submit": "Planificar una demo",
+      "sending": "Enviando...",
+      "successTitle": "Gracias!",
+      "successBody": "Te contactaremos en 48h para agendar la demo.",
+      "errorTitle": "Error",
+      "errorBody": "Error al enviar. Envia un email a onlymore2024@gmail.com"
+    },
+    "investor": {
+      "name": "Nombre y Apellido",
+      "organization": "Organizacion / Fondo",
+      "email": "Email",
+      "phone": "Telefono",
+      "message": "Mensaje (opcional)",
+      "submit": "Reservar una reunion",
+      "sending": "Enviando...",
+      "successTitle": "Gracias!",
+      "successBody": "Te contactaremos en 48h.",
+      "errorTitle": "Error",
+      "errorBody": "Error al enviar. Envia un email a onlymore2024@gmail.com"
+    },
+    "general": {
+      "name": "Nombre y Apellido",
+      "email": "Email",
+      "subject": "Asunto",
+      "subjectPlaceholder": "Elige un asunto",
+      "subjects": {
+        "partnership": "Alianza",
+        "press": "Prensa",
+        "investment": "Inversion",
+        "question": "Pregunta general",
+        "other": "Otro"
+      },
+      "message": "Mensaje",
+      "submit": "Enviar",
+      "sending": "Enviando...",
+      "successTitle": "Gracias!",
+      "successBody": "Te contactaremos en 48h.",
+      "errorTitle": "Error",
+      "errorBody": "Error al enviar. Envia un email a onlymore2024@gmail.com"
+    }
   }
 }
