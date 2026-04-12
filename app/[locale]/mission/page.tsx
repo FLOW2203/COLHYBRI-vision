@@ -11,29 +11,29 @@ interface PageProps {
 }
 
 export async function generateMetadata({ params: { locale } }: PageProps) {
-  const t = await getTranslations({ locale, namespace: 'mission' });
+  const t = await getTranslations({ locale, namespace: 'missionPage' });
   return generatePageMetadata({
     locale: locale as Locale,
     routeKey: 'mission',
-    title: t('title'),
-    description: t('description'),
-    semanticPrimary: 'financial inclusion mission hummingbird legend',
-    semanticSecondary: 'underbanked, community power, local commerce, Keynesian multiplier',
+    title: t('meta.title'),
+    description: t('meta.description'),
+    semanticPrimary: 'COLHYBRI mission hummingbird legend downtown revitalization',
+    semanticSecondary: 'French mutualism, caffe sospeso, Florent Gibert, neighborhood community',
     chunkType: 'page',
     audience: 'general',
   });
 }
 
 export default function MissionPage({ params: { locale } }: PageProps) {
-  const t = useTranslations('mission');
+  const t = useTranslations('missionPage');
   const common = useTranslations('common');
   const l = locale as Locale;
 
-  const orgJsonLd = {
+  const aboutJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'AboutPage',
-    name: t('title'),
-    description: t('description'),
+    name: t('meta.title'),
+    description: t('meta.description'),
     isPartOf: {
       '@type': 'WebSite',
       name: 'COLHYBRI',
@@ -43,105 +43,66 @@ export default function MissionPage({ params: { locale } }: PageProps) {
 
   return (
     <>
-      <JsonLd data={orgJsonLd} />
+      <JsonLd data={aboutJsonLd} />
 
-      {/* Hero Section */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-colhybri-light via-white to-colhybri-primary/5">
+      {/* Hero: WHY */}
+      <section className="bg-colhybri-cream">
         <div className="section-container text-center">
-          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-colhybri-dark mb-6 max-w-4xl mx-auto leading-tight">
-            {t('headline')}
-          </h1>
-          <p className="text-lg sm:text-xl text-colhybri-dark/70 max-w-3xl mx-auto mb-10 leading-relaxed">
-            {t('description')}
+          <p className="text-colhybri-teal font-sans font-semibold text-sm tracking-widest uppercase mb-4">
+            {t('hero.badge')}
           </p>
+          <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-semibold text-colhybri-dark mb-6 max-w-4xl mx-auto leading-[1.08]">
+            {t('hero.why')}
+          </h1>
         </div>
       </section>
 
-      {/* Three Pillars */}
+      {/* Hummingbird legend */}
       <section className="bg-white">
-        <div className="section-container">
-          <div className="grid md:grid-cols-3 gap-8">
-            {/* Financial Inclusion */}
-            <div className="card text-center">
-              <div className="w-16 h-16 rounded-2xl bg-colhybri-primary/10 flex items-center justify-center mx-auto mb-6">
-                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#00A878" strokeWidth="2" aria-hidden="true">
-                  <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
-                </svg>
-              </div>
-              <h2 className="text-xl font-bold mb-3">{t('pillars.inclusion.title')}</h2>
-              <p className="text-colhybri-dark/60">{t('pillars.inclusion.description')}</p>
-            </div>
-
-            {/* Local Commerce */}
-            <div className="card text-center">
-              <div className="w-16 h-16 rounded-2xl bg-colhybri-secondary/10 flex items-center justify-center mx-auto mb-6">
-                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#FF6B35" strokeWidth="2" aria-hidden="true">
-                  <path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z" />
-                  <polyline points="9 22 9 12 15 12 15 22" />
-                </svg>
-              </div>
-              <h2 className="text-xl font-bold mb-3">{t('pillars.commerce.title')}</h2>
-              <p className="text-colhybri-dark/60">{t('pillars.commerce.description')}</p>
-            </div>
-
-            {/* Community Power */}
-            <div className="card text-center">
-              <div className="w-16 h-16 rounded-2xl bg-colhybri-primary/10 flex items-center justify-center mx-auto mb-6">
-                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#00A878" strokeWidth="2" aria-hidden="true">
-                  <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2" />
-                  <circle cx="9" cy="7" r="4" />
-                  <path d="M23 21v-2a4 4 0 00-3-3.87" />
-                  <path d="M16 3.13a4 4 0 010 7.75" />
-                </svg>
-              </div>
-              <h2 className="text-xl font-bold mb-3">{t('pillars.community.title')}</h2>
-              <p className="text-colhybri-dark/60">{t('pillars.community.description')}</p>
-            </div>
+        <div className="section-container max-w-3xl mx-auto">
+          <h2 className="font-display text-3xl font-semibold mb-6">{t('legend.title')}</h2>
+          <div className="space-y-5">
+            <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed">{t('legend.para1')}</p>
+            <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed">{t('legend.para2')}</p>
+            <blockquote className="font-display italic text-2xl text-colhybri-teal border-l-4 border-colhybri-teal pl-6 my-6">
+              {t('legend.quote')}
+            </blockquote>
           </div>
         </div>
       </section>
 
-      {/* Hummingbird Legend */}
-      <section className="bg-colhybri-light">
-        <div className="section-container max-w-4xl mx-auto">
-          <div className="card bg-gradient-to-br from-colhybri-primary/5 to-colhybri-secondary/5 border border-colhybri-primary/10">
-            <div className="text-center">
-              <div className="w-20 h-20 rounded-full bg-colhybri-primary/10 flex items-center justify-center mx-auto mb-8">
-                <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#00A878" strokeWidth="1.5" aria-hidden="true">
-                  <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z" />
-                  <path d="M8 14s1.5 2 4 2 4-2 4-2" />
-                  <line x1="9" y1="9" x2="9.01" y2="9" />
-                  <line x1="15" y1="9" x2="15.01" y2="9" />
-                </svg>
-              </div>
-              <blockquote className="text-xl sm:text-2xl font-medium text-colhybri-dark/80 italic mb-6 leading-relaxed">
-                &ldquo;I am doing my part.&rdquo;
-              </blockquote>
-              <p className="text-colhybri-dark/60 leading-relaxed max-w-2xl mx-auto">
-                {t('description')}
-              </p>
-            </div>
+      {/* Heritage */}
+      <section className="bg-colhybri-cream">
+        <div className="section-container max-w-3xl mx-auto">
+          <h2 className="font-display text-3xl font-semibold mb-6">{t('heritage.title')}</h2>
+          <div className="space-y-5">
+            <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed">{t('heritage.mutualism')}</p>
+            <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed">{t('heritage.sospeso')}</p>
+            <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed font-semibold">
+              {t('heritage.synthesis')}
+            </p>
           </div>
         </div>
       </section>
 
-      {/* Internal Links (Cocon Semantique) */}
+      {/* Founder */}
       <section className="bg-white">
+        <div className="section-container max-w-3xl mx-auto">
+          <h2 className="font-display text-3xl font-semibold mb-6">{t('founder.title')}</h2>
+          <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed mb-4">{t('founder.body')}</p>
+        </div>
+      </section>
+
+      {/* CTA */}
+      <section className="bg-colhybri-teal text-white">
         <div className="section-container text-center">
-          <h2 className="section-heading mb-10">
-            {common('learnMore')}
-          </h2>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href={getLocalizedPath('how-it-works', l)} className="btn-primary">
-              {common('learnMore')}
-            </Link>
-            <Link href={getLocalizedPath('impact', l)} className="btn-secondary">
-              {common('learnMore')}
-            </Link>
-            <Link href={getLocalizedPath('for-individuals', l)} className="btn-accent">
-              {common('getStarted')}
-            </Link>
-          </div>
+          <h2 className="font-display text-3xl sm:text-4xl font-semibold mb-8">{t('cta.title')}</h2>
+          <Link
+            href={getLocalizedPath('solution', l)}
+            className="inline-flex items-center justify-center px-8 py-4 rounded-lg bg-white text-colhybri-teal font-semibold text-lg hover:bg-colhybri-cream transition-colors"
+          >
+            {common('discoverSolution')}
+          </Link>
         </div>
       </section>
     </>

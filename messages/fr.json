@@ -341,7 +341,12 @@
     "learnMore": "En savoir plus",
     "getStarted": "Commencer",
     "contactUs": "Nous contacter",
-    "backToHome": "Retour à l'accueil"
+    "bookDemo": "Reserver une demo",
+    "applyWithColhybri": "Candidater avec COLHYBRI",
+    "institutionalPartnership": "Partenariat institutionnel",
+    "proposePilot": "Proposer un pilote",
+    "discoverSolution": "Decouvrir la solution",
+    "backToHome": "Retour a l'accueil"
   },
   "city": {
     "metaTitle": "COLHYBRI a {city}. Revitaliser votre centre-ville par la solidarite de quartier.",

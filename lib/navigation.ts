@@ -213,6 +213,29 @@ export const routeMap: Record<string, Record<string, string>> = {
     it: 'impact-mesurable', zh: 'impact-mesurable', ja: 'impact-mesurable',
     hi: 'impact-mesurable', pl: 'impact-mesurable',
   },
+  // Sprint 2 routes
+  solution: {
+    en: 'solution', 'en-gb': 'solution', fr: 'solution', es: 'solution',
+    pt: 'solution', de: 'solution', it: 'solution', zh: 'solution',
+    ja: 'solution', hi: 'solution', pl: 'solution',
+  },
+  'solution-maps-plus': {
+    en: 'solution/maps-plus', 'en-gb': 'solution/maps-plus', fr: 'solution/maps-plus',
+    es: 'solution/maps-plus', pt: 'solution/maps-plus', de: 'solution/maps-plus',
+    it: 'solution/maps-plus', zh: 'solution/maps-plus', ja: 'solution/maps-plus',
+    hi: 'solution/maps-plus', pl: 'solution/maps-plus',
+  },
+  'solution-pool-solidaire': {
+    en: 'solution/pool-solidaire', 'en-gb': 'solution/pool-solidaire', fr: 'solution/pool-solidaire',
+    es: 'solution/pool-solidaire', pt: 'solution/pool-solidaire', de: 'solution/pool-solidaire',
+    it: 'solution/pool-solidaire', zh: 'solution/pool-solidaire', ja: 'solution/pool-solidaire',
+    hi: 'solution/pool-solidaire', pl: 'solution/pool-solidaire',
+  },
+  presse: {
+    en: 'presse', 'en-gb': 'presse', fr: 'presse', es: 'presse',
+    pt: 'presse', de: 'presse', it: 'presse', zh: 'presse',
+    ja: 'presse', hi: 'presse', pl: 'presse',
+  },
 };
 
 export function getLocalizedPath(routeKey: string, locale: Locale): string {
