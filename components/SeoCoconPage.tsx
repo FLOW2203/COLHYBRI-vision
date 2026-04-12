@@ -44,22 +44,47 @@ export async function SeoCoconPage({
   const tCommon = await getTranslations({ locale, namespace: 'cocon.common' });
   const tMeta = await getTranslations({ locale, namespace: 'cocon.meta' });
 
-  // Read raw for list-shaped entries. Wrap with try/catch to tolerate
-  // optional fields (not every page ships a data table).
-  const safeRaw = <T,>(key: string, fallback: T): T => {
+  // Read raw for list-shaped entries. next-intl v3 t.raw() does NOT throw on
+  // missing keys. Instead it calls onError (logs) and returns a fallback
+  // string (the key name). So we must:
+  //   1. Wrap in try/catch for safety
+  //   2. Validate the runtime shape (array / header-tuple) before use
+  const safeArray = <T,>(key: string): T[] => {
     try {
       const v = t.raw(key);
-      return (v ?? fallback) as T;
+      return Array.isArray(v) ? (v as T[]) : [];
     } catch {
-      return fallback;
+      return [];
+    }
+  };
+  const safeTuple = (key: string): [string, string] | null => {
+    try {
+      const v = t.raw(key);
+      return Array.isArray(v) && v.length === 2 ? (v as [string, string]) : null;
+    } catch {
+      return null;
+    }
+  };
+  const safeString = (key: string): string | null => {
+    try {
+      const v = t.raw(key);
+      // When the key is missing, next-intl returns a fallback string that
+      // starts with the namespace path. Accept only values that are strings
+      // AND do not look like a MISSING_MESSAGE fallback.
+      if (typeof v !== 'string') return null;
+      if (v.startsWith(`cocon.${slug}.`)) return null;
+      return v;
+    } catch {
+      return null;
     }
   };
 
-  const sections = safeRaw<CoconPageShape['sections']>('sections', []);
-  const faq = safeRaw<CoconPageShape['faq']>('faq', []);
-  const stats = safeRaw<CoconPageShape['stats']>('stats', []);
-  const tableRows = safeRaw<Array<[string, string]>>('tableRows', []);
-  const tableHeader = safeRaw<[string, string] | null>('tableHeader', null);
+  const sections = safeArray<CoconPageShape['sections'][number]>('sections');
+  const faq = safeArray<CoconPageShape['faq'][number]>('faq');
+  const stats = safeArray<CoconPageShape['stats'][number]>('stats');
+  const tableRows = safeArray<[string, string]>('tableRows');
+  const tableHeader = safeTuple('tableHeader');
+  const tableTitle = safeString('tableTitle');
 
   const articleSchema = {
     '@context': 'https://schema.org',
@@ -172,9 +197,9 @@ export async function SeoCoconPage({
 
             {tableHeader && tableRows.length > 0 && (
               <section>
-                {t.has('tableTitle') && (
+                {tableTitle && (
                   <h2 className="font-display text-2xl font-semibold text-colhybri-dark mb-4">
-                    {t('tableTitle')}
+                    {tableTitle}
                   </h2>
                 )}
                 <div className="overflow-x-auto">
