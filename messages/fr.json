@@ -2028,6 +2028,71 @@
           "label": "moins cher que concurrents"
         }
       ]
+    },
+    "cta": {
+      "title": "Pret a revitaliser votre centre-ville ?",
+      "app": "Ouvrir l'app",
+      "demo": "Planifier une demo"
+    },
+    "commerce-informel": {
+      "title": "Formaliser le commerce informel par la digitalisation",
+      "desc": "Le commerce informel represente 55% de l'emploi en Amerique Latine. COLHYBRI propose une formalisation par la digitalisation zero-friction a 3 EUR/mois."
+    },
+    "revitalisation-quartier": {
+      "title": "Revitalisation de quartier par le commerce et la solidarite",
+      "desc": "La revitalisation de quartier passe par 3 leviers : commerce, solidarite et sport. COLHYBRI, CROWNIUM et ONLYMORE FINANCE forment le triple-play."
+    },
+    "tiers-lieu-digital": {
+      "title": "Le tiers-lieu digital : COLHYBRI comme espace de rencontre virtuel",
+      "desc": "31% des Francais n'ont aucun lieu de rencontre. COLHYBRI cree un tiers-lieu digital accessible pour 3 EUR/mois."
+    },
+    "impact-social-commerce": {
+      "title": "L'impact social du commerce de proximite : chiffres 2026",
+      "desc": "Le commerce de proximite genere 13.2% du PIB a Barcelona, 152 000 emplois, et 90.9% de locaux actifs."
+    },
+    "keynesian-multiplier-local": {
+      "title": "Le multiplicateur keynesien applique a l'economie locale",
+      "desc": "Chaque euro depense localement genere 2,50 EUR d'activite. COLHYBRI canalise 75% des abonnements vers les commerces locaux."
+    },
+    "comment-ca-marche": {
+      "title": "COLHYBRI : comment ca marche en 3 etapes",
+      "desc": "COLHYBRI en 3 etapes : abonnement 3 EUR, pool solidaire 75%, services offerts. 0% commission."
+    },
+    "tarifs-colhybri": {
+      "title": "Tarifs COLHYBRI : 3 EUR particuliers, 10 EUR commercants",
+      "desc": "3 EUR/mois particuliers, 10 EUR/mois commercants avec 0% commission. Comparatif UberEats, JustEat."
+    },
+    "pour-les-commercants": {
+      "title": "COLHYBRI pour les commercants : 0% commission",
+      "desc": "10 EUR/mois, 0% commission. Maps+ inclus. Nouveaux clients via pool solidaire."
+    },
+    "pour-les-particuliers": {
+      "title": "COLHYBRI pour les particuliers : 3 EUR/mois",
+      "desc": "Pour 3 EUR/mois, contribuez au pool solidaire et recevez des services offerts."
+    },
+    "pour-les-collectivites": {
+      "title": "COLHYBRI pour les collectivites : dashboard vitalite",
+      "desc": "Pilote gratuit 90 jours sur 50 commerces. Score Maps, dashboard, rapport impact. 500 EUR/mois apres."
+    },
+    "ecosr-european-capital-small-retail": {
+      "title": "Capitales Europeennes du Petit Commerce 2026",
+      "desc": "L'UE a designe 3 Capitales du Petit Commerce en 2026. Barcelona, Caldas da Rainha, Silandro."
+    },
+    "eui-european-urban-initiative": {
+      "title": "European Urban Initiative Call 4 : 60M EUR (juin 2026)",
+      "desc": "EUI Call 4 : 60M EUR FEDER pour villes UE 25 000+ hab. Deadline 15 juin 2026."
+    },
+    "idb-latin-america": {
+      "title": "IDB et commerce local en Amerique Latine",
+      "desc": "Amerique Latine : 2.1% croissance, 55% informel. IDB + COLHYBRI = formalisation digitale."
+    },
+    "afd-afrique": {
+      "title": "AFD et commerce digital en Afrique",
+      "desc": "Afrique subsaharienne : 4.3% croissance, zero outil digital commerce urbain. Pilote Dakar/Abidjan/Tunis."
+    },
+    "fifa-innovation-sport": {
+      "title": "FIFA Innovation Programme et connexion sport-commerce",
+      "desc": "FIFA Innovation soutient la connexion sport-communaute. Triple-play ONLYMORE."
     }
   }
 }

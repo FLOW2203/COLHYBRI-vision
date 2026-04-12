@@ -2031,6 +2031,71 @@
           "label": "mas barato que alternativas"
         }
       ]
+    },
+    "cta": {
+      "title": "Listo para revitalizar tu centro urbano?",
+      "app": "Abrir la app",
+      "demo": "Planificar una demo"
+    },
+    "commerce-informel": {
+      "title": "Formalizar el comercio informal a traves de la digitalizacion",
+      "desc": "El comercio informal representa el 55% del empleo en America Latina."
+    },
+    "revitalisation-quartier": {
+      "title": "Revitalizacion de barrio a traves del comercio y la solidaridad",
+      "desc": "La revitalizacion de barrio pasa por 3 palancas: comercio, solidaridad y deporte."
+    },
+    "tiers-lieu-digital": {
+      "title": "El tercer lugar digital: COLHYBRI como espacio de encuentro virtual",
+      "desc": "El 31% de los franceses no tienen ningun lugar de encuentro."
+    },
+    "impact-social-commerce": {
+      "title": "El impacto social del comercio de proximidad: cifras 2026",
+      "desc": "El comercio de proximidad genera el 13.2% del PIB en Barcelona."
+    },
+    "keynesian-multiplier-local": {
+      "title": "El multiplicador keynesiano aplicado a la economia local",
+      "desc": "Cada euro gastado localmente genera 2,50 EUR de actividad."
+    },
+    "comment-ca-marche": {
+      "title": "COLHYBRI: como funciona en 3 pasos",
+      "desc": "COLHYBRI en 3 pasos: suscripcion 3 EUR, pool solidario 75%, servicios ofrecidos."
+    },
+    "tarifs-colhybri": {
+      "title": "Tarifas COLHYBRI: 3 EUR particulares, 10 EUR comerciantes",
+      "desc": "3 EUR/mes particulares, 10 EUR/mes comerciantes con 0% comision."
+    },
+    "pour-les-commercants": {
+      "title": "COLHYBRI para comerciantes: 0% comision",
+      "desc": "10 EUR/mes, 0% comision. Maps+ incluido."
+    },
+    "pour-les-particuliers": {
+      "title": "COLHYBRI para particulares: 3 EUR/mes",
+      "desc": "Por 3 EUR/mes, contribuye al pool solidario."
+    },
+    "pour-les-collectivites": {
+      "title": "COLHYBRI para colectividades: dashboard vitalidad",
+      "desc": "Piloto gratuito 90 dias. Score Maps, dashboard, informe impacto."
+    },
+    "ecosr-european-capital-small-retail": {
+      "title": "Capitales Europeas del Pequeno Comercio 2026",
+      "desc": "La UE designo 3 Capitales del Pequeno Comercio en 2026."
+    },
+    "eui-european-urban-initiative": {
+      "title": "EUI Call 4: 60M EUR (junio 2026)",
+      "desc": "EUI Call 4: 60M EUR FEDER para ciudades UE 25.000+."
+    },
+    "idb-latin-america": {
+      "title": "BID y comercio local en America Latina",
+      "desc": "America Latina: 2.1% crecimiento, 55% informal."
+    },
+    "afd-afrique": {
+      "title": "AFD y comercio digital en Africa",
+      "desc": "Africa subsahariana: 4.3% crecimiento, cero herramientas digitales."
+    },
+    "fifa-innovation-sport": {
+      "title": "FIFA Innovation Programme y conexion deporte-comercio",
+      "desc": "FIFA Innovation apoya la conexion deporte-comunidad."
     }
   }
 }

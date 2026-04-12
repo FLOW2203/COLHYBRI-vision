@@ -204,5 +204,79 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
   }
 
+  // SEO/GEO cocon pages (clusters 1-7, 43 slugs)
+  // Each slug is served under every locale as /{locale}/{slug}
+  // with full hreflang alternates across the 3 primary languages.
+  const coconSlugs = [
+    // Cluster 1 - France
+    'revitalisation-centres-villes',
+    'action-coeur-de-ville',
+    'petites-villes-de-demain',
+    'zrcv-zones-revitalisation',
+    'manager-commerce-cci',
+    'vacance-commerciale-france',
+    'municipales-2026-commerce',
+    'commerce-proximite-digital',
+    // Cluster 2 - USA
+    'downtown-revitalization',
+    'opportunity-zones',
+    'main-street-america',
+    'rust-belt-revitalization',
+    'small-business-digital',
+    'community-development',
+    // Cluster 3 - Solidaire
+    'mutualisme-digital',
+    'caffe-sospeso',
+    'economie-solidaire',
+    'pool-solidaire-quartier',
+    'commerce-equitable-local',
+    'cooperative-quartier',
+    'fidelisation-communautaire',
+    // Cluster 4 - Digital
+    'google-maps-commerce',
+    'visibilite-google-pme',
+    'seo-local-commerce',
+    'avis-google-commercants',
+    'onboarding-digital-commerce',
+    'score-maps-audit',
+    'maps-plus-outil',
+    // Cluster 5 - Impact
+    'commerce-informel',
+    'revitalisation-quartier',
+    'tiers-lieu-digital',
+    'impact-social-commerce',
+    'keynesian-multiplier-local',
+    // Cluster 6 - Produit
+    'comment-ca-marche',
+    'tarifs-colhybri',
+    'pour-les-commercants',
+    'pour-les-particuliers',
+    'pour-les-collectivites',
+    // Cluster 7 - International
+    'ecosr-european-capital-small-retail',
+    'eui-european-urban-initiative',
+    'idb-latin-america',
+    'afd-afrique',
+    'fifa-innovation-sport',
+  ];
+
+  for (const slug of coconSlugs) {
+    for (const locale of locales) {
+      const languages: Record<string, string> = {};
+      for (const altLocale of locales) {
+        languages[altLocale] = `${BASE_URL}/${altLocale}/${slug}`;
+      }
+      languages['x-default'] = `${BASE_URL}/en/${slug}`;
+
+      entries.push({
+        url: `${BASE_URL}/${locale}/${slug}`,
+        lastModified: now,
+        changeFrequency: 'monthly',
+        priority: 0.75,
+        alternates: { languages },
+      });
+    }
+  }
+
   return entries;
 }

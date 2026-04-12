@@ -1913,6 +1913,71 @@
           "label": "cheaper than alternatives"
         }
       ]
+    },
+    "cta": {
+      "title": "Ready to revitalize your downtown?",
+      "app": "Open the app",
+      "demo": "Book a demo"
+    },
+    "commerce-informel": {
+      "title": "Formalizing Informal Commerce Through Digitalization",
+      "desc": "Informal commerce represents 55% of employment in Latin America. COLHYBRI offers formalization through zero-friction digitalization at $3/month."
+    },
+    "revitalisation-quartier": {
+      "title": "Neighborhood Revitalization Through Commerce and Solidarity",
+      "desc": "Neighborhood revitalization requires 3 levers: commerce, solidarity and sport."
+    },
+    "tiers-lieu-digital": {
+      "title": "The Digital Third Place: COLHYBRI as a Virtual Meeting Space",
+      "desc": "31% of French people have no meeting place. COLHYBRI creates a digital third place for 3 EUR/month."
+    },
+    "impact-social-commerce": {
+      "title": "Social Impact of Local Commerce: 2026 Facts and Figures",
+      "desc": "Local commerce generates 13.2% of GDP in Barcelona, 152,000 jobs, and 90.9% active premises."
+    },
+    "keynesian-multiplier-local": {
+      "title": "The Keynesian Multiplier Applied to Local Economy",
+      "desc": "Every euro spent locally generates 2.50 EUR of activity. COLHYBRI channels 75% to local businesses."
+    },
+    "comment-ca-marche": {
+      "title": "COLHYBRI: How It Works in 3 Steps",
+      "desc": "COLHYBRI in 3 steps: 3 EUR subscription, 75% solidarity pool, gifted services. 0% commission."
+    },
+    "tarifs-colhybri": {
+      "title": "COLHYBRI Pricing: 3 EUR Individuals, 10 EUR Merchants",
+      "desc": "3 EUR/month individuals, 10 EUR/month merchants with 0% commission."
+    },
+    "pour-les-commercants": {
+      "title": "COLHYBRI for Merchants: 0% Commission",
+      "desc": "10 EUR/month, 0% commission. Maps+ included. New customers via solidarity pool."
+    },
+    "pour-les-particuliers": {
+      "title": "COLHYBRI for Individuals: 3 EUR/Month",
+      "desc": "For 3 EUR/month, contribute to the solidarity pool and receive gifted services."
+    },
+    "pour-les-collectivites": {
+      "title": "COLHYBRI for Cities: Vitality Dashboard",
+      "desc": "Free 90-day pilot for 50 businesses. Score Maps, dashboard, impact report."
+    },
+    "ecosr-european-capital-small-retail": {
+      "title": "European Capitals of Small Retail 2026",
+      "desc": "The EU designated 3 Capitals of Small Retail in 2026."
+    },
+    "eui-european-urban-initiative": {
+      "title": "European Urban Initiative Call 4: 60M EUR (June 2026)",
+      "desc": "EUI Call 4: 60M EUR ERDF for EU cities 25,000+. Deadline June 15, 2026."
+    },
+    "idb-latin-america": {
+      "title": "IDB and Local Commerce in Latin America",
+      "desc": "Latin America: 2.1% growth, 55% informal. IDB + COLHYBRI = digital formalization."
+    },
+    "afd-afrique": {
+      "title": "AFD and Digital Commerce in Africa",
+      "desc": "Sub-Saharan Africa: 4.3% growth, zero digital tools. Pilot in Dakar/Abidjan/Tunis."
+    },
+    "fifa-innovation-sport": {
+      "title": "FIFA Innovation Programme and Sport-Commerce Connection",
+      "desc": "FIFA Innovation supports sport-community connection. ONLYMORE triple-play."
     }
   }
 }

@@ -44,12 +44,22 @@ export async function SeoCoconPage({
   const tCommon = await getTranslations({ locale, namespace: 'cocon.common' });
   const tMeta = await getTranslations({ locale, namespace: 'cocon.meta' });
 
-  // Read raw for list-shaped entries
-  const sections = (t.raw('sections') ?? []) as CoconPageShape['sections'];
-  const faq = (t.raw('faq') ?? []) as CoconPageShape['faq'];
-  const stats = (t.raw('stats') ?? []) as CoconPageShape['stats'];
-  const tableRows = (t.raw('tableRows') ?? []) as Array<[string, string]>;
-  const tableHeader = (t.raw('tableHeader') ?? null) as [string, string] | null;
+  // Read raw for list-shaped entries. Wrap with try/catch to tolerate
+  // optional fields (not every page ships a data table).
+  const safeRaw = <T,>(key: string, fallback: T): T => {
+    try {
+      const v = t.raw(key);
+      return (v ?? fallback) as T;
+    } catch {
+      return fallback;
+    }
+  };
+
+  const sections = safeRaw<CoconPageShape['sections']>('sections', []);
+  const faq = safeRaw<CoconPageShape['faq']>('faq', []);
+  const stats = safeRaw<CoconPageShape['stats']>('stats', []);
+  const tableRows = safeRaw<Array<[string, string]>>('tableRows', []);
+  const tableHeader = safeRaw<[string, string] | null>('tableHeader', null);
 
   const articleSchema = {
     '@context': 'https://schema.org',
