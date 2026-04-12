@@ -46,8 +46,10 @@ export default async function LocaleLayout({ children, params: { locale } }: Loc
   return (
     <html lang={locale} className={fontClass}>
       <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,800&family=DM+Sans:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap"
           rel="stylesheet"
         />
         {(locale === 'zh' || locale === 'ja') && (
@@ -59,7 +61,7 @@ export default async function LocaleLayout({ children, params: { locale } }: Loc
           />
         )}
       </head>
-      <body className="font-sans bg-colhybri-light text-colhybri-dark min-h-screen flex flex-col">
+      <body className="font-sans bg-colhybri-cream text-colhybri-dark min-h-screen flex flex-col">
         <JsonLd data={generateOrganizationJsonLd(locale as Locale)} />
         <JsonLd data={generateWebSiteJsonLd(locale as Locale)} />
         <NextIntlClientProvider locale={locale} messages={messages}>

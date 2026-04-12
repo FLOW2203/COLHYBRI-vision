@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "title": "COLHYBRI — Inclusión financiera a través del comercio local",
-    "description": "COLHYBRI conecta a personas no bancarizadas con comercios locales a través de una suscripción mensual accesible, creando un ecosistema financiero comunitario."
+    "title": "COLHYBRI. Cada gesto cuenta. El tuyo tambien.",
+    "description": "La plataforma que revitaliza los centros urbanos a traves de la solidaridad de barrio. De Paris a Pittsburgh."
   },
   "nav": {
     "home": "Inicio",
-    "mission": "Misión",
-    "howItWorks": "Cómo Funciona",
+    "mission": "Mision",
+    "howItWorks": "Solucion",
     "pricing": "Precios",
     "impact": "Impacto",
     "forIndividuals": "Para Individuos",
     "forShops": "Para Comercios",
     "forCities": "Para Ciudades",
-    "miami": "España",
+    "miami": "Miami",
     "ecosystem": "Ecosistema",
     "investors": "Inversores",
     "blog": "Blog",
@@ -21,96 +21,161 @@
     "openApp": "Abrir App"
   },
   "hero": {
-    "tagline": "Inclusión financiera a través del comercio local",
-    "headline": "Cada euro gastado localmente fortalece tu comunidad",
-    "subheadline": "COLHYBRI conecta a personas no bancarizadas con comercios de barrio a través de una suscripción simple y accesible. Juntos, construimos la inclusión financiera desde la base.",
-    "cta": "Únete al Movimiento",
-    "ctaSecondary": "Cómo Funciona",
+    "tagline": "Revitalizacion de centros urbanos",
+    "headline": "Cada gesto cuenta. El tuyo tambien.",
+    "subheadline": "La plataforma que revitaliza los centros urbanos a traves de la solidaridad de barrio. De Paris a Pittsburgh.",
+    "cta": "Abrir la app",
+    "ctaSecondary": "Descubrir nuestro impacto",
     "stats": {
-      "price": "—",
-      "priceLabel": "Próximamente",
-      "stage": "Pre-seed",
-      "stageLabel": "Fase actual",
-      "mission": "Inclusión financiera",
-      "missionLabel": "Nuestra misión"
+      "price": "0%",
+      "priceLabel": "Comision COLHYBRI",
+      "stage": "55%",
+      "stageLabel": "Centros con vacancia comercial",
+      "mission": "De lo local a lo global",
+      "missionLabel": "Nuestra vision"
     }
   },
+  "problem": {
+    "headline": "El problema es medible",
+    "subheadline": "La vitalidad comercial de los centros urbanos se derrumba. Los programas existen. Las herramientas faltan.",
+    "stats": {
+      "vacancy": { "value": "55", "unit": "%", "label": "de las ciudades medianas con vacancia comercial" },
+      "invisible": { "value": "75", "unit": "%", "label": "de las pymes invisibles en Google" },
+      "commission": { "value": "0", "unit": "%", "label": "comision COLHYBRI (frente al 30% de las plataformas)" }
+    }
+  },
+  "solution": {
+    "headline": "Como COLHYBRI revitaliza tu centro urbano",
+    "subheadline": "Tres pilares, un mismo objetivo: devolver la vida a tu calle comercial.",
+    "pillar1": {
+      "title": "Solidaridad de barrio",
+      "description": "3 EUR al mes. 75% va al pool comunitario. Servicios ofrecidos al azar a un vecino, un comerciante o una causa local.",
+      "linkLabel": "Ver el pool solidario"
+    },
+    "pillar2": {
+      "title": "Visibilidad digital",
+      "description": "Auditoria Google automatizada. Onboarding sin friccion para comercios. Monitorizacion continua de la presencia online.",
+      "linkLabel": "Ver Maps+"
+    },
+    "pillar3": {
+      "title": "Compromiso comunitario",
+      "description": "26 minijuegos hiperlocales. Retos de barrio. Rankings por calle comercial. La calle se convierte en un tablero colectivo.",
+      "linkLabel": "Ver la gamificacion"
+    }
+  },
+  "institutional": {
+    "headline": "En el ecosistema global de revitalizacion",
+    "subheadline": "COLHYBRI se inscribe en los programas de revitalizacion de centros urbanos en Francia, Estados Unidos y Europa.",
+    "badges": [
+      "Action Coeur de Ville",
+      "Petites Villes de Demain",
+      "ECoSR 2026",
+      "Main Street America",
+      "EU Urban Initiative"
+    ]
+  },
+  "worldImpact": {
+    "headline": "Nuestro impacto, de lo local a lo global",
+    "subheadline": "Una misma herramienta, adaptada a cada territorio.",
+    "regions": {
+      "france": { "title": "Francia", "detail": "1 732 comunas ZRCV. 244 Action Coeur de Ville. 1 646 Petites Villes de Demain." },
+      "usa": { "title": "Estados Unidos", "detail": "8 764 Opportunity Zones. 6 544 OZ 2.0 en 2026. 1 200 Main Street communities." },
+      "europe": { "title": "Europa", "detail": "Barcelona, Capital Europea del Pequeno Comercio 2026. EUI Call 4: 60M EUR FEDER." },
+      "latam": { "title": "America Latina", "detail": "55% de empleo informal. Crecimiento 2.1% en 2026. Formalizacion mediante digitalizacion." },
+      "africa": { "title": "Africa", "detail": "Crecimiento 4.3% en 2026. Urbanizacion rapida. Sin herramienta digital dedicada." }
+    }
+  },
+  "triplePlay": {
+    "headline": "El triple-play ONLYMORE",
+    "subheadline": "Tres pilares, un ecosistema.",
+    "col1": { "brand": "COLHYBRI", "tag": "Comercio de proximidad" },
+    "col2": { "brand": "CROWNIUM", "tag": "Club deportivo local" },
+    "col3": { "brand": "ONLYMORE FINANCE", "tag": "Credito solidario" },
+    "quote": "Un club deportivo que llena el centro. Comerciantes que hacen vivir el barrio. Un credito que financia el crecimiento."
+  },
+  "finalCta": {
+    "headline": "Listo para revitalizar tu centro urbano?",
+    "cta1": { "title": "Abrir la app", "sub": "Individuos y comerciantes" },
+    "cta2": { "title": "Reservar una demo", "sub": "Ciudades e instituciones" },
+    "cta3": { "title": "Ver el dossier", "sub": "Inversores y aceleradoras" }
+  },
   "mission": {
-    "title": "Nuestra Misión",
-    "headline": "Haciendo Nuestra Parte — Como el Colibrí",
-    "description": "En una leyenda amerindia, mientras el bosque arde, el colibrí lleva agua gota a gota. Cuando le preguntan por qué, responde: \"Estoy haciendo mi parte.\" COLHYBRI encarna este espíritu — pequeñas acciones de muchos crean un impacto colectivo masivo.",
+    "title": "Nuestra Mision",
+    "headline": "Hacer nuestra parte, como el colibri",
+    "description": "En una leyenda amerindia, mientras el bosque arde, el colibri lleva agua gota a gota. Le preguntan por que. Responde: estoy haciendo mi parte. COLHYBRI encarna este espiritu: pequenas acciones de muchos crean un impacto colectivo inmenso sobre la vitalidad del centro urbano.",
     "pillars": {
       "inclusion": {
-        "title": "Inclusión Financiera",
-        "description": "En España, muchas personas no tienen acceso bancario adecuado. COLHYBRI proporciona acceso asequible a servicios financieros esenciales — sin verificación de crédito, sin saldo mínimo."
+        "title": "Solidaridad de barrio",
+        "description": "COLHYBRI es una mutua de barrio digital. 3 EUR al mes alimentan un pool comunitario redistribuido como servicios ofrecidos por los comercios de la calle."
       },
       "commerce": {
-        "title": "Comercio Local",
-        "description": "Los comercios locales se convierten en centros financieros comunitarios. Cada transacción a través de COLHYBRI fortalece la economía del barrio mediante el efecto multiplicador keynesiano."
+        "title": "Comercio de proximidad",
+        "description": "Los comercios locales se convierten en los primeros beneficiarios de su propio barrio. Visibilidad digital, fidelizacion, trafico recuperado. El centro vuelve a vivir."
       },
       "community": {
-        "title": "Poder Comunitario",
-        "description": "Cuando individuos y comercios se conectan a través de COLHYBRI, el dinero circula localmente. El dinero circula localmente, fortaleciendo toda la comunidad."
+        "title": "Compromiso colectivo",
+        "description": "Cuando particulares y comerciantes se conectan a traves de COLHYBRI, el dinero circula localmente. El compromiso devuelve sentido a la calle comercial y a sus habitantes."
       }
     }
   },
   "howItWorks": {
-    "title": "Cómo Funciona",
-    "headline": "Tres Simples Pasos hacia la Inclusión Financiera",
+    "title": "Solucion",
+    "headline": "Tres pasos simples para revitalizar tu barrio",
     "steps": {
       "subscribe": {
-        "title": "Suscríbete",
-        "description": "Los individuos se unen por una cuota mensual accesible. Sin verificación de crédito, sin cuenta bancaria necesaria. Acceso instantáneo a la red financiera comunitaria COLHYBRI."
+        "title": "Suscribete",
+        "description": "3 EUR al mes, sin compromiso. El 75% de tu contribucion va al pool comunitario de tu barrio."
       },
       "connect": {
-        "title": "Conéctate Localmente",
-        "description": "Los comercios se unen y se convierten en centros financieros comunitarios."
+        "title": "Conectate localmente",
+        "description": "Descubre los comercios de proximidad con Maps+. Auditoria Google automatica y onboarding sin friccion para cada comerciante."
       },
       "thrive": {
-        "title": "Prosperamos Juntos",
-        "description": "Cada transacción fortalece la economía local. El dinero circulando localmente multiplica su impacto gracias al multiplicador keynesiano."
+        "title": "Prosperamos juntos",
+        "description": "Cada euro circula localmente. Los servicios se redistribuyen al azar a un vecino, un comerciante o una causa del barrio."
       }
     }
   },
   "pricing": {
     "title": "Precios",
-    "headline": "Accesible para Todos",
+    "headline": "El registro se hace en colhybri.com",
+    "ctaApp": "Abrir la app",
     "individuals": {
       "title": "Para Individuos",
-      "price": "—",
+      "price": "3 EUR",
       "period": "/mes",
       "features": [
-        "Acceso a red financiera local",
-        "Sin verificación de crédito",
-        "Sin saldo mínimo",
-        "Herramientas de ahorro comunitario",
-        "Descuentos en comercios locales",
-        "Capacidades de pago digital"
+        "Solidaridad de barrio mutualizada",
+        "Servicios ofrecidos al azar",
+        "26 minijuegos locales",
+        "Retos de barrio",
+        "Sin compromiso",
+        "Transparencia total del pool"
       ],
-      "cta": "Comenzar"
+      "cta": "Registrate en colhybri.com"
     },
     "shops": {
-      "title": "Para Comercios Locales",
-      "price": "—",
+      "title": "Para Comercios",
+      "price": "10 EUR",
       "period": "/mes",
       "features": [
-        "Conviértete en centro financiero comunitario",
-        "Mayor tráfico de clientes",
-        "Herramientas de fidelización",
-        "Servicios bancarios integrados",
-        "Mayor visibilidad comunitaria",
-        "Panel de impacto"
+        "Auditoria Google automatizada (Maps+)",
+        "Onboarding sin friccion",
+        "Fidelizacion de barrio",
+        "Panel de vitalidad",
+        "Visibilidad en la app",
+        "Inscripcion en el pool comunitario"
       ],
-      "cta": "Asóciate Con Nosotros"
+      "cta": "Registrate en colhybri.com"
     }
   },
   "impact": {
     "title": "Impacto",
-    "headline": "El Multiplicador Keynesiano en Acción",
-    "description": "Cada euro que circula localmente multiplica su valor en actividad económica. COLHYBRI canaliza el gasto hacia el comercio local, creando empleos y fortaleciendo comunidades.",
+    "headline": "El multiplicador keynesiano en accion",
+    "description": "Cada euro que circula localmente multiplica su valor en actividad economica. COLHYBRI canaliza el gasto hacia el comercio de proximidad, revitaliza los centros urbanos y construye barrios mas resilientes.",
     "metrics": {
       "localValue": {
-        "value": "×2,5",
+        "value": "x2,5",
         "label": "Multiplicador estimado de valor local"
       },
       "jobsCreated": {
@@ -124,94 +189,102 @@
     }
   },
   "miami": {
-    "title": "Lanzamiento España 2026",
-    "headline": "COLHYBRI se Lanza en España — La Puerta de Europa hacia la Inclusión Financiera",
-    "description": "En España, muchas personas no tienen acceso bancario adecuado. Con su fuerte tradición de comercio de proximidad y su arraigada red de cajas de ahorro, España es la plataforma de lanzamiento perfecta para la misión de COLHYBRI.",
+    "title": "Miami",
+    "headline": "Miami, ciudad piloto para la revitalizacion de centros urbanos americanos",
+    "description": "Miami-Dade combina un ecosistema denso de comercios locales, una poblacion bilingue y una agenda de revitalizacion. Es un piloto pertinente para el despliegue de COLHYBRI en Estados Unidos.",
     "whyMiami": {
-      "title": "¿Por qué España?",
+      "title": "Por que Miami?",
       "reasons": [
-        "Muchas personas sin acceso bancario adecuado en España",
-        "Fuerte tradición de comercio de proximidad",
-        "Red de cajas de ahorro y cooperativas de crédito arraigada en la cultura española",
-        "Puerta de entrada al mundo hispanohablante — camino natural hacia América Latina"
+        "Un tejido denso de comercios de proximidad en Main Streets",
+        "Una poblacion bilingue alineada con nuestro producto multilingue",
+        "Una puerta de entrada a America Latina para la expansion regional",
+        "Instituciones locales comprometidas con la revitalizacion de centros urbanos"
       ]
     }
   },
   "forIndividuals": {
     "title": "Para Individuos",
-    "headline": "La Libertad Financiera Comienza Aquí",
-    "description": "¿Sin cuenta bancaria? No hay problema. COLHYBRI te da acceso a servicios financieros esenciales a través de los comercios de tu barrio. Ahorra, gasta y construye tu futuro financiero — todo con una suscripción accesible."
+    "headline": "Cada gesto cuenta. El tuyo tambien.",
+    "description": "3 EUR al mes alimentan un pool comunitario que transforma tu barrio. Descubre los comercios de proximidad, ofrece servicios al azar, juega a los minijuegos hiperlocales."
   },
   "forShops": {
-    "title": "Para Comercios Locales",
-    "headline": "Tu Comercio, el Centro Financiero de tu Comunidad",
-    "description": "Únete a COLHYBRI y transforma tu negocio en un centro financiero comunitario. Aumenta el tráfico de clientes, fideliza y marca una diferencia real en tu barrio."
+    "title": "Para Comercios",
+    "headline": "Tu comercio en el corazon del barrio",
+    "description": "Unete a COLHYBRI y recupera el control de tu visibilidad digital. Auditoria Google automatica, onboarding sin friccion, panel de vitalidad."
   },
   "forCities": {
     "title": "Para Ciudades",
-    "headline": "Revitaliza tu Centro Urbano con COLHYBRI",
-    "description": "Las ciudades que se asocian con COLHYBRI ven aumentos medibles en la actividad económica local. Nuestra plataforma fortalece el tejido comercial de los barrios mientras avanza en los objetivos de inclusión financiera.",
+    "headline": "Revitaliza tu centro urbano con COLHYBRI",
+    "description": "COLHYBRI ofrece a los ayuntamientos el panel de vitalidad comercial que su calle principal merece. Auditoria Google automatizada para cada comercio en 48 horas. Panel mensual. Informe de impacto municipal.",
     "benefits": {
-      "multiplier": "Aumento medible de la actividad económica local gracias al efecto multiplicador keynesiano",
-      "inclusion": "Avanzar en los objetivos de inclusión financiera para residentes sub-bancarizados",
-      "fabric": "Fortalecer el tejido comercial de los barrios y apoyar los comercios locales",
-      "dashboard": "Panel de impacto en tiempo real: empleos, gastos y crecimiento comunitario"
+      "multiplier": "Aumento medible de la actividad economica local",
+      "inclusion": "Apoya los programas de revitalizacion de centros urbanos",
+      "fabric": "Fortalece el tejido comercial de los barrios",
+      "dashboard": "Panel de vitalidad en tiempo real: empleos, gastos y crecimiento comunitario"
     }
   },
   "ecosystem": {
     "title": "Ecosistema",
-    "headline": "El Ecosistema COLHYBRI",
-    "description": "COLHYBRI es una plataforma tecnológica dedicada a la inclusión financiera a través del comercio local. Nuestro ecosistema conecta individuos, comercios locales y gobiernos municipales.",
+    "headline": "El ecosistema COLHYBRI",
+    "description": "COLHYBRI es una plataforma tecnologica dedicada a la revitalizacion de centros urbanos a traves de la solidaridad de barrio. Nuestro ecosistema conecta particulares, comercios locales y ciudades.",
     "pillars": {
       "individuals": {
         "title": "Particulares",
-        "description": "Accede a servicios financieros esenciales a través de los comercios de tu barrio."
+        "description": "Apoya a tu barrio a traves de un pool comunitario mutualizado."
       },
       "shops": {
         "title": "Comercios locales",
-        "description": "Conviértete en un hub financiero comunitario y aumenta tu tráfico de clientes."
+        "description": "Recupera tu visibilidad digital y trae de vuelta el trafico a tu tienda."
       },
       "cities": {
-        "title": "Ciudades y gobiernos",
-        "description": "Fortalece la economía local gracias al efecto multiplicador keynesiano."
+        "title": "Ciudades e instituciones",
+        "description": "Equipa tu calle comercial con un panel de vitalidad."
       }
     },
     "colhybri": {
       "title": "COLHYBRI",
-      "subtitle": "Lanzado el 26/02/2026"
+      "subtitle": "Lanzado en febrero de 2026"
     }
   },
   "investors": {
     "title": "Inversores",
-    "headline": "Invierte en la Inclusión Financiera",
-    "description": "COLHYBRI combina un modelo económico sólido con un impacto social masivo. Buscamos socios que compartan nuestra visión de inclusión financiera a través del comercio local."
+    "headline": "Invierte en la revitalizacion de centros urbanos",
+    "description": "COLHYBRI combina un modelo economico mutualista con un impacto masivo en la vitalidad del centro urbano. Estamos levantando una ronda pre-seed con socios que comparten nuestra vision."
   },
   "faq": {
     "title": "Preguntas Frecuentes",
     "questions": [
       {
-        "q": "¿Qué es COLHYBRI?",
-        "a": "COLHYBRI es una plataforma de inclusión financiera que conecta a personas no bancarizadas con comercios locales a través de una suscripción accesible. Crea un ecosistema financiero comunitario donde el dinero circula localmente, fortaleciendo las economías locales mediante el efecto multiplicador keynesiano."
+        "q": "Que es COLHYBRI?",
+        "a": "COLHYBRI es una mutua de barrio digital que revitaliza los centros urbanos a traves de la solidaridad comunitaria. Los particulares se suscriben por 3 EUR al mes, el 75% de la contribucion va a un pool comunitario redistribuido como servicios ofrecidos por los comercios de la calle."
       },
       {
-        "q": "¿Cuánto cuesta COLHYBRI?",
-        "a": "Los precios se anunciarán próximamente. COLHYBRI está diseñado para ser accesible para individuos y comercios locales. No habrá costos ocultos, ni verificación de crédito, ni requisitos de saldo mínimo."
+        "q": "Cuanto cuesta?",
+        "a": "3 EUR al mes para particulares. 10 EUR al mes para comerciantes. Cero comision. Registro en colhybri.com."
       },
       {
-        "q": "¿Necesito una cuenta bancaria para usar COLHYBRI?",
-        "a": "No. COLHYBRI está diseñado específicamente para personas sub-bancarizadas o no bancarizadas. Puedes acceder a servicios financieros a través de los comercios locales participantes en tu barrio."
+        "q": "Que es Maps+?",
+        "a": "Maps+ es nuestra herramienta de auditoria Google automatizada. Analiza la presencia online de cada comercio y propone mejoras con onboarding sin friccion."
       },
       {
-        "q": "¿Dónde se lanza COLHYBRI?",
-        "a": "COLHYBRI se lanza en España en 2026. España fue elegida por su fuerte tradición de comercio de proximidad, su red de cajas de ahorro y su papel como puerta de entrada al mundo hispanohablante."
+        "q": "Como funciona el pool comunitario?",
+        "a": "El 75% de cada suscripcion se mutualiza a nivel de barrio y se redistribuye como servicios ofrecidos al azar. No es caridad. Es una mutua digital."
       },
       {
-        "q": "¿Quién está detrás de COLHYBRI?",
-        "a": "COLHYBRI es creado y liderado por el fundador y CEO Florent Gibert."
+        "q": "Donde esta disponible COLHYBRI?",
+        "a": "COLHYBRI esta activo en Francia y se expande a Europa, Estados Unidos y America Latina. Ver paginas de Impacto por region."
       },
       {
-        "q": "¿Qué es el efecto multiplicador keynesiano?",
-        "a": "El multiplicador keynesiano describe cómo el dinero gastado localmente genera actividad económica adicional. Con COLHYBRI, cada suscripción crea un valor económico local multiplicado a medida que el dinero circula por la comunidad."
+        "q": "Como puede participar mi ciudad?",
+        "a": "Las ciudades pueden iniciar un piloto gratuito de 90 dias sobre 50 comercios. Contacto desde la pagina Para Ciudades."
+      },
+      {
+        "q": "Quien esta detras de COLHYBRI?",
+        "a": "COLHYBRI es creado y liderado por el fundador y CEO Florent Gibert, dentro del ecosistema ONLYMORE Group."
+      },
+      {
+        "q": "Como invertir?",
+        "a": "Los detalles de nuestra ronda pre-seed estan disponibles en la pagina Inversores."
       }
     ]
   },
@@ -223,10 +296,10 @@
     "cta": "Enviar Mensaje"
   },
   "footer": {
-    "tagline": "Inclusión financiera a través del comercio local",
-    "quote": "\"Estoy haciendo mi parte.\" — Leyenda amerindia (El Colibrí)",
-    "group": "COLHYBRI — Lanzado el 26/02/2026",
-    "copyright": "© 2026 COLHYBRI. Todos los derechos reservados.",
+    "tagline": "Cada gesto cuenta. El tuyo tambien.",
+    "quote": "Estoy haciendo mi parte. Leyenda amerindia del colibri.",
+    "group": "Un proyecto ONLYMORE Group",
+    "copyright": "2026 COLHYBRI. Todos los derechos reservados.",
     "links": {
       "about": "Acerca de",
       "privacy": "Política de Privacidad",
@@ -279,7 +352,7 @@
     "backToHome": "Volver al Inicio"
   },
   "city": {
-    "metaTitle": "COLHYBRI en {city} — Comercio local e inclusion financiera",
+    "metaTitle": "COLHYBRI en {city}. Revitaliza tu centro urbano con solidaridad de barrio.",
     "metaDescription": "COLHYBRI fortalece el comercio local en {city}, {region}. Unete al movimiento de inclusion financiera en tu barrio.",
     "heroTitle": "COLHYBRI en {city}",
     "heroDescription": "{city} y sus {population} habitantes merecen servicios financieros accesibles. COLHYBRI conecta a residentes no bancarizados con comercios locales para construir una economia comunitaria.",
@@ -297,7 +370,7 @@
     "benefit2Title": "Multiplicador keynesiano",
     "benefit2Description": "Cada euro gastado localmente en {city} multiplica su impacto economico en la comunidad.",
     "benefit3Title": "Hub comunitario",
-    "benefit3Description": "Los comercios locales de {city} se convierten en terceros lugares digitales — donde las finanzas se encuentran con la comunidad.",
+    "benefit3Description": "Los comercios locales de {city} se convierten en terceros lugares digitales, donde la solidaridad de barrio se encuentra con la revitalizacion del centro urbano.",
     "benefit4Title": "Panel de impacto",
     "benefit4Description": "Sigue el impacto economico en tiempo real: empleos creados, dinero circulando localmente en {city}.",
     "ctaTitle": "Listo para transformar {city}?",

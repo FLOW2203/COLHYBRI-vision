@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "title": "COLHYBRI — Financial Inclusion Through Local Commerce",
-    "description": "COLHYBRI connects underbanked individuals with local shops through an affordable monthly subscription, creating a community-powered financial ecosystem."
+    "title": "COLHYBRI. Own Your Neighborhood. Own Your Future.",
+    "description": "The platform revitalizing downtowns through neighborhood community support. From Paris to Pittsburgh."
   },
   "nav": {
     "home": "Home",
     "mission": "Mission",
-    "howItWorks": "How It Works",
+    "howItWorks": "Solution",
     "pricing": "Pricing",
     "impact": "Impact",
     "forIndividuals": "For Individuals",
@@ -21,96 +21,161 @@
     "openApp": "Open App"
   },
   "hero": {
-    "tagline": "Financial Inclusion Through Local Commerce",
-    "headline": "Every dollar you spend locally strengthens your community",
-    "subheadline": "COLHYBRI connects underbanked individuals with neighborhood shops through a simple, affordable subscription. Together, we build financial inclusion from the ground up.",
-    "cta": "Join the Movement",
-    "ctaSecondary": "See How It Works",
+    "tagline": "Downtown Revitalization",
+    "headline": "Own Your Neighborhood. Own Your Future.",
+    "subheadline": "The platform revitalizing downtowns through neighborhood community support. From Paris to Pittsburgh.",
+    "cta": "Open App",
+    "ctaSecondary": "See Our Impact",
     "stats": {
-      "price": "—",
-      "priceLabel": "Coming Soon",
-      "stage": "Pre-seed",
-      "stageLabel": "Current Stage",
-      "mission": "Financial Inclusion",
-      "missionLabel": "Our Mission"
+      "price": "0%",
+      "priceLabel": "COLHYBRI commission",
+      "stage": "55%",
+      "stageLabel": "Downtowns with commercial vacancy",
+      "mission": "From local to global",
+      "missionLabel": "Our vision"
     }
+  },
+  "problem": {
+    "headline": "The problem is measurable",
+    "subheadline": "Downtown commercial vitality is collapsing. The programs exist. The tools are missing.",
+    "stats": {
+      "vacancy": { "value": "55", "unit": "%", "label": "of midsize downtowns facing commercial vacancy" },
+      "invisible": { "value": "75", "unit": "%", "label": "of small businesses invisible on Google" },
+      "commission": { "value": "0", "unit": "%", "label": "COLHYBRI commission (vs 30% on platforms)" }
+    }
+  },
+  "solution": {
+    "headline": "How COLHYBRI revitalizes your downtown",
+    "subheadline": "Three pillars, one goal: bring your main street back to life.",
+    "pillar1": {
+      "title": "Neighborhood community support",
+      "description": "Three dollars a month. 75% goes to the pool. Services gifted at random to a neighbor, a shop, a local cause.",
+      "linkLabel": "Explore the pool"
+    },
+    "pillar2": {
+      "title": "Digital visibility",
+      "description": "Automated Google audit. Zero-friction onboarding for merchants. Continuous monitoring of online presence.",
+      "linkLabel": "See Maps+"
+    },
+    "pillar3": {
+      "title": "Community engagement",
+      "description": "26 hyperlocal mini-games. Neighborhood challenges. Rankings by main street. The street becomes a collective playground.",
+      "linkLabel": "See gamification"
+    }
+  },
+  "institutional": {
+    "headline": "Inside the global revitalization ecosystem",
+    "subheadline": "COLHYBRI fits into the downtown revitalization programs of France, the United States and Europe.",
+    "badges": [
+      "Action Coeur de Ville",
+      "Petites Villes de Demain",
+      "ECoSR 2026",
+      "Main Street America",
+      "EU Urban Initiative"
+    ]
+  },
+  "worldImpact": {
+    "headline": "Our impact, from local to global",
+    "subheadline": "One tool, adapted to every territory. From a French ZRCV town to an American Main Street.",
+    "regions": {
+      "france": { "title": "France", "detail": "1,732 ZRCV towns. 244 Action Coeur de Ville. 1,646 Petites Villes de Demain." },
+      "usa": { "title": "United States", "detail": "8,764 Opportunity Zones. 6,544 OZ 2.0 in 2026. 1,200 Main Street communities." },
+      "europe": { "title": "Europe", "detail": "Barcelona, European Capital of Small Commerce 2026. EUI Call 4: 60M EUR ERDF." },
+      "latam": { "title": "Latin America", "detail": "55% informal employment. 2.1% growth in 2026. Formalization through digitalization." },
+      "africa": { "title": "Africa", "detail": "4.3% growth in 2026. Rapid urbanization. No digital tool dedicated to urban commerce." }
+    }
+  },
+  "triplePlay": {
+    "headline": "The ONLYMORE triple-play",
+    "subheadline": "Three pillars, one ecosystem. Downtown revitalization through commerce, sport and credit.",
+    "col1": { "brand": "COLHYBRI", "tag": "Local commerce" },
+    "col2": { "brand": "CROWNIUM", "tag": "Local sports club" },
+    "col3": { "brand": "ONLYMORE FINANCE", "tag": "Community credit" },
+    "quote": "A sports club that fills the downtown. Merchants who keep the neighborhood alive. A credit line that finances growth."
+  },
+  "finalCta": {
+    "headline": "Ready to revitalize your downtown?",
+    "cta1": { "title": "Open App", "sub": "Individuals and merchants" },
+    "cta2": { "title": "Book a demo", "sub": "Cities and institutions" },
+    "cta3": { "title": "See the deck", "sub": "Investors and accelerators" }
   },
   "mission": {
     "title": "Our Mission",
-    "headline": "Doing Our Part — Like the Hummingbird",
-    "description": "In a Native American legend, while the forest burns, the hummingbird carries water drop by drop. When asked why, it replies: \"I am doing my part.\" COLHYBRI embodies this spirit — small actions by many create massive collective impact.",
+    "headline": "Doing our part, like the hummingbird",
+    "description": "In a Native American legend, while the forest burns, the hummingbird carries water drop by drop. Asked why, it replies: I am doing my part. COLHYBRI embodies this spirit. Small actions by many create massive collective impact on downtown vitality.",
     "pillars": {
       "inclusion": {
-        "title": "Financial Inclusion",
-        "description": "Millions of Americans are underbanked or unbanked. COLHYBRI provides affordable access to essential financial services — no credit check, no minimum balance."
+        "title": "Neighborhood community support",
+        "description": "COLHYBRI is a digital neighborhood mutual. Three dollars a month funds a community pool redistributed as services offered by main street merchants."
       },
       "commerce": {
-        "title": "Local Commerce",
-        "description": "Local shops become community financial hubs. Every transaction through COLHYBRI strengthens the neighborhood economy through the Keynesian multiplier effect."
+        "title": "Local commerce",
+        "description": "Local shops become the first beneficiaries of their own neighborhood. Digital visibility, loyalty, traffic restored. The downtown comes back to life."
       },
       "community": {
-        "title": "Community Power",
-        "description": "When individuals and shops connect through COLHYBRI, money circulates locally. Money circulates locally, strengthening the entire community."
+        "title": "Collective engagement",
+        "description": "When individuals and merchants connect through COLHYBRI, money circulates locally. Engagement brings meaning back to the main street and its residents."
       }
     }
   },
   "howItWorks": {
-    "title": "How It Works",
-    "headline": "Three Simple Steps to Financial Inclusion",
+    "title": "Solution",
+    "headline": "Three simple steps to revitalize your neighborhood",
     "steps": {
       "subscribe": {
         "title": "Subscribe",
-        "description": "Individuals join for an affordable monthly fee. No credit check, no bank account needed. Instant access to the COLHYBRI community financial network."
+        "description": "Three dollars a month, no commitment. 75% of your contribution goes to your neighborhood community pool."
       },
       "connect": {
-        "title": "Connect Locally",
-        "description": "Shops join and become community financial hubs. They offer COLHYBRI services alongside their existing business."
+        "title": "Connect locally",
+        "description": "Discover local shops through Maps+. Automated Google audit and zero-friction onboarding for every merchant."
       },
       "thrive": {
-        "title": "Thrive Together",
-        "description": "Every transaction strengthens the local economy. Money circulating locally multiplies its impact through the Keynesian multiplier effect."
+        "title": "Thrive together",
+        "description": "Every dollar circulates locally. Services are redistributed at random to a neighbor, a merchant or a local cause in the neighborhood."
       }
     }
   },
   "pricing": {
     "title": "Pricing",
-    "headline": "Affordable for Everyone",
+    "headline": "Sign up on colhybri.com",
+    "ctaApp": "Open App",
     "individuals": {
       "title": "For Individuals",
-      "price": "—",
+      "price": "$3",
       "period": "/month",
       "features": [
-        "Access to local financial network",
-        "No credit check required",
-        "No minimum balance",
-        "Community savings tools",
-        "Local shop discounts",
-        "Digital payment capabilities"
+        "Mutualized neighborhood community support",
+        "Services gifted at random",
+        "26 hyperlocal mini-games",
+        "Neighborhood challenges",
+        "No commitment",
+        "Full pool transparency"
       ],
-      "cta": "Get Started"
+      "cta": "Sign up on colhybri.com"
     },
     "shops": {
       "title": "For Local Shops",
-      "price": "—",
+      "price": "$10",
       "period": "/month",
       "features": [
-        "Become a community financial hub",
-        "Increased foot traffic",
-        "Customer loyalty tools",
-        "Embedded banking services",
-        "Community visibility boost",
-        "Impact dashboard"
+        "Automated Google audit (Maps+)",
+        "Zero-friction onboarding",
+        "Neighborhood loyalty tools",
+        "Vitality dashboard",
+        "Visibility in the app",
+        "Enrollment in the community pool"
       ],
-      "cta": "Partner With Us"
+      "cta": "Sign up on colhybri.com"
     }
   },
   "impact": {
     "title": "Impact",
-    "headline": "The Keynesian Multiplier in Action",
-    "description": "Every dollar that circulates locally multiplies its value in economic activity. COLHYBRI channels spending into local commerce, creating jobs and strengthening communities.",
+    "headline": "The Keynesian multiplier in action",
+    "description": "Every dollar that circulates locally multiplies its value in economic activity. COLHYBRI channels spending into local commerce, revitalizes downtowns and builds more resilient neighborhoods.",
     "metrics": {
       "localValue": {
-        "value": "×2.5",
+        "value": "x2.5",
         "label": "Estimated local value multiplier"
       },
       "jobsCreated": {
@@ -124,94 +189,102 @@
     }
   },
   "miami": {
-    "title": "Miami Launch 2026",
-    "headline": "COLHYBRI Launches in Miami — America's Gateway to Financial Inclusion",
-    "description": "Miami-Dade County has one of the highest rates of underbanked residents in the United States. With its vibrant Latino community and thriving local commerce, Miami is the perfect launchpad for COLHYBRI's mission.",
+    "title": "Miami",
+    "headline": "Miami, a pilot city for US downtown revitalization",
+    "description": "Miami-Dade combines thriving local commerce with a large bilingual population and a main-street revitalization agenda. It is a relevant pilot for rolling COLHYBRI out across American downtowns.",
     "whyMiami": {
       "title": "Why Miami?",
       "reasons": [
-        "A large portion of Miami-Dade residents are underbanked or unbanked",
-        "Large Hispanic/Latino population — the community COLHYBRI was built for",
-        "Thriving small business ecosystem with thousands of local shops",
-        "America's gateway to Latin America — natural expansion path"
+        "A dense local commerce ecosystem along Main Streets",
+        "A large bilingual community aligned with our multilingual product",
+        "A gateway to Latin America for regional expansion",
+        "Local institutions engaged in downtown revitalization"
       ]
     }
   },
   "forIndividuals": {
     "title": "For Individuals",
-    "headline": "Financial Freedom Starts Here",
-    "description": "No bank account? No problem. COLHYBRI gives you access to essential financial services through your neighborhood shops. Save, spend, and build your financial future — all for an affordable monthly fee."
+    "headline": "Own your neighborhood, one gesture at a time",
+    "description": "Three dollars a month funds a community pool that reshapes your downtown. Discover local shops, gift services at random, play hyperlocal mini-games. Your gesture counts. So does theirs."
   },
   "forShops": {
     "title": "For Local Shops",
-    "headline": "Your Shop, Your Community's Financial Hub",
-    "description": "Join COLHYBRI and transform your business into a community financial center. Increase foot traffic, build customer loyalty, and make a real difference in your neighborhood."
+    "headline": "Your shop, at the heart of the neighborhood",
+    "description": "Join COLHYBRI and reclaim your digital visibility. Automated Google audit, zero-friction onboarding, vitality dashboard. Bring foot traffic back to your main street."
   },
   "forCities": {
     "title": "For Cities",
-    "headline": "Revitalize Main Street with COLHYBRI",
-    "description": "Cities partnering with COLHYBRI see measurable increases in local economic activity. Our platform strengthens the commercial fabric of neighborhoods while advancing financial inclusion goals.",
+    "headline": "The downtown vitality dashboard your city needs",
+    "description": "COLHYBRI gives city halls the commercial vitality dashboard their main street deserves. Automated Google audit for every shop in 48 hours. Monthly dashboard. Municipal impact report.",
     "benefits": {
       "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
-      "inclusion": "Advance financial inclusion goals for underbanked and unbanked residents",
+      "inclusion": "Support downtown revitalization programs (ZRCV, ACV, PVD, Main Street, OZ 2.0)",
       "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
-      "dashboard": "Real-time impact dashboard tracking jobs, spending, and community growth"
+      "dashboard": "Real-time vitality dashboard tracking jobs, spending, and community growth"
     }
   },
   "ecosystem": {
     "title": "Ecosystem",
-    "headline": "The COLHYBRI Ecosystem",
-    "description": "COLHYBRI is a technology platform dedicated to financial inclusion through local commerce. Our ecosystem connects individuals, local shops, and city governments.",
+    "headline": "The COLHYBRI ecosystem",
+    "description": "COLHYBRI is a technology platform dedicated to downtown revitalization through neighborhood community support. Our ecosystem connects individuals, local shops and cities.",
     "pillars": {
       "individuals": {
         "title": "Individuals",
-        "description": "Access essential financial services through your neighborhood shops."
+        "description": "Support your neighborhood through a mutualized community pool."
       },
       "shops": {
         "title": "Local Shops",
-        "description": "Become a community financial hub and increase your customer traffic."
+        "description": "Reclaim your digital visibility and bring foot traffic back to your shop."
       },
       "cities": {
-        "title": "Cities & Governments",
-        "description": "Strengthen your local economy through the Keynesian multiplier effect."
+        "title": "Cities and institutions",
+        "description": "Equip your main street with a commercial vitality dashboard."
       }
     },
     "colhybri": {
       "title": "COLHYBRI",
-      "subtitle": "Launched 26/02/2026"
+      "subtitle": "Launched February 2026"
     }
   },
   "investors": {
     "title": "Investors",
-    "headline": "Invest in Financial Inclusion",
-    "description": "COLHYBRI combines a proven business model with massive social impact. We're seeking partners who share our vision of financial inclusion through local commerce."
+    "headline": "Invest in downtown revitalization",
+    "description": "COLHYBRI combines a mutual-driven business model with massive impact on main street vitality. We are raising a pre-seed round with partners who share our vision."
   },
   "faq": {
     "title": "Frequently Asked Questions",
     "questions": [
       {
         "q": "What is COLHYBRI?",
-        "a": "COLHYBRI is a financial inclusion platform that connects underbanked individuals with local shops through an affordable subscription. It creates a community-powered financial ecosystem where money circulates locally, strengthening local economies through the Keynesian multiplier effect."
+        "a": "COLHYBRI is a digital neighborhood mutual that revitalizes downtowns through community support. Individuals subscribe for three dollars a month, 75% of the contribution goes to a community pool redistributed as services offered by main street merchants."
       },
       {
-        "q": "How much does COLHYBRI cost?",
-        "a": "Pricing will be announced soon. COLHYBRI is designed to be affordable for individuals and local shops. There will be no hidden fees, no credit checks, and no minimum balance requirements."
+        "q": "How much does it cost?",
+        "a": "Three dollars a month for individuals. Ten dollars a month for merchants. Zero commission. Sign up on colhybri.com."
       },
       {
-        "q": "Do I need a bank account to use COLHYBRI?",
-        "a": "No. COLHYBRI is specifically designed for people who are underbanked or unbanked. You can access financial services through participating local shops in your neighborhood."
+        "q": "What is Maps+?",
+        "a": "Maps+ is our automated Google audit tool. It scores every shop's online presence, generates improvement recommendations and onboards merchants with zero friction."
       },
       {
-        "q": "Where is COLHYBRI launching?",
-        "a": "COLHYBRI is launching in Miami, Florida in H1 2026. Miami-Dade County was chosen because of its large underbanked population and vibrant local commerce ecosystem."
+        "q": "How does the community pool work?",
+        "a": "75% of every monthly subscription is pooled at the neighborhood level. Services are then gifted at random to a neighbor, a shop or a local cause. It is not charity. It is a digital mutual."
+      },
+      {
+        "q": "Is COLHYBRI available in my country?",
+        "a": "COLHYBRI is active in France and expanding across Europe, the United States and Latin America. See our Impact pages for regional rollout plans."
+      },
+      {
+        "q": "How can my city participate?",
+        "a": "Cities can start a 90-day free pilot on 50 shops in their downtown. Reach out from the For Cities page."
       },
       {
         "q": "Who is behind COLHYBRI?",
-        "a": "COLHYBRI is created and led by founder and CEO Florent Gibert."
+        "a": "COLHYBRI is created and led by founder and CEO Florent Gibert, within the ONLYMORE Group ecosystem."
       },
       {
-        "q": "What is the Keynesian multiplier effect?",
-        "a": "The Keynesian multiplier describes how money spent locally generates additional economic activity. With COLHYBRI, every subscription creates multiplied local economic value as money circulates through the community."
+        "q": "How do I invest?",
+        "a": "Our pre-seed round details are available on the Investors page. Reach out to book a call."
       }
     ]
   },
@@ -223,16 +296,16 @@
     "cta": "Send Message"
   },
   "footer": {
-    "tagline": "Financial Inclusion Through Local Commerce",
-    "quote": "\"I am doing my part.\" — Native American Legend (The Hummingbird)",
-    "group": "COLHYBRI — Launched 26/02/2026",
-    "copyright": "© 2026 COLHYBRI. All rights reserved.",
+    "tagline": "Own Your Neighborhood. Own Your Future.",
+    "quote": "I am doing my part. Native American legend of the hummingbird.",
+    "group": "An ONLYMORE Group project",
+    "copyright": "2026 COLHYBRI. All rights reserved.",
     "links": {
       "about": "About",
       "privacy": "Privacy Policy",
       "terms": "Terms of Service"
     },
-    "accessApp": "Access COLHYBRI App"
+    "accessApp": "Access the COLHYBRI app"
   },
   "localStats": {
     "title": "Local Impact in Your Country",
@@ -241,9 +314,9 @@
     "subscription": "COLHYBRI subscription"
   },
   "thirdPlace": {
-    "label": "Trust & Loneliness Barometer",
-    "headline": "1.4 Billion Adults Are Lonely. COLHYBRI Is the Digital Third Place.",
-    "subheadline": "Social trust is collapsing worldwide. Financial exclusion and loneliness feed each other. COLHYBRI builds community through financial inclusion.",
+    "label": "Trust and Loneliness Barometer",
+    "headline": "1.4 billion adults are lonely. COLHYBRI is the digital third place.",
+    "subheadline": "Social trust is collapsing worldwide. Isolation and declining downtown vitality feed each other. COLHYBRI rebuilds community through neighborhood engagement.",
     "stats": {
       "lonely": "Lonely adults worldwide",
       "distrust": "French distrust rate",
@@ -279,8 +352,8 @@
     "backToHome": "Back to Home"
   },
   "city": {
-    "metaTitle": "COLHYBRI in {city} — Local Commerce & Financial Inclusion",
-    "metaDescription": "COLHYBRI strengthens local commerce in {city}, {region}. Join the financial inclusion movement in your neighborhood.",
+    "metaTitle": "COLHYBRI in {city}. Revitalize your downtown with neighborhood community support.",
+    "metaDescription": "COLHYBRI helps revitalize {city}, {region} through neighborhood community support and digital visibility for local shops.",
     "heroTitle": "COLHYBRI in {city}",
     "heroDescription": "{city} and its {population} inhabitants deserve accessible financial services. COLHYBRI connects underbanked residents with local shops to build a community-powered economy.",
     "ctaJoin": "Join the Movement",
@@ -297,7 +370,7 @@
     "benefit2Title": "Keynesian Multiplier",
     "benefit2Description": "Every dollar spent locally in {city} multiplies its economic impact through the community.",
     "benefit3Title": "Community Hub",
-    "benefit3Description": "Local shops in {city} become digital third places — where finance meets community.",
+    "benefit3Description": "Local shops in {city} become digital third places, where community support meets main street revitalization.",
     "benefit4Title": "Impact Dashboard",
     "benefit4Description": "Track real-time economic impact: jobs created, money circulating locally in {city}.",
     "ctaTitle": "Ready to transform {city}?",

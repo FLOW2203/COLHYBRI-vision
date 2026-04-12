@@ -18,17 +18,17 @@ const localeCountryMap: Record<string, string> = {
 };
 
 const taglines: Record<string, string> = {
-  en: 'Financial Inclusion Through Local Commerce',
-  'en-gb': 'Financial Inclusion Through Local Commerce',
-  fr: "L'inclusion financière par le commerce local",
-  es: 'Inclusión financiera a través del comercio local',
-  pt: 'Inclusão financeira através do comércio local',
-  de: 'Finanzielle Inklusion durch lokalen Handel',
-  it: 'Inclusione Finanziaria Attraverso il Commercio Locale',
-  zh: '通过本地商业实现金融普惠',
-  ja: '地域商業を通じた金融包摂',
-  hi: 'स्थानीय वाणिज्य के माध्यम से वित्तीय समावेशन',
-  pl: 'Inkluzja finansowa przez lokalny handel',
+  en: 'Own Your Neighborhood. Own Your Future.',
+  'en-gb': 'Own Your Neighborhood. Own Your Future.',
+  fr: 'Chaque geste compte. Le votre aussi.',
+  es: 'Cada gesto cuenta. El tuyo tambien.',
+  pt: 'Cada gesto conta. O teu tambem.',
+  de: 'Jede Geste zahlt. Auch deine.',
+  it: 'Ogni gesto conta. Anche il tuo.',
+  zh: '每一个小行动都重要',
+  ja: 'すべての行動が大切',
+  hi: 'हर कार्य महत्वपूर्ण है',
+  pl: 'Kazdy gest sie liczy',
 };
 
 interface PageMetadataOptions {
@@ -47,8 +47,8 @@ export function generatePageMetadata({
   routeKey,
   title,
   description,
-  semanticPrimary = 'financial inclusion local commerce',
-  semanticSecondary = 'underbanked, fintech, community banking, local economy',
+  semanticPrimary = 'downtown revitalization neighborhood community support',
+  semanticSecondary = 'main street revitalization, local commerce, digital mutual, Keynesian multiplier',
   chunkType = 'page',
   audience = 'general',
 }: PageMetadataOptions): Metadata {
