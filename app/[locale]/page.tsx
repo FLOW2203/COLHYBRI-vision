@@ -7,6 +7,7 @@ import { getLocalizedPath } from '@/lib/navigation';
 import { JsonLd } from '@/components/JsonLd';
 import { AnimatedCounter } from '@/components/AnimatedCounter';
 import { LocalStats } from '@/components/LocalStats';
+import { WorldMap } from '@/components/WorldMap';
 
 interface PageProps {
   params: { locale: string };
@@ -218,14 +219,20 @@ export default function HomePage({ params: { locale } }: PageProps) {
         </div>
       </section>
 
-      {/* ================= Section 5: WORLD IMPACT (regional cards) ================= */}
+      {/* ================= Section 5: WORLD IMPACT (interactive map) ================= */}
       <section className="bg-colhybri-cream" id="world-impact">
         <div className="section-container">
-          <div className="text-center mb-16 max-w-3xl mx-auto">
+          <div className="text-center mb-12 max-w-3xl mx-auto">
             <h2 className="section-heading">{t('worldImpact.headline')}</h2>
             <p className="section-subheading mx-auto">{t('worldImpact.subheadline')}</p>
           </div>
 
+          {/* Interactive react-simple-maps world map */}
+          <div className="mb-12 max-w-5xl mx-auto">
+            <WorldMap locale={locale} />
+          </div>
+
+          {/* Region cards underneath as text fallback and quick nav */}
           <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-6">
             {(['france', 'usa', 'europe', 'latam', 'africa'] as const).map((region) => (
               <Link

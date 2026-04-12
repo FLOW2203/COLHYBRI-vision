@@ -10,7 +10,7 @@ import type { Locale } from '@/i18n';
 
 const navLinks = [
   'mission',
-  'how-it-works',
+  'solution',
   'impact',
   'for-cities',
   'investors',
@@ -18,7 +18,7 @@ const navLinks = [
 
 const navTranslationMap: Record<string, string> = {
   mission: 'mission',
-  'how-it-works': 'howItWorks',
+  solution: 'howItWorks',
   impact: 'impact',
   'for-cities': 'forCities',
   investors: 'investors',

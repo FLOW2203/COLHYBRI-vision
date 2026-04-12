@@ -76,6 +76,13 @@
   .data-number {
     @apply font-mono font-bold text-colhybri-teal;
   }
+
+  .form-input {
+    @apply w-full rounded-lg border border-gray-300 bg-white px-4 py-3
+           font-sans text-colhybri-dark placeholder:text-colhybri-dark/40
+           focus:outline-none focus:border-colhybri-teal focus:ring-2 focus:ring-colhybri-teal/20
+           transition-colors;
+  }
 }
 
 /* Font loading for CJK */

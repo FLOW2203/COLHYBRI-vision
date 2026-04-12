@@ -312,5 +312,1672 @@
     "ctaTitle": "あなたの地域。あなたの未来。",
     "ctaDescription": "本当のインパクトを起こす準備はできていますか？COLHYBRIに参加してコミュニティを変えましょう。",
     "ctaButton": "今すぐ登録"
+  },
+  "cocon": {
+    "common": {
+      "home": "Home",
+      "faqTitle": "Frequently asked questions",
+      "relatedTitle": "Go further",
+      "pillarBadge": "Main topic",
+      "relatedBadge": "Related",
+      "crossBadge": "Cross-topic",
+      "ctaTitle": "Ready to revitalize your downtown?",
+      "ctaApp": "Open the app",
+      "ctaDemo": "Book a demo"
+    },
+    "meta": {
+      "revitalisation-centres-villes": {
+        "title": "Downtown revitalization in France"
+      },
+      "action-coeur-de-ville": {
+        "title": "Action Coeur de Ville"
+      },
+      "petites-villes-de-demain": {
+        "title": "Petites Villes de Demain"
+      },
+      "zrcv-zones-revitalisation": {
+        "title": "ZRCV downtown revitalization zones"
+      },
+      "manager-commerce-cci": {
+        "title": "Commerce manager (CCI)"
+      },
+      "vacance-commerciale-france": {
+        "title": "Commercial vacancy in France"
+      },
+      "municipales-2026-commerce": {
+        "title": "2026 French municipal elections"
+      },
+      "commerce-proximite-digital": {
+        "title": "Local commerce digitalization"
+      },
+      "downtown-revitalization": {
+        "title": "Downtown revitalization in the USA"
+      },
+      "opportunity-zones": {
+        "title": "Opportunity Zones 2.0"
+      },
+      "main-street-america": {
+        "title": "Main Street America"
+      },
+      "rust-belt-revitalization": {
+        "title": "Rust Belt revitalization"
+      },
+      "small-business-digital": {
+        "title": "Digital tools for US small business"
+      },
+      "community-development": {
+        "title": "Community Development through local commerce"
+      },
+      "mutualisme-digital": {
+        "title": "Digital mutualism"
+      },
+      "caffe-sospeso": {
+        "title": "Caffe sospeso"
+      },
+      "economie-solidaire": {
+        "title": "Neighborhood solidarity economy"
+      },
+      "pool-solidaire-quartier": {
+        "title": "Neighborhood solidarity pool"
+      },
+      "commerce-equitable-local": {
+        "title": "Fair local commerce"
+      },
+      "cooperative-quartier": {
+        "title": "Digital neighborhood cooperative"
+      },
+      "fidelisation-communautaire": {
+        "title": "Community-driven loyalty"
+      },
+      "google-maps-commerce": {
+        "title": "Google Maps for merchants"
+      },
+      "visibilite-google-pme": {
+        "title": "Google visibility for SMBs"
+      },
+      "seo-local-commerce": {
+        "title": "Local SEO for shops"
+      },
+      "avis-google-commercants": {
+        "title": "Google reviews for merchants"
+      },
+      "onboarding-digital-commerce": {
+        "title": "Zero-friction merchant onboarding"
+      },
+      "score-maps-audit": {
+        "title": "Score Maps audit"
+      },
+      "maps-plus-outil": {
+        "title": "Maps+ COLHYBRI tool"
+      }
+    },
+    "revitalisation-centres-villes": {
+      "title": "Downtown revitalization in France",
+      "h1": "Downtown revitalization in France: 2026 programs",
+      "metaTitle": "Downtown revitalization in France: 2026 programs",
+      "metaDescription": "9B EUR mobilized by Action Coeur de Ville and Petites Villes de Demain for 1,890 towns. Complete guide to commercial revitalization in France.",
+      "snippet": "France mobilizes 9 billion EUR for downtown revitalization through Action Coeur de Ville (244 midsize towns, 5B EUR) and Petites Villes de Demain (1,646 small towns, 4B EUR). In 2026, 1,732 towns are classified as downtown revitalization zones (ZRCV) per the December 26, 2025 decree (ANCT).",
+      "sections": [
+        {
+          "h2": "What is downtown revitalization?",
+          "body": "Downtown revitalization refers to public policies and operational tools that revive commercial cores of towns suffering from vacancy, population decline and service loss. It is built around three levers: housing, local commerce and public services. France's ANCT coordinates national programs alongside Banque des Territoires."
+        },
+        {
+          "h2": "What are the national programs in France?",
+          "body": "Two programs dominate: Action Coeur de Ville (244 midsize towns, 5B EUR over 2023-2026) and Petites Villes de Demain (1,646 towns under 20,000 inhabitants, 4B EUR). A third tool, ZRCV tax zones, exempts downtown merchants from local business and property taxes. 1,732 towns are classified ZRCV in 2026."
+        },
+        {
+          "h2": "How does COLHYBRI contribute to revitalization?",
+          "body": "COLHYBRI provides the missing layer: a SaaS tool to measure downtown vitality in real time. Maps+ audits every shop Google presence in 48 hours, the community pool drives foot traffic to partner merchants and the municipal dashboard delivers verifiable metrics to the city council. A free 90-day pilot lets a city test the setup on 50 shops before committing."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is downtown revitalization?",
+          "a": "Public policies that revive commercial cores through housing, commerce and services. In France it is coordinated by ANCT through the Action Coeur de Ville and Petites Villes de Demain programs."
+        },
+        {
+          "q": "What are the national programs in France?",
+          "a": "Action Coeur de Ville (244 towns, 5B EUR, 2023-2026), Petites Villes de Demain (1,646 towns, 4B EUR), and the ZRCV tax zones covering 1,732 towns in 2026."
+        },
+        {
+          "q": "How does COLHYBRI help a city in practice?",
+          "a": "Free 90-day pilot: Google audit of 50 shops, municipal vitality dashboard, city council impact report and deployment support."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1,732",
+          "label": "2026 ZRCV towns"
+        },
+        {
+          "value": "244",
+          "label": "Action Coeur de Ville"
+        },
+        {
+          "value": "1,646",
+          "label": "Petites Villes de Demain"
+        },
+        {
+          "value": "9B EUR",
+          "label": "mobilized 2023-2026"
+        }
+      ],
+      "tableTitle": "Revitalization programs at a glance",
+      "tableHeader": [
+        "Program",
+        "Budget and scope"
+      ],
+      "tableRows": [
+        [
+          "Action Coeur de Ville",
+          "244 midsize towns, 5B EUR, 2023-2026 (ANCT)"
+        ],
+        [
+          "Petites Villes de Demain",
+          "1,646 towns, 4B EUR, 2020-2026 (ANCT)"
+        ],
+        [
+          "ZRCV 2026",
+          "1,732 towns, local tax exemption (decree 26 Dec 2025)"
+        ]
+      ]
+    },
+    "action-coeur-de-ville": {
+      "title": "Action Coeur de Ville",
+      "h1": "Action Coeur de Ville: revitalizing French midsize towns",
+      "metaTitle": "Action Coeur de Ville: 244 towns, 5B EUR, 2023-2026",
+      "metaDescription": "France's Action Coeur de Ville program mobilizes 5B EUR to revitalize 244 midsize towns. Led by ANCT with Banque des Territoires, Action Logement and Anah.",
+      "snippet": "Action Coeur de Ville is a national program launched in 2018 mobilizing 5 billion EUR over 2023-2026 to revitalize 244 French midsize towns. Led by ANCT with Banque des Territoires (2.5B EUR), Action Logement (1.7B EUR) and Anah (1B EUR), it covers housing renovation, commercial return and digital transition.",
+      "sections": [
+        {
+          "h2": "What is the Action Coeur de Ville program?",
+          "body": "Action Coeur de Ville (ACV) is the flagship French program for revitalizing midsize towns. Launched in 2018, it now includes 244 towns and 20 million inhabitants. Scope covers five axes: housing, commerce, accessibility, public space, digital transition. Financing crosses Banque des Territoires, Action Logement and Anah."
+        },
+        {
+          "h2": "Which towns benefit from ACV?",
+          "body": "The 244 ACV towns include departmental capitals and sub-prefectures facing commercial decline. Flagship beneficiaries include Nimes, Chalon-sur-Saone, Draguignan, Montlucon, Roanne and Saint-Brieuc. Each town gets a multi-year agreement, dedicated project lead and priority access to ANCT funding."
+        },
+        {
+          "h2": "How does a shop benefit from ACV?",
+          "body": "A shop in the ACV perimeter can access storefront renovation grants, rent subsidies, digital premiums and complementary Petites Villes de Demain support. COLHYBRI lets the ACV commerce manager pilot digital visibility of every shop through a single municipal dashboard."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is Action Coeur de Ville?",
+          "a": "A French national program launched in 2018 mobilizing 5B EUR to revitalize 244 midsize towns, led by ANCT with Banque des Territoires, Action Logement and Anah."
+        },
+        {
+          "q": "Which towns are ACV-classified?",
+          "a": "244 towns including Nimes, Chalon-sur-Saone, Roanne, Saint-Brieuc, Montlucon. Full list available on the ANCT website."
+        },
+        {
+          "q": "How does COLHYBRI complement ACV?",
+          "a": "COLHYBRI provides ACV commerce managers with a real-time municipal vitality dashboard and audits every shop Google presence in 48 hours."
+        }
+      ],
+      "stats": [
+        {
+          "value": "244",
+          "label": "midsize towns"
+        },
+        {
+          "value": "5B EUR",
+          "label": "2023-2026 budget"
+        },
+        {
+          "value": "20M",
+          "label": "inhabitants"
+        },
+        {
+          "value": "2018",
+          "label": "launch year"
+        }
+      ]
+    },
+    "petites-villes-de-demain": {
+      "title": "Petites Villes de Demain",
+      "h1": "Petites Villes de Demain: revitalizing French small towns",
+      "metaTitle": "Petites Villes de Demain: 1,646 towns, 4B EUR",
+      "metaDescription": "The Petites Villes de Demain program supports 1,646 small towns with 4B EUR. Led by ANCT, covering housing, commerce and services.",
+      "snippet": "The Petites Villes de Demain program (PVD), led by ANCT, supports 1,646 French towns under 20,000 inhabitants in their revitalization. With 4 billion EUR committed through 2026, it funds infrastructure, services and quality of life projects reaching over 7 million inhabitants (ANCT, 2026).",
+      "sections": [
+        {
+          "h2": "What is the Petites Villes de Demain program?",
+          "body": "PVD is a national initiative launched in 2020 targeting 1,646 small towns at the center of their local living area. It complements Action Coeur de Ville to form a complete territorial revitalization chain. Each town signs an ORT convention with its inter-municipal body and ANCT."
+        },
+        {
+          "h2": "How to apply for PVD?",
+          "body": "Towns were selected by ANCT and regional prefects on centrality and fragility criteria. The list has been fixed since 2021 and new calls are rare. PVD is now in its operational deployment phase through end-2026."
+        },
+        {
+          "h2": "How does COLHYBRI complement PVD?",
+          "body": "COLHYBRI is the operational tool for measuring commercial vitality for PVD project leads. Free 90-day pilot on 50 shops, municipal dashboard, impact report. Especially suited to small towns without a dedicated commerce manager."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the Petites Villes de Demain program?",
+          "a": "A French national program launched in 2020 supporting 1,646 small towns with 4B EUR through 2026, led by ANCT."
+        },
+        {
+          "q": "How is a town selected?",
+          "a": "By ANCT and regional prefects on centrality and fragility criteria. The list has been fixed since 2021; new calls are rare."
+        },
+        {
+          "q": "How does COLHYBRI help a PVD town?",
+          "a": "Free 90-day pilot: Google audit of 50 shops, real-time vitality dashboard, city council impact report."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1,646",
+          "label": "PVD towns"
+        },
+        {
+          "value": "4B EUR",
+          "label": "committed budget"
+        },
+        {
+          "value": "7M",
+          "label": "inhabitants"
+        },
+        {
+          "value": "2020",
+          "label": "launch year"
+        }
+      ]
+    },
+    "zrcv-zones-revitalisation": {
+      "title": "ZRCV downtown revitalization zones",
+      "h1": "ZRCV: French downtown revitalization tax zones explained",
+      "metaTitle": "ZRCV 2026: 1,732 towns with tax exemption",
+      "metaDescription": "France's ZRCV tax zones exempt downtown shops from local business tax and property tax. 1,732 towns classified in 2026.",
+      "snippet": "Downtown revitalization zones (ZRCV) let French municipalities exempt their downtown shops from local business tax (CFE) and property tax. In 2026, 1,732 towns are classified ZRCV under the December 26, 2025 decree. The tool remains underused: many towns are unaware they are eligible.",
+      "sections": [
+        {
+          "h2": "What is a ZRCV?",
+          "body": "A downtown revitalization zone is a fiscal perimeter defined by the municipality. Inside the zone, shops benefit from exemption on Cotisation Fonciere des Entreprises (CFE) and property tax for 5 years. The 2018 Pinel law extended the scheme, and the December 26, 2025 decree updated the list."
+        },
+        {
+          "h2": "How to know if my town is a ZRCV?",
+          "body": "The official list is published in the French Journal Officiel. The December 26, 2025 decree classifies 1,732 towns. Criteria include population, commercial vacancy rate, demographic pressure and belonging to an ACV or PVD program. The DGE publishes the interactive map."
+        },
+        {
+          "h2": "How does COLHYBRI help a ZRCV town?",
+          "body": "COLHYBRI complements the fiscal tool with operational measurement: 48-hour Google audit of shops in the perimeter, vitality dashboard, city council impact report. Combining tax exemption with a digital tool maximizes revitalization success."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is a ZRCV?",
+          "a": "A French downtown revitalization zone: a fiscal perimeter where shops are exempt from CFE and property tax for 5 years, created by the 2018 Pinel law."
+        },
+        {
+          "q": "Is my town a ZRCV?",
+          "a": "1,732 French towns are classified under the December 26, 2025 decree. The official list is in the Journal Officiel and on the DGE website."
+        },
+        {
+          "q": "Which shops are eligible?",
+          "a": "Any shop inside the ZRCV perimeter defined by the municipality, subject to revenue and activity conditions set by the 2018 Pinel law."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1,732",
+          "label": "2026 ZRCV towns"
+        },
+        {
+          "value": "5 years",
+          "label": "exemption length"
+        },
+        {
+          "value": "CFE + TF",
+          "label": "taxes exempted"
+        },
+        {
+          "value": "26 Dec 2025",
+          "label": "decree date"
+        }
+      ]
+    },
+    "manager-commerce-cci": {
+      "title": "Commerce manager (CCI)",
+      "h1": "Commerce manager: the job that revitalizes French downtowns",
+      "metaTitle": "Commerce manager CCI: mission and tools 2026",
+      "metaDescription": "Commerce managers funded by French Chambers of Commerce are the operational backbone of downtown revitalization. The government co-funds the role since 2025.",
+      "snippet": "Commerce managers, funded by French Chambers of Commerce and Industry (CCI), are the operational backbone of downtown revitalization. In 2025, the French government announced co-funding for commerce manager positions as part of the national commerce plan.",
+      "sections": [
+        {
+          "h2": "What is a commerce manager?",
+          "body": "A commerce manager is a municipal or inter-municipal professional whose mission is to animate and coordinate the commercial fabric of a town. Tasks include: identifying vacant units, supporting new project leaders, organizing commercial events, tracking foot traffic and engaging with private landlords."
+        },
+        {
+          "h2": "Who funds the commerce manager?",
+          "body": "Historically, CCI funded the role on their own budget. Since 2025, a State-CCI-city co-funding scheme has been launched as part of the national commerce plan. Action Coeur de Ville and Petites Villes de Demain cities get priority access."
+        },
+        {
+          "h2": "How does a commerce manager use COLHYBRI?",
+          "body": "COLHYBRI is the commerce manager digital toolkit. The municipal dashboard tracks each shop Score Maps in real time, flags incomplete Google listings, prompts shops lacking recent reviews and measures the impact of actions on commercial vitality."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is a commerce manager?",
+          "a": "A municipal or inter-municipal professional who animates and coordinates the commercial fabric. Missions cover vacant units, new project support and foot traffic tracking."
+        },
+        {
+          "q": "Who funds the commerce manager?",
+          "a": "Historically CCI; since 2025 a State-CCI-city co-funding scheme. ACV and PVD cities get priority access."
+        },
+        {
+          "q": "How does COLHYBRI help a commerce manager?",
+          "a": "A municipal vitality dashboard, 48-hour automated Google audit and a city council impact report."
+        }
+      ],
+      "stats": [
+        {
+          "value": "2025",
+          "label": "co-funding year"
+        },
+        {
+          "value": "State-CCI",
+          "label": "shared funding"
+        },
+        {
+          "value": "48h",
+          "label": "Maps audit"
+        },
+        {
+          "value": "10 EUR",
+          "label": "shop subscription"
+        }
+      ]
+    },
+    "vacance-commerciale-france": {
+      "title": "Commercial vacancy in France",
+      "h1": "Commercial vacancy in France: figures, causes and solutions 2026",
+      "metaTitle": "Commercial vacancy in France 2026: 55% of midsize towns",
+      "metaDescription": "55% of French midsize towns have commercial vacancy rates above 10%, up 4 points in 15 years (CCI France). Analysis and solutions.",
+      "snippet": "Commercial vacancy affects 55% of French midsize towns with a rate above 10%, up 4 points in 15 years (CCI France, 2024). Main causes are online platform competition, commercial rent pressure, administrative constraints and evolving consumer habits toward peripheral retail.",
+      "sections": [
+        {
+          "h2": "What is the commercial vacancy rate in France?",
+          "body": "According to CCI France, 55% of midsize French towns have a vacancy rate above 10% in 2024, versus 51% in 2009. Some towns exceed 20% vacancy: Beziers, Vierzon, Agen. Major cities are largely spared (6-8% average) but small and midsize downtowns are the hardest hit."
+        },
+        {
+          "h2": "What causes commercial vacancy?",
+          "body": "Four main causes: online platform competition (Amazon, Shein), commercial rent pressure that remains high even during vacancy, administrative constraints (permits, accessibility, standards) and the shift of consumer habits toward peripheral retail and drive-through."
+        },
+        {
+          "h2": "How to reduce commercial vacancy?",
+          "body": "Downtown revitalization combines several levers: fiscal (ZRCV), operational (commerce manager), architectural (storefront renovation) and digital (online visibility). COLHYBRI delivers the digital pillar: 48-hour Google audit and community pool driving traffic to remaining shops."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the commercial vacancy rate in France?",
+          "a": "55% of midsize towns have rates above 10%, up 4 points in 15 years per CCI France. Some towns exceed 20%: Beziers, Vierzon, Agen."
+        },
+        {
+          "q": "What are the main causes?",
+          "a": "Online platform competition, commercial rent pressure, administrative constraints and consumer shift toward peripheral retail."
+        },
+        {
+          "q": "How to reduce vacancy in my town?",
+          "a": "Combining fiscal (ZRCV), operational (commerce manager), architectural and digital (COLHYBRI). Free 90-day pilot available."
+        }
+      ],
+      "stats": [
+        {
+          "value": "55%",
+          "label": "midsize towns > 10% vacancy"
+        },
+        {
+          "value": "+4pts",
+          "label": "15-year increase"
+        },
+        {
+          "value": "20%",
+          "label": "worst-hit rate"
+        },
+        {
+          "value": "2024",
+          "label": "CCI France data"
+        }
+      ]
+    },
+    "municipales-2026-commerce": {
+      "title": "2026 French municipal elections",
+      "h1": "2026 French municipal elections: downtown as the top issue",
+      "metaTitle": "2026 French municipal elections: downtown, issue number 1",
+      "metaDescription": "The 2026 French municipal elections put downtown revitalization at the top of the agenda. The Confederation of French Merchants published a White Paper.",
+      "snippet": "Ahead of the 2026 French municipal elections, downtown revitalization has become the central issue for mandate programs. The Confederation of French Merchants (CDF) published a White Paper proposing solutions around four axes: vacant shops, soft mobility, commercial animation and security.",
+      "sections": [
+        {
+          "h2": "Why is commerce the top issue for the 2026 municipals?",
+          "body": "After 15 years of rising commercial vacancy, French downtowns have become the visible symbol of territorial decline. Candidates in the 2026 municipals must answer a strong voter demand: bring the main street back to life. Polls rank commerce first among local concerns, ahead of security and mobility."
+        },
+        {
+          "h2": "What does the Confederation of French Merchants propose?",
+          "body": "The CDF published a 2026 municipal elections White Paper with four axes: reduce commercial vacancy (via ZRCV and rent oversight), encourage soft mobility (targeted pedestrianization), animate downtowns (events, markets) and reinforce security (police presence, lighting). Available on the CDF website."
+        },
+        {
+          "h2": "How does COLHYBRI help a candidate build a program?",
+          "body": "COLHYBRI provides candidates with an objective diagnosis of downtown commercial vitality: vacancy rate, average Score Maps, incomplete Google listings, shops without recent reviews. The free 90-day pilot lets candidates present a concrete action plan with before/after metrics."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why is commerce central to the 2026 municipals?",
+          "a": "After 15 years of rising commercial vacancy, commerce has become the visible symbol of territorial decline. It tops local concerns in polls."
+        },
+        {
+          "q": "What does the CDF propose?",
+          "a": "A White Paper with 4 axes: vacancy, soft mobility, animation, security. Available on the CDF website."
+        },
+        {
+          "q": "How does COLHYBRI help a candidate?",
+          "a": "Objective vitality diagnosis, per-shop Score Maps, free 90-day pilot to build an action plan with before/after metrics."
+        }
+      ],
+      "stats": [
+        {
+          "value": "2026",
+          "label": "election year"
+        },
+        {
+          "value": "#1",
+          "label": "local issue"
+        },
+        {
+          "value": "4 axes",
+          "label": "CDF White Paper"
+        },
+        {
+          "value": "90d",
+          "label": "free pilot"
+        }
+      ]
+    },
+    "commerce-proximite-digital": {
+      "title": "Local commerce digitalization",
+      "h1": "Digitalizing local commerce: issues and solutions 2026",
+      "metaTitle": "Local commerce digitalization 2026: the COLHYBRI guide",
+      "metaDescription": "75% of small retail businesses are invisible on Google in 2026. Complete guide to digitalization: audit, onboarding, monitoring.",
+      "snippet": "75% of small retail businesses are invisible on Google in 2026. Digitalizing local commerce follows three steps: digital presence audit (Score Maps), Google Business Profile optimization (zero-friction onboarding) and continuous review monitoring. COLHYBRI delivers all three for 10 EUR/month with 0% commission.",
+      "sections": [
+        {
+          "h2": "Why digitalize local commerce?",
+          "body": "Digital presence is now the first point of contact between a shop and its customers. 76% of \"near me\" searches lead to a purchase within 24 hours (Google, 2025). A shop invisible on Google mechanically loses potential customers to better-referenced competitors."
+        },
+        {
+          "h2": "What are the 3 steps of digitalization?",
+          "body": "Step 1: digital presence audit (48-hour Score Maps, Google Business listing and reviews assessment). Step 2: zero-friction optimization (30-second onboarding, listing completion, photo upload). Step 3: continuous monitoring (negative review alerts, ranking tracking, post-visit QR code review generation)."
+        },
+        {
+          "h2": "How much does COLHYBRI cost?",
+          "body": "COLHYBRI offers a merchant subscription at 10 EUR per month with 0% commission. This includes Maps+ audit, Google Places onboarding, post-visit review generation and real-time monitoring. Compared to delivery platforms (30% UberEats, 25% JustEat), COLHYBRI preserves small shop margins."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why should a shop be digitalized?",
+          "a": "76% of \"near me\" searches lead to a purchase within 24 hours. An invisible shop mechanically loses customers to better-referenced competitors."
+        },
+        {
+          "q": "What are the digitalization steps?",
+          "a": "48-hour Score Maps audit, 30-second Google Business onboarding, continuous monitoring with post-visit review generation."
+        },
+        {
+          "q": "How much does COLHYBRI cost?",
+          "a": "10 EUR per month with 0% commission. Includes audit, onboarding, review generation and monitoring."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "shops invisible on Google"
+        },
+        {
+          "value": "76%",
+          "label": "local searches > purchase"
+        },
+        {
+          "value": "10 EUR",
+          "label": "monthly subscription"
+        },
+        {
+          "value": "0%",
+          "label": "commission"
+        }
+      ]
+    },
+    "downtown-revitalization": {
+      "title": "Downtown revitalization in the USA",
+      "h1": "Downtown Revitalization in the USA: Programs, Grants and Digital Tools (2026)",
+      "metaTitle": "Downtown Revitalization USA: programs and tools 2026",
+      "metaDescription": "American downtowns are powered by Opportunity Zones (8,764 tracts), Main Street America (1,200+ communities) and federal RAISE grants totaling hundreds of millions.",
+      "snippet": "Downtown revitalization in the United States is powered by Opportunity Zones (8,764 designated tracts), Main Street America (1,200+ communities) and federal RAISE grants totaling hundreds of millions of dollars. The One Big Beautiful Bill Act of 2025 makes Opportunity Zones permanent and launches OZ 2.0 nominations in July 2026.",
+      "sections": [
+        {
+          "h2": "What programs drive downtown revitalization in the USA?",
+          "body": "Three programs dominate: Opportunity Zones (federal tax tool created in 2017, made permanent in 2025), Main Street America (a network of 1,200+ communities using preservation-based economic development), and RAISE grants from the Department of Transportation ($23.7M for East Moline, $20M for Allentown). Historic tax credits (20% federal + 25% state) complete the toolkit."
+        },
+        {
+          "h2": "What is the One Big Beautiful Bill Act?",
+          "body": "Signed in 2025, the One Big Beautiful Bill Act (OBBBA) makes Opportunity Zones permanent and launches a new OZ 2.0 designation in July 2026. The income threshold drops from 80% to 70% of median family income, reducing eligible tracts by about 20%. Rural OZ investments qualify for up to 30% capital gains reduction."
+        },
+        {
+          "h2": "How does COLHYBRI complement these programs?",
+          "body": "COLHYBRI is the SaaS that makes Main Street measurable. The municipal dashboard delivers real-time commercial vitality metrics, ideal for justifying Opportunity Zone investments or federal grant renewals. Free 90-day pilot on 50 shops before any commitment."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What American revitalization programs exist?",
+          "a": "Opportunity Zones (8,764 tracts), Main Street America (1,200+ communities), DOT RAISE grants, historic tax credits (20% federal + 25% state)."
+        },
+        {
+          "q": "What is new in 2026?",
+          "a": "OZ 2.0 launches in July 2026 via the OBBBA 2025. New 70% median family income threshold and 30% capital gains reduction for rural tracts."
+        },
+        {
+          "q": "How does COLHYBRI help a US city?",
+          "a": "Municipal vitality dashboard to justify OZ investments and federal grant renewals. Free 90-day pilot."
+        }
+      ],
+      "stats": [
+        {
+          "value": "8,764",
+          "label": "Opportunity Zones"
+        },
+        {
+          "value": "1,200+",
+          "label": "Main Street communities"
+        },
+        {
+          "value": "OZ 2.0",
+          "label": "July 2026"
+        },
+        {
+          "value": "$23.7M",
+          "label": "East Moline RAISE"
+        }
+      ]
+    },
+    "opportunity-zones": {
+      "title": "Opportunity Zones 2.0",
+      "h1": "Opportunity Zones 2.0: What Changes in 2026",
+      "metaTitle": "Opportunity Zones 2.0: new threshold, OBBBA 2025",
+      "metaDescription": "Opportunity Zones 2.0, established by OBBBA 2025, redesignate census tracts starting July 2026. New 70% threshold, 20% fewer eligible tracts.",
+      "snippet": "Opportunity Zones 2.0, established by the One Big Beautiful Bill Act of 2025, redesignate all census tracts starting July 2026 with new eligibility criteria. The income threshold drops from 80% to 70% of median family income, reducing eligible tracts by approximately 20%. Rural OZ investments qualify for up to 30% capital gains reduction.",
+      "sections": [
+        {
+          "h2": "What is an Opportunity Zone?",
+          "body": "An Opportunity Zone is a census tract designated as distressed where investors can place capital gains in exchange for substantial tax benefits: deferral, 10-15% reduction if held 5-7 years, and full exemption on gains from the OZ investment itself if held 10+ years. The tool was created by the Tax Cuts and Jobs Act of 2017."
+        },
+        {
+          "h2": "What changes with OZ 2.0?",
+          "body": "The One Big Beautiful Bill Act (OBBBA) signed in 2025 makes Opportunity Zones permanent and launches a full redesignation in July 2026. The income threshold drops from 80% to 70% of median family income, reducing eligible tracts by about 20%. Rural OZ investments qualify for up to 30% capital gains reduction, up from 10%."
+        },
+        {
+          "h2": "How to prepare for OZ 2.0?",
+          "body": "Cities must identify census tracts likely to be redesignated, document revitalization potential and build attractive investment cases. COLHYBRI provides an objective commercial vitality diagnosis with per-shop Score Maps, an ideal metric to justify OZ 2.0 investment."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is an Opportunity Zone?",
+          "a": "A distressed census tract where investors can place capital gains for tax benefits: deferral, 10-15% reduction and full exemption after 10-year hold."
+        },
+        {
+          "q": "What changes with OZ 2.0?",
+          "a": "July 2026 designation. Income threshold drops from 80% to 70% of MFI. 20% fewer eligible tracts. 30% capital gains reduction for rural tracts."
+        },
+        {
+          "q": "How can a city prepare?",
+          "a": "Identify eligible census tracts and document revitalization potential. COLHYBRI provides the objective commercial vitality diagnosis needed for investment cases."
+        }
+      ],
+      "stats": [
+        {
+          "value": "8,764",
+          "label": "OZ 1.0 existing"
+        },
+        {
+          "value": "6,544",
+          "label": "OZ 2.0 expected"
+        },
+        {
+          "value": "70%",
+          "label": "new MFI threshold"
+        },
+        {
+          "value": "July 2026",
+          "label": "OZ 2.0 designation"
+        }
+      ]
+    },
+    "main-street-america": {
+      "title": "Main Street America",
+      "h1": "Main Street America: How 1,200+ Communities Are Revitalizing Their Downtowns",
+      "metaTitle": "Main Street America: 1,200+ communities, 4-Point Approach",
+      "metaDescription": "Main Street America is a nationwide network of 1,200+ communities using preservation-based economic development to revitalize historic commercial districts.",
+      "snippet": "Main Street America is a nationwide network of over 1,200 communities using a preservation-based economic development approach to revitalize historic commercial districts. The Four-Point Approach covers organization, promotion, design, and economic restructuring. COLHYBRI integrates as the digital measurement layer for Main Street programs.",
+      "sections": [
+        {
+          "h2": "What is Main Street America?",
+          "body": "Main Street America is a program launched in 1980 by the National Trust for Historic Preservation. Today, more than 1,200 American communities participate, covering small rural towns, historic urban neighborhoods and midsize downtowns. Each community designates a Main Street Manager and applies the Four-Point Approach."
+        },
+        {
+          "h2": "What is the Four-Point Approach?",
+          "body": "The Four-Point Approach covers four domains: organization (stakeholder coalitions, volunteers, funding), promotion (events, marketing, retail recruitment), design (facade renovation, streetscape, architectural preservation), and economic restructuring (shop support, tenant attraction). A proven model over 40+ years."
+        },
+        {
+          "h2": "How does COLHYBRI complement Main Street?",
+          "body": "COLHYBRI is the Main Street Manager digital toolkit. It provides per-shop Score Maps on the Main Street, a real-time commercial vitality dashboard, and a quarterly impact report for the board. It integrates the economic restructuring pillar with objective metrics."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is Main Street America?",
+          "a": "A program launched in 1980 by the National Trust for Historic Preservation. Over 1,200 American communities participate using the Four-Point Approach."
+        },
+        {
+          "q": "What is the Four-Point Approach?",
+          "a": "Organization, Promotion, Design, Economic Restructuring. A proven model used by 1,200+ communities for 40+ years."
+        },
+        {
+          "q": "How does COLHYBRI integrate?",
+          "a": "It provides per-shop Score Maps, a municipal vitality dashboard, and a quarterly impact report for the Main Street Manager."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1,200+",
+          "label": "communities"
+        },
+        {
+          "value": "1980",
+          "label": "launch year"
+        },
+        {
+          "value": "4",
+          "label": "methodology pillars"
+        },
+        {
+          "value": "40+",
+          "label": "years of track record"
+        }
+      ]
+    },
+    "rust-belt-revitalization": {
+      "title": "Rust Belt revitalization",
+      "h1": "Rust Belt Revitalization: How Post-Industrial Cities Are Reinventing Their Downtowns",
+      "metaTitle": "Rust Belt revitalization: Canton, Allentown, Pittsburgh",
+      "metaDescription": "Pittsburgh, Cleveland, Canton, Allentown: Rust Belt cities reinvent their downtowns using Opportunity Zones, historic tax credits and federal grants.",
+      "snippet": "Rust Belt cities like Pittsburgh, Cleveland, Canton and Allentown are transforming from heavy manufacturing to tech, healthcare and mixed-use downtown development. Canton, Ohio serves as a blueprint: one developer restored 42 buildings using historic tax credits (20% federal + 25% state). Allentown received a $20 million EDA grant for small-scale manufacturing on brownfield sites.",
+      "sections": [
+        {
+          "h2": "What is the Rust Belt?",
+          "body": "The Rust Belt refers to the declining industrial belt of the United States, from the Northeast to the Midwest: Pennsylvania, Ohio, Michigan, Indiana, Illinois. Hit by deindustrialization since the 1970s, the region is in full transformation in 2026, driven by federal investments (CHIPS Act, Inflation Reduction Act) and Opportunity Zones."
+        },
+        {
+          "h2": "How does Canton Ohio revitalize its downtown?",
+          "body": "Canton has become the Rust Belt revitalization model. Local developer Steve Coon restored 42 historic downtown buildings using federal historic tax credits (20%) plus Ohio state historic credits (25%), stacking 45% in combined credits. Downtown went from abandoned district to mixed-use destination in under 10 years."
+        },
+        {
+          "h2": "What tools do Rust Belt cities use?",
+          "body": "A combination of federal and local tools: historic tax credits (20% federal + 25% state), Opportunity Zones, RAISE grants from the Department of Transportation ($20M for Allentown), and Main Street program support. COLHYBRI adds the digital layer to measure impact in real time."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the Rust Belt?",
+          "a": "The declining industrial belt: Pennsylvania, Ohio, Michigan, Indiana, Illinois. Transforming since the early 2020s thanks to federal investments."
+        },
+        {
+          "q": "What is the Canton blueprint?",
+          "a": "A local developer restored 42 historic downtown buildings in Canton using historic tax credits stacked 45%. Downtown revived in under 10 years."
+        },
+        {
+          "q": "What tools for a Rust Belt city?",
+          "a": "Stacked historic tax credits (45%), Opportunity Zones, RAISE grants from DOT, Main Street programs. COLHYBRI adds real-time digital measurement."
+        }
+      ],
+      "stats": [
+        {
+          "value": "42",
+          "label": "buildings restored in Canton"
+        },
+        {
+          "value": "45%",
+          "label": "stacked tax credits"
+        },
+        {
+          "value": "$20M",
+          "label": "Allentown RAISE grant"
+        },
+        {
+          "value": "10 yrs",
+          "label": "Canton transformation"
+        }
+      ]
+    },
+    "small-business-digital": {
+      "title": "Digital tools for US small business",
+      "h1": "Digital Tools for Small Business Downtown Revitalization",
+      "metaTitle": "Small business digital: tools for Main Streets",
+      "metaDescription": "75% of small businesses are invisible on Google. COLHYBRI Maps+ audits in 48h, zero-friction onboarding, $10/month, 0% commission.",
+      "snippet": "75% of small businesses are invisible on Google. Digital tools like COLHYBRI Maps+ audit Google presence in 48 hours, onboard merchants to Google Places with zero friction, generate customer reviews via post-visit QR codes, and provide continuous monitoring with negative review alerts. All for $10/month with 0% commission.",
+      "sections": [
+        {
+          "h2": "Why digitalize American small businesses?",
+          "body": "Consumers search online before visiting in person. A business missing from Google Business Profile loses 76% of local searches. For Main Street and Opportunity Zone cities, it is a measurable loss of local revenue and therefore of tax base."
+        },
+        {
+          "h2": "What does COLHYBRI Maps+ do?",
+          "body": "Maps+ covers 4 pillars: 48-hour Score Maps audit (full Google listing and review assessment), zero-friction onboarding (create or optimize Google Places listing in 30 seconds), review generation (post-visit QR codes), and continuous monitoring with negative review alerts."
+        },
+        {
+          "h2": "How much does Maps+ cost in the USA?",
+          "body": "The COLHYBRI merchant rate for an American shop is $10 per month with 0% commission. This includes all Maps+ services. For comparison, Yelp charges $300-1000/month for paid ads and Groupon takes up to 50% commission on sales."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why must a shop be on Google?",
+          "a": "76% of local searches convert within 24 hours. An invisible shop mechanically loses revenue to better-referenced competitors."
+        },
+        {
+          "q": "What does COLHYBRI Maps+ cover?",
+          "a": "4 pillars: Score Maps audit, zero-friction onboarding, post-visit review generation, continuous monitoring."
+        },
+        {
+          "q": "How much in the USA?",
+          "a": "$10 per month with 0% commission. Cheaper than Yelp ($300-1000/month) or Groupon (up to 50% commission)."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "SMBs invisible on Google"
+        },
+        {
+          "value": "76%",
+          "label": "local searches > purchase"
+        },
+        {
+          "value": "$10",
+          "label": "monthly subscription"
+        },
+        {
+          "value": "0%",
+          "label": "commission"
+        }
+      ]
+    },
+    "community-development": {
+      "title": "Community Development through local commerce",
+      "h1": "Community Development Through Local Commerce: The COLHYBRI Model",
+      "metaTitle": "Community development: x2.5 Keynesian multiplier",
+      "metaDescription": "Community development through local commerce applies the Keynesian multiplier: every dollar spent locally generates $2.50 in local economic activity.",
+      "snippet": "Community development through local commerce follows the Keynesian multiplier principle: every dollar spent locally generates $2.50 in local economic activity. COLHYBRI solidarity pool channels 75% of subscriber fees into services gifted at partner shops, creating a virtuous cycle of local spending, job creation and neighborhood vitality.",
+      "sections": [
+        {
+          "h2": "What is community development?",
+          "body": "Community development is an American revitalization approach that puts residents and small shops at the center. It favors local wealth creation over attracting large corporations. Main Street programs and Community Development Corporations (CDCs) are the main vehicles."
+        },
+        {
+          "h2": "What is the local Keynesian multiplier?",
+          "body": "The local Keynesian multiplier measures the amplification effect of local spending. Every dollar spent at a local shop generates $2.50 in local economic activity (versus $0.80 for an online purchase shipped from a warehouse). Documented by the American Independent Business Alliance since 2004."
+        },
+        {
+          "h2": "How does COLHYBRI activate this multiplier?",
+          "body": "COLHYBRI channels 75% of subscriber fees ($3/month) into a solidarity pool that funds services gifted at partner shops. The money never leaves the neighborhood. For a 1,000-subscriber community, that is $27,000 per year directly reinjected into local commerce, generating $67,500 of total economic activity through the multiplier."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is community development?",
+          "a": "An American approach putting residents and small shops at the center. Main vehicles: Main Street programs and Community Development Corporations."
+        },
+        {
+          "q": "What is the local Keynesian multiplier?",
+          "a": "A dollar spent locally generates $2.50 in economic activity (vs $0.80 for online). Documented by the American Independent Business Alliance."
+        },
+        {
+          "q": "How does COLHYBRI activate this?",
+          "a": "75% of subscriber fees ($3/month) fund services at partner shops. 1,000 subscribers = $27K/year reinjected locally = $67.5K total activity."
+        }
+      ],
+      "stats": [
+        {
+          "value": "x2.5",
+          "label": "local multiplier"
+        },
+        {
+          "value": "75%",
+          "label": "pool allocation"
+        },
+        {
+          "value": "$27K",
+          "label": "per 1,000 subs / year"
+        },
+        {
+          "value": "$3",
+          "label": "monthly fee"
+        }
+      ]
+    },
+    "mutualisme-digital": {
+      "title": "Digital mutualism",
+      "h1": "Digital mutualism: when 220 years of tradition meet tech",
+      "metaTitle": "Digital mutualism: COLHYBRI in the French tradition",
+      "metaDescription": "Digital mutualism transposes French cooperative principles (1806) into the digital economy. COLHYBRI applies this model to local commerce.",
+      "snippet": "Digital mutualism is the transposition of French cooperative principles (born in 1806 with the first mutuelles) into the digital economy. COLHYBRI applies this model to local commerce: each subscriber contributes to a solidarity pool that funds services gifted at partner shops, creating a digital community safety net.",
+      "sections": [
+        {
+          "h2": "What is French mutualism?",
+          "body": "French mutualism originated in 1806 with the creation of the first mutual aid societies. These structures let workers pool resources to face illness, disability and unemployment. From this movement came Social Security (1945) and the large mutuelles of today. 220 years of tradition shape the French social landscape."
+        },
+        {
+          "h2": "What is digital mutualism?",
+          "body": "Digital mutualism brings these principles into the digital economy: modest contribution, shared risk, redistribution to members. COLHYBRI applies this model to local commerce: 3 EUR/month per resident, 75% to the solidarity pool, services randomly gifted at partner shops. This is not charity; it is a mutual."
+        },
+        {
+          "h2": "Why is digital mutualism fit for 2026?",
+          "body": "It answers 2026 expectations: 79% of French people aspire to more brotherhood (IFOP, 2025) but 78% do not trust fellow citizens. Mutualization without an intermediary (no bank, no NGO) resolves this paradox by creating a light, transparent frame where solidarity happens without risk."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is French mutualism?",
+          "a": "A solidarity tradition born in 1806 with mutual aid societies. From this movement came Social Security (1945) and the modern mutuelles."
+        },
+        {
+          "q": "What is digital mutualism?",
+          "a": "The transposition into the digital economy: modest contribution (3 EUR/month), shared risk, redistribution to members."
+        },
+        {
+          "q": "Why is it fit for 2026?",
+          "a": "It answers the brotherhood/distrust paradox: 79% aspire to more brotherhood but 78% do not trust fellow citizens. Mutualization without intermediary resolves the paradox."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1806",
+          "label": "first mutuelles"
+        },
+        {
+          "value": "220",
+          "label": "years of tradition"
+        },
+        {
+          "value": "79%",
+          "label": "aspire to brotherhood"
+        },
+        {
+          "value": "3 EUR",
+          "label": "monthly fee"
+        }
+      ]
+    },
+    "caffe-sospeso": {
+      "title": "Caffe sospeso",
+      "h1": "Caffe sospeso: the Neapolitan tradition that inspires COLHYBRI",
+      "metaTitle": "Caffe sospeso: digital Neapolitan tradition",
+      "metaDescription": "Caffe sospeso (suspended coffee) is a Neapolitan tradition from 1900 where a customer pays for two coffees. COLHYBRI digitalizes this principle.",
+      "snippet": "Caffe sospeso (suspended coffee) is a Neapolitan tradition dating from 1900 where a customer pays for two coffees: one for themselves and one for a stranger in need. COLHYBRI digitalizes this anonymous solidarity principle by applying it to all neighborhood commerce: hairdresser, dry cleaner, bakery and every daily service.",
+      "sections": [
+        {
+          "h2": "What is caffe sospeso?",
+          "body": "Caffe sospeso is a tradition born in Naples bars in the early 20th century. A customer who had a lucky day pays for two coffees instead of one: they consume the first and leave the second \"suspended\" at the bar for a stranger who might need it. It is an anonymous act of solidarity that does not humiliate anyone, neither giver nor receiver."
+        },
+        {
+          "h2": "Why does COLHYBRI draw on it?",
+          "body": "Caffe sospeso perfectly illustrates the COLHYBRI model: anonymous solidarity, modest gesture, no intermediary. COLHYBRI extends the principle: instead of offering only coffees, it lets people offer any service from a partner shop (hairdresser, dry cleaner, bakery, yoga class). Digitalization removes friction while preserving the spirit."
+        },
+        {
+          "h2": "How does it work in practice?",
+          "body": "Each COLHYBRI subscriber pays 3 EUR/month. 75% of that sum feeds a neighborhood solidarity pool. Each month, the pool is redistributed as services randomly gifted at partner shops. A subscriber can both give (through their contribution) and receive (through a gifted service). It is caffe sospeso, 2026 edition."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is caffe sospeso?",
+          "a": "A Neapolitan tradition from the early 20th century: a customer pays for two coffees, one for themselves and one suspended at the bar for a stranger in need."
+        },
+        {
+          "q": "Why does COLHYBRI draw on it?",
+          "a": "Caffe sospeso illustrates the COLHYBRI model: anonymous solidarity, modest gesture, no intermediary. COLHYBRI extends it to all neighborhood shops."
+        },
+        {
+          "q": "How does it work in practice?",
+          "a": "3 EUR/month, 75% to the pool, services randomly gifted at partner shops. A subscriber can both give and receive."
+        }
+      ],
+      "stats": [
+        {
+          "value": "1900",
+          "label": "caffe sospeso origin"
+        },
+        {
+          "value": "Naples",
+          "label": "hometown"
+        },
+        {
+          "value": "3 EUR",
+          "label": "monthly fee"
+        },
+        {
+          "value": "75%",
+          "label": "to solidarity pool"
+        }
+      ]
+    },
+    "economie-solidaire": {
+      "title": "Neighborhood solidarity economy",
+      "h1": "Neighborhood solidarity economy: how COLHYBRI reinvents local ties",
+      "metaTitle": "Neighborhood solidarity economy: the COLHYBRI model",
+      "metaDescription": "Neighborhood solidarity economy combines mutualization, digitalization and engagement. COLHYBRI activates all three for 3 EUR/month.",
+      "snippet": "Neighborhood solidarity economy combines three mechanisms: resource pooling (solidarity pool), shop digitalization (Maps+) and community engagement (gamification). For 3 EUR/month per resident and 10 EUR/month per merchant, COLHYBRI creates an ecosystem where solidarity generates revenue for merchants.",
+      "sections": [
+        {
+          "h2": "What is the solidarity economy?",
+          "body": "The social and solidarity economy (SSE) includes associations, mutuelles, cooperatives and foundations that put people before profit. In France, it represents 14% of private employment and 10% of GDP (Confederation francaise de l ESS, 2025). The modern movement digitalizes its tools to reach new audiences."
+        },
+        {
+          "h2": "How does COLHYBRI fit into SSE?",
+          "body": "COLHYBRI is a private initiative that applies SSE principles to local commerce: participatory governance, fair redistribution, transparency. The solidarity pool redistributes 75% of subscriber fees; the remaining 25% covers technical and operational costs. No profit is extracted from the pool."
+        },
+        {
+          "h2": "What are the three activation mechanisms?",
+          "body": "First mechanism: mutualization (solidarity pool redistributes 75% of subscriptions). Second: digitalization (Maps+ makes shops visible on Google). Third: engagement (26 local mini-games, neighborhood challenges, commercial street rankings). The three work together to create a virtuous cycle."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is the solidarity economy?",
+          "a": "SSE includes associations, mutuelles, cooperatives and foundations. In France: 14% of private employment and 10% of GDP per Confederation francaise de l ESS."
+        },
+        {
+          "q": "How does COLHYBRI fit into SSE?",
+          "a": "COLHYBRI applies SSE principles to local commerce: participatory governance, fair redistribution, transparency. 75% of fees go to the solidarity pool."
+        },
+        {
+          "q": "What are the three mechanisms?",
+          "a": "Mutualization (pool), digitalization (Maps+) and engagement (mini-games, challenges). The three work together to create a virtuous cycle."
+        }
+      ],
+      "stats": [
+        {
+          "value": "14%",
+          "label": "SSE private employment FR"
+        },
+        {
+          "value": "10%",
+          "label": "SSE share of GDP FR"
+        },
+        {
+          "value": "75%",
+          "label": "pool redistribution"
+        },
+        {
+          "value": "3 levers",
+          "label": "virtuous cycle"
+        }
+      ]
+    },
+    "pool-solidaire-quartier": {
+      "title": "Neighborhood solidarity pool",
+      "h1": "COLHYBRI solidarity pool: how it works in practice",
+      "metaTitle": "COLHYBRI solidarity pool: 4 simple steps",
+      "metaDescription": "The COLHYBRI solidarity pool works in 4 steps: contribution, mutualization, random distribution, gifted service. 3 EUR/month, 75% redistributed.",
+      "snippet": "The COLHYBRI solidarity pool works in 4 steps. Step 1: each subscriber pays 3 EUR/month. Step 2: 75% of subscriptions (2.25 EUR) feed the community solidarity pool. Step 3: each month the pool is randomly distributed as vouchers. Step 4: beneficiaries enjoy services gifted at partner shops.",
+      "sections": [
+        {
+          "h2": "What is a solidarity pool?",
+          "body": "A solidarity pool is a common fund fed by several members contributions and redistributed according to a transparent rule. COLHYBRI chose a simple rule: each month, beneficiaries are drawn at random from neighborhood subscribers. All have equal chances, all contribute at the same level. It is the opposite of a privilege or clientelism logic."
+        },
+        {
+          "h2": "How are beneficiaries selected?",
+          "body": "Beneficiaries are drawn at random by a transparent and verifiable algorithm each month. A subscriber can be drawn multiple times per year, or never. This randomness ensures fairness and creates a positive surprise effect. The selection is public: every subscriber can verify the draw took place."
+        },
+        {
+          "h2": "Why 75% and not 100%?",
+          "body": "75% of subscriptions feed the redistributed pool. The remaining 25% cover platform technical costs (hosting, support, development), operational costs (accounting, legal) and COLHYBRI margin. It is a transparent ratio that lets the model run sustainably without subsidies or donations."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is a solidarity pool?",
+          "a": "A common fund fed by multiple member contributions and redistributed by a transparent rule. At COLHYBRI, beneficiaries are drawn at random each month."
+        },
+        {
+          "q": "How are beneficiaries selected?",
+          "a": "Drawn at random by a transparent, verifiable algorithm. A subscriber can be drawn multiple times or never. The selection is public."
+        },
+        {
+          "q": "Why 75% and not 100%?",
+          "a": "75% feed the redistributed pool. 25% cover technical and operational costs plus COLHYBRI margin. Transparent ratio, sustainable model without subsidies."
+        }
+      ],
+      "stats": [
+        {
+          "value": "4 steps",
+          "label": "pool mechanism"
+        },
+        {
+          "value": "75%",
+          "label": "to redistributed pool"
+        },
+        {
+          "value": "3 EUR",
+          "label": "monthly fee"
+        },
+        {
+          "value": "random",
+          "label": "monthly selection"
+        }
+      ]
+    },
+    "commerce-equitable-local": {
+      "title": "Fair local commerce",
+      "h1": "Fair local commerce: zero commission, 100% solidarity",
+      "metaTitle": "Fair local commerce: 0% commission model",
+      "metaDescription": "UberEats takes 30%, JustEat 25%, Petitscommerces 15%. COLHYBRI offers 0% commission with a flat 10 EUR/month subscription.",
+      "snippet": "While UberEats takes 30% commission, JustEat 25% and Petitscommerces 15%, COLHYBRI offers 0% commission for merchants. The flat 10 EUR/month subscription replaces variable commissions that erode small shop margins. It is fair trade applied to local commerce.",
+      "sections": [
+        {
+          "h2": "What is fair local commerce?",
+          "body": "Fair local commerce is the application of fair trade principles (fair price, direct relationship, no parasitic intermediary) to neighborhood exchanges. It aims to preserve margins for producers and merchants facing platforms that take high commissions. COLHYBRI is the first SaaS tool to apply this principle to neighborhood commerce."
+        },
+        {
+          "h2": "Why 0% commission?",
+          "body": "Variable platform commissions (30% UberEats, 25% JustEat) mechanically erode local commerce margins, which already sit at 8-15% net. A shop selling at 10 EUR via a 30%-commission platform keeps only 7 EUR gross, below its average net margin. COLHYBRI preserves margins with a flat 10 EUR/month subscription."
+        },
+        {
+          "h2": "How is COLHYBRI profitable at 0%?",
+          "body": "COLHYBRI is profitable thanks to subscription volume. For 500 merchants per city, that is 5,000 EUR/month of recurring revenue per city, independent of each merchant sales volume. It is a classic SaaS model applied to local commerce, opposite to the platform model that taxes every transaction."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is fair local commerce?",
+          "a": "The application of fair trade principles (fair price, no parasitic intermediary) to neighborhood exchanges. Goal: preserve merchant margins."
+        },
+        {
+          "q": "Why 0% commission at COLHYBRI?",
+          "a": "Standard platforms mechanically erode margins. COLHYBRI preserves them with a flat 10 EUR/month subscription."
+        },
+        {
+          "q": "How is COLHYBRI profitable at 0%?",
+          "a": "Volume effect: 500 merchants = 5,000 EUR/month recurring revenue per city. Classic SaaS model, opposite to platforms that tax every transaction."
+        }
+      ],
+      "stats": [
+        {
+          "value": "0%",
+          "label": "COLHYBRI commission"
+        },
+        {
+          "value": "30%",
+          "label": "UberEats commission"
+        },
+        {
+          "value": "10 EUR",
+          "label": "flat subscription"
+        },
+        {
+          "value": "8-15%",
+          "label": "shop net margin"
+        }
+      ]
+    },
+    "cooperative-quartier": {
+      "title": "Digital neighborhood cooperative",
+      "h1": "The digital neighborhood cooperative: the COLHYBRI model",
+      "metaTitle": "Digital neighborhood cooperative: mutual, not charity",
+      "metaDescription": "COLHYBRI is a digital neighborhood mutual. Self-funded by subscriptions, no subsidies or donations. This is not charity.",
+      "snippet": "COLHYBRI operates as a digital neighborhood cooperative where each member (subscriber or merchant) contributes to a common good: the solidarity pool. Unlike an association or NGO, the model is self-funded by subscriptions and does not depend on any subsidy. It is a mutual, not charity.",
+      "sections": [
+        {
+          "h2": "What is a neighborhood cooperative?",
+          "body": "A neighborhood cooperative is a local exchange structure based on voluntary contributions from its members. Historically, consumer cooperatives (19th century Magasins Generaux) let workers buy together for better prices. COLHYBRI transposes the principle into the digital space with a SaaS tool."
+        },
+        {
+          "h2": "What is the difference with an NGO?",
+          "body": "An NGO lives off donations, subsidies and voluntary fees. It structurally depends on external funders (State, donors, willing members). COLHYBRI has no donations or subsidies: the model is self-funded by subscriptions (3 EUR residents, 10 EUR merchants). That is what guarantees sustainability and independence."
+        },
+        {
+          "h2": "Why is it not charity?",
+          "body": "Charity implies an asymmetric relationship: a wealthy giver and a needy beneficiary. COLHYBRI is symmetric: every subscriber pays the same fee and has the same chance to receive a service. Nobody is humiliated, nobody is labeled as poor. It is a neighborhood mutual, not a digital soup kitchen."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is a neighborhood cooperative?",
+          "a": "A local exchange structure based on voluntary member contributions. COLHYBRI transposes this into the digital space with a SaaS tool."
+        },
+        {
+          "q": "What is the difference with an NGO?",
+          "a": "NGOs depend on donations and subsidies. COLHYBRI is self-funded by subscriptions, guaranteeing sustainability without external dependence."
+        },
+        {
+          "q": "Why is it not charity?",
+          "a": "Charity = asymmetric giver/beneficiary relationship. COLHYBRI is symmetric: every subscriber pays the same fee and has equal chances to receive."
+        }
+      ],
+      "stats": [
+        {
+          "value": "Mutual",
+          "label": "not charity"
+        },
+        {
+          "value": "Self-funded",
+          "label": "no subsidy"
+        },
+        {
+          "value": "Symmetric",
+          "label": "every subscriber equal"
+        },
+        {
+          "value": "0 donation",
+          "label": "in the model"
+        }
+      ]
+    },
+    "fidelisation-communautaire": {
+      "title": "Community-driven loyalty",
+      "h1": "Community-driven loyalty: how COLHYBRI retains local customers",
+      "metaTitle": "Community loyalty: pool, gamification, network effect",
+      "metaDescription": "COLHYBRI combines the solidarity pool, gamification (26 mini-games) and network effect to reach over 60% retention.",
+      "snippet": "COLHYBRI community-driven loyalty relies on three levers: the solidarity pool (subscribers receive gifted services), gamification (26 mini-games, neighborhood challenges, rankings) and network effect (more subscribers = more services available). Expected retention exceeds 60%, versus less than 30% for standard loyalty programs.",
+      "sections": [
+        {
+          "h2": "What is community-driven loyalty?",
+          "body": "Community-driven loyalty differs from classic individual loyalty (punch cards, points) by its collective dimension. Instead of rewarding a customer for repeat purchases, it rewards participation in a neighborhood community. Engagement is social rather than transactional, creating a more durable relationship."
+        },
+        {
+          "h2": "What are COLHYBRI three levers?",
+          "body": "First lever: the solidarity pool redistributing 75% of fees as gifted services. Second: gamification with 26 local mini-games, neighborhood challenges and commercial-street rankings. Third: network effect that raises perceived value as new subscribers join (positive-externality network)."
+        },
+        {
+          "h2": "Why is retention higher?",
+          "body": "Classic loyalty programs reach 20-30% annual retention. COLHYBRI targets over 60% thanks to three cumulative effects: mini-game addiction (similar to Duolingo), positive surprise of randomly gifted services, and network effect that makes unsubscribing socially costly. An unsubscriber leaves their neighborhood community."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is community-driven loyalty?",
+          "a": "A model that rewards participation in a neighborhood community rather than repeat purchases. Engagement is social, not transactional."
+        },
+        {
+          "q": "What are the three levers?",
+          "a": "Solidarity pool (gifted services), gamification (26 mini-games, challenges), network effect (value growing with number of subscribers)."
+        },
+        {
+          "q": "Why is retention higher?",
+          "a": "Targets over 60% thanks to mini-game addiction, the surprise of gifted services, and network effect that makes unsubscribing socially costly."
+        }
+      ],
+      "stats": [
+        {
+          "value": "60%+",
+          "label": "target retention"
+        },
+        {
+          "value": "26",
+          "label": "mini-games"
+        },
+        {
+          "value": "3 levers",
+          "label": "loyalty stack"
+        },
+        {
+          "value": "20-30%",
+          "label": "classic retention"
+        }
+      ]
+    },
+    "google-maps-commerce": {
+      "title": "Google Maps for merchants",
+      "h1": "Optimizing your Google Maps listing as a merchant: the 2026 guide",
+      "metaTitle": "Google Maps merchants: 2026 optimization guide",
+      "metaDescription": "75% of small businesses have an incomplete Google listing. Complete guide to optimizing your Business Profile and dominating local search.",
+      "snippet": "The Google Business Profile listing is the first point of contact between a local shop and its potential customers. Yet 75% of small businesses have incomplete or missing listings. Essential elements: precise category, up-to-date hours, minimum 10 quality photos, responses to every review and optimized local-keyword description.",
+      "sections": [
+        {
+          "h2": "How to optimize your Google Business Profile?",
+          "body": "Six essentials: precise category (not just \"restaurant\" but \"Italian restaurant\"), perfectly up-to-date hours including exceptional closures, minimum 10 quality photos (exterior, interior, products, team), 100% response to reviews (positive and negative), keyword-rich description and specific attributes (patio, WiFi, accessible, contactless payment)."
+        },
+        {
+          "h2": "Why at least 10 photos?",
+          "body": "Google prioritizes listings with many photos. A shop with 10+ photos appears 42% more often in local search results than a shop with fewer than 5 photos (BrightLocal, 2024). Users also click more on visually rich listings, triggering a positioning virtuous cycle."
+        },
+        {
+          "h2": "How does COLHYBRI automate this?",
+          "body": "COLHYBRI Maps+ automatically audits the Google Business listing in 48 hours and generates a Score Maps from 0 to 100. The audit checks all 6 key elements and produces a priority-action report. Zero-friction onboarding lets merchants complete their listing in 30 seconds via an in-store QR code."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How to optimize a Google Business listing?",
+          "a": "6 elements: precise category, up-to-date hours, 10+ quality photos, response to every review, keyword-rich description, specific attributes."
+        },
+        {
+          "q": "Why at least 10 photos?",
+          "a": "A shop with 10+ photos appears 42% more often in local search results than one with fewer than 5 (BrightLocal, 2024)."
+        },
+        {
+          "q": "How does COLHYBRI automate this?",
+          "a": "Automatic 48-hour audit with Score Maps, priority-action report, 30-second zero-friction onboarding via QR code."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "SMBs incomplete listings"
+        },
+        {
+          "value": "10+",
+          "label": "minimum photos"
+        },
+        {
+          "value": "+42%",
+          "label": "visibility with 10+ photos"
+        },
+        {
+          "value": "48h",
+          "label": "Score Maps audit"
+        }
+      ]
+    },
+    "visibilite-google-pme": {
+      "title": "Google visibility for SMBs",
+      "h1": "Google visibility for SMBs: why 75% of shops are invisible",
+      "metaTitle": "Google visibility SMBs 2026: causes and solutions",
+      "metaDescription": "75% of small businesses are invisible on Google. Analysis of causes and COLHYBRI solutions for 10 EUR/month.",
+      "snippet": "75% of small businesses are invisible on Google in 2026. The three main causes: no Google Business Profile listing (40% of SMBs), outdated or incomplete information (25%) and lack of recent customer reviews (35% have none). COLHYBRI Maps+ fixes all three in 48 hours for 10 EUR/month.",
+      "sections": [
+        {
+          "h2": "Why are 75% of SMBs invisible on Google?",
+          "body": "Three causes: 40% of SMBs have no Google Business Profile at all (many traditional shops never took the step). 25% have a listing with outdated or incomplete information (wrong hours, vague category, no photos). 35% have no recent customer reviews, which degrades their positioning in the Google algorithm."
+        },
+        {
+          "h2": "What is the financial impact of this invisibility?",
+          "body": "A Google-invisible shop loses between 15% and 30% of its potential revenue according to BrightLocal estimates (2024). For a shop generating 200,000 EUR/year, that is a loss of 30,000 to 60,000 EUR/year. At the scale of a town with 100 shops, the cumulative shortfall reaches millions."
+        },
+        {
+          "h2": "How to regain visibility with COLHYBRI?",
+          "body": "COLHYBRI Maps+ restores visibility in 48 hours: automatic audit with Score Maps, creation or optimization of the Google Business listing, photo upload, review generation via post-visit QR code. All for 10 EUR/month with 0% commission. ROI starts in month one."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why are 75% of SMBs invisible on Google?",
+          "a": "Three causes: 40% no listing, 25% outdated listing, 35% no recent reviews. Frequent combinations that degrade positioning."
+        },
+        {
+          "q": "What is the financial impact?",
+          "a": "An invisible shop loses 15-30% of potential revenue per BrightLocal (2024). For 200,000 EUR/year, that is 30,000-60,000 EUR/year of lost revenue."
+        },
+        {
+          "q": "How to regain visibility?",
+          "a": "COLHYBRI Maps+ in 48 hours: Score Maps audit, listing optimization, photo upload, review generation. 10 EUR/month at 0% commission."
+        }
+      ],
+      "stats": [
+        {
+          "value": "75%",
+          "label": "SMBs invisible"
+        },
+        {
+          "value": "40%",
+          "label": "no listing"
+        },
+        {
+          "value": "25%",
+          "label": "outdated listing"
+        },
+        {
+          "value": "15-30%",
+          "label": "revenue lost"
+        }
+      ]
+    },
+    "seo-local-commerce": {
+      "title": "Local SEO for shops",
+      "h1": "Local SEO for neighborhood shops: 2026 basics",
+      "metaTitle": "Local SEO for shops: 2026 guide",
+      "metaDescription": "Local SEO relies on 3 pillars: optimized Google Business listing, recent positive reviews and NAP consistency. Complete 2026 guide.",
+      "snippet": "Local SEO is the search strategy that lets neighborhood shops appear in geolocated search results (Google Maps, \"near me\" searches). The three pillars of local SEO are: optimized Google Business listing, recent positive customer reviews, and NAP consistency (Name, Address, Phone) across all directories.",
+      "sections": [
+        {
+          "h2": "What is local SEO?",
+          "body": "Local SEO covers ranking techniques specific to geolocated searches. Unlike classic SEO that targets generic queries, local SEO targets queries like \"bakery Paris 11\" or \"hairdresser near me\". Google handles these queries differently, prioritizing Google Business Profile listings and Local Pack results."
+        },
+        {
+          "h2": "What are the three pillars?",
+          "body": "First pillar: optimized Google Business Profile (category, hours, photos, description). Second: positive and recent customer reviews (quantity + quality + recency). Third: NAP consistency across all directories (Google, Yelp, Facebook) to reinforce local authority. NAP consistency is critical: inconsistencies crash the ranking."
+        },
+        {
+          "h2": "How does COLHYBRI optimize all 3 pillars?",
+          "body": "COLHYBRI Maps+ covers all 3 pillars: automatic Google Business audit and optimization (pillar 1), customer review generation via post-visit QR code (pillar 2), and NAP consistency check across main directories (pillar 3). A dashboard displays Score Maps and priority actions."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What is local SEO?",
+          "a": "Ranking techniques for geolocated searches. Google handles \"bakery Paris 11\" type queries differently, prioritizing Google Business Profile listings."
+        },
+        {
+          "q": "What are the 3 pillars?",
+          "a": "Optimized Google Business listing, recent positive reviews, NAP (Name-Address-Phone) consistency across all directories."
+        },
+        {
+          "q": "How does COLHYBRI optimize?",
+          "a": "Maps+ covers all 3 pillars: listing audit, post-visit review generation, NAP consistency check. Score Maps dashboard with priority actions."
+        }
+      ],
+      "stats": [
+        {
+          "value": "3",
+          "label": "local SEO pillars"
+        },
+        {
+          "value": "NAP",
+          "label": "critical consistency"
+        },
+        {
+          "value": "48h",
+          "label": "Score Maps audit"
+        },
+        {
+          "value": "10 EUR",
+          "label": "monthly subscription"
+        }
+      ]
+    },
+    "avis-google-commercants": {
+      "title": "Google reviews for merchants",
+      "h1": "How to get more Google reviews: the COLHYBRI method",
+      "metaTitle": "Getting more Google reviews: the COLHYBRI QR code method",
+      "metaDescription": "A shop with 10+ recent reviews gets 50% more clicks. COLHYBRI method: post-visit QR code to generate authentic reviews.",
+      "snippet": "Google reviews are the top selection criterion for consumers choosing a local shop. The COLHYBRI method uses a post-visit QR code that simplifies review submission: the customer scans the code on their way out, rates in 1 click, and the shop accumulates authentic reviews effortlessly. A shop with 10+ recent reviews gets 50% more clicks.",
+      "sections": [
+        {
+          "h2": "Why are Google reviews so important?",
+          "body": "87% of consumers read online reviews before visiting a local shop (BrightLocal, 2024). A shop with fewer than 5 reviews inspires distrust; a shop with more than 20 recent reviews inspires confidence. Google uses review quantity, quality and recency as ranking signals in the Local Pack. Reviews are both a trust signal and an SEO signal."
+        },
+        {
+          "h2": "How to get more reviews without asking?",
+          "body": "The COLHYBRI method relies on a post-visit QR code printed on the receipt or displayed at the exit. The customer scans the code with their smartphone, lands directly on the Google Business review page, and rates in 1 click without creating an account. This simplification triples the conversion rate compared to a verbal request."
+        },
+        {
+          "h2": "How to avoid negative reviews?",
+          "body": "COLHYBRI activates continuous monitoring: any new alert (positive or negative) is sent to the merchant within 2 hours. This allows merchants to respond quickly to negative reviews, propose a solution and reduce the ranking impact. A negative review answered quickly does less harm than a negative review ignored for 3 months."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why are Google reviews important?",
+          "a": "87% of consumers read reviews before visiting a local shop. Google uses quantity, quality and recency as ranking signals."
+        },
+        {
+          "q": "How to get more reviews without asking?",
+          "a": "Post-visit QR code on the receipt. Customer scans, lands on review page, rates in 1 click. Conversion rate x3 vs verbal request."
+        },
+        {
+          "q": "How to avoid negative reviews?",
+          "a": "Continuous monitoring: alert sent within 2 hours for any new review. Allows fast response and solution offering."
+        }
+      ],
+      "stats": [
+        {
+          "value": "87%",
+          "label": "consumers read reviews"
+        },
+        {
+          "value": "+50%",
+          "label": "clicks with 10+ reviews"
+        },
+        {
+          "value": "x3",
+          "label": "QR code conversion"
+        },
+        {
+          "value": "2h",
+          "label": "negative review alert"
+        }
+      ]
+    },
+    "onboarding-digital-commerce": {
+      "title": "Zero-friction merchant onboarding",
+      "h1": "Zero-friction digital onboarding for merchants: the COLHYBRI method",
+      "metaTitle": "Zero-friction merchant onboarding: 30 seconds, QR code",
+      "metaDescription": "COLHYBRI lets a merchant become visible on Google in 30 seconds. QR code, no account, no technical skills required.",
+      "snippet": "COLHYBRI zero-friction digital onboarding lets any merchant become visible on Google in under 30 seconds. The process: scan a QR code, confirm pre-filled information (name, address, phone), and accept creation or optimization of the Google Business listing. No technical skills required.",
+      "sections": [
+        {
+          "h2": "Why zero-friction onboarding?",
+          "body": "Digital platforms usually ask merchants to create an account, fill a long form, upload documents and verify a postal address. A 55-year-old merchant without a tech background typically abandons at step 3. COLHYBRI zero-friction onboarding removes these frictions: one QR scan, one confirmation, done."
+        },
+        {
+          "h2": "What are the 3 onboarding steps?",
+          "body": "Step 1: the merchant scans a QR code distributed by the municipal commerce manager or by a neighbor merchant. Step 2: they land on a web page pre-filled with information from public registries, existing Google Business, or the municipal ACV/PVD database. Step 3: they validate in 1 click and the listing is created or optimized automatically."
+        },
+        {
+          "h2": "How is data pre-filled?",
+          "body": "COLHYBRI automatically queries several public sources: public business registries (name, address, status), existing Google Business Profile (if present), and the municipal database of the ACV or PVD program (if the city is a partner). The merchant just has to verify and correct if needed."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Why zero-friction onboarding?",
+          "a": "Classic platforms lose merchants at step 3. 30-second onboarding removes friction and lets non-technical merchants go digital."
+        },
+        {
+          "q": "What are the 3 steps?",
+          "a": "QR code scan, confirmation of pre-filled info, 1-click validation. No account to create, no documents to upload."
+        },
+        {
+          "q": "How is data pre-filled?",
+          "a": "COLHYBRI queries public registries, existing Google Business and the municipal ACV/PVD database. The merchant just verifies."
+        }
+      ],
+      "stats": [
+        {
+          "value": "30s",
+          "label": "onboarding time"
+        },
+        {
+          "value": "QR code",
+          "label": "access method"
+        },
+        {
+          "value": "1 click",
+          "label": "final validation"
+        },
+        {
+          "value": "SIRENE",
+          "label": "main source"
+        }
+      ]
+    },
+    "score-maps-audit": {
+      "title": "Score Maps audit",
+      "h1": "Score Maps: Google presence audit for local shops",
+      "metaTitle": "COLHYBRI Score Maps: 0-100 Google presence audit",
+      "metaDescription": "Score Maps measures Google presence quality on a 0-100 scale. 4 criteria: listing, reviews, photos, NAP consistency.",
+      "snippet": "Score Maps is an indicator developed by COLHYBRI that measures the quality of a shop Google presence on a 0 to 100 scale. It evaluates four criteria: listing completeness (30%), review quantity and quality (30%), number of photos (20%), and NAP consistency (20%). A score below 50 means the shop is nearly invisible online.",
+      "sections": [
+        {
+          "h2": "How is Score Maps calculated?",
+          "body": "Score Maps sums four weighted components: Google Business listing completeness (30% - category, hours, description, attributes), review quantity and quality (30% - count, average rating, recency, response rate), photo count and quality (20% - exterior, interior, products), NAP consistency across main directories (20%). Each component is scored 0-100."
+        },
+        {
+          "h2": "What do the different score levels mean?",
+          "body": "0-30: shop nearly invisible, listing missing or abandoned, no reviews. 30-50: partially visible, existing but incomplete listing. 50-70: visible, significant improvement potential. 70-90: well-ranked, solid Local Pack positioning. 90-100: optimal, local category leader."
+        },
+        {
+          "h2": "How does Score Maps help a city?",
+          "body": "At municipal level, the average Score Maps of downtown shops is a commercial vitality indicator. A city can compare its average to neighbors and track its evolution over time. COLHYBRI provides a municipal dashboard displaying every shop Score Maps plus the city average with per-street visualization."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How is Score Maps calculated?",
+          "a": "4 weighted components: listing completeness (30%), reviews (30%), photos (20%), NAP consistency (20%). Each scored 0-100."
+        },
+        {
+          "q": "What do the levels mean?",
+          "a": "0-30: invisible. 30-50: incomplete. 50-70: visible with potential. 70-90: well-ranked. 90-100: optimal."
+        },
+        {
+          "q": "How does it help a city?",
+          "a": "Aggregated commercial vitality indicator. Comparison with neighbors and time-based tracking. Municipal dashboard with per-street view."
+        }
+      ],
+      "stats": [
+        {
+          "value": "0-100",
+          "label": "Score Maps scale"
+        },
+        {
+          "value": "4",
+          "label": "components"
+        },
+        {
+          "value": "48h",
+          "label": "audit duration"
+        },
+        {
+          "value": "< 50",
+          "label": "invisible threshold"
+        }
+      ]
+    },
+    "maps-plus-outil": {
+      "title": "Maps+ COLHYBRI tool",
+      "h1": "Maps+ by COLHYBRI: the digitalization tool for local shops",
+      "metaTitle": "Maps+ COLHYBRI: audit, onboarding, reviews, monitoring",
+      "metaDescription": "Maps+ is the COLHYBRI digitalization module. 4 pillars: 48h Score Maps audit, zero-friction onboarding, QR review generation, monitoring.",
+      "snippet": "Maps+ is the COLHYBRI digitalization module that covers the 4 pillars of online shop visibility: automated audit (48-hour Score Maps), zero-friction Google Places onboarding, review generation via post-visit QR code, and continuous monitoring with negative review alerts. Included in the 10 EUR/month merchant subscription.",
+      "sections": [
+        {
+          "h2": "What does Maps+ do in practice?",
+          "body": "Maps+ is a SaaS module that automates all digital tasks for a shop: audit of Google presence (with Score Maps), creation or optimization of the Google Business listing, customer review generation via QR code printed on the receipt, and continuous monitoring with SMS or email alerts on negative reviews or ranking drops."
+        },
+        {
+          "h2": "Why is Maps+ worth 10 EUR/month?",
+          "body": "Maps+ is included in the COLHYBRI merchant subscription at 10 EUR/month. For comparison, local SEO agencies charge 200-500 EUR/month for equivalent services, Yelp charges $300-1000/month for advertising, and commission platforms take 25-30% on every sale. Maps+ is 10-50x cheaper while being automated."
+        },
+        {
+          "h2": "How does Maps+ integrate with a municipal program?",
+          "body": "For Action Coeur de Ville, Petites Villes de Demain or Main Street America cities, Maps+ integrates with the municipal dashboard. The commerce manager can track Score Maps of every shop in their perimeter, detect struggling shops (score < 50), and trigger targeted support actions. Quarterly impact report ready for the city council."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does Maps+ do in practice?",
+          "a": "4 pillars: 48-hour Score Maps audit, Google Business listing creation/optimization, QR code review generation, continuous monitoring with alerts."
+        },
+        {
+          "q": "Why 10 EUR/month?",
+          "a": "Included in merchant subscription. Local SEO agencies charge 200-500 EUR/month, Yelp $300-1000/month. Maps+ is 10-50x cheaper and automated."
+        },
+        {
+          "q": "How does it integrate with a municipal program?",
+          "a": "Municipal dashboard for ACV, PVD or Main Street America. Score Maps tracking, struggling shop detection, quarterly impact report."
+        }
+      ],
+      "stats": [
+        {
+          "value": "4 pillars",
+          "label": "covered by Maps+"
+        },
+        {
+          "value": "10 EUR",
+          "label": "monthly subscription"
+        },
+        {
+          "value": "48h",
+          "label": "Score Maps audit"
+        },
+        {
+          "value": "10-50x",
+          "label": "cheaper than alternatives"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to revitalize your downtown?",
+      "app": "Open the app",
+      "demo": "Book a demo"
+    },
+    "commerce-informel": {
+      "title": "Formalizing Informal Commerce Through Digitalization",
+      "desc": "Informal commerce represents 55% of employment in Latin America. COLHYBRI offers formalization through zero-friction digitalization at $3/month."
+    },
+    "revitalisation-quartier": {
+      "title": "Neighborhood Revitalization Through Commerce and Solidarity",
+      "desc": "Neighborhood revitalization requires 3 levers: commerce, solidarity and sport."
+    },
+    "tiers-lieu-digital": {
+      "title": "The Digital Third Place: COLHYBRI as a Virtual Meeting Space",
+      "desc": "31% of French people have no meeting place. COLHYBRI creates a digital third place for 3 EUR/month."
+    },
+    "impact-social-commerce": {
+      "title": "Social Impact of Local Commerce: 2026 Facts and Figures",
+      "desc": "Local commerce generates 13.2% of GDP in Barcelona, 152,000 jobs, and 90.9% active premises."
+    },
+    "keynesian-multiplier-local": {
+      "title": "The Keynesian Multiplier Applied to Local Economy",
+      "desc": "Every euro spent locally generates 2.50 EUR of activity. COLHYBRI channels 75% to local businesses."
+    },
+    "comment-ca-marche": {
+      "title": "COLHYBRI: How It Works in 3 Steps",
+      "desc": "COLHYBRI in 3 steps: 3 EUR subscription, 75% solidarity pool, gifted services. 0% commission."
+    },
+    "tarifs-colhybri": {
+      "title": "COLHYBRI Pricing: 3 EUR Individuals, 10 EUR Merchants",
+      "desc": "3 EUR/month individuals, 10 EUR/month merchants with 0% commission."
+    },
+    "pour-les-commercants": {
+      "title": "COLHYBRI for Merchants: 0% Commission",
+      "desc": "10 EUR/month, 0% commission. Maps+ included. New customers via solidarity pool."
+    },
+    "pour-les-particuliers": {
+      "title": "COLHYBRI for Individuals: 3 EUR/Month",
+      "desc": "For 3 EUR/month, contribute to the solidarity pool and receive gifted services."
+    },
+    "pour-les-collectivites": {
+      "title": "COLHYBRI for Cities: Vitality Dashboard",
+      "desc": "Free 90-day pilot for 50 businesses. Score Maps, dashboard, impact report."
+    },
+    "ecosr-european-capital-small-retail": {
+      "title": "European Capitals of Small Retail 2026",
+      "desc": "The EU designated 3 Capitals of Small Retail in 2026."
+    },
+    "eui-european-urban-initiative": {
+      "title": "European Urban Initiative Call 4: 60M EUR (June 2026)",
+      "desc": "EUI Call 4: 60M EUR ERDF for EU cities 25,000+. Deadline June 15, 2026."
+    },
+    "idb-latin-america": {
+      "title": "IDB and Local Commerce in Latin America",
+      "desc": "Latin America: 2.1% growth, 55% informal. IDB + COLHYBRI = digital formalization."
+    },
+    "afd-afrique": {
+      "title": "AFD and Digital Commerce in Africa",
+      "desc": "Sub-Saharan Africa: 4.3% growth, zero digital tools. Pilot in Dakar/Abidjan/Tunis."
+    },
+    "fifa-innovation-sport": {
+      "title": "FIFA Innovation Programme and Sport-Commerce Connection",
+      "desc": "FIFA Innovation supports sport-community connection. ONLYMORE triple-play."
+    }
   }
 }

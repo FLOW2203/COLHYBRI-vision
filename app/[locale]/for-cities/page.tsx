@@ -1,40 +1,37 @@
 import { useTranslations } from 'next-intl';
 import { getTranslations } from 'next-intl/server';
-import Link from 'next/link';
 import type { Locale } from '@/i18n';
 import { generatePageMetadata } from '@/lib/metadata';
-import { getLocalizedPath } from '@/lib/navigation';
 import { JsonLd } from '@/components/JsonLd';
+import { CityContactForm } from '@/components/forms/CityContactForm';
 
 interface PageProps {
   params: { locale: string };
 }
 
 export async function generateMetadata({ params: { locale } }: PageProps) {
-  const t = await getTranslations({ locale, namespace: 'forCities' });
+  const t = await getTranslations({ locale, namespace: 'forCitiesPage' });
   return generatePageMetadata({
     locale: locale as Locale,
     routeKey: 'for-cities',
-    title: t('title'),
-    description: t('description'),
-    semanticPrimary: 'COLHYBRI for cities local economy revitalization',
-    semanticSecondary: 'city partnership, Main Street revitalization, local economic activity, financial inclusion goals',
+    title: t('meta.title'),
+    description: t('meta.description'),
+    semanticPrimary: 'downtown vitality dashboard cities revitalization pilot',
+    semanticSecondary: 'ZRCV, Action Coeur de Ville, Petites Villes de Demain, Main Street America, manager commerce',
     chunkType: 'landing',
-    audience: 'city officials, municipal leaders',
+    audience: 'mayors, city officials, municipal leaders, CCI',
   });
 }
 
 export default function ForCitiesPage({ params: { locale } }: PageProps) {
-  const t = useTranslations('forCities');
-  const impact = useTranslations('impact');
-  const common = useTranslations('common');
+  const t = useTranslations('forCitiesPage');
   const l = locale as Locale;
 
   const landingJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
-    name: t('title'),
-    description: t('description'),
+    name: t('meta.title'),
+    description: t('meta.description'),
     audience: {
       '@type': 'Audience',
       audienceType: 'City Officials and Municipal Leaders',
@@ -46,71 +43,137 @@ export default function ForCitiesPage({ params: { locale } }: PageProps) {
     },
   };
 
+  const contextStats = [
+    { value: t('context.stats.0.value'), label: t('context.stats.0.label') },
+    { value: t('context.stats.1.value'), label: t('context.stats.1.label') },
+    { value: t('context.stats.2.value'), label: t('context.stats.2.label') },
+    { value: t('context.stats.3.value'), label: t('context.stats.3.label') },
+  ];
+
+  const features = [
+    { icon: 'radar', key: 'feature1' },
+    { icon: 'chart', key: 'feature2' },
+    { icon: 'doc', key: 'feature3' },
+    { icon: 'hand', key: 'feature4' },
+  ] as const;
+
+  const pilotBullets = [
+    t('pilot.bullet1'),
+    t('pilot.bullet2'),
+    t('pilot.bullet3'),
+  ];
+
+  const barcelonaStats = [
+    { value: t('barcelona.stats.0.value'), label: t('barcelona.stats.0.label') },
+    { value: t('barcelona.stats.1.value'), label: t('barcelona.stats.1.label') },
+    { value: t('barcelona.stats.2.value'), label: t('barcelona.stats.2.label') },
+  ];
+
   return (
     <>
       <JsonLd data={landingJsonLd} />
 
       {/* Hero */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-colhybri-dark to-colhybri-dark/90 text-white">
+      <section className="relative overflow-hidden bg-colhybri-cream">
         <div className="section-container text-center">
-          <p className="text-colhybri-primary font-semibold mb-4 text-sm sm:text-base tracking-wide uppercase">
-            {t('title')}
+          <p className="text-colhybri-teal font-sans font-semibold text-sm tracking-widest uppercase mb-4">
+            {t('hero.badge')}
           </p>
-          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold mb-6 max-w-4xl mx-auto leading-tight">
-            {t('headline')}
+          <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-semibold text-colhybri-dark mb-6 max-w-4xl mx-auto leading-[1.08]">
+            {t('hero.title')}
           </h1>
-          <p className="text-lg sm:text-xl text-white/70 max-w-3xl mx-auto mb-10 leading-relaxed">
-            {t('description')}
+          <p className="font-sans text-lg sm:text-xl text-colhybri-dark/70 max-w-3xl mx-auto leading-relaxed">
+            {t('hero.subtitle')}
           </p>
-          <Link href={getLocalizedPath('contact', l)} className="btn-primary text-lg px-8 py-4">
-            {common('contactUs')}
-          </Link>
         </div>
       </section>
 
-      {/* Impact Metrics for Cities */}
+      {/* Context grid: 4 counters */}
       <section className="bg-white">
         <div className="section-container">
-          <h2 className="section-heading text-center mb-12">{impact('headline')}</h2>
-          <div className="grid sm:grid-cols-3 gap-8 max-w-4xl mx-auto">
-            <div className="card text-center">
-              <div className="text-4xl font-bold text-colhybri-primary mb-2">
-                {impact('metrics.localValue.value')}
+          <h2 className="section-heading text-center mb-12">{t('context.title')}</h2>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
+            {contextStats.map((s, i) => (
+              <div
+                key={i}
+                className="text-center p-6 rounded-2xl bg-colhybri-cream border border-colhybri-teal/10"
+              >
+                <div className="font-mono font-bold text-3xl sm:text-4xl text-colhybri-teal mb-2">
+                  {s.value}
+                </div>
+                <p className="font-sans text-sm text-colhybri-dark/70">{s.label}</p>
               </div>
-              <p className="text-colhybri-dark/60">{impact('metrics.localValue.label')}</p>
-            </div>
-            <div className="card text-center">
-              <div className="text-4xl font-bold text-colhybri-secondary mb-2">
-                {impact('metrics.jobsCreated.value')}
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* What you receive */}
+      <section className="bg-colhybri-cream">
+        <div className="section-container">
+          <h2 className="section-heading text-center mb-12">{t('features.title')}</h2>
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
+            {features.map((f) => (
+              <div key={f.key} className="card text-left h-full">
+                <div className="w-14 h-14 rounded-2xl bg-colhybri-teal/10 flex items-center justify-center mb-5">
+                  <FeatureIcon name={f.icon} />
+                </div>
+                <h3 className="font-display text-xl font-semibold mb-2">{t(`features.${f.key}.title`)}</h3>
+                <p className="font-sans text-sm text-colhybri-dark/70 leading-relaxed">
+                  {t(`features.${f.key}.body`)}
+                </p>
               </div>
-              <p className="text-colhybri-dark/60">{impact('metrics.jobsCreated.label')}</p>
-            </div>
-            <div className="card text-center">
-              <div className="text-4xl font-bold text-colhybri-primary mb-2">
-                {impact('metrics.moneyLocal.value')}
-              </div>
-              <p className="text-colhybri-dark/60">{impact('metrics.moneyLocal.label')}</p>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Pilot offer */}
+      <section className="bg-white">
+        <div className="section-container max-w-4xl mx-auto">
+          <div className="bg-colhybri-teal/5 border-2 border-colhybri-teal rounded-2xl p-8 sm:p-12">
+            <h2 className="font-display text-3xl sm:text-4xl font-semibold text-colhybri-dark mb-6 text-center">
+              {t('pilot.title')}
+            </h2>
+            <ul className="space-y-4 max-w-2xl mx-auto mb-8">
+              {pilotBullets.map((b, i) => (
+                <li key={i} className="flex items-start gap-3 font-sans text-colhybri-dark/80">
+                  <svg className="w-6 h-6 text-colhybri-teal flex-shrink-0 mt-0.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" aria-hidden="true">
+                    <polyline points="20 6 9 17 4 12" />
+                  </svg>
+                  <span className="text-lg">{b}</span>
+                </li>
+              ))}
+            </ul>
+            <div className="text-center">
+              <p className="font-mono text-2xl text-colhybri-dark mb-2">{t('pilot.price')}</p>
+              <p className="font-sans text-sm text-colhybri-dark/60 italic">{t('pilot.note')}</p>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Why Partner */}
-      <section className="bg-colhybri-light">
-        <div className="section-container max-w-4xl mx-auto">
-          <div className="card">
-            <h2 className="text-2xl font-bold text-colhybri-dark mb-6 text-center">
-              {t('title')}
-            </h2>
-            <div className="grid sm:grid-cols-2 gap-6">
-              {(['multiplier', 'inclusion', 'fabric', 'dashboard'] as const).map((key, i) => (
-                <div key={key} className="flex items-start gap-4">
-                  <div className={`w-10 h-10 rounded-full ${i < 2 ? 'bg-colhybri-primary/10' : 'bg-colhybri-secondary/10'} flex items-center justify-center flex-shrink-0`}>
-                    <svg className={`w-5 h-5 ${i < 2 ? 'text-colhybri-primary' : 'text-colhybri-secondary'}`} viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-                      <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
-                    </svg>
-                  </div>
-                  <p className="text-colhybri-dark/70">{t(`benefits.${key}`)}</p>
+      {/* Barcelona model */}
+      <section className="bg-colhybri-cream">
+        <div className="section-container">
+          <div className="grid md:grid-cols-2 gap-10 max-w-5xl mx-auto items-center">
+            <div>
+              <p className="text-colhybri-teal font-sans font-semibold text-sm tracking-widest uppercase mb-4">
+                {t('barcelona.badge')}
+              </p>
+              <h2 className="font-display text-3xl sm:text-4xl font-semibold mb-6">
+                {t('barcelona.title')}
+              </h2>
+              <p className="font-sans text-colhybri-dark/80 leading-relaxed">{t('barcelona.body')}</p>
+            </div>
+            <div className="grid gap-4">
+              {barcelonaStats.map((s, i) => (
+                <div
+                  key={i}
+                  className="p-6 rounded-2xl bg-white border border-colhybri-teal/10 flex items-baseline justify-between gap-4"
+                >
+                  <span className="font-mono font-bold text-2xl text-colhybri-teal">{s.value}</span>
+                  <span className="font-sans text-sm text-colhybri-dark/70 text-right">{s.label}</span>
                 </div>
               ))}
             </div>
@@ -118,25 +181,57 @@ export default function ForCitiesPage({ params: { locale } }: PageProps) {
         </div>
       </section>
 
-      {/* Internal Links (Cocon Semantique) */}
+      {/* Contact form */}
       <section className="bg-white">
-        <div className="section-container text-center">
-          <div className="flex flex-col sm:flex-row gap-4 justify-center flex-wrap">
-            <Link href={getLocalizedPath('impact', l)} className="btn-primary">
-              {common('learnMore')}
-            </Link>
-            <Link href={getLocalizedPath('for-shops', l)} className="btn-secondary">
-              {common('learnMore')}
-            </Link>
-            <Link href={getLocalizedPath('ecosystem', l)} className="btn-accent">
-              {common('learnMore')}
-            </Link>
-            <Link href={getLocalizedPath('contact', l)} className="btn-primary">
-              {common('contactUs')}
-            </Link>
+        <div className="section-container max-w-2xl mx-auto">
+          <div className="text-center mb-10">
+            <h2 className="section-heading">{t('form.title')}</h2>
+            <p className="section-subheading mx-auto">{t('form.subtitle')}</p>
           </div>
+          <CityContactForm />
         </div>
       </section>
     </>
   );
+}
+
+function FeatureIcon({ name }: { name: 'radar' | 'chart' | 'doc' | 'hand' }) {
+  const common = { width: 28, height: 28, viewBox: '0 0 24 24', fill: 'none', stroke: '#008080', strokeWidth: 2, strokeLinecap: 'round' as const, strokeLinejoin: 'round' as const };
+  switch (name) {
+    case 'radar':
+      return (
+        <svg {...common} aria-hidden="true">
+          <circle cx="12" cy="12" r="9" />
+          <circle cx="12" cy="12" r="5" />
+          <line x1="12" y1="12" x2="20" y2="4" />
+          <circle cx="12" cy="12" r="1.5" fill="#008080" />
+        </svg>
+      );
+    case 'chart':
+      return (
+        <svg {...common} aria-hidden="true">
+          <line x1="3" y1="20" x2="21" y2="20" />
+          <rect x="5" y="12" width="3" height="8" />
+          <rect x="10" y="8" width="3" height="12" />
+          <rect x="15" y="4" width="3" height="16" />
+        </svg>
+      );
+    case 'doc':
+      return (
+        <svg {...common} aria-hidden="true">
+          <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z" />
+          <polyline points="14 2 14 8 20 8" />
+          <line x1="8" y1="13" x2="16" y2="13" />
+          <line x1="8" y1="17" x2="14" y2="17" />
+        </svg>
+      );
+    case 'hand':
+      return (
+        <svg {...common} aria-hidden="true">
+          <path d="M7 11V7a2 2 0 014 0v4" />
+          <path d="M11 11V5a2 2 0 014 0v6" />
+          <path d="M15 11V8a2 2 0 014 0v5a7 7 0 01-7 7H9a5 5 0 01-5-5v-2l2-2" />
+        </svg>
+      );
+  }
 }
