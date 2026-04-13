@@ -4,6 +4,9 @@ import type { Locale } from '@/i18n';
 import { generatePageMetadata } from '@/lib/metadata';
 import { JsonLd } from '@/components/JsonLd';
 import { InvestorContactForm } from '@/components/forms/InvestorContactForm';
+import { VisionImage } from '@/components/ui/VisionImage';
+import { FadeInOnScroll } from '@/components/ui/FadeInOnScroll';
+import { visionImages } from '@/lib/vision-images';
 
 interface PageProps {
   params: { locale: string };
@@ -25,6 +28,7 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
 
 export default function InvestorsPage({ params: { locale } }: PageProps) {
   const t = useTranslations('investorsPage');
+  const tImg = useTranslations('images');
   const l = locale as Locale;
 
   const investorJsonLd = {
@@ -83,6 +87,21 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
           <p className="font-sans text-lg sm:text-xl text-colhybri-dark/70 max-w-3xl mx-auto leading-relaxed">
             {t('hero.subtitle')}
           </p>
+        </div>
+      </section>
+
+      {/* Growth vine visual */}
+      <section className="bg-white">
+        <div className="section-container max-w-5xl mx-auto">
+          <FadeInOnScroll>
+            <VisionImage
+              src={visionImages.investors}
+              alt={tImg('investors.alt')}
+              aspectRatio="16:9"
+              overlay="gradient-light"
+              className="w-full"
+            />
+          </FadeInOnScroll>
         </div>
       </section>
 

@@ -5,6 +5,9 @@ import type { Locale } from '@/i18n';
 import { generatePageMetadata } from '@/lib/metadata';
 import { getLocalizedPath } from '@/lib/navigation';
 import { JsonLd } from '@/components/JsonLd';
+import { VisionImage } from '@/components/ui/VisionImage';
+import { FadeInOnScroll } from '@/components/ui/FadeInOnScroll';
+import { visionImages } from '@/lib/vision-images';
 
 interface PageProps {
   params: { locale: string };
@@ -27,6 +30,7 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
 export default function MissionPage({ params: { locale } }: PageProps) {
   const t = useTranslations('missionPage');
   const common = useTranslations('common');
+  const tImg = useTranslations('images');
   const l = locale as Locale;
 
   const aboutJsonLd = {
@@ -59,25 +63,71 @@ export default function MissionPage({ params: { locale } }: PageProps) {
 
       {/* Hummingbird legend */}
       <section className="bg-white">
-        <div className="section-container max-w-3xl mx-auto">
-          <h2 className="font-display text-3xl font-semibold mb-6">{t('legend.title')}</h2>
-          <div className="space-y-5">
-            <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed">{t('legend.para1')}</p>
-            <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed">{t('legend.para2')}</p>
-            <blockquote className="font-display italic text-2xl text-colhybri-teal border-l-4 border-colhybri-teal pl-6 my-6">
-              {t('legend.quote')}
-            </blockquote>
+        <div className="section-container">
+          <div className="grid md:grid-cols-2 gap-12 items-center max-w-6xl mx-auto">
+            <FadeInOnScroll direction="left">
+              <VisionImage
+                src={visionImages.mission.colibriFire}
+                alt={tImg('mission.colibriFire.alt')}
+                aspectRatio="2:3"
+                className="max-w-md mx-auto"
+              />
+            </FadeInOnScroll>
+            <FadeInOnScroll direction="right" delay={0.15}>
+              <div>
+                <h2 className="font-display text-3xl font-semibold mb-6">{t('legend.title')}</h2>
+                <div className="space-y-5">
+                  <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed">{t('legend.para1')}</p>
+                  <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed">{t('legend.para2')}</p>
+                  <blockquote className="font-display italic text-2xl text-colhybri-teal border-l-4 border-colhybri-teal pl-6 my-6">
+                    {t('legend.quote')}
+                  </blockquote>
+                </div>
+              </div>
+            </FadeInOnScroll>
           </div>
+
+          <FadeInOnScroll>
+            <div className="max-w-lg mx-auto mt-20">
+              <VisionImage
+                src={visionImages.mission.colibriHope}
+                alt={tImg('mission.colibriHope.alt')}
+                aspectRatio="2:3"
+              />
+            </div>
+          </FadeInOnScroll>
         </div>
       </section>
 
       {/* Heritage */}
       <section className="bg-colhybri-cream">
-        <div className="section-container max-w-3xl mx-auto">
-          <h2 className="font-display text-3xl font-semibold mb-6">{t('heritage.title')}</h2>
+        <div className="section-container max-w-4xl mx-auto">
+          <h2 className="font-display text-3xl font-semibold mb-10 text-center">{t('heritage.title')}</h2>
+
+          <FadeInOnScroll>
+            <VisionImage
+              src={visionImages.heritage.caffeSospeso}
+              alt={tImg('heritage.caffe.alt')}
+              aspectRatio="16:9"
+              className="w-full mb-8"
+            />
+          </FadeInOnScroll>
+
+          <div className="space-y-5 mb-12">
+            <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed">{t('heritage.sospeso')}</p>
+          </div>
+
+          <FadeInOnScroll delay={0.15}>
+            <VisionImage
+              src={visionImages.heritage.mutualisme}
+              alt={tImg('heritage.mutualisme.alt')}
+              aspectRatio="16:9"
+              className="w-full mb-8"
+            />
+          </FadeInOnScroll>
+
           <div className="space-y-5">
             <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed">{t('heritage.mutualism')}</p>
-            <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed">{t('heritage.sospeso')}</p>
             <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed font-semibold">
               {t('heritage.synthesis')}
             </p>
@@ -87,9 +137,21 @@ export default function MissionPage({ params: { locale } }: PageProps) {
 
       {/* Founder */}
       <section className="bg-white">
-        <div className="section-container max-w-3xl mx-auto">
-          <h2 className="font-display text-3xl font-semibold mb-6">{t('founder.title')}</h2>
-          <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed mb-4">{t('founder.body')}</p>
+        <div className="section-container">
+          <div className="grid md:grid-cols-2 gap-12 items-center max-w-5xl mx-auto">
+            <div>
+              <h2 className="font-display text-3xl font-semibold mb-6">{t('founder.title')}</h2>
+              <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed mb-4">{t('founder.body')}</p>
+            </div>
+            <FadeInOnScroll direction="right">
+              <VisionImage
+                src={visionImages.founder}
+                alt={tImg('founder.alt')}
+                aspectRatio="1:1"
+                className="max-w-sm mx-auto !rounded-full"
+              />
+            </FadeInOnScroll>
+          </div>
         </div>
       </section>
 

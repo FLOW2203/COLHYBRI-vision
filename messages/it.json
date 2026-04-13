@@ -1979,5 +1979,60 @@
       "title": "FIFA Innovation Programme and Sport-Commerce Connection",
       "desc": "FIFA Innovation supports sport-community connection. ONLYMORE triple-play."
     }
+  },
+  "images": {
+    "hero": {
+      "alt": "Vibrant main street at golden hour with emerald hummingbird"
+    },
+    "mission": {
+      "colibriFire": {
+        "alt": "Emerald hummingbird carrying a golden drop toward a forest fire"
+      },
+      "colibriHope": {
+        "alt": "Radiant hummingbird releasing golden rain over a village square"
+      }
+    },
+    "heritage": {
+      "caffe": {
+        "alt": "Warm Neapolitan cafe with the caffe sospeso tradition"
+      },
+      "mutualisme": {
+        "alt": "Diverse hands circle supporting an emerald mutualism tree"
+      }
+    },
+    "solution": {
+      "pool": {
+        "alt": "Heart-shaped emerald community pool connecting five neighborhood shops"
+      },
+      "maps": {
+        "alt": "Shop transformed from darkness to light through Google Maps visibility"
+      },
+      "gamification": {
+        "alt": "Neighborhood street turned into colorful game board with community challenges"
+      }
+    },
+    "impact": {
+      "france": {
+        "alt": "Revitalized French town center under a protective emerald dome"
+      },
+      "usa": {
+        "alt": "American main street transforming from past to future with golden hummingbird"
+      }
+    },
+    "triplePlay": {
+      "alt": "Three interconnected spheres: COLHYBRI, CROWNIUM, ONLYMORE FINANCE"
+    },
+    "forCities": {
+      "alt": "City hall meeting room with holographic downtown map"
+    },
+    "investors": {
+      "alt": "Emerald growth vine rising from urban sidewalk to the globe"
+    },
+    "founder": {
+      "alt": "Determined founder at dawn on a French main street"
+    },
+    "mascot": {
+      "alt": "COLHYBRI emerald hummingbird mascot"
+    }
   }
 }

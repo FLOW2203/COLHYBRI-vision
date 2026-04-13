@@ -5,6 +5,9 @@ import type { Locale } from '@/i18n';
 import { generatePageMetadata } from '@/lib/metadata';
 import { getLocalizedPath } from '@/lib/navigation';
 import { JsonLd } from '@/components/JsonLd';
+import { VisionImage } from '@/components/ui/VisionImage';
+import { FadeInOnScroll } from '@/components/ui/FadeInOnScroll';
+import { visionImages } from '@/lib/vision-images';
 
 interface PageProps {
   params: { locale: string };
@@ -26,6 +29,7 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
 
 export default function SolutionHubPage({ params: { locale } }: PageProps) {
   const t = useTranslations('solutionHub');
+  const tImg = useTranslations('images');
   const l = locale as Locale;
 
   const productJsonLd = {
@@ -43,9 +47,24 @@ export default function SolutionHubPage({ params: { locale } }: PageProps) {
   };
 
   const pillars = [
-    { key: 'pool', href: getLocalizedPath('solution-pool-solidaire', l) },
-    { key: 'maps', href: getLocalizedPath('solution-maps-plus', l) },
-    { key: 'gamification', href: getLocalizedPath('solution', l) + '#gamification' },
+    {
+      key: 'pool',
+      href: getLocalizedPath('solution-pool-solidaire', l),
+      image: visionImages.solution.poolSolidaire,
+      altKey: 'solution.pool.alt',
+    },
+    {
+      key: 'maps',
+      href: getLocalizedPath('solution-maps-plus', l),
+      image: visionImages.solution.mapsPlus,
+      altKey: 'solution.maps.alt',
+    },
+    {
+      key: 'gamification',
+      href: getLocalizedPath('solution', l) + '#gamification',
+      image: visionImages.solution.gamification,
+      altKey: 'solution.gamification.alt',
+    },
   ] as const;
 
   return (
@@ -71,22 +90,29 @@ export default function SolutionHubPage({ params: { locale } }: PageProps) {
       <section className="bg-white">
         <div className="section-container">
           <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
-            {pillars.map(({ key, href }) => (
-              <Link
-                key={key}
-                href={href}
-                className="card text-left hover:-translate-y-1 hover:border-colhybri-teal transition-all group"
-              >
-                <h2 className="font-display text-2xl font-semibold mb-3 group-hover:text-colhybri-teal transition-colors">
-                  {t(`pillars.${key}.title`)}
-                </h2>
-                <p className="font-sans text-colhybri-dark/70 leading-relaxed mb-6">
-                  {t(`pillars.${key}.body`)}
-                </p>
-                <span className="font-sans font-semibold text-colhybri-teal">
-                  {t(`pillars.${key}.cta`)} &rarr;
-                </span>
-              </Link>
+            {pillars.map(({ key, href, image, altKey }, i) => (
+              <FadeInOnScroll key={key} delay={i * 0.15}>
+                <Link
+                  href={href}
+                  className="card text-left hover:-translate-y-1 hover:border-colhybri-teal transition-all group block"
+                >
+                  <VisionImage
+                    src={image}
+                    alt={tImg(altKey)}
+                    aspectRatio="1:1"
+                    className="mb-6 group-hover:scale-[1.03] transition-transform duration-500"
+                  />
+                  <h2 className="font-display text-2xl font-semibold mb-3 group-hover:text-colhybri-teal transition-colors">
+                    {t(`pillars.${key}.title`)}
+                  </h2>
+                  <p className="font-sans text-colhybri-dark/70 leading-relaxed mb-6">
+                    {t(`pillars.${key}.body`)}
+                  </p>
+                  <span className="font-sans font-semibold text-colhybri-teal">
+                    {t(`pillars.${key}.cta`)} &rarr;
+                  </span>
+                </Link>
+              </FadeInOnScroll>
             ))}
           </div>
         </div>

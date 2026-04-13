@@ -8,6 +8,9 @@ import { JsonLd } from '@/components/JsonLd';
 import { AnimatedCounter } from '@/components/AnimatedCounter';
 import { LocalStats } from '@/components/LocalStats';
 import { WorldMap } from '@/components/WorldMap';
+import { VisionImage } from '@/components/ui/VisionImage';
+import { FadeInOnScroll } from '@/components/ui/FadeInOnScroll';
+import { visionImages } from '@/lib/vision-images';
 
 interface PageProps {
   params: { locale: string };
@@ -74,6 +77,7 @@ function HummingbirdBackdrop() {
 
 export default function HomePage({ params: { locale } }: PageProps) {
   const t = useTranslations();
+  const tImg = useTranslations('images');
   const l = locale as Locale;
 
   const institutionalBadges = [0, 1, 2, 3, 4];
@@ -85,20 +89,28 @@ export default function HomePage({ params: { locale } }: PageProps) {
       <JsonLd data={generateMythologyJsonLd(l)} />
 
       {/* ================= Section 1: HERO ================= */}
-      <section className="relative overflow-hidden bg-colhybri-cream min-h-[85vh] flex items-center">
+      <section className="relative overflow-hidden bg-colhybri-dark min-h-[85vh] flex items-center">
+        <VisionImage
+          src={l === 'fr' ? visionImages.hero.mainStreet : visionImages.hero.rustBelt}
+          alt={tImg('hero.alt')}
+          aspectRatio="16:9"
+          priority={true}
+          overlay="gradient-dark"
+          className="absolute inset-0 w-full h-full !rounded-none"
+        />
         <HummingbirdBackdrop />
         <div className="section-container text-center relative z-10">
           <div data-type="definition" data-concept="COLHYBRI" lang={locale}>
-            <p className="text-colhybri-teal font-sans font-semibold mb-6 text-sm sm:text-base tracking-widest uppercase">
+            <p className="text-colhybri-gold font-sans font-semibold mb-6 text-sm sm:text-base tracking-widest uppercase">
               {t('hero.tagline')}
             </p>
           </div>
 
-          <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-semibold text-colhybri-dark mb-6 max-w-5xl mx-auto leading-[1.05]">
+          <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-semibold text-white mb-6 max-w-5xl mx-auto leading-[1.05] drop-shadow-lg">
             {t('hero.headline')}
           </h1>
 
-          <p className="font-sans text-lg sm:text-xl text-colhybri-dark/70 max-w-3xl mx-auto mb-10 leading-relaxed">
+          <p className="font-sans text-lg sm:text-xl text-white/90 max-w-3xl mx-auto mb-10 leading-relaxed drop-shadow">
             {t('hero.subheadline')}
           </p>
 
@@ -259,6 +271,15 @@ export default function HomePage({ params: { locale } }: PageProps) {
             <h2 className="section-heading">{t('triplePlay.headline')}</h2>
             <p className="section-subheading mx-auto">{t('triplePlay.subheadline')}</p>
           </div>
+
+          <FadeInOnScroll>
+            <VisionImage
+              src={visionImages.triplePlay}
+              alt={tImg('triplePlay.alt')}
+              aspectRatio="1:1"
+              className="max-w-xl mx-auto mb-16"
+            />
+          </FadeInOnScroll>
 
           <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
             {(['col1', 'col2', 'col3'] as const).map((key, i) => (

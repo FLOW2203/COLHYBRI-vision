@@ -2524,5 +2524,60 @@
       "errorTitle": "Error",
       "errorBody": "Error al enviar. Envia un email a onlymore2024@gmail.com"
     }
+  },
+  "images": {
+    "hero": {
+      "alt": "Calle comercial vibrante al atardecer con un colibri esmeralda"
+    },
+    "mission": {
+      "colibriFire": {
+        "alt": "Colibri esmeralda llevando una gota dorada hacia un incendio forestal"
+      },
+      "colibriHope": {
+        "alt": "Colibri radiante liberando una lluvia dorada sobre una plaza del pueblo"
+      }
+    },
+    "heritage": {
+      "caffe": {
+        "alt": "Cafe napolitano calido con el ritual del caffe sospeso"
+      },
+      "mutualisme": {
+        "alt": "Circulo de manos diversas sosteniendo un arbol esmeralda del mutualismo"
+      }
+    },
+    "solution": {
+      "pool": {
+        "alt": "Fondo solidario esmeralda en forma de corazon conectando cinco comercios de barrio"
+      },
+      "maps": {
+        "alt": "Comercio transformado de la oscuridad a la luz por Google Maps"
+      },
+      "gamification": {
+        "alt": "Calle de barrio convertida en tablero de juego con retos comunitarios"
+      }
+    },
+    "impact": {
+      "france": {
+        "alt": "Centro urbano frances revitalizado bajo una cupula esmeralda protectora"
+      },
+      "usa": {
+        "alt": "Main street americana en transformacion del pasado al futuro"
+      }
+    },
+    "triplePlay": {
+      "alt": "Tres esferas interconectadas: COLHYBRI, CROWNIUM, ONLYMORE FINANCE"
+    },
+    "forCities": {
+      "alt": "Reunion municipal con mapa holografico del centro urbano"
+    },
+    "investors": {
+      "alt": "Enredadera esmeralda de crecimiento desde la acera urbana al globo"
+    },
+    "founder": {
+      "alt": "Fundador decidido al amanecer en una calle comercial francesa"
+    },
+    "mascot": {
+      "alt": "Mascota colibri esmeralda COLHYBRI"
+    }
   }
 }
