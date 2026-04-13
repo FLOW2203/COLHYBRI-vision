@@ -4,6 +4,8 @@ import type { Locale } from '@/i18n';
 import { generatePageMetadata } from '@/lib/metadata';
 import { JsonLd } from '@/components/JsonLd';
 import { CityContactForm } from '@/components/forms/CityContactForm';
+import { VisionImage } from '@/components/ui/VisionImage';
+import { visionImages } from '@/lib/vision-images';
 
 interface PageProps {
   params: { locale: string };
@@ -25,6 +27,7 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
 
 export default function ForCitiesPage({ params: { locale } }: PageProps) {
   const t = useTranslations('forCitiesPage');
+  const tImg = useTranslations('images');
   const l = locale as Locale;
 
   const landingJsonLd = {
@@ -74,15 +77,22 @@ export default function ForCitiesPage({ params: { locale } }: PageProps) {
       <JsonLd data={landingJsonLd} />
 
       {/* Hero */}
-      <section className="relative overflow-hidden bg-colhybri-cream">
-        <div className="section-container text-center">
-          <p className="text-colhybri-teal font-sans font-semibold text-sm tracking-widest uppercase mb-4">
+      <section className="relative overflow-hidden bg-colhybri-dark min-h-[60vh] flex items-center">
+        <VisionImage
+          src={visionImages.forCities}
+          alt={tImg('forCities.alt')}
+          aspectRatio="16:9"
+          overlay="gradient-dark"
+          className="absolute inset-0 w-full h-full !rounded-none"
+        />
+        <div className="section-container text-center relative z-10">
+          <p className="text-colhybri-gold font-sans font-semibold text-sm tracking-widest uppercase mb-4">
             {t('hero.badge')}
           </p>
-          <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-semibold text-colhybri-dark mb-6 max-w-4xl mx-auto leading-[1.08]">
+          <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-semibold text-white mb-6 max-w-4xl mx-auto leading-[1.08] drop-shadow-lg">
             {t('hero.title')}
           </h1>
-          <p className="font-sans text-lg sm:text-xl text-colhybri-dark/70 max-w-3xl mx-auto leading-relaxed">
+          <p className="font-sans text-lg sm:text-xl text-white/90 max-w-3xl mx-auto leading-relaxed drop-shadow">
             {t('hero.subtitle')}
           </p>
         </div>

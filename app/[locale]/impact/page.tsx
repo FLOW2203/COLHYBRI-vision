@@ -7,6 +7,9 @@ import { getLocalizedPath } from '@/lib/navigation';
 import { JsonLd } from '@/components/JsonLd';
 import { GlobalImpactCounter } from '@/components/trust/GlobalImpactCounter';
 import { TrustMapSection } from '@/components/trust/TrustMapSection';
+import { VisionImage } from '@/components/ui/VisionImage';
+import { FadeInOnScroll } from '@/components/ui/FadeInOnScroll';
+import { visionImages } from '@/lib/vision-images';
 
 interface PageProps {
   params: { locale: string };
@@ -29,6 +32,7 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
 export default function ImpactPage({ params: { locale } }: PageProps) {
   const t = useTranslations('impact');
   const common = useTranslations('common');
+  const tImg = useTranslations('images');
   const l = locale as Locale;
 
   const impactJsonLd = {
@@ -129,6 +133,32 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
                 <p className="text-colhybri-dark/70 text-sm">Local Economic Value</p>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Regional visuals: France + USA */}
+      <section className="bg-colhybri-cream">
+        <div className="section-container">
+          <div className="grid md:grid-cols-2 gap-8 max-w-6xl mx-auto">
+            <FadeInOnScroll direction="left">
+              <VisionImage
+                src={visionImages.impact.france}
+                alt={tImg('impact.france.alt')}
+                aspectRatio="16:9"
+                overlay="gradient-dark"
+                className="w-full"
+              />
+            </FadeInOnScroll>
+            <FadeInOnScroll direction="right" delay={0.15}>
+              <VisionImage
+                src={visionImages.impact.usa}
+                alt={tImg('impact.usa.alt')}
+                aspectRatio="16:9"
+                overlay="gradient-dark"
+                className="w-full"
+              />
+            </FadeInOnScroll>
           </div>
         </div>
       </section>

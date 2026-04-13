@@ -2521,5 +2521,60 @@
       "errorTitle": "Erreur",
       "errorBody": "Erreur lors de l'envoi. Envoyez un email a onlymore2024@gmail.com"
     }
+  },
+  "images": {
+    "hero": {
+      "alt": "Rue commercante vivante au coucher du soleil avec un colibri emeraude"
+    },
+    "mission": {
+      "colibriFire": {
+        "alt": "Colibri emeraude portant une goutte doree vers un incendie de foret"
+      },
+      "colibriHope": {
+        "alt": "Colibri radieux liberant une pluie doree sur une place de village"
+      }
+    },
+    "heritage": {
+      "caffe": {
+        "alt": "Cafe napolitain chaleureux avec le rituel du caffe sospeso"
+      },
+      "mutualisme": {
+        "alt": "Cercle de mains diversifiees soutenant un arbre emeraude du mutualisme"
+      }
+    },
+    "solution": {
+      "pool": {
+        "alt": "Bassin solidaire emeraude en coeur reliant cinq commerces de proximite"
+      },
+      "maps": {
+        "alt": "Commerce transforme du sombre a la lumiere par Google Maps"
+      },
+      "gamification": {
+        "alt": "Rue de quartier devenue plateau de jeu avec defis communautaires"
+      }
+    },
+    "impact": {
+      "france": {
+        "alt": "Centre-ville francais revitalise sous un dome emeraude protecteur"
+      },
+      "usa": {
+        "alt": "Main street americaine en transformation du passe au futur"
+      }
+    },
+    "triplePlay": {
+      "alt": "Trois spheres COLHYBRI CROWNIUM ONLYMORE FINANCE interconnectees"
+    },
+    "forCities": {
+      "alt": "Reunion municipale avec carte holographique du centre-ville"
+    },
+    "investors": {
+      "alt": "Vigne emeraude de croissance du trottoir urbain au globe"
+    },
+    "founder": {
+      "alt": "Fondateur determine a l'aube sur une rue commercante francaise"
+    },
+    "mascot": {
+      "alt": "Mascotte colibri emeraude COLHYBRI"
+    }
   }
 }

@@ -1,11 +1,13 @@
 'use client';
 
 import { useState } from 'react';
+import Image from 'next/image';
 import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 import { useParams } from 'next/navigation';
 import { LanguageSwitcher } from './LanguageSwitcher';
 import { getLocalizedPath } from '@/lib/navigation';
+import { visionImages } from '@/lib/vision-images';
 import type { Locale } from '@/i18n';
 
 const navLinks = [
@@ -26,6 +28,7 @@ const navTranslationMap: Record<string, string> = {
 
 export function Header() {
   const t = useTranslations('nav');
+  const tImg = useTranslations('images');
   const params = useParams();
   const locale = (params.locale as Locale) || 'en';
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -39,13 +42,14 @@ export function Header() {
             href={`/${locale}`}
             className="flex items-center gap-2 font-bold text-xl text-colhybri-dark"
           >
-            <span className="text-2xl" role="img" aria-label="Hummingbird">
-              <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-                <circle cx="16" cy="16" r="16" fill="#008080" />
-                <path d="M10 20c2-4 6-8 12-10-2 4-4 6-6 8l-2 4-4-2z" fill="white" />
-                <circle cx="20" cy="12" r="1.5" fill="#D4A843" />
-              </svg>
-            </span>
+            <Image
+              src={visionImages.mascot}
+              alt={tImg('mascot.alt')}
+              width={40}
+              height={40}
+              className="rounded-full"
+              priority
+            />
             <span className="font-display">COLHYBRI</span>
           </Link>
 
