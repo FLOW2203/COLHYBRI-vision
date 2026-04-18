@@ -2237,32 +2237,33 @@
   },
   "forCitiesPage": {
     "meta": {
-      "title": "Pour les collectivites : le dashboard de vitalite commerciale",
-      "description": "Pilote gratuit 90 jours. Score Maps en 48h. Rapport d'impact municipal. Apres : 500 EUR/mois, moins qu'un demi-poste de stagiaire."
+      "title": "Pour les collectivites : le tableau de bord de vitalite commerciale",
+      "description": "Score Maps en 48h. Rapport d'impact municipal. Onboarding habitants en 4 semaines."
     },
     "hero": {
-      "badge": "COLLECTIVITES",
-      "title": "Le dashboard de vitalite commerciale dont votre centre-ville a besoin",
-      "subtitle": "Pilote gratuit 90 jours. Score Maps en 48h. Rapport d'impact municipal."
+      "badge": "POUR LES COLLECTIVITES",
+      "title": "Le tableau de bord de vitalite commerciale de votre centre-ville",
+      "subtitle": "Score Maps en 48h. Rapport d'impact municipal. Onboarding habitants en 4 semaines.",
+      "imageAlt": "Reunion en mairie avec carte interactive de la commune et partenaires commercants"
     },
     "context": {
-      "title": "Le pilote gratuit 90 jours",
+      "title": "Chiffres cles",
       "stats": {
         "0": {
-          "value": "50",
-          "label": "commerces audites"
+          "value": "1 732",
+          "label": "communes ZRCV 2024"
         },
         "1": {
-          "value": "48h",
-          "label": "pour le Score Maps"
+          "value": "244",
+          "label": "Action Coeur de Ville"
         },
         "2": {
-          "value": "500 EUR",
-          "label": "par mois apres le pilote"
+          "value": "1 646",
+          "label": "Petites Villes de Demain"
         },
         "3": {
-          "value": "0",
-          "label": "engagement, arretez quand vous voulez"
+          "value": "8 764",
+          "label": "Opportunity Zones USA"
         }
       }
     },
@@ -2286,12 +2287,12 @@
       }
     },
     "pilot": {
-      "title": "Le pilote gratuit 90 jours",
-      "bullet1": "Score Maps de chaque commerce audite en 48h",
-      "bullet2": "Dashboard de suivi mensuel en temps reel",
-      "bullet3": "Rapport d'impact pour le conseil municipal",
-      "price": "Apres le pilote : 500 EUR/mois (10 EUR x 50 commerces)",
-      "note": "Moins qu'un demi-poste de stagiaire. Arretez quand vous voulez."
+      "title": "L'offre COLHYBRI pour votre commune",
+      "bullet1": "Deploiement cle en main en 4 semaines",
+      "bullet2": "0% commission pour vos commercants locaux",
+      "bullet3": "Integration aux dispositifs Action Coeur de Ville et Petites Villes de Demain",
+      "price": "3 EUR par habitant par mois",
+      "note": "Finance par les habitants, pas par la commune. Sans engagement pour la commune."
     },
     "barcelona": {
       "badge": "LE MODELE BARCELONA",
@@ -2313,8 +2314,49 @@
       }
     },
     "form": {
-      "title": "Planifier une demo pour votre commune",
-      "subtitle": "Remplissez ce formulaire. Nous revenons vers vous sous 48h avec un creneau de demonstration."
+      "title": "Planifier un rendez-vous pour votre commune",
+      "subtitle": "Remplissez ce formulaire. Nous revenons vers vous sous 48h avec un creneau de rendez-vous."
+    },
+    "proposition": {
+      "title": "L'offre COLHYBRI pour votre commune",
+      "items": [
+        "Deploiement cle en main en 4 semaines",
+        "0% commission pour vos commercants locaux",
+        "Finance par les habitants a 3 EUR par mois, pas par la commune",
+        "Onboarding cible sur les habitants des ZRCV",
+        "Dashboard de pilotage pour vos services economiques",
+        "Integration aux dispositifs Action Coeur de Ville et Petites Villes de Demain"
+      ]
+    },
+    "programs": {
+      "title": "Dans l'ecosysteme des programmes de revitalisation",
+      "subtitle": "COLHYBRI s'integre aux dispositifs existants sans les remplacer"
+    },
+    "stats": {
+      "title": "Chiffres cles",
+      "items": [
+        {
+          "value": "1 732",
+          "label": "communes ZRCV 2024"
+        },
+        {
+          "value": "244",
+          "label": "Action Coeur de Ville"
+        },
+        {
+          "value": "1 646",
+          "label": "Petites Villes de Demain"
+        },
+        {
+          "value": "8 764",
+          "label": "Opportunity Zones USA"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Pret a revitaliser votre centre-ville ?",
+      "subtitle": "Planifions un rendez-vous adapte a votre commune",
+      "button": "Reserver un rendez-vous"
     }
   },
   "investorsPage": {

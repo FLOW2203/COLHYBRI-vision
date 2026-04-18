@@ -2240,32 +2240,33 @@
   },
   "forCitiesPage": {
     "meta": {
-      "title": "For cities: the downtown vitality dashboard",
-      "description": "Free 90-day pilot. Score Maps in 48h. Municipal impact report. After: 500 EUR/month, less than half an intern's salary."
+      "title": "For local governments: the commercial vitality dashboard",
+      "description": "Maps score in 48h. Municipal impact report. Resident onboarding in 4 weeks."
     },
     "hero": {
-      "badge": "FOR CITIES",
-      "title": "The downtown vitality dashboard your city needs",
-      "subtitle": "Free 90-day pilot. Score Maps in 48h. Municipal impact report."
+      "badge": "FOR LOCAL GOVERNMENTS",
+      "title": "The commercial vitality dashboard your downtown needs",
+      "subtitle": "Maps score in 48h. Municipal impact report. Resident onboarding in 4 weeks.",
+      "imageAlt": "City hall meeting with interactive town map and local business partners"
     },
     "context": {
-      "title": "The free 90-day pilot",
+      "title": "Key figures",
       "stats": {
         "0": {
-          "value": "50",
-          "label": "businesses audited"
+          "value": "1,732",
+          "label": "ZRCV municipalities 2024"
         },
         "1": {
-          "value": "48h",
-          "label": "for Score Maps"
+          "value": "244",
+          "label": "Action Coeur de Ville"
         },
         "2": {
-          "value": "500 EUR",
-          "label": "per month after pilot"
+          "value": "1,646",
+          "label": "Petites Villes de Demain"
         },
         "3": {
-          "value": "0",
-          "label": "commitment, stop anytime"
+          "value": "8,764",
+          "label": "Opportunity Zones USA"
         }
       }
     },
@@ -2289,12 +2290,12 @@
       }
     },
     "pilot": {
-      "title": "The free 90-day pilot",
-      "bullet1": "Score Maps for every audited business in 48h",
-      "bullet2": "Real-time monthly monitoring dashboard",
-      "bullet3": "Impact report for the city council",
-      "price": "After the pilot: 500 EUR/month (10 EUR x 50 businesses)",
-      "note": "Less than half an intern's salary. Stop anytime."
+      "title": "The COLHYBRI offer for your city",
+      "bullet1": "Turnkey deployment in 4 weeks",
+      "bullet2": "0% commission for your local businesses",
+      "bullet3": "Integration with Main Street America and similar programs",
+      "price": "3 EUR per resident per month",
+      "note": "Funded by residents, not by the city. No commitment from the city."
     },
     "barcelona": {
       "badge": "THE BARCELONA MODEL",
@@ -2316,8 +2317,49 @@
       }
     },
     "form": {
-      "title": "Book a demo for your city",
-      "subtitle": "Fill out this form. We'll come back to you within 48h with a demo time slot."
+      "title": "Book a meeting for your city",
+      "subtitle": "Fill out this form. We'll come back to you within 48h with a meeting slot."
+    },
+    "proposition": {
+      "title": "The COLHYBRI offer for your city",
+      "items": [
+        "Turnkey deployment in 4 weeks",
+        "0% commission for your local businesses",
+        "Funded by residents at 3 EUR per month, not by the city",
+        "Targeted onboarding in your Opportunity Zones",
+        "Pilot dashboard for your economic development team",
+        "Integration with Main Street America and similar programs"
+      ]
+    },
+    "programs": {
+      "title": "Inside the revitalization ecosystem",
+      "subtitle": "COLHYBRI integrates with existing programs, never replaces them"
+    },
+    "stats": {
+      "title": "Key figures",
+      "items": [
+        {
+          "value": "1,732",
+          "label": "ZRCV municipalities 2024"
+        },
+        {
+          "value": "244",
+          "label": "Action Coeur de Ville"
+        },
+        {
+          "value": "1,646",
+          "label": "Petites Villes de Demain"
+        },
+        {
+          "value": "8,764",
+          "label": "Opportunity Zones USA"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to revitalize your downtown?",
+      "subtitle": "Let's schedule a meeting tailored to your city",
+      "button": "Book a meeting"
     }
   },
   "investorsPage": {
