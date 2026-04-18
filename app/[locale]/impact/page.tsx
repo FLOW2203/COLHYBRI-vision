@@ -10,6 +10,7 @@ import { TrustMapSection } from '@/components/trust/TrustMapSection';
 import { VisionImage } from '@/components/ui/VisionImage';
 import { FadeInOnScroll } from '@/components/ui/FadeInOnScroll';
 import { visionImages } from '@/lib/vision-images';
+import { getRegionsForLocale, ROADMAP_REGIONS_BY_LOCALE } from '@/lib/impact-regions';
 
 interface PageProps {
   params: { locale: string };
@@ -34,6 +35,9 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
   const common = useTranslations('common');
   const tImg = useTranslations('images');
   const l = locale as Locale;
+
+  const regions = getRegionsForLocale(locale);
+  const roadmapRegions = ROADMAP_REGIONS_BY_LOCALE[l] ?? [];
 
   const impactJsonLd = {
     '@context': 'https://schema.org',
@@ -160,6 +164,41 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
               />
             </FadeInOnScroll>
           </div>
+        </div>
+      </section>
+
+      {/* Regions menu (filtered by locale sphere) */}
+      <section className="bg-white">
+        <div className="section-container max-w-5xl mx-auto text-center">
+          <h2 className="section-heading mb-3">{t('regionsMenu.title')}</h2>
+          <p className="font-sans text-colhybri-dark/70 max-w-2xl mx-auto mb-10">
+            {t('regionsMenu.subtitle')}
+          </p>
+          <div className="flex flex-wrap justify-center gap-4">
+            {regions.map((region) => (
+              <Link
+                key={region}
+                href={`/${locale}/impact/${region}`}
+                className="px-6 py-3 rounded-full bg-colhybri-cream border border-colhybri-teal/20 text-colhybri-dark font-semibold hover:bg-colhybri-teal hover:text-white transition-colors"
+              >
+                {t(`regionsMenu.labels.${region}`)}
+              </Link>
+            ))}
+          </div>
+          {roadmapRegions.length > 0 && (
+            <div className="mt-12 pt-8 border-t border-colhybri-dark/10">
+              <h3 className="font-display text-lg font-semibold text-colhybri-dark mb-3">
+                {t('regionsMenu.roadmapTitle')}
+              </h3>
+              <p className="font-sans text-colhybri-dark/70 text-sm max-w-2xl mx-auto mb-4">
+                {t('regionsMenu.roadmapBody')}
+              </p>
+              <p className="font-sans text-colhybri-dark/60 text-sm">
+                <span className="font-semibold">{t('regionsMenu.roadmapSoon')}:</span>{' '}
+                {roadmapRegions.join(', ')}
+              </p>
+            </div>
+          )}
         </div>
       </section>
 
