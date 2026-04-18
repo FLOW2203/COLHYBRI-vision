@@ -2579,5 +2579,192 @@
     "mascot": {
       "alt": "COLHYBRI emerald hummingbird mascot"
     }
+  },
+  "impactPages": {
+    "france": {
+      "badge": "IMPACT FRANCE",
+      "title": "1,732 ZRCV municipalities. One market, one mission.",
+      "subtitle": "Zones de Revitalisation du Commerce de Ville, Action Coeur de Ville, Petites Villes de Demain. COLHYBRI is the missing digital tool for these programs.",
+      "stats": [
+        {
+          "value": "1,732",
+          "label": "ZRCV municipalities 2024"
+        },
+        {
+          "value": "244",
+          "label": "Action Coeur de Ville"
+        },
+        {
+          "value": "1,646",
+          "label": "Petites Villes de Demain"
+        },
+        {
+          "value": "55%",
+          "label": "mid-size cities with commercial vacancy"
+        }
+      ],
+      "context": [
+        "The 2024 French Finance Act created the ZRCV to counter the commercial desertification of French downtowns.",
+        "Action Coeur de Ville and Petites Villes de Demain cover 1,890 municipalities with dedicated budget but no native digital tool.",
+        "COLHYBRI plugs into these programs without replacing them, providing the missing digital layer."
+      ],
+      "barometer": {
+        "title": "French downtown barometer",
+        "subtitle": "2024-2025 data from Banque des Territoires and ANCT",
+        "0": {
+          "value": "55%",
+          "label": "mid-size cities with commercial vacancy"
+        },
+        "1": {
+          "value": "-12%",
+          "label": "downtown retail revenue since 2020"
+        },
+        "2": {
+          "value": "+18%",
+          "label": "peripheral openings over the same period"
+        },
+        "quote": "Downtown is not a traffic problem, it is a digital infrastructure problem."
+      },
+      "proposition": {
+        "title": "The COLHYBRI proposition for France",
+        "body": "A turnkey tool for ZRCV municipalities, funded by residents at 3 EUR per month, 0% commission for merchants, no commitment for the city. Four-week rollout."
+      }
+    },
+    "usa": {
+      "badge": "IMPACT USA",
+      "title": "8,764 Opportunity Zones. Main Street needs a digital tool.",
+      "subtitle": "TODO Florent: integrate the full USA framing from the SEO cocoon (Rust Belt, OZ 2.0, Main Street America).",
+      "stats": [
+        {
+          "value": "8,764",
+          "label": "Opportunity Zones"
+        },
+        {
+          "value": "6,544",
+          "label": "OZ 2.0 in 2026"
+        },
+        {
+          "value": "1,200",
+          "label": "Main Street communities"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO add verified USA metric"
+        }
+      ],
+      "context": [
+        "TODO Florent: Opportunity Zones and Rust Belt context from the SEO cocoon /rust-belt-revitalization and /opportunity-zones.",
+        "TODO Florent: Main Street America positioning and COLHYBRI product fit.",
+        "TODO Florent: USA proposition synthesis."
+      ],
+      "miami": {
+        "title": "Why Miami",
+        "intro": "TODO Florent: reintegrate the Sprint 1 Miami copy (4 reasons for the choice).",
+        "reason1": "TODO reason1",
+        "reason2": "TODO reason2",
+        "reason3": "TODO reason3",
+        "reason4": "TODO reason4"
+      },
+      "proposition": {
+        "title": "The COLHYBRI proposition for the USA",
+        "body": "TODO Florent: integrate the USA value proposition (pricing, federal programs, Main Street partnerships)."
+      }
+    },
+    "europe": {
+      "badge": "IMPACT EUROPE",
+      "title": "TODO Florent: integrate europe data from Notion or the SEO cocoon",
+      "subtitle": "TODO Florent: region subtitle",
+      "stats": [
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        }
+      ],
+      "context": [
+        "TODO Florent: regional context paragraph",
+        "TODO Florent: regional context paragraph",
+        "TODO Florent: regional context paragraph"
+      ],
+      "proposition": {
+        "title": "TODO Florent: europe proposition title",
+        "body": "TODO Florent: region proposition body"
+      }
+    },
+    "latam": {
+      "badge": "IMPACT LATAM",
+      "title": "TODO Florent: integrate latam data from Notion or the SEO cocoon",
+      "subtitle": "TODO Florent: region subtitle",
+      "stats": [
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        }
+      ],
+      "context": [
+        "TODO Florent: regional context paragraph",
+        "TODO Florent: regional context paragraph",
+        "TODO Florent: regional context paragraph"
+      ],
+      "proposition": {
+        "title": "TODO Florent: latam proposition title",
+        "body": "TODO Florent: region proposition body"
+      }
+    },
+    "africa": {
+      "badge": "IMPACT AFRICA",
+      "title": "TODO Florent: integrate africa data from Notion or the SEO cocoon",
+      "subtitle": "TODO Florent: region subtitle",
+      "stats": [
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        }
+      ],
+      "context": [
+        "TODO Florent: regional context paragraph",
+        "TODO Florent: regional context paragraph",
+        "TODO Florent: regional context paragraph"
+      ],
+      "proposition": {
+        "title": "TODO Florent: africa proposition title",
+        "body": "TODO Florent: region proposition body"
+      }
+    }
   }
 }

@@ -2576,5 +2576,192 @@
     "mascot": {
       "alt": "Mascotte colibri emeraude COLHYBRI"
     }
+  },
+  "impactPages": {
+    "france": {
+      "badge": "IMPACT FRANCE",
+      "title": "1 732 communes ZRCV. Un marche, une mission.",
+      "subtitle": "Zones de Revitalisation du Commerce de Ville, Action Coeur de Ville, Petites Villes de Demain. COLHYBRI est l'outil digital qui manque a ces dispositifs.",
+      "stats": [
+        {
+          "value": "1 732",
+          "label": "communes ZRCV 2024"
+        },
+        {
+          "value": "244",
+          "label": "Action Coeur de Ville"
+        },
+        {
+          "value": "1 646",
+          "label": "Petites Villes de Demain"
+        },
+        {
+          "value": "55%",
+          "label": "villes moyennes en vacance commerciale"
+        }
+      ],
+      "context": [
+        "La loi de finances 2024 a institue les ZRCV pour enrayer la desertification commerciale des centres-villes francais.",
+        "Action Coeur de Ville et Petites Villes de Demain representent 1 890 communes avec budget dedie mais sans outil digital natif.",
+        "COLHYBRI s'integre a ces dispositifs sans les remplacer, en fournissant le maillon digital manquant."
+      ],
+      "barometer": {
+        "title": "Barometre du centre-ville francais",
+        "subtitle": "Donnees 2024-2025 Banque des Territoires et ANCT",
+        "0": {
+          "value": "55%",
+          "label": "villes moyennes en vacance commerciale"
+        },
+        "1": {
+          "value": "-12%",
+          "label": "CA commerces centre-ville depuis 2020"
+        },
+        "2": {
+          "value": "+18%",
+          "label": "ouvertures en peripherie meme periode"
+        },
+        "quote": "Le centre-ville n'est pas un probleme de flux, c'est un probleme d'infrastructure digitale."
+      },
+      "proposition": {
+        "title": "La proposition COLHYBRI pour la France",
+        "body": "Un outil cle en main pour les communes ZRCV, finance par les habitants a 3 EUR par mois, commissionne a 0% pour les commercants, sans engagement pour la commune. Deploiement en 4 semaines."
+      }
+    },
+    "usa": {
+      "badge": "IMPACT USA",
+      "title": "8 764 Opportunity Zones. Main Street a besoin d'un outil digital.",
+      "subtitle": "TODO Florent : integrer le cadrage USA complet depuis le cocon SEO (Rust Belt, OZ 2.0, Main Street America).",
+      "stats": [
+        {
+          "value": "8 764",
+          "label": "Opportunity Zones"
+        },
+        {
+          "value": "6 544",
+          "label": "OZ 2.0 en 2026"
+        },
+        {
+          "value": "1 200",
+          "label": "Main Street communities"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO ajouter metrique USA verifiee"
+        }
+      ],
+      "context": [
+        "TODO Florent : contexte Opportunity Zones et Rust Belt depuis le cocon SEO /rust-belt-revitalization et /opportunity-zones.",
+        "TODO Florent : positionnement Main Street America et fit produit COLHYBRI.",
+        "TODO Florent : synthese de la proposition USA."
+      ],
+      "miami": {
+        "title": "Pourquoi Miami",
+        "intro": "TODO Florent : reintegrer le copy Miami du Sprint 1 (4 raisons du choix).",
+        "reason1": "TODO reason1",
+        "reason2": "TODO reason2",
+        "reason3": "TODO reason3",
+        "reason4": "TODO reason4"
+      },
+      "proposition": {
+        "title": "La proposition COLHYBRI pour les USA",
+        "body": "TODO Florent : integrer la proposition de valeur USA (tarifs, dispositifs federaux, partenariats Main Street)."
+      }
+    },
+    "europe": {
+      "badge": "IMPACT EUROPE",
+      "title": "TODO Florent : integrer les donnees europe depuis Notion ou le cocon SEO",
+      "subtitle": "TODO Florent : sous-titre region",
+      "stats": [
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        }
+      ],
+      "context": [
+        "TODO Florent : paragraphe contextuel region",
+        "TODO Florent : paragraphe contextuel region",
+        "TODO Florent : paragraphe contextuel region"
+      ],
+      "proposition": {
+        "title": "TODO Florent : titre proposition europe",
+        "body": "TODO Florent : corps de la proposition region"
+      }
+    },
+    "latam": {
+      "badge": "IMPACT LATAM",
+      "title": "TODO Florent : integrer les donnees latam depuis Notion ou le cocon SEO",
+      "subtitle": "TODO Florent : sous-titre region",
+      "stats": [
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        }
+      ],
+      "context": [
+        "TODO Florent : paragraphe contextuel region",
+        "TODO Florent : paragraphe contextuel region",
+        "TODO Florent : paragraphe contextuel region"
+      ],
+      "proposition": {
+        "title": "TODO Florent : titre proposition latam",
+        "body": "TODO Florent : corps de la proposition region"
+      }
+    },
+    "africa": {
+      "badge": "IMPACT AFRICA",
+      "title": "TODO Florent : integrer les donnees africa depuis Notion ou le cocon SEO",
+      "subtitle": "TODO Florent : sous-titre region",
+      "stats": [
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        },
+        {
+          "value": "TODO",
+          "label": "TODO"
+        }
+      ],
+      "context": [
+        "TODO Florent : paragraphe contextuel region",
+        "TODO Florent : paragraphe contextuel region",
+        "TODO Florent : paragraphe contextuel region"
+      ],
+      "proposition": {
+        "title": "TODO Florent : titre proposition africa",
+        "body": "TODO Florent : corps de la proposition region"
+      }
+    }
   }
 }
