@@ -2674,42 +2674,61 @@
     },
     "usa": {
       "badge": "IMPACTO USA",
-      "title": "8.764 Opportunity Zones. Main Street necesita una herramienta digital.",
-      "subtitle": "TODO Florent: integrar el encuadre USA completo desde el cocoon SEO (Rust Belt, OZ 2.0, Main Street America).",
+      "title": "8.764 Opportunity Zones. Florida como puerta de entrada.",
+      "subtitle": "La infraestructura fiscal federal (OZ 1.0 hasta 2028, OZ 2.0 desde el 1 de enero de 2027) se encuentra con la demanda de los centros urbanos estadounidenses de una herramienta digital nativa de revitalizacion. COLHYBRI entra por Florida.",
       "stats": [
         {
           "value": "8.764",
-          "label": "Opportunity Zones"
+          "label": "Opportunity Zones OZ 1.0 designadas (Treasury)"
         },
         {
           "value": "6.544",
-          "label": "OZ 2.0 en 2026"
+          "label": "nuevas Opportunity Zones OZ 2.0 proyectadas en 2027"
         },
         {
-          "value": "1.200",
-          "label": "Main Street communities"
+          "value": "821",
+          "label": "Main Street America Accredited communities en 2025"
         },
         {
-          "value": "TODO",
-          "label": "TODO anadir metrica USA verificada"
+          "value": "30%",
+          "label": "de las empresas de Miami-Dade son hispanas"
         }
       ],
       "context": [
-        "TODO Florent: contexto Opportunity Zones y Rust Belt desde el cocoon SEO /rust-belt-revitalization y /opportunity-zones.",
-        "TODO Florent: posicionamiento Main Street America y encaje producto COLHYBRI.",
-        "TODO Florent: sintesis de la propuesta USA."
+        "La Tax Cuts and Jobs Act de 2017 creo 8.764 Opportunity Zones federales en barrios de bajos ingresos. La One Big Beautiful Bill Act de 2025 hizo permanente el dispositivo y lanzo un ciclo OZ 2.0 con unas 6.544 nuevas zonas designadas a partir del 1 de enero de 2027, tras un proceso de nominacion liderado por los gobernadores entre el 1 de julio de 2026 y el 28 de septiembre de 2026.",
+        "Main Street America federa 1.172 comunidades designadas en 2025, incluyendo 821 Accredited, con un historial de 45 anos. Solo en 2024, la red genero 7.650 millones de dolares de reinversion local, 6.324 nuevos negocios y 33.835 empleos. Florida Main Street, activa desde 1985, ha reportado casi 7.000 millones de dolares acumulados y 11.000 negocios nuevos o ampliados.",
+        "Florida concentra la triple convergencia que COLHYBRI necesita: un ecosistema VC early-stage denso (Tampa Bay Wave, Embarc Collective, mas de 500 startups y 5.000 empleos creados), una puerta comercial hacia America Latina (Miami aloja 1.200 sedes LATAM, gestiona el 43% de los vuelos de EE.UU. a Sudamerica y enruta el 90% de los datos LATAM), y una base de pequenos comercios hispanos alineada con nuestro modelo caffe sospeso."
       ],
+      "barometer": {
+        "title": "Barometro de los centros urbanos estadounidenses",
+        "subtitle": "Datos 2024-2025 de Main Street America, Treasury, FloridaCommerce",
+        "items": [
+          {
+            "value": "7.650 M$",
+            "label": "reinversion local Main Street America 2024"
+          },
+          {
+            "value": "33.835",
+            "label": "nuevos empleos creados por la red en 2024"
+          },
+          {
+            "value": "43%",
+            "label": "crecimiento economico de Tampa 2019-2023 (ranking 2 entre las ciudades medianas de EE.UU.)"
+          }
+        ],
+        "quote": "Under President Trump's leadership, the Working Families Tax Cuts permanently renewed and strengthened Opportunity Zones. Scott Bessent, US Treasury Secretary, abril 2026."
+      },
       "miami": {
         "title": "Por que Miami",
-        "intro": "TODO Florent: reintegrar el copy Miami del Sprint 1 (4 razones de la eleccion).",
-        "reason1": "TODO reason1",
-        "reason2": "TODO reason2",
-        "reason3": "TODO reason3",
-        "reason4": "TODO reason4"
+        "intro": "Miami, capital no oficial de America Latina desde los anos 60, concentra la mayor densidad de empresas hispanas de Estados Unidos (30% en Miami-Dade). Es el laboratorio a escala real del modelo COLHYBRI.",
+        "reason1": "Puerta natural hacia el mercado LATAM: 1.200 multinacionales con sede LATAM en Miami, 43% de los vuelos de EE.UU. a Sudamerica, 90% de los datos LATAM transitan por los datacenters locales.",
+        "reason2": "Ecosistema VC early-stage denso: Embarc Collective, Florida Funders, acceso a los Opportunity Zone Funds locales, capitales privados hispanos.",
+        "reason3": "Base de comercios hispanos alineada con el modelo caffe sospeso: 30% de las empresas de Miami-Dade son hispanas, con una fuerte cultura comunitaria y mutualista ya presente.",
+        "reason4": "Proximidad linguistica y cultural: COLHYBRI puede desplegarse en espanol desde el primer dia, con un product-market fit inmediato en las comunidades cubana, venezolana, colombiana y puertorriquena."
       },
       "proposition": {
-        "title": "La propuesta COLHYBRI para USA",
-        "body": "TODO Florent: integrar la propuesta de valor USA (tarifas, programas federales, alianzas Main Street)."
+        "title": "La propuesta COLHYBRI para Florida y el mercado estadounidense",
+        "body": "Una herramienta digital llave en mano de revitalizacion para municipios Main Street America y operadores de Qualified Opportunity Funds. Despliegue en 4 semanas. Financiada por los vecinos a 3 dolares al mes. 0% de comision para los comerciantes locales. Integracion nativa con los programas federales OZ 1.0 y OZ 2.0 y los estandares de evaluacion Main Street America. Primer despliegue objetivo: Tampa Bay y Miami-Dade, puerta de entrada al mercado hispano estadounidense y a America Latina."
       }
     },
     "europe": {
