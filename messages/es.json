@@ -2240,66 +2240,67 @@
   },
   "forCitiesPage": {
     "meta": {
-      "title": "Para colectividades: el dashboard de vitalidad comercial",
-      "description": "Piloto gratuito 90 dias. Score Maps en 48h. Informe de impacto municipal. Despues: 500 EUR/mes, menos que medio puesto de becario."
+      "title": "Para las autoridades locales: el tablero de vitalidad comercial",
+      "description": "Puntuacion Maps en 48h. Informe de impacto municipal. Onboarding de vecinos en 4 semanas."
     },
     "hero": {
-      "badge": "COLECTIVIDADES",
-      "title": "El dashboard de vitalidad comercial que tu centro urbano necesita",
-      "subtitle": "Piloto gratuito 90 dias. Score Maps en 48h. Informe de impacto municipal."
+      "badge": "PARA LAS AUTORIDADES LOCALES",
+      "title": "El tablero de vitalidad comercial que su centro urbano necesita",
+      "subtitle": "Puntuacion Maps en 48h. Informe de impacto municipal. Onboarding de vecinos en 4 semanas.",
+      "imageAlt": "Reunion en el ayuntamiento con mapa interactivo del municipio y socios comerciantes"
     },
     "context": {
-      "title": "El piloto gratuito de 90 dias",
+      "title": "Cifras clave",
       "stats": {
         "0": {
-          "value": "50",
-          "label": "comercios auditados"
+          "value": "1.732",
+          "label": "municipios ZRCV 2024"
         },
         "1": {
-          "value": "48h",
-          "label": "para Score Maps"
+          "value": "244",
+          "label": "Action Coeur de Ville"
         },
         "2": {
-          "value": "500 EUR",
-          "label": "al mes despues del piloto"
+          "value": "1.646",
+          "label": "Petites Villes de Demain"
         },
         "3": {
-          "value": "0",
-          "label": "compromiso, cancela cuando quieras"
+          "value": "8.764",
+          "label": "Opportunity Zones USA"
         }
       }
     },
     "features": {
-      "title": "Lo que recibes",
+      "title": "Lo que recibe",
       "feature1": {
         "title": "Score Maps de cada comercio",
         "body": "Evaluacion 0-100 de la presencia Google de cada comercio auditado. Entregado en 48h."
       },
       "feature2": {
-        "title": "Dashboard de seguimiento mensual",
-        "body": "Vitalidad comercial de tu centro urbano en tiempo real. Evolucion de puntuaciones, alertas, tendencias."
+        "title": "Tablero de seguimiento mensual",
+        "body": "Vitalidad comercial de su centro urbano en tiempo real. Evolucion de puntuaciones, alertas, tendencias."
       },
       "feature3": {
         "title": "Informe de impacto municipal",
         "body": "Documento listo para presentar al consejo municipal. Cifras, graficos, recomendaciones."
       },
       "feature4": {
-        "title": "Acompanamiento en terreno",
-        "body": "Despliegue acompanado en los comercios. Formacion del manager de comercio. Seguimiento semanal."
+        "title": "Acompanamiento de terreno",
+        "body": "Despliegue acompanado con los comerciantes. Formacion del responsable de comercio. Seguimiento semanal."
       }
     },
     "pilot": {
-      "title": "El piloto gratuito de 90 dias",
-      "bullet1": "Score Maps de cada comercio auditado en 48h",
-      "bullet2": "Dashboard de seguimiento mensual en tiempo real",
-      "bullet3": "Informe de impacto para el consejo municipal",
-      "price": "Despues del piloto: 500 EUR/mes (10 EUR x 50 comercios)",
-      "note": "Menos que medio puesto de becario. Cancela cuando quieras."
+      "title": "La oferta COLHYBRI para su municipio",
+      "bullet1": "Despliegue llave en mano en 4 semanas",
+      "bullet2": "0% comision para sus comerciantes locales",
+      "bullet3": "Integracion con los programas de revitalizacion existentes",
+      "price": "3 EUR por vecino al mes",
+      "note": "Financiado por los vecinos, no por el municipio. Sin compromiso para el ayuntamiento."
     },
     "barcelona": {
       "badge": "EL MODELO BARCELONA",
       "title": "Capital Europea del Pequeno Comercio 2026",
-      "body": "En 2026, Barcelona fue nombrada Capital Europea del Pequeno Comercio. 40+ iniciativas publicas. COLHYBRI hace este modelo accesible a cualquier ciudad de 25.000 habitantes, en SaaS.",
+      "body": "En 2026, Barcelona fue nombrada Capital Europea del Pequeno Comercio. 40+ iniciativas publicas. COLHYBRI hace accesible este modelo a cualquier ciudad de 25.000 habitantes, en SaaS.",
       "stats": {
         "0": {
           "value": "40+",
@@ -2307,7 +2308,7 @@
         },
         "1": {
           "value": "2026",
-          "label": "capital UE Pequeno Comercio"
+          "label": "capital EU Pequeno Comercio"
         },
         "2": {
           "value": "25k hab.",
@@ -2316,8 +2317,49 @@
       }
     },
     "form": {
-      "title": "Planificar una demo para tu municipio",
-      "subtitle": "Rellena este formulario. Volveremos a ti en 48h con un horario de demostracion."
+      "title": "Planificar una reunion para su municipio",
+      "subtitle": "Rellene este formulario. Le contestaremos en menos de 48h con una franja de reunion."
+    },
+    "proposition": {
+      "title": "La oferta COLHYBRI para su municipio",
+      "items": [
+        "Despliegue llave en mano en 4 semanas",
+        "0% comision para sus comerciantes locales",
+        "Financiado por los vecinos a 3 EUR al mes, no por el municipio",
+        "Onboarding dirigido a los vecinos del area de revitalizacion",
+        "Tablero de pilotaje para sus servicios economicos",
+        "Integracion con los programas de revitalizacion existentes"
+      ]
+    },
+    "programs": {
+      "title": "En el ecosistema de los programas de revitalizacion",
+      "subtitle": "COLHYBRI se integra con los programas existentes sin reemplazarlos"
+    },
+    "stats": {
+      "title": "Cifras clave",
+      "items": [
+        {
+          "value": "1.732",
+          "label": "municipios ZRCV 2024"
+        },
+        {
+          "value": "244",
+          "label": "Action Coeur de Ville"
+        },
+        {
+          "value": "1.646",
+          "label": "Petites Villes de Demain"
+        },
+        {
+          "value": "8.764",
+          "label": "Opportunity Zones USA"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Listo para revitalizar su centro urbano ?",
+      "subtitle": "Planifiquemos una reunion adaptada a su municipio",
+      "button": "Reservar una reunion"
     }
   },
   "investorsPage": {
