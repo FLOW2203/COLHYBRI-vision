@@ -121,6 +121,23 @@
         "value": "Significativo",
         "label": "Parte della spesa resta nella comunità"
       }
+    },
+    "regionsMenu": {
+      "title": "Browse by region",
+      "subtitle": "Verified local data, dedicated pages per linguistic sphere.",
+      "labels": {
+        "france": "France",
+        "maroc": "Morocco",
+        "usa": "USA",
+        "uk": "United Kingdom",
+        "espana": "Spain",
+        "europe": "Europe",
+        "latam": "Latin America",
+        "africa": "Africa"
+      },
+      "roadmapTitle": "International roadmap",
+      "roadmapBody": "For international investors and partners, pages outside the English sphere remain accessible via direct URL.",
+      "roadmapSoon": "Coming soon"
     }
   },
   "miami": {
@@ -2219,6 +2236,153 @@
       "proposition": {
         "title": "TODO Florent: africa proposition title",
         "body": "TODO Florent: region proposition body"
+      }
+    },
+    "espana": {
+      "badge": "IMPACTO ESPANA",
+      "title": "Barcelona, Capital Europea del Comerc de Proximitat 2026.",
+      "subtitle": "El pequeno comercio espanol genera 1,01 billones de euros al ano (INE 2023). Barcelona demuestra que la proximidad puede convertirse en estandar europeo de resiliencia urbana. COLHYBRI acompana este movimiento.",
+      "stats": [
+        {
+          "value": "13,2%",
+          "label": "del PIB local de Barcelona proviene del comercio de proximidad"
+        },
+        {
+          "value": "152 000",
+          "label": "empleos generados por el comercio local en Barcelona"
+        },
+        {
+          "value": "3 M EUR",
+          "label": "presupuesto UE para la Capital Europea 2026"
+        },
+        {
+          "value": "90,9%",
+          "label": "de los locales comerciales siguen activos en Barcelona"
+        }
+      ],
+      "context": [
+        "Barcelona fue designada Capital Europea del Comerc de Proximitat 2026 el 28 de enero de 2026 en Bruselas, superando a Zaragoza y Utrecht. La iniciativa fue impulsada desde 2019 por Barcelona Comerc y Vitrines d'Europe, asociaciones privadas de comerciantes, ratificada por el Parlamento Europeo en enero de 2023 y cofinanciada por la Comision Europea (DG GROW) a traves de EISMEA.",
+        "La crisis del pequeno comercio espanol es real: de los 300 000 pequenos comercios que habia en Espana en 2010, entre el 30% y el 40% han desaparecido en 2025. Solo en 2025 cerraron 13 586 comercios (una media de 1 132 al mes segun UPTA), y las proyecciones apuntan a mas de 12 000 cierres adicionales en 2026 si no cambian las politicas de apoyo.",
+        "Cataluna representa el 19,5% del comercio espanol (24,9% la Comunidad de Madrid, segun INE). El modelo Barcelona demuestra que el comercio de proximidad no es solo paisaje urbano ni tradicion, sino estructura productiva y motor de cohesion social. COLHYBRI es el soporte digital nativo de este modelo, replicable en cualquier municipio espanol o europeo."
+      ],
+      "barometer": {
+        "title": "Barometro del comercio espanol",
+        "subtitle": "Datos 2023-2026 INE, UPTA, Ajuntament de Barcelona",
+        "0": {
+          "value": "1,01 B EUR",
+          "label": "cifra de negocios del Sector Comercio en Espana (INE 2023)"
+        },
+        "1": {
+          "value": "-13 586",
+          "label": "pequenos comercios cerrados en 2025 (UPTA)"
+        },
+        "2": {
+          "value": "6,1%",
+          "label": "crecimiento anual del Sector Comercio espanol (INE 2023)"
+        },
+        "quote": "El comercio de proximidad no es solo paisaje urbano ni tradicion; es estructura productiva. Prosper Puig, presidente de Barcelona Comerc."
+      },
+      "proposition": {
+        "title": "La propuesta COLHYBRI para Espana",
+        "body": "Una herramienta digital llave en mano para ayuntamientos, asociaciones de comerciantes y BIDs espanoles. Despliegue en 4 semanas. Financiada por los vecinos a 3 euros al mes. 0% de comision para los comerciantes. Alineada con el modelo Capital Europea del Comerc de Proximitat y replicable en cualquier municipio. Primer despliegue objetivo: Barcelona (Eix Sarria, Poblenou) y Zaragoza, siguiendo el legado de la capitalidad europea."
+      }
+    },
+    "uk": {
+      "badge": "IMPACT UK",
+      "title": "1 in 7 UK high street shops are empty. The infrastructure is ready.",
+      "subtitle": "The High Streets Task Force proved that revitalization works when local partnerships get the right tools. The 1.5 billion pound Plan for Neighbourhoods meets its missing digital layer.",
+      "stats": [
+        {
+          "value": "14%",
+          "label": "UK high street shops currently vacant (1 in 7)"
+        },
+        {
+          "value": "138",
+          "label": "High Streets supported by the Task Force 2019-2024"
+        },
+        {
+          "value": "1.5B GBP",
+          "label": "UK Plan for Neighbourhoods + High Street Rental Auctions budget"
+        },
+        {
+          "value": "94%",
+          "label": "satisfaction rate across HSTF Placemaking Programme"
+        }
+      ],
+      "context": [
+        "The UK Government's High Streets Task Force (HSTF) operated from 2019 to 2024 under the leadership of the Institute of Place Management (Manchester Metropolitan University), working with the Royal Town Planning Institute, Design Council, PwC, ATCM and BID Foundation. It directly supported 138 high streets and delivered its Placemaking Programme in 32 places to over 800 stakeholders, with a 94% satisfaction rate.",
+        "In 2024 the UK Government introduced High Street Rental Auctions (HSRAs), giving local authorities the power to force landlords to rent out persistently vacant commercial units. The Institute of Place Management publicly stated that these powers will only work if local authorities have the capacity and local intelligence to use them. That capacity gap is exactly where COLHYBRI fits.",
+        "The UK ecosystem is also where COLHYBRI's financial infrastructure partners are concentrated: Ebury (London, IPO Q2 2026) powers cross-border payments for Fulham, Aston Villa and other Premier League clubs; Hummingbird Ventures (London) is a natural fit for pre-Series A; BID Foundation coordinates 340+ Business Improvement Districts across the country. First UK deployment targets: Manchester (near IPM HQ) and a London Business Improvement District."
+      ],
+      "barometer": {
+        "title": "UK high street barometer",
+        "subtitle": "2024-2025 data from UK Government, Institute of Place Management, HSTF Legacy Report",
+        "0": {
+          "value": "1 in 7",
+          "label": "UK high street shops empty (UK Government)"
+        },
+        "1": {
+          "value": "340+",
+          "label": "Business Improvement Districts active across the UK"
+        },
+        "2": {
+          "value": "32",
+          "label": "HSTF Placemaking Programme places delivered"
+        },
+        "quote": "Successful change is created by local communities who have a vision for their high streets. Sir John Timpson, Chair of the High Streets Expert Panel."
+      },
+      "proposition": {
+        "title": "The COLHYBRI proposition for the UK",
+        "body": "A turnkey digital layer for UK local authorities, Business Improvement Districts and community-led revitalization programmes. 4-week deployment. Funded by residents at 3 GBP per month. 0% commission for independent shops. Native integration with the High Streets Task Force placemaking framework and with High Street Rental Auctions local intelligence needs. First UK deployment targets: Manchester, London BIDs and a pilot northern English town aligned with the Plan for Neighbourhoods."
+      }
+    },
+    "maroc": {
+      "badge": "IMPACT MAROC",
+      "title": "300 000 commercants, 22 milliards MAD de e-commerce, 1 Coupe du Monde en 2030.",
+      "subtitle": "La strategie Commerce Maroc 2030 est lancee. COLHYBRI est la couche digitale manquante pour connecter 300 000 commercants de proximite a leurs quartiers.",
+      "stats": [
+        {
+          "value": "300 000",
+          "label": "commercants inscrits a la Contribution Professionnelle Unifiee"
+        },
+        {
+          "value": "22 Md MAD",
+          "label": "volume e-commerce Maroc 2023 (~2 Md EUR)"
+        },
+        {
+          "value": "+30%",
+          "label": "croissance annuelle e-commerce sur 5 ans"
+        },
+        {
+          "value": "39,2%",
+          "label": "creations d'entreprises concentrees a Casablanca-Settat"
+        }
+      ],
+      "context": [
+        "La strategie Commerce Maroc 2030, lancee le 29 septembre 2025 par le Ministre Ryad Mezzour, pose quatre axes : couverture sociale des commercants, integration numerique, inclusion financiere et amelioration de l'approvisionnement. 300 000 commercants ont deja rejoint le systeme de Contribution Professionnelle Unifiee. Le programme Moroccan Retail Tech Builder (MRTB), porte avec l'UM6P et la Fondation OCP, accompagne 161 startups en phase 1 et vise 300 nouvelles startups en phase 2 (2025-2027).",
+        "La Coupe du Monde 2030, organisee conjointement par le Maroc, l'Espagne et le Portugal, est un accelerateur strategique pour la modernisation du commerce local. Les villes hotes marocaines (Casablanca, Rabat, Marrakech, Tanger, Agadir, Fes) vont voir converger flux touristiques, investissements infrastructures et digitalisation acceleree des commerces de proximite. COLHYBRI arrive au bon moment.",
+        "Les partenaires financiers sont deja mobilises : Attijariwafa Bank et Al Barid Bank proposent des solutions de paiement electronique adaptees aux commercants de proximite. La convention signee en avril 2025 entre le Ministere de l'Industrie et du Commerce et le Ministere de la Transition Numerique cree les centres regionaux du commerce electronique, infrastructure d'accueil naturelle pour le modele COLHYBRI."
+      ],
+      "barometer": {
+        "title": "Barometre du commerce marocain",
+        "subtitle": "Donnees 2023-2025 Ministere de l'Industrie et du Commerce, OMPIC, MRTB",
+        "0": {
+          "value": "25%",
+          "label": "des Marocains achetent deja en ligne (+65% en 5 ans)"
+        },
+        "1": {
+          "value": "59%",
+          "label": "des achats en ligne se font sur mobile"
+        },
+        "2": {
+          "value": "35 000+",
+          "label": "detaillants dans le reseau d'approvisionnement groupe"
+        },
+        "quote": "Le commerce interieur represente un pilier de l'economie nationale et un levier d'equilibre social. Ryad Mezzour, Ministre de l'Industrie et du Commerce, septembre 2025."
+      },
+      "proposition": {
+        "title": "La proposition COLHYBRI pour le Maroc",
+        "body": "Un outil digital cle en main pour les collectivites marocaines, les chambres de commerce et les associations de commercants. Deploiement en 4 semaines. Finance par les habitants a l'equivalent de 30 MAD par mois. 0% de commission pour les commercants locaux. Integration native avec les centres regionaux du commerce electronique et la strategie Commerce Maroc 2030. Premier deploiement cible : un quartier commercant pilote a Casablanca (region Casablanca-Settat, 39% des creations d'entreprises) avec appui potentiel de la Fondation OCP et d'un acteur bancaire (Attijariwafa Bank ou Al Barid Bank)."
       }
     }
   }
