@@ -91,7 +91,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
       {/* ================= Section 1: HERO ================= */}
       <section className="relative overflow-hidden bg-colhybri-dark min-h-[85vh] flex items-center">
         <VisionImage
-          src={l === 'fr' ? visionImages.hero.mainStreet : visionImages.hero.rustBelt}
+          src={l === 'en' ? visionImages.hero.rustBelt : visionImages.hero.mainStreet}
           alt={tImg('hero.alt')}
           aspectRatio="16:9"
           priority={true}
