@@ -233,6 +233,124 @@
       }
     }
   },
+  "impactPages": {
+    "france": {
+      "badge": "IMPACT FRANCE",
+      "title": "1 732 communes ZRCV. Un marche, une mission.",
+      "subtitle": "Zones de Revitalisation du Commerce de Ville, Action Coeur de Ville, Petites Villes de Demain. COLHYBRI est l'outil digital qui manque aux collectivites engagees dans la revitalisation.",
+      "stats": {
+        "0": { "value": "1 732", "label": "communes ZRCV 2024" },
+        "1": { "value": "244", "label": "Action Coeur de Ville" },
+        "2": { "value": "1 646", "label": "Petites Villes de Demain" },
+        "3": { "value": "55%", "label": "villes moyennes en vacance commerciale" }
+      },
+      "context": {
+        "0": "La loi de finances 2024 a institue les Zones de Revitalisation du Commerce de Ville (ZRCV) pour enrayer la desertification commerciale des centres-villes francais.",
+        "1": "Action Coeur de Ville et Petites Villes de Demain representent 1 890 communes avec un budget dedie et une feuille de route claire.",
+        "2": "Aucun outil digital natif ne couvre aujourd'hui l'integralite du parcours habitant-commercant-collectivite. COLHYBRI occupe cette place."
+      },
+      "barometer": {
+        "title": "Barometre du centre-ville francais",
+        "subtitle": "Donnees 2024-2025 Banque des Territoires / ANCT",
+        "0": { "value": "55%", "label": "villes moyennes en vacance commerciale" },
+        "1": { "value": "-12%", "label": "CA commerces centre-ville depuis 2020" },
+        "2": { "value": "+18%", "label": "ouvertures en peripherie meme periode" },
+        "quote": "Le centre-ville n'est pas un probleme de flux, c'est un probleme d'infrastructure digitale."
+      },
+      "proposition": {
+        "title": "La proposition COLHYBRI pour la France",
+        "body": "Un outil cle en main pour les communes ZRCV, finance par les habitants (3 EUR/mois), commissionne a 0% pour les commercants, sans engagement pour la collectivite. Deploiement en 4 a 12 semaines selon la taille de la commune."
+      }
+    },
+    "usa": {
+      "badge": "IMPACT USA",
+      "title": "8 764 Opportunity Zones. Une Main Street a la fois.",
+      "subtitle": "Opportunity Zones federales, Main Street America, Rust Belt en reinvention. COLHYBRI apporte l'infrastructure digitale manquante aux programmes de revitalisation downtown.",
+      "stats": {
+        "0": { "value": "8 764", "label": "Opportunity Zones federales" },
+        "1": { "value": "2 000+", "label": "programmes Main Street America actifs" },
+        "2": { "value": "24%", "label": "vacance commerciale moyenne centres-villes" },
+        "3": { "value": "x2,5", "label": "multiplicateur local estime par dollar depense" }
+      },
+      "context": {
+        "0": "Les Opportunity Zones creees en 2017 et prolongees en 2025 (OZ 2.0) dirigent des capitaux prives vers 8 764 census tracts economiquement distresses.",
+        "1": "Le reseau Main Street America federe plus de 2 000 programmes locaux de revitalisation downtown avec une methodologie eprouvee en quatre piliers.",
+        "2": "Des villes du Rust Belt comme Canton (Ohio) ou Youngstown recherchent des outils digitaux natifs pour amplifier l'impact des credits d'impot historiques et des subventions RAISE."
+      },
+      "miami": {
+        "title": "Miami, ville pilote pour les Etats-Unis",
+        "intro": "Miami-Dade combine densite commerciale, population bilingue et agenda de revitalisation. Un terrain ideal pour deployer COLHYBRI sur le marche americain.",
+        "reason1": "Un tissu dense de commerces de proximite le long des Main Streets de Little Havana, Wynwood et Coral Way.",
+        "reason2": "Une population bilingue anglais-espagnol alignee avec notre produit multilingue natif.",
+        "reason3": "Une porte d'entree strategique vers l'Amerique Latine pour l'expansion regionale.",
+        "reason4": "Des institutions locales (Miami-Dade County, CRAs) engagees dans la revitalisation downtown."
+      },
+      "proposition": {
+        "title": "La proposition COLHYBRI pour les Etats-Unis",
+        "body": "Un SaaS compatible Main Street Four-Point Approach, integrable aux Community Reinvestment Areas et aux Opportunity Funds. Tarif institutionnel a partir de 500 USD/mois par ville. Pilote 90 jours sans engagement."
+      }
+    },
+    "europe": {
+      "badge": "IMPACT EUROPE",
+      "title": "L'Europe du petit commerce se reinvente.",
+      "subtitle": "European Capital of Small Retail, European Urban Initiative, FEDER-ERDF. COLHYBRI s'inscrit dans la strategie europeenne de soutien au commerce de proximite.",
+      "stats": {
+        "0": { "value": "2026", "label": "Barcelona Capitale Europeenne du Petit Commerce" },
+        "1": { "value": "450 MEUR", "label": "budget European Urban Initiative 2021-2027" },
+        "2": { "value": "27", "label": "Etats membres UE couverts" },
+        "3": { "value": "40+", "label": "initiatives publiques Barcelona 2026" }
+      },
+      "context": {
+        "0": "Le label European Capital of Small Retail (ECoSR) valorise chaque annee une ville europeenne pour sa politique de commerce de proximite. Barcelona est la capitale 2026.",
+        "1": "L'European Urban Initiative (EUI) dote de 450 MEUR pour 2021-2027 finance des projets urbains innovants dans les 27 Etats membres, dont la revitalisation commerciale.",
+        "2": "Des villes comme Caldas da Rainha (Portugal) ou Silandro (Italie) developpent des modeles locaux que COLHYBRI peut industrialiser en SaaS."
+      },
+      "proposition": {
+        "title": "La proposition COLHYBRI pour l'Europe",
+        "body": "Une plateforme SaaS eligible aux cofinancements FEDER-ERDF et aux appels a projets EUI. Multilingue native (11 langues). Conforme RGPD, hebergement europeen. Candidature conjointe COLHYBRI + ville europeenne envisageable."
+      }
+    },
+    "latam": {
+      "badge": "IMPACT AMERIQUE LATINE",
+      "title": "Formaliser le commerce informel, sans l'effacer.",
+      "subtitle": "Banque Interamericaine de Developpement, commerce informel, adoption mobile-first. COLHYBRI apporte une infrastructure digitale a la fois inclusive et formalisante.",
+      "stats": {
+        "0": { "value": "~60%", "label": "emploi informel en Amerique Latine (OIT)" },
+        "1": { "value": "80%+", "label": "penetration smartphone zones urbaines" },
+        "2": { "value": "650M", "label": "habitants Amerique Latine & Caraibes" },
+        "3": { "value": "BID", "label": "partenaire institutionnel cible" }
+      },
+      "context": {
+        "0": "Pres de 60% de la main-d'oeuvre latino-americaine evolue dans l'economie informelle selon l'OIT. Le commerce de proximite y joue un role social et economique central.",
+        "1": "La penetration smartphone depasse 80% dans la plupart des zones urbaines, creant les conditions d'une adoption mobile-first d'outils digitaux de confiance.",
+        "2": "La Banque Interamericaine de Developpement (BID) finance des programmes de formalisation progressive qui correspondent a la philosophie COLHYBRI."
+      },
+      "proposition": {
+        "title": "La proposition COLHYBRI pour l'Amerique Latine",
+        "body": "Un partenariat institutionnel avec la BID et les municipalites pilotes pour deployer COLHYBRI comme pont entre commerce informel et services financiers formels. Interface espagnol / portugais native. Tarif localise."
+      }
+    },
+    "africa": {
+      "badge": "IMPACT AFRIQUE",
+      "title": "Urbanisation rapide, commerce de proximite, mobile-first.",
+      "subtitle": "Agence Francaise de Developpement, villes africaines en croissance, commerce de rue formalise par le mobile. COLHYBRI comme infrastructure sociale digitale.",
+      "stats": {
+        "0": { "value": "50%", "label": "population urbaine Afrique d'ici 2035 (ONU)" },
+        "1": { "value": "85%", "label": "adoption mobile money Afrique de l'Ouest" },
+        "2": { "value": "1,4 Md", "label": "habitants Afrique 2026" },
+        "3": { "value": "AFD", "label": "partenaire institutionnel cible" }
+      },
+      "context": {
+        "0": "L'Afrique sera urbaine a 50% d'ici 2035 selon les projections ONU. Les centres-villes africains accueilleront des centaines de millions de nouveaux habitants.",
+        "1": "Les ecosystemes mobile money (M-Pesa, Wave, Orange Money) ont habitue les populations aux micro-transactions digitales quotidiennes a des niveaux d'adoption record.",
+        "2": "Dakar, Abidjan et Tunis concentrent un commerce de proximite vivant mais depourvu d'outils digitaux natifs. L'Agence Francaise de Developpement soutient ces dynamiques."
+      },
+      "proposition": {
+        "title": "La proposition COLHYBRI pour l'Afrique",
+        "body": "Un pilote conjoint AFD + municipalite africaine volontaire pour deployer COLHYBRI adapte au mobile money. Interface francais / anglais / arabe. Tarif solidaire indexe sur le pouvoir d'achat local."
+      }
+    }
+  },
   "miami": {
     "title": "Miami",
     "headline": "Miami, ville pilote pour la revitalisation des centres-villes americains",
