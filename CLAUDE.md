@@ -54,3 +54,10 @@ Quand l'utilisateur tape /dream, executer :
 - Commits avec onlymore2024@gmail.com / Florent Gibert.
 - Conventional commits (fix/feat/chore + scope).
 
+### Git remote (non-régression)
+- **Seule URL valide** : `https://github.com/FLOW2203/COLHYBRI-vision.git` (majuscule).
+- URL obsolète (redirection GitHub automatique, NE PAS utiliser) : `https://github.com/FLOW2203/colhybri-vision.git`.
+- Un seul remote `origin`. JAMAIS ajouter `upstream` / `fork` vers la même base.
+- Vérif : `git remote -v` doit lister uniquement `origin` → URL majuscule.
+- Si Claude Code UI affiche 2 dépôts (minuscule + majuscule) pour le même repo → lancer le prompt de cleanup remotes.
+
