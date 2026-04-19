@@ -76,6 +76,7 @@ const nextConfig = {
       { source: '/es/inversores', destination: '/es/investors' },
       { source: '/es/contacto', destination: '/es/contact' },
       { source: '/es/impacto', destination: '/es/impact' },
+      { source: '/es/impacto/:region', destination: '/es/impact/:region' },
       // PT
       { source: '/pt/para-comercios', destination: '/pt/for-shops' },
       { source: '/pt/para-cidades', destination: '/pt/for-cities' },
@@ -86,6 +87,7 @@ const nextConfig = {
       { source: '/pt/investidores', destination: '/pt/investors' },
       { source: '/pt/contato', destination: '/pt/contact' },
       { source: '/pt/impacto', destination: '/pt/impact' },
+      { source: '/pt/impacto/:region', destination: '/pt/impact/:region' },
       // DE
       { source: '/de/fuer-geschaefte', destination: '/de/for-shops' },
       { source: '/de/fuer-staedte', destination: '/de/for-cities' },
@@ -95,6 +97,7 @@ const nextConfig = {
       { source: '/de/investoren', destination: '/de/investors' },
       { source: '/de/kontakt', destination: '/de/contact' },
       { source: '/de/wirkung', destination: '/de/impact' },
+      { source: '/de/wirkung/:region', destination: '/de/impact/:region' },
       // IT
       { source: '/it/per-le-botteghe', destination: '/it/for-shops' },
       { source: '/it/per-i-comuni', destination: '/it/for-cities' },
@@ -105,6 +108,7 @@ const nextConfig = {
       { source: '/it/investitori', destination: '/it/investors' },
       { source: '/it/contatti', destination: '/it/contact' },
       { source: '/it/impatto', destination: '/it/impact' },
+      { source: '/it/impatto/:region', destination: '/it/impact/:region' },
       // PL
       { source: '/pl/dla-sklepow', destination: '/pl/for-shops' },
       { source: '/pl/dla-miast', destination: '/pl/for-cities' },
@@ -113,7 +117,9 @@ const nextConfig = {
       { source: '/pl/misja', destination: '/pl/mission' },
       { source: '/pl/ekosystem', destination: '/pl/ecosystem' },
       { source: '/pl/inwestorzy', destination: '/pl/investors' },
+      { source: '/pl/kontakt', destination: '/pl/contact' },
       { source: '/pl/wplyw', destination: '/pl/impact' },
+      { source: '/pl/wplyw/:region', destination: '/pl/impact/:region' },
     ];
     return localizedRoutes;
   },
