@@ -2484,15 +2484,18 @@
       "title": "The team",
       "florent": {
         "role": "Founder and CEO",
-        "bio": "Self-taught. From construction to fintech. From Nîmes to Occitanie. 220 years of mutualism in the DNA."
+        "bio": "Self-taught. From construction to fintech. From Nîmes to Occitanie. 220 years of mutualism in the DNA.",
+        "photoAlt": "Portrait of Florent Gibert, founder and CEO of COLHYBRI"
       },
       "joao": {
         "role": "CFO",
-        "bio": "Ex-ONEtoONE Corporate Finance. Financial modeling, fundraising, deal structuring."
+        "bio": "Ex-ONEtoONE Corporate Finance. Financial modeling, fundraising, deal structuring.",
+        "photoAlt": "Portrait of João Almeida, CFO of COLHYBRI"
       },
       "stephane": {
         "role": "Fundraising Partner",
-        "bio": "Fundraising partner via Winvesty (10% commission). WEP Access label. Expert in deal structuring and fundraising rounds."
+        "bio": "Fundraising partner via Winvesty (10% commission). WEP Access label. Expert in deal structuring and fundraising rounds.",
+        "photoAlt": "Portrait of Stéphane Picard, Fundraising Partner of COLHYBRI"
       }
     },
     "deck": {

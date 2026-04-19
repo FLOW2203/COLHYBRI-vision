@@ -6,7 +6,8 @@ import { JsonLd } from '@/components/JsonLd';
 import { InvestorContactForm } from '@/components/forms/InvestorContactForm';
 import { VisionImage } from '@/components/ui/VisionImage';
 import { FadeInOnScroll } from '@/components/ui/FadeInOnScroll';
-import { visionImages } from '@/lib/vision-images';
+import { visionImages, teamPhotos } from '@/lib/vision-images';
+import { TeamMember } from '@/components/team/TeamMember';
 
 interface PageProps {
   params: { locale: string };
@@ -66,9 +67,9 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
   ];
 
   const team = [
-    { name: 'Florent Gibert', role: t('team.florent.role'), bio: t('team.florent.bio') },
-    { name: 'João Almeida', role: t('team.joao.role'), bio: t('team.joao.bio') },
-    { name: 'Stéphane Picard', role: t('team.stephane.role'), bio: t('team.stephane.bio') },
+    { name: 'Florent Gibert', role: t('team.florent.role'), bio: t('team.florent.bio'), photoUrl: teamPhotos.florent, photoAlt: t('team.florent.photoAlt') },
+    { name: 'João Almeida', role: t('team.joao.role'), bio: t('team.joao.bio'), photoUrl: teamPhotos.joao, photoAlt: t('team.joao.photoAlt') },
+    { name: 'Stéphane Picard', role: t('team.stephane.role'), bio: t('team.stephane.bio'), photoUrl: teamPhotos.stephane, photoAlt: t('team.stephane.photoAlt') },
   ];
 
   return (
@@ -196,14 +197,14 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
           <h2 className="section-heading text-center mb-12">{t('team.title')}</h2>
           <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
             {team.map((m) => (
-              <div key={m.name} className="card text-center">
-                <div className="w-20 h-20 rounded-full bg-colhybri-teal/10 flex items-center justify-center mx-auto mb-4 text-colhybri-teal font-display font-semibold text-2xl">
-                  {m.name.split(' ').map((w) => w[0]).join('')}
-                </div>
-                <h3 className="font-display text-xl font-semibold">{m.name}</h3>
-                <p className="font-sans text-sm text-colhybri-teal mb-3">{m.role}</p>
-                <p className="font-sans text-sm text-colhybri-dark/70 leading-relaxed">{m.bio}</p>
-              </div>
+              <TeamMember
+                key={m.name}
+                name={m.name}
+                role={m.role}
+                bio={m.bio}
+                photoUrl={m.photoUrl}
+                photoAlt={m.photoAlt}
+              />
             ))}
           </div>
         </div>
