@@ -104,9 +104,6 @@ export default function ForShopsPage({ params: { locale } }: PageProps) {
               <span className="text-6xl font-extrabold text-colhybri-secondary">{pricing('shops.price')}</span>
               <span className="text-colhybri-dark/50 text-xl">{pricing('shops.period')}</span>
             </div>
-            <p className="text-colhybri-dark/60 mb-6">
-              {t('description')}
-            </p>
             <Link href={getLocalizedPath('contact', l)} className="btn-accent w-full">
               {pricing('shops.cta')}
             </Link>

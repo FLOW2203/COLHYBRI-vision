@@ -104,9 +104,6 @@ export default function ForIndividualsPage({ params: { locale } }: PageProps) {
               <span className="text-6xl font-extrabold text-colhybri-primary">{pricing('individuals.price')}</span>
               <span className="text-colhybri-dark/50 text-xl">{pricing('individuals.period')}</span>
             </div>
-            <p className="text-colhybri-dark/60 mb-6">
-              {t('description')}
-            </p>
             <Link href={getLocalizedPath('contact', l)} className="btn-primary w-full">
               {pricing('individuals.cta')}
             </Link>

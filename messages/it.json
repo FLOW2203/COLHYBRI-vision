@@ -77,7 +77,7 @@
     "headline": "Accessibile a Tutti",
     "individuals": {
       "title": "Per i Cittadini",
-      "price": "—",
+      "price": "3€",
       "period": "/mese",
       "features": [
         "Accesso alla rete finanziaria locale",
@@ -87,11 +87,11 @@
         "Sconti nelle botteghe locali",
         "Funzionalità di pagamento digitale"
       ],
-      "cta": "Inizia Ora"
+      "cta": "Prenota un incontro"
     },
     "shops": {
       "title": "Per le Botteghe Locali",
-      "price": "—",
+      "price": "10€",
       "period": "/mese",
       "features": [
         "Diventa un centro finanziario comunitario",
@@ -101,7 +101,28 @@
         "Maggiore visibilità nella comunità",
         "Dashboard dell'impatto sociale"
       ],
-      "cta": "Diventa Partner"
+      "cta": "Prenota un incontro"
+    },
+    "premium": {
+      "title": "Maps+ Premium",
+      "price": "15€",
+      "period": "/mese",
+      "features": [
+        "Audit Google avanzato (Maps+ Premium)",
+        "Monitoraggio continuo e avvisi",
+        "Onboarding dedicato",
+        "Iscrizione prioritaria al pool solidale",
+        "Dashboard di vitalità personalizzata",
+        "Strumenti per la crescita delle recensioni"
+      ],
+      "cta": "Prenota un incontro"
+    },
+    "giftCard": {
+      "title": "Carta Regalo Solidale",
+      "subtitle": "Offri un sostegno pronto all'uso",
+      "description": "Regala una carta COLHYBRI a un vicino. Utilizzabile presso i commerci partner. Alimenta il pool solidale e premia i commercianti locali.",
+      "priceLabel": "Importo variabile",
+      "cta": "Scopri la Carta Regalo"
     }
   },
   "impact": {
@@ -138,6 +159,14 @@
       "roadmapTitle": "International roadmap",
       "roadmapBody": "For international investors and partners, pages outside the English sphere remain accessible via direct URL.",
       "roadmapSoon": "Coming soon"
+    },
+    "multiplierExplanation": {
+      "title": "Il moltiplicatore keynesiano",
+      "subscription": "Abbonamento",
+      "subscriptionAmount": "3€",
+      "multiplierLabel": "Moltiplicatore",
+      "localValueLabel": "Valore economico locale",
+      "localValueAmount": "7,50€"
     }
   },
   "miami": {
@@ -212,7 +241,7 @@
       },
       {
         "q": "Quanto costa COLHYBRI?",
-        "a": "I prezzi saranno annunciati presto. Non ci sono costi nascosti, nessun controllo del credito e nessun requisito di saldo minimo."
+        "a": "3€/mese per i privati. 10€/mese per i commercianti. 15€/mese per Maps+ Premium. Zero commissioni. Registrazione su colhybri.com."
       },
       {
         "q": "Ho bisogno di un conto in banca per usare COLHYBRI?",

@@ -77,7 +77,7 @@
     "headline": "Affordable for Everyone",
     "individuals": {
       "title": "For Individuals",
-      "price": "—",
+      "price": "£3",
       "period": "/month",
       "features": [
         "Access to local financial network",
@@ -87,11 +87,11 @@
         "Local shop discounts",
         "Digital payment capabilities"
       ],
-      "cta": "Get Started"
+      "cta": "Book a meeting"
     },
     "shops": {
       "title": "For Local Shops",
-      "price": "—",
+      "price": "£10",
       "period": "/month",
       "features": [
         "Become a community financial hub",
@@ -101,7 +101,28 @@
         "Community visibility boost",
         "Impact dashboard"
       ],
-      "cta": "Partner With Us"
+      "cta": "Book a meeting"
+    },
+    "premium": {
+      "title": "Maps+ Premium",
+      "price": "£15",
+      "period": "/month",
+      "features": [
+        "Advanced Google audit (Maps+ Premium)",
+        "Continuous monitoring and alerts",
+        "Dedicated onboarding support",
+        "Priority enrolment in the community pool",
+        "Bespoke vitality dashboard",
+        "Review growth tooling"
+      ],
+      "cta": "Book a meeting"
+    },
+    "giftCard": {
+      "title": "Community Gift Card",
+      "subtitle": "Offer a ready-to-use solidarity gift card",
+      "description": "Gift a COLHYBRI card to a neighbour. Fully redeemable at partner shops. Powers the community pool and rewards local merchants.",
+      "priceLabel": "Variable amount",
+      "cta": "Discover Gift Cards"
     }
   },
   "impact": {
@@ -138,6 +159,14 @@
       "roadmapTitle": "International roadmap",
       "roadmapBody": "For international investors and partners, pages outside the English sphere remain accessible via direct URL.",
       "roadmapSoon": "Coming soon"
+    },
+    "multiplierExplanation": {
+      "title": "The Keynesian Multiplier",
+      "subscription": "Subscription",
+      "subscriptionAmount": "£3",
+      "multiplierLabel": "Multiplier",
+      "localValueLabel": "Local Economic Value",
+      "localValueAmount": "£7.50"
     }
   },
   "miami": {
@@ -212,7 +241,7 @@
       },
       {
         "q": "How much does COLHYBRI cost?",
-        "a": "Pricing will be announced soon. COLHYBRI is designed to be affordable for both individuals and local shops. There will be no hidden fees, no credit checks, and no minimum balance requirements."
+        "a": "£3/month for individuals. £10/month for merchants. £15/month for Maps+ Premium. Zero commission. Sign up on colhybri.com."
       },
       {
         "q": "Do I need a bank account to use COLHYBRI?",
@@ -2586,7 +2615,7 @@
       "bullet1": "Turnkey deployment in 4 weeks",
       "bullet2": "0% commission for your local businesses",
       "bullet3": "Integration with Main Street America and similar programs",
-      "price": "3 EUR per resident per month",
+      "price": "£3 per resident per month",
       "note": "Funded by residents, not by the city. No commitment from the city."
     },
     "barcelona": {
@@ -2617,7 +2646,7 @@
       "items": [
         "Turnkey deployment in 4 weeks",
         "0% commission for your local businesses",
-        "Funded by residents at 3 EUR per month, not by the city",
+        "Funded by residents at £3 per month, not by the city",
         "Targeted onboarding in your Opportunity Zones",
         "Pilot dashboard for your economic development team",
         "Integration with Main Street America and similar programs"
@@ -2667,12 +2696,12 @@
     "pillars": {
       "pool": {
         "title": "Neighborhood solidarity",
-        "body": "3 EUR/month. 75% to the solidarity pool. Services randomly gifted at partner shops.",
+        "body": "£3/month. 75% to the solidarity pool. Services randomly gifted at partner shops.",
         "cta": "Discover the pool"
       },
       "maps": {
         "title": "Digital visibility (Maps+)",
-        "body": "Google audit in 48h. Zero-friction onboarding. Automatic reviews. Continuous monitoring. 10 EUR/month, 0% commission.",
+        "body": "Google audit in 48h. Zero-friction onboarding. Automatic reviews. Continuous monitoring. £10/month, 0% commission.",
         "cta": "Discover Maps+"
       },
       "gamification": {
@@ -2695,21 +2724,21 @@
   "poolSolidaire": {
     "meta": {
       "title": "Solidarity pool: the neighborhood mutual of the 21st century",
-      "description": "3 EUR/month. 75% redistributed as gifted services at your shops. It's not charity, it's mutualism."
+      "description": "£3/month. 75% redistributed as gifted services at your shops. It's not charity, it's mutualism."
     },
     "hero": {
       "badge": "SOLIDARITY POOL",
       "title": "The neighborhood mutual of the 21st century",
-      "subtitle": "3 EUR/month. 75% redistributed. Services gifted at your shops."
+      "subtitle": "£3/month. 75% redistributed. Services gifted at your shops."
     },
     "steps": {
       "step1": {
-        "title": "Subscribe (3 EUR/month)",
+        "title": "Subscribe (£3/month)",
         "body": "30-second signup. No credit check. No minimum balance."
       },
       "step2": {
         "title": "75% to the solidarity pool",
-        "body": "2.25 EUR from each subscription feeds the neighborhood community pool."
+        "body": "£2.25 from each subscription feeds the neighborhood community pool."
       },
       "step3": {
         "title": "Random distribution",
@@ -2876,11 +2905,11 @@
   "mapsPlus": {
     "meta": {
       "title": "Maps+: 75% of SMBs are invisible on Google. Not yours.",
-      "description": "Google audit 48h, zero-friction onboarding, review generation, continuous monitoring. 4 pillars, 10 EUR/month, 0% commission."
+      "description": "Google audit 48h, zero-friction onboarding, review generation, continuous monitoring. 4 pillars, £10/month, 0% commission."
     },
     "hero": {
       "title": "75% of SMBs are invisible on Google. Not yours.",
-      "subtitle": "Audit, onboarding, reviews, monitoring. 4 pillars, 10 EUR/month."
+      "subtitle": "Audit, onboarding, reviews, monitoring. 4 pillars, £10/month."
     },
     "features": {
       "audit": {

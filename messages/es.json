@@ -187,7 +187,7 @@
     "ctaApp": "Abrir la app",
     "individuals": {
       "title": "Para Individuos",
-      "price": "3 EUR",
+      "price": "3€",
       "period": "/mes",
       "features": [
         "Solidaridad de barrio mutualizada",
@@ -197,11 +197,11 @@
         "Sin compromiso",
         "Transparencia total del pool"
       ],
-      "cta": "Registrate en colhybri.com"
+      "cta": "Reservar una reunión"
     },
     "shops": {
       "title": "Para Comercios",
-      "price": "10 EUR",
+      "price": "10€",
       "period": "/mes",
       "features": [
         "Auditoria Google automatizada (Maps+)",
@@ -211,7 +211,28 @@
         "Visibilidad en la app",
         "Inscripcion en el pool comunitario"
       ],
-      "cta": "Registrate en colhybri.com"
+      "cta": "Reservar una reunión"
+    },
+    "premium": {
+      "title": "Maps+ Premium",
+      "price": "15€",
+      "period": "/mes",
+      "features": [
+        "Auditoría Google avanzada (Maps+ Premium)",
+        "Monitoreo continuo y alertas",
+        "Acompañamiento de onboarding dedicado",
+        "Inscripción prioritaria en el pool solidario",
+        "Panel de vitalidad personalizado",
+        "Herramientas de crecimiento de reseñas"
+      ],
+      "cta": "Reservar una reunión"
+    },
+    "giftCard": {
+      "title": "Tarjeta Regalo Solidaria",
+      "subtitle": "Ofrece un apoyo listo para usar",
+      "description": "Regala una tarjeta COLHYBRI a un vecino. Canjeable en comercios asociados. Alimenta el pool solidario y recompensa a los comerciantes locales.",
+      "priceLabel": "Importe variable",
+      "cta": "Descubrir la Tarjeta Regalo"
     }
   },
   "impact": {
@@ -248,6 +269,14 @@
       "roadmapTitle": "Roadmap internacional",
       "roadmapBody": "Para inversores y partenariados internacionales, las paginas fuera de la esfera hispana siguen accesibles por URL directa.",
       "roadmapSoon": "Proximamente"
+    },
+    "multiplierExplanation": {
+      "title": "El multiplicador keynesiano",
+      "subscription": "Suscripción",
+      "subscriptionAmount": "3€",
+      "multiplierLabel": "Multiplicador",
+      "localValueLabel": "Valor económico local",
+      "localValueAmount": "7,50€"
     }
   },
   "miami": {
@@ -322,7 +351,7 @@
       },
       {
         "q": "Cuanto cuesta?",
-        "a": "3 EUR al mes para particulares. 10 EUR al mes para comerciantes. Cero comision. Registro en colhybri.com."
+        "a": "3€/mes para particulares. 10€/mes para comercios. 15€/mes para Maps+ Premium. Cero comisión. Registro en colhybri.com."
       },
       {
         "q": "Que es Maps+?",

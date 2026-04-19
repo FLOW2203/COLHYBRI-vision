@@ -77,7 +77,7 @@
     "headline": "誰もが利用できる料金設定",
     "individuals": {
       "title": "個人向け",
-      "price": "—",
+      "price": "$3",
       "period": "/月",
       "features": [
         "地域金融ネットワークへのアクセス",
@@ -87,11 +87,11 @@
         "地元店舗の割引特典",
         "デジタル決済機能"
       ],
-      "cta": "始めましょう"
+      "cta": "打ち合わせを予約"
     },
     "shops": {
       "title": "地元店舗向け",
-      "price": "—",
+      "price": "$10",
       "period": "/月",
       "features": [
         "コミュニティの金融拠点になる",
@@ -101,7 +101,28 @@
         "コミュニティでの認知度向上",
         "インパクトダッシュボード"
       ],
-      "cta": "パートナーになる"
+      "cta": "打ち合わせを予約"
+    },
+    "premium": {
+      "title": "Maps+ プレミアム",
+      "price": "$15",
+      "period": "/月",
+      "features": [
+        "高度なGoogle監査 (Maps+ Premium)",
+        "継続的なモニタリングとアラート",
+        "専用オンボーディング",
+        "コミュニティプールへの優先登録",
+        "カスタムバイタリティダッシュボード",
+        "レビュー成長ツール"
+      ],
+      "cta": "打ち合わせを予約"
+    },
+    "giftCard": {
+      "title": "コミュニティギフトカード",
+      "subtitle": "すぐに使える連帯ギフトカードを贈る",
+      "description": "隣人にCOLHYBRIカードを贈りましょう。パートナー店舗で利用できます。コミュニティプールを支え、地元の商店を応援します。",
+      "priceLabel": "金額可変",
+      "cta": "ギフトカードを見る"
     }
   },
   "impact": {
@@ -138,6 +159,14 @@
       "roadmapTitle": "International roadmap",
       "roadmapBody": "For international investors and partners, pages outside the English sphere remain accessible via direct URL.",
       "roadmapSoon": "Coming soon"
+    },
+    "multiplierExplanation": {
+      "title": "ケインジアン乗数",
+      "subscription": "サブスクリプション",
+      "subscriptionAmount": "$3",
+      "multiplierLabel": "乗数",
+      "localValueLabel": "地域経済価値",
+      "localValueAmount": "$7.50"
     }
   },
   "miami": {
@@ -212,7 +241,7 @@
       },
       {
         "q": "COLHYBRIの料金はいくらですか？",
-        "a": "COLHYBRIは個人向けと地元店舗向けの手頃な月額プランを提供しています。料金は近日公開予定です。隠れた手数料、信用審査、最低残高の要件は一切ありません。"
+        "a": "個人向け$3/月、店舗向け$10/月、Maps+ Premium $15/月。手数料ゼロ。colhybri.com で登録。"
       },
       {
         "q": "COLHYBRIを利用するのに銀行口座は必要ですか？",

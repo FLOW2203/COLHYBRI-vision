@@ -77,7 +77,7 @@
     "headline": "Erschwinglich für alle",
     "individuals": {
       "title": "Für Privatpersonen",
-      "price": "—",
+      "price": "3€",
       "period": "/Monat",
       "features": [
         "Zugang zum lokalen Finanznetzwerk",
@@ -87,11 +87,11 @@
         "Rabatte bei lokalen Geschäften",
         "Digitale Zahlungsmöglichkeiten"
       ],
-      "cta": "Jetzt starten"
+      "cta": "Termin vereinbaren"
     },
     "shops": {
       "title": "Für lokale Geschäfte",
-      "price": "—",
+      "price": "10€",
       "period": "/Monat",
       "features": [
         "Werden Sie zum finanziellen Knotenpunkt der Gemeinschaft",
@@ -101,7 +101,28 @@
         "Erhöhte Sichtbarkeit in der Gemeinschaft",
         "Wirkungs-Dashboard"
       ],
-      "cta": "Partner werden"
+      "cta": "Termin vereinbaren"
+    },
+    "premium": {
+      "title": "Maps+ Premium",
+      "price": "15€",
+      "period": "/Monat",
+      "features": [
+        "Erweiterter Google-Audit (Maps+ Premium)",
+        "Kontinuierliches Monitoring und Alarme",
+        "Dediziertes Onboarding",
+        "Priorisierte Teilnahme am Gemeinschaftspool",
+        "Massgeschneidertes Vitalitäts-Dashboard",
+        "Tools zur Bewertungssteigerung"
+      ],
+      "cta": "Termin vereinbaren"
+    },
+    "giftCard": {
+      "title": "Gemeinschafts-Gutschein",
+      "subtitle": "Schenken Sie sofort einsetzbare Unterstützung",
+      "description": "Schenken Sie einem Nachbarn eine COLHYBRI-Karte. Einlösbar bei Partner-Geschäften. Speist den Gemeinschaftspool und belohnt lokale Händler.",
+      "priceLabel": "Variabler Betrag",
+      "cta": "Gutschein entdecken"
     }
   },
   "impact": {
@@ -138,6 +159,14 @@
       "roadmapTitle": "International roadmap",
       "roadmapBody": "For international investors and partners, pages outside the English sphere remain accessible via direct URL.",
       "roadmapSoon": "Coming soon"
+    },
+    "multiplierExplanation": {
+      "title": "Der Keynes-Multiplikator",
+      "subscription": "Abonnement",
+      "subscriptionAmount": "3€",
+      "multiplierLabel": "Multiplikator",
+      "localValueLabel": "Lokaler wirtschaftlicher Wert",
+      "localValueAmount": "7,50€"
     }
   },
   "miami": {
@@ -212,7 +241,7 @@
       },
       {
         "q": "Was kostet COLHYBRI?",
-        "a": "Die Preise werden in Kürze bekanntgegeben. COLHYBRI ist so konzipiert, dass es für Privatpersonen und lokale Geschäfte erschwinglich ist. Es gibt keine versteckten Gebühren, keine Bonitätsprüfungen und keine Mindestguthaben-Anforderungen."
+        "a": "3€/Monat für Privatpersonen. 10€/Monat für Geschäfte. 15€/Monat für Maps+ Premium. Null Provision. Anmeldung auf colhybri.com."
       },
       {
         "q": "Brauche ich ein Bankkonto, um COLHYBRI zu nutzen?",

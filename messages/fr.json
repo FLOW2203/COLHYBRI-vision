@@ -61,7 +61,7 @@
     "subheadline": "Trois piliers, un meme objectif : faire revivre la rue commercante.",
     "pillar1": {
       "title": "Solidarite de quartier",
-      "description": "3 EUR par mois. 75% reverses au pool. Des services offerts aleatoirement a un voisin, un commercant, une cause locale.",
+      "description": "3€ par mois. 75% reverses au pool. Des services offerts aleatoirement a un voisin, un commercant, une cause locale.",
       "linkLabel": "Voir le pool solidaire"
     },
     "pillar2": {
@@ -169,7 +169,7 @@
     "steps": {
       "subscribe": {
         "title": "Abonnez-vous",
-        "description": "3 EUR par mois, sans engagement. 75% de votre contribution est reversee au pool solidaire de votre quartier."
+        "description": "3€ par mois, sans engagement. 75% de votre contribution est reversee au pool solidaire de votre quartier."
       },
       "connect": {
         "title": "Connectez-vous localement",
@@ -187,7 +187,7 @@
     "ctaApp": "Ouvrir l'app",
     "individuals": {
       "title": "Pour les Particuliers",
-      "price": "3 EUR",
+      "price": "3€",
       "period": "/mois",
       "features": [
         "Solidarite de quartier mutualisee",
@@ -197,11 +197,11 @@
         "Sans engagement",
         "Transparence totale du pool"
       ],
-      "cta": "S'inscrire sur colhybri.com"
+      "cta": "Réserver un rendez-vous"
     },
     "shops": {
       "title": "Pour les Commerces",
-      "price": "10 EUR",
+      "price": "10€",
       "period": "/mois",
       "features": [
         "Audit Google automatise (Maps+)",
@@ -211,7 +211,28 @@
         "Visibilite dans l'app",
         "Inscription dans le pool solidaire"
       ],
-      "cta": "S'inscrire sur colhybri.com"
+      "cta": "Réserver un rendez-vous"
+    },
+    "premium": {
+      "title": "Maps+ Premium",
+      "price": "15€",
+      "period": "/mois",
+      "features": [
+        "Audit Google avancé (Maps+ Premium)",
+        "Monitoring continu et alertes",
+        "Accompagnement onboarding dédié",
+        "Inscription prioritaire au pool solidaire",
+        "Tableau de bord vitalité personnalisé",
+        "Outils de développement d'avis"
+      ],
+      "cta": "Réserver un rendez-vous"
+    },
+    "giftCard": {
+      "title": "Carte Cadeau Solidaire",
+      "subtitle": "Offrir un soutien prêt à l'emploi",
+      "description": "Offrez une carte COLHYBRI à un voisin. Utilisable chez les commerces partenaires. Alimente le pool solidaire et récompense les commerçants locaux.",
+      "priceLabel": "Montant variable",
+      "cta": "Découvrir la Carte Cadeau"
     }
   },
   "impact": {
@@ -248,6 +269,14 @@
       "roadmapTitle": "Roadmap internationale",
       "roadmapBody": "Pour les investisseurs et partenaires internationaux, les pages hors sphere francophone restent accessibles par URL directe.",
       "roadmapSoon": "Bientot"
+    },
+    "multiplierExplanation": {
+      "title": "Le multiplicateur keynésien",
+      "subscription": "Abonnement",
+      "subscriptionAmount": "3€",
+      "multiplierLabel": "Multiplicateur",
+      "localValueLabel": "Valeur économique locale",
+      "localValueAmount": "7,50€"
     }
   },
   "miami": {
@@ -267,7 +296,7 @@
   "forIndividuals": {
     "title": "Pour les Particuliers",
     "headline": "Chaque geste compte. Le votre aussi.",
-    "description": "3 EUR par mois alimentent un pool solidaire qui transforme votre quartier. Decouvrez les commerces de proximite, offrez des services aleatoirement, jouez aux mini-jeux hyperlocaux. Votre geste compte. Le sien aussi."
+    "description": "3€ par mois alimentent un pool solidaire qui transforme votre quartier. Decouvrez les commerces de proximite, offrez des services aleatoirement, jouez aux mini-jeux hyperlocaux. Votre geste compte. Le sien aussi."
   },
   "forShops": {
     "title": "Pour les Commerces",
@@ -322,7 +351,7 @@
       },
       {
         "q": "Combien coûte COLHYBRI ?",
-        "a": "Les tarifs seront annoncés prochainement. COLHYBRI est conçu pour être accessible aux particuliers comme aux commerces locaux. Il n'y aura pas de frais cachés, pas de vérification de crédit et pas de solde minimum requis."
+        "a": "3€/mois pour les particuliers. 10€/mois pour les commerces. 15€/mois pour Maps+ Premium. Zéro commission. Inscription sur colhybri.com."
       },
       {
         "q": "Ai-je besoin d'un compte bancaire pour utiliser COLHYBRI ?",
@@ -444,7 +473,7 @@
     "loading": "Chargement des jeux...",
     "ctaTitle": "Chaque geste compte. Le votre aussi.",
     "ctaDescription": "Pret a faire une vraie difference ? Rejoignez COLHYBRI et transformez votre communaute.",
-    "ctaButton": "S'inscrire maintenant"
+    "ctaButton": "Réserver un rendez-vous"
   },
   "cocon": {
     "common": {
@@ -2155,12 +2184,12 @@
     "pillars": {
       "pool": {
         "title": "Solidarite de quartier",
-        "body": "3 EUR/mois. 75% au pool solidaire. Services offerts aleatoirement chez les commercants partenaires.",
+        "body": "3€/mois. 75% au pool solidaire. Services offerts aleatoirement chez les commercants partenaires.",
         "cta": "Decouvrir le pool"
       },
       "maps": {
         "title": "Visibilite digitale (Maps+)",
-        "body": "Audit Google en 48h. Onboarding zero-friction. Avis automatiques. Monitoring continu. 10 EUR/mois, 0% commission.",
+        "body": "Audit Google en 48h. Onboarding zero-friction. Avis automatiques. Monitoring continu. 10€/mois, 0% commission.",
         "cta": "Decouvrir Maps+"
       },
       "gamification": {
@@ -2183,11 +2212,11 @@
   "mapsPlus": {
     "meta": {
       "title": "Maps+ : 75% des PME sont invisibles sur Google. Pas les votres.",
-      "description": "Audit Google 48h, onboarding zero-friction, generation d'avis, monitoring continu. 4 piliers, 10 EUR/mois, 0% commission."
+      "description": "Audit Google 48h, onboarding zero-friction, generation d'avis, monitoring continu. 4 piliers, 10€/mois, 0% commission."
     },
     "hero": {
       "title": "75% des PME sont invisibles sur Google. Pas les votres.",
-      "subtitle": "Audit, onboarding, avis, monitoring. 4 piliers, 10 EUR/mois."
+      "subtitle": "Audit, onboarding, avis, monitoring. 4 piliers, 10€/mois."
     },
     "features": {
       "audit": {
@@ -2219,21 +2248,21 @@
   "poolSolidaire": {
     "meta": {
       "title": "Pool solidaire : la mutuelle de quartier du 21eme siecle",
-      "description": "3 EUR/mois. 75% redistribue en services offerts chez vos commercants. Ce n'est pas de la charite, c'est du mutualisme."
+      "description": "3€/mois. 75% redistribue en services offerts chez vos commercants. Ce n'est pas de la charite, c'est du mutualisme."
     },
     "hero": {
       "badge": "POOL SOLIDAIRE",
       "title": "La mutuelle de quartier du 21eme siecle",
-      "subtitle": "3 EUR/mois. 75% redistribue. Services offerts chez vos commercants."
+      "subtitle": "3€/mois. 75% redistribue. Services offerts chez vos commercants."
     },
     "steps": {
       "step1": {
-        "title": "Abonnez-vous (3 EUR/mois)",
+        "title": "Abonnez-vous (3€/mois)",
         "body": "Inscription en 30 secondes. Pas de verification de credit. Pas de minimum de solde."
       },
       "step2": {
         "title": "75% au pool solidaire",
-        "body": "2,25 EUR de chaque abonnement alimentent le pool communautaire du quartier."
+        "body": "2,25€ de chaque abonnement alimentent le pool communautaire du quartier."
       },
       "step3": {
         "title": "Distribution aleatoire",
@@ -2309,7 +2338,7 @@
       "bullet1": "Deploiement cle en main en 4 semaines",
       "bullet2": "0% commission pour vos commercants locaux",
       "bullet3": "Integration aux dispositifs Action Coeur de Ville et Petites Villes de Demain",
-      "price": "3 EUR par habitant par mois",
+      "price": "3€ par habitant par mois",
       "note": "Finance par les habitants, pas par la commune. Sans engagement pour la commune."
     },
     "barcelona": {
@@ -2340,7 +2369,7 @@
       "items": [
         "Deploiement cle en main en 4 semaines",
         "0% commission pour vos commercants locaux",
-        "Finance par les habitants a 3 EUR par mois, pas par la commune",
+        "Finance par les habitants a 3€ par mois, pas par la commune",
         "Onboarding cible sur les habitants des ZRCV",
         "Dashboard de pilotage pour vos services economiques",
         "Integration aux dispositifs Action Coeur de Ville et Petites Villes de Demain"

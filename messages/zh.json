@@ -77,7 +77,7 @@
     "headline": "人人都能负担",
     "individuals": {
       "title": "个人用户",
-      "price": "—",
+      "price": "$3",
       "period": "/月",
       "features": [
         "接入本地金融网络",
@@ -87,11 +87,11 @@
         "本地商店折扣",
         "数字支付功能"
       ],
-      "cta": "立即开始"
+      "cta": "预约会议"
     },
     "shops": {
       "title": "本地商店",
-      "price": "—",
+      "price": "$10",
       "period": "/月",
       "features": [
         "成为社区金融枢纽",
@@ -101,7 +101,28 @@
         "提升社区知名度",
         "影响力仪表盘"
       ],
-      "cta": "与我们合作"
+      "cta": "预约会议"
+    },
+    "premium": {
+      "title": "Maps+ 高级版",
+      "price": "$15",
+      "period": "/月",
+      "features": [
+        "高级Google审计 (Maps+ Premium)",
+        "持续监控和警报",
+        "专属入驻支持",
+        "社区池优先注册",
+        "定制活力仪表板",
+        "评论增长工具"
+      ],
+      "cta": "预约会议"
+    },
+    "giftCard": {
+      "title": "社区礼品卡",
+      "subtitle": "提供即用型互助礼品卡",
+      "description": "赠送邻居一张COLHYBRI卡。可在合作商店使用。充值社区池并奖励当地商家。",
+      "priceLabel": "金额可变",
+      "cta": "探索礼品卡"
     }
   },
   "impact": {
@@ -138,6 +159,14 @@
       "roadmapTitle": "International roadmap",
       "roadmapBody": "For international investors and partners, pages outside the English sphere remain accessible via direct URL.",
       "roadmapSoon": "Coming soon"
+    },
+    "multiplierExplanation": {
+      "title": "凯恩斯乘数",
+      "subscription": "订阅",
+      "subscriptionAmount": "$3",
+      "multiplierLabel": "乘数",
+      "localValueLabel": "本地经济价值",
+      "localValueAmount": "$7.50"
     }
   },
   "miami": {
@@ -212,7 +241,7 @@
       },
       {
         "q": "COLHYBRI 费用是多少？",
-        "a": "COLHYBRI 为个人用户和本地商店提供实惠的月费方案。价格即将公布。没有隐藏费用，无需信用审查，无最低余额要求。"
+        "a": "个人用户$3/月。商家$10/月。Maps+ Premium $15/月。零佣金。在 colhybri.com 注册。"
       },
       {
         "q": "使用 COLHYBRI 需要银行账户吗？",

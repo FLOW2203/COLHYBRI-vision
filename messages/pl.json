@@ -77,7 +77,7 @@
     "headline": "Przystępne dla każdego",
     "individuals": {
       "title": "Dla osób prywatnych",
-      "price": "—",
+      "price": "3€",
       "period": "/miesiąc",
       "features": [
         "Dostęp do lokalnej sieci finansowej",
@@ -87,11 +87,11 @@
         "Zniżki w lokalnych sklepach",
         "Możliwości płatności cyfrowych"
       ],
-      "cta": "Rozpocznij"
+      "cta": "Zarezerwuj spotkanie"
     },
     "shops": {
       "title": "Dla lokalnych sklepów",
-      "price": "—",
+      "price": "10€",
       "period": "/miesiąc",
       "features": [
         "Zostań społecznościowym centrum finansowym",
@@ -101,7 +101,28 @@
         "Większa widoczność w społeczności",
         "Panel wpływu"
       ],
-      "cta": "Zostań partnerem"
+      "cta": "Zarezerwuj spotkanie"
+    },
+    "premium": {
+      "title": "Maps+ Premium",
+      "price": "15€",
+      "period": "/miesiąc",
+      "features": [
+        "Zaawansowany audyt Google (Maps+ Premium)",
+        "Ciągły monitoring i alerty",
+        "Dedykowane wdrożenie",
+        "Priorytetowe dołączenie do puli wspólnotowej",
+        "Spersonalizowany pulpit witalności",
+        "Narzędzia do wzrostu ocen"
+      ],
+      "cta": "Zarezerwuj spotkanie"
+    },
+    "giftCard": {
+      "title": "Wspólnotowa Karta Podarunkowa",
+      "subtitle": "Zaoferuj gotowe wsparcie solidarnościowe",
+      "description": "Podaruj sąsiadowi kartę COLHYBRI. Do realizacji u partnerów. Zasila pulę wspólnotową i nagradza lokalnych kupców.",
+      "priceLabel": "Kwota zmienna",
+      "cta": "Odkryj Kartę Podarunkową"
     }
   },
   "impact": {
@@ -138,6 +159,14 @@
       "roadmapTitle": "International roadmap",
       "roadmapBody": "For international investors and partners, pages outside the English sphere remain accessible via direct URL.",
       "roadmapSoon": "Coming soon"
+    },
+    "multiplierExplanation": {
+      "title": "Mnożnik keynesowski",
+      "subscription": "Subskrypcja",
+      "subscriptionAmount": "3€",
+      "multiplierLabel": "Mnożnik",
+      "localValueLabel": "Lokalna wartość ekonomiczna",
+      "localValueAmount": "7,50€"
     }
   },
   "miami": {
@@ -212,7 +241,7 @@
       },
       {
         "q": "Ile kosztuje COLHYBRI?",
-        "a": "Ceny zostaną ogłoszone wkrótce. COLHYBRI jest zaprojektowane tak, aby było przystępne zarówno dla osób prywatnych, jak i lokalnych sklepów. Nie będzie ukrytych opłat, sprawdzania zdolności kredytowej ani wymagań dotyczących minimalnego salda."
+        "a": "3€/miesiąc dla osób prywatnych. 10€/miesiąc dla sklepów. 15€/miesiąc dla Maps+ Premium. Zero prowizji. Rejestracja na colhybri.com."
       },
       {
         "q": "Czy potrzebuję konta bankowego, aby korzystać z COLHYBRI?",
