@@ -274,7 +274,11 @@
     "tagline": "通过本地商业实现金融普惠",
     "quote": "“我在尽自己的一份力。” — 美洲原住民传说（蜂鸟）",
     "group": "COLHYBRI — 于2026年2月26日上线",
-    "copyright": "© 2026 COLHYBRI. 保留所有权利。",
+    "copyright": {
+      "main": "© 2026 COLHYBRI。ONLYMORE Group 旗下。保留所有权利。",
+      "ip": "所有照片、文字、设计和内容均为 ONLYMORE Group 的知识产权,未经事先书面授权不得复制、分发或用于商业用途。",
+      "contact": "许可、媒体或合作咨询请联系:onlymore2024@gmail.com"
+    },
     "links": {
       "about": "关于我们",
       "privacy": "隐私政策",

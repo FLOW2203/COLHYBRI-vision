@@ -274,7 +274,11 @@
     "tagline": "Finanzielle Inklusion durch lokalen Handel",
     "quote": "\"Ich tue meinen Teil.\" — Legende der amerikanischen Ureinwohner (Der Kolibri)",
     "group": "COLHYBRI — Gestartet am 26/02/2026",
-    "copyright": "© 2026 COLHYBRI. Alle Rechte vorbehalten.",
+    "copyright": {
+      "main": "© 2026 COLHYBRI. Teil der ONLYMORE Group. Alle Rechte vorbehalten.",
+      "ip": "Alle Fotos, Texte, Designs und Inhalte sind geistiges Eigentum der ONLYMORE Group und dürfen ohne vorherige schriftliche Genehmigung nicht vervielfältigt, verbreitet oder kommerziell genutzt werden.",
+      "contact": "Für Lizenzierung, Presse oder Partnerschaften: onlymore2024@gmail.com"
+    },
     "links": {
       "about": "Über uns",
       "privacy": "Datenschutzrichtlinie",
