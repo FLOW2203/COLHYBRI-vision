@@ -3018,5 +3018,34 @@
       "errorTitle": "Error",
       "errorBody": "Error sending. Please email onlymore2024@gmail.com"
     }
+  },
+  "trustMap": {
+    "title": "Światowa mapa zaufania i samotności",
+    "subtitle": "Eksploruj dane regionalne, aby zrozumieć, gdzie COLHYBRI może mieć największy wpływ.",
+    "legend": {
+      "score5": "Maksymalny potencjał",
+      "score4": "Wysoki potencjał",
+      "score3": "Umiarkowany potencjał"
+    },
+    "labels": {
+      "loneliness": "Wskaźnik samotności",
+      "trust": "Zaufanie do innych",
+      "population": "Populacja dorosłych"
+    },
+    "regions": {
+      "france": "Francja",
+      "uk": "Wielka Brytania",
+      "usa": "Stany Zjednoczone",
+      "canada": "Kanada",
+      "brazil": "Brazylia",
+      "africa": "Afryka Subsaharyjska",
+      "eastern-europe": "Europa Wschodnia",
+      "india": "Indie",
+      "japan": "Japonia"
+    },
+    "explore": "Poznaj region",
+    "close": "Zamknij",
+    "hint": "Kliknij marker, aby poznać lokalne dane",
+    "sources": "Źródła: IFOP 2026, WHO 2025, JAMA Network Open 2025, OECD 2025, Bank Światowy Findex 2025"
   }
 }

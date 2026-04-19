@@ -3018,5 +3018,34 @@
       "errorTitle": "Error",
       "errorBody": "Error sending. Please email onlymore2024@gmail.com"
     }
+  },
+  "trustMap": {
+    "title": "World Trust & Loneliness Map",
+    "subtitle": "Explore regional data to understand where COLHYBRI can have the greatest impact.",
+    "legend": {
+      "score5": "Highest potential",
+      "score4": "High potential",
+      "score3": "Moderate potential"
+    },
+    "labels": {
+      "loneliness": "Loneliness rate",
+      "trust": "Trust in others",
+      "population": "Adult population"
+    },
+    "regions": {
+      "france": "France",
+      "uk": "United Kingdom",
+      "usa": "United States",
+      "canada": "Canada",
+      "brazil": "Brazil",
+      "africa": "Sub-Saharan Africa",
+      "eastern-europe": "Eastern Europe",
+      "india": "India",
+      "japan": "Japan"
+    },
+    "explore": "Explore the region",
+    "close": "Close",
+    "hint": "Click a marker to explore local data",
+    "sources": "Sources: IFOP 2026, WHO 2025, JAMA Network Open 2025, OECD 2025, World Bank Findex 2025"
   }
 }

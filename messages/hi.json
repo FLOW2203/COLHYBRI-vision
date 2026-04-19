@@ -3018,5 +3018,34 @@
       "errorTitle": "Error",
       "errorBody": "Error sending. Please email onlymore2024@gmail.com"
     }
+  },
+  "trustMap": {
+    "title": "विश्व विश्वास और अकेलापन मानचित्र",
+    "subtitle": "क्षेत्रीय डेटा का अन्वेषण करें यह समझने के लिए कि COLHYBRI का सबसे बड़ा प्रभाव कहाँ हो सकता है।",
+    "legend": {
+      "score5": "सर्वोच्च संभावना",
+      "score4": "उच्च संभावना",
+      "score3": "मध्यम संभावना"
+    },
+    "labels": {
+      "loneliness": "अकेलापन दर",
+      "trust": "दूसरों पर विश्वास",
+      "population": "वयस्क जनसंख्या"
+    },
+    "regions": {
+      "france": "फ्रांस",
+      "uk": "यूनाइटेड किंगडम",
+      "usa": "संयुक्त राज्य अमेरिका",
+      "canada": "कनाडा",
+      "brazil": "ब्राज़ील",
+      "africa": "उप-सहारा अफ्रीका",
+      "eastern-europe": "पूर्वी यूरोप",
+      "india": "भारत",
+      "japan": "जापान"
+    },
+    "explore": "क्षेत्र का अन्वेषण करें",
+    "close": "बंद करें",
+    "hint": "स्थानीय डेटा का पता लगाने के लिए एक मार्कर पर क्लिक करें",
+    "sources": "स्रोत: IFOP 2026, WHO 2025, JAMA Network Open 2025, OECD 2025, विश्व बैंक Findex 2025"
   }
 }

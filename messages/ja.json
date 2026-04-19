@@ -3018,5 +3018,34 @@
       "errorTitle": "Error",
       "errorBody": "Error sending. Please email onlymore2024@gmail.com"
     }
+  },
+  "trustMap": {
+    "title": "世界の信頼と孤独マップ",
+    "subtitle": "COLHYBRI が最大の影響を与える地域を理解するために、地域データを探索してください。",
+    "legend": {
+      "score5": "最高のポテンシャル",
+      "score4": "高いポテンシャル",
+      "score3": "中程度のポテンシャル"
+    },
+    "labels": {
+      "loneliness": "孤独率",
+      "trust": "他者への信頼",
+      "population": "成人人口"
+    },
+    "regions": {
+      "france": "フランス",
+      "uk": "イギリス",
+      "usa": "アメリカ合衆国",
+      "canada": "カナダ",
+      "brazil": "ブラジル",
+      "africa": "サハラ以南アフリカ",
+      "eastern-europe": "東ヨーロッパ",
+      "india": "インド",
+      "japan": "日本"
+    },
+    "explore": "地域を詳しく見る",
+    "close": "閉じる",
+    "hint": "マーカーをクリックしてローカルデータを探索",
+    "sources": "出典:IFOP 2026、WHO 2025、JAMA Network Open 2025、OECD 2025、世界銀行 Findex 2025"
   }
 }
