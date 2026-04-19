@@ -199,12 +199,12 @@ export function GlobalImpactCounter({ locale }: GlobalImpactCounterProps) {
           </p>
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white mb-4 max-w-4xl mx-auto leading-tight">
             {locale === 'fr'
-              ? "La solitude est la prochaine pandemie"
+              ? "La solitude est la prochaine pandémie"
               : 'Loneliness is the next pandemic'}
           </h2>
           <p className="text-white/60 text-lg max-w-2xl mx-auto">
             {locale === 'fr'
-              ? "Les chiffres mondiaux revelent l'ampleur de la crise du lien social."
+              ? "Les chiffres mondiaux révèlent l'ampleur de la crise du lien social."
               : 'Global data reveals the scale of the social connection crisis.'}
           </p>
         </div>
