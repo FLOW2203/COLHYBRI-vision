@@ -27,3 +27,8 @@ npm-debug.log*
 
 # Claude Code session data
 .claude/session/
+
+# Audit artifacts (generated)
+scripts/audit-static-report.json
+scripts/url-matrix.json
+scripts/audit-screenshots/
