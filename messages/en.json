@@ -338,7 +338,7 @@
       },
       {
         "q": "How can my city participate?",
-        "a": "Cities can start a 90-day free pilot on 50 shops in their downtown. Reach out from the For Cities page."
+        "a": "Cities can book a 30-minute call to discuss deployment. COLHYBRI is a turnkey tool: 4-week rollout, funded by residents at $3/month, 0% commission for merchants, no commitment from the city. Contact us from the For Cities page."
       },
       {
         "q": "Who is behind COLHYBRI?",
@@ -354,8 +354,9 @@
     "title": "Contact Us",
     "headline": "Get in Touch",
     "description": "Interested in COLHYBRI? Whether you're an individual, a local shop owner, a city official, or an investor, we'd love to hear from you.",
-    "email": "contact@colhybri.vision",
-    "cta": "Send Message"
+    "email": "onlymore2024@gmail.com",
+    "cta": "Send Message",
+    "headquarters": "Headquarters"
   },
   "footer": {
     "tagline": "Own Your Neighborhood. Own Your Future.",
@@ -411,7 +412,12 @@
     "learnMore": "Learn More",
     "getStarted": "Get Started",
     "contactUs": "Contact Us",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "bookDemo": "Book a meeting",
+    "applyWithColhybri": "Apply with COLHYBRI",
+    "institutionalPartnership": "Institutional partnership",
+    "proposePilot": "Propose a deployment",
+    "discoverSolution": "Discover the solution"
   },
   "city": {
     "metaTitle": "COLHYBRI in {city}. Revitalize your downtown with neighborhood community support.",
@@ -563,7 +569,7 @@
         },
         {
           "h2": "How does COLHYBRI contribute to revitalization?",
-          "body": "COLHYBRI provides the missing layer: a SaaS tool to measure downtown vitality in real time. Maps+ audits every shop Google presence in 48 hours, the community pool drives foot traffic to partner merchants and the municipal dashboard delivers verifiable metrics to the city council. A free 90-day pilot lets a city test the setup on 50 shops before committing."
+          "body": "COLHYBRI provides the missing layer: a SaaS tool to measure downtown vitality in real time. Maps+ audits every shop Google presence in 48 hours, the community pool drives foot traffic to partner merchants and the municipal dashboard delivers verifiable metrics to the city council. A 30-minute scoping call lets a city plan the turnkey rollout on 50 shops."
         }
       ],
       "faq": [
@@ -577,7 +583,7 @@
         },
         {
           "q": "How does COLHYBRI help a city in practice?",
-          "a": "Free 90-day pilot: Google audit of 50 shops, municipal vitality dashboard, city council impact report and deployment support."
+          "a": "Turnkey deployment: Google audit of 50 shops, municipal vitality dashboard, city council impact report and deployment support."
         }
       ],
       "stats": [
@@ -688,7 +694,7 @@
         },
         {
           "h2": "How does COLHYBRI complement PVD?",
-          "body": "COLHYBRI is the operational tool for measuring commercial vitality for PVD project leads. Free 90-day pilot on 50 shops, municipal dashboard, impact report. Especially suited to small towns without a dedicated commerce manager."
+          "body": "COLHYBRI is the operational tool for measuring commercial vitality for PVD project leads. Turnkey rollout on 50 shops, municipal dashboard, impact report. Especially suited to small towns without a dedicated commerce manager."
         }
       ],
       "faq": [
@@ -702,7 +708,7 @@
         },
         {
           "q": "How does COLHYBRI help a PVD town?",
-          "a": "Free 90-day pilot: Google audit of 50 shops, real-time vitality dashboard, city council impact report."
+          "a": "Turnkey deployment: Google audit of 50 shops, real-time vitality dashboard, city council impact report."
         }
       ],
       "stats": [
@@ -861,7 +867,7 @@
         },
         {
           "q": "How to reduce vacancy in my town?",
-          "a": "Combining fiscal (ZRCV), operational (commerce manager), architectural and digital (COLHYBRI). Free 90-day pilot available."
+          "a": "Combining fiscal (ZRCV), operational (commerce manager), architectural and digital (COLHYBRI). Turnkey deployment available."
         }
       ],
       "stats": [
@@ -900,7 +906,7 @@
         },
         {
           "h2": "How does COLHYBRI help a candidate build a program?",
-          "body": "COLHYBRI provides candidates with an objective diagnosis of downtown commercial vitality: vacancy rate, average Score Maps, incomplete Google listings, shops without recent reviews. The free 90-day pilot lets candidates present a concrete action plan with before/after metrics."
+          "body": "COLHYBRI provides candidates with an objective diagnosis of downtown commercial vitality: vacancy rate, average Score Maps, incomplete Google listings, shops without recent reviews. The turnkey 4-week rollout lets candidates present a concrete action plan with before/after metrics."
         }
       ],
       "faq": [
@@ -914,7 +920,7 @@
         },
         {
           "q": "How does COLHYBRI help a candidate?",
-          "a": "Objective vitality diagnosis, per-shop Score Maps, free 90-day pilot to build an action plan with before/after metrics."
+          "a": "Objective vitality diagnosis, per-shop Score Maps, turnkey deployment to build an action plan with before/after metrics."
         }
       ],
       "stats": [
@@ -932,7 +938,7 @@
         },
         {
           "value": "90d",
-          "label": "free pilot"
+          "label": "turnkey deployment"
         }
       ]
     },
@@ -1006,7 +1012,7 @@
         },
         {
           "h2": "How does COLHYBRI complement these programs?",
-          "body": "COLHYBRI is the SaaS that makes Main Street measurable. The municipal dashboard delivers real-time commercial vitality metrics, ideal for justifying Opportunity Zone investments or federal grant renewals. Free 90-day pilot on 50 shops before any commitment."
+          "body": "COLHYBRI is the SaaS that makes Main Street measurable. The municipal dashboard delivers real-time commercial vitality metrics, ideal for justifying Opportunity Zone investments or federal grant renewals. Turnkey rollout on 50 shops, funded by residents at $3/month. No commitment from the city."
         }
       ],
       "faq": [
@@ -1020,7 +1026,7 @@
         },
         {
           "q": "How does COLHYBRI help a US city?",
-          "a": "Municipal vitality dashboard to justify OZ investments and federal grant renewals. Free 90-day pilot."
+          "a": "Municipal vitality dashboard to justify OZ investments and federal grant renewals. Turnkey deployment."
         }
       ],
       "stats": [
@@ -2092,7 +2098,7 @@
     },
     "pour-les-collectivites": {
       "title": "COLHYBRI for Cities: Vitality Dashboard",
-      "desc": "Free 90-day pilot for 50 businesses. Score Maps, dashboard, impact report."
+      "desc": "Turnkey rollout for 50 businesses. Score Maps, dashboard, impact report."
     },
     "ecosr-european-capital-small-retail": {
       "title": "European Capitals of Small Retail 2026",
@@ -2452,8 +2458,8 @@
         "bio": "Ex-ONEtoONE Corporate Finance. Financial modeling, fundraising, deal structuring."
       },
       "stephane": {
-        "role": "CTO",
-        "bio": "SaaS architect. Scalable infrastructure, security, Google Business Profile integrations."
+        "role": "Fundraising Partner",
+        "bio": "Fundraising partner via Winvesty (10% commission). WEP Access label. Expert in deal structuring and fundraising rounds."
       }
     },
     "deck": {

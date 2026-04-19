@@ -346,8 +346,9 @@
     "title": "Contact",
     "headline": "Contactez-Nous",
     "description": "Intéressé par COLHYBRI ? Que vous soyez un particulier, un commerçant, un élu local ou un investisseur, nous serions ravis d'échanger avec vous.",
-    "email": "contact@colhybri.vision",
-    "cta": "Envoyer un Message"
+    "email": "onlymore2024@gmail.com",
+    "cta": "Envoyer un Message",
+    "headquarters": "Siège"
   },
   "footer": {
     "tagline": "Chaque geste compte. Le votre aussi.",
@@ -560,7 +561,7 @@
         },
         {
           "h2": "Comment COLHYBRI contribue-t-il a la revitalisation ?",
-          "body": "COLHYBRI apporte le maillon manquant : un outil SaaS de mesure de la vitalite commerciale en temps reel. Le module Maps+ audite la presence Google de chaque commerce en 48 heures, le pool solidaire genere du trafic vers les commercants partenaires et le dashboard municipal fournit au conseil municipal des metriques verifiables. Un pilote gratuit de 90 jours permet a une commune de tester le dispositif sur 50 commerces avant tout engagement."
+          "body": "COLHYBRI apporte le maillon manquant : un outil SaaS de mesure de la vitalite commerciale en temps reel. Le module Maps+ audite la presence Google de chaque commerce en 48 heures, le pool solidaire genere du trafic vers les commercants partenaires et le dashboard municipal fournit au conseil municipal des metriques verifiables. Un rendez-vous de 30 minutes permet à une commune de cadrer le déploiement clé en main sur 50 commerces."
         }
       ],
       "faq": [
@@ -574,7 +575,7 @@
         },
         {
           "q": "Comment COLHYBRI aide-t-il une commune concretement ?",
-          "a": "Pilote gratuit de 90 jours : audit Google de 50 commerces, dashboard municipal de vitalite, rapport d'impact pour le conseil municipal et accompagnement au deploiement terrain."
+          "a": "Déploiement clé en main : audit Google de 50 commerces, dashboard municipal de vitalité, rapport d'impact pour le conseil municipal et accompagnement au deploiement terrain."
         }
       ],
       "stats": [
@@ -685,7 +686,7 @@
         },
         {
           "h2": "Comment COLHYBRI complete PVD ?",
-          "body": "COLHYBRI est l outil operationnel de mesure de la vitalite commerciale pour les chefs de projet PVD. Pilote gratuit 90 jours sur 50 commerces, dashboard municipal, rapport d impact pour le conseil municipal. Particulierement adapte aux petites communes qui n ont pas de manager de commerce dedie."
+          "body": "COLHYBRI est l outil operationnel de mesure de la vitalite commerciale pour les chefs de projet PVD. Déploiement clé en main sur 50 commerces, dashboard municipal, rapport d'impact pour le conseil municipal. Particulièrement adapté aux petites communes qui n ont pas de manager de commerce dedie."
         }
       ],
       "faq": [
@@ -699,7 +700,7 @@
         },
         {
           "q": "Comment COLHYBRI aide une commune PVD ?",
-          "a": "Pilote gratuit 90 jours : audit Google de 50 commerces, dashboard de vitalite en temps reel, rapport d'impact pour le conseil municipal."
+          "a": "Déploiement clé en main : audit Google de 50 commerces, dashboard de vitalité en temps réel, rapport d'impact pour le conseil municipal."
         }
       ],
       "stats": [
@@ -858,7 +859,7 @@
         },
         {
           "q": "Comment la reduire dans ma commune ?",
-          "a": "Combinaison fiscal (ZRCV), operationnel (manager de commerce), architectural (renovation) et digital (COLHYBRI). Pilote gratuit 90 jours disponible."
+          "a": "Combinaison fiscal (ZRCV), operationnel (manager de commerce), architectural (renovation) et digital (COLHYBRI). Déploiement clé en main disponible."
         }
       ],
       "stats": [
@@ -897,7 +898,7 @@
         },
         {
           "h2": "Comment COLHYBRI aide un candidat a construire son programme ?",
-          "body": "COLHYBRI fournit aux candidats aux municipales un diagnostic objectif de la vitalite commerciale de leur centre-ville : taux de vacance, Score Maps moyen, fiches Google incompletes, commerces sans avis recents. Le pilote gratuit 90 jours permet de presenter un plan d action concret avec des metriques avant / apres."
+          "body": "COLHYBRI fournit aux candidats aux municipales un diagnostic objectif de la vitalite commerciale de leur centre-ville : taux de vacance, Score Maps moyen, fiches Google incompletes, commerces sans avis recents. Le déploiement clé en main permet de présenter un plan d'action concret avec des métriques avant / après."
         }
       ],
       "faq": [
@@ -911,7 +912,7 @@
         },
         {
           "q": "Comment COLHYBRI aide un candidat ?",
-          "a": "Diagnostic objectif de la vitalite commerciale, Score Maps par commerce, pilote gratuit 90 jours pour construire un plan d action avec metriques avant / apres."
+          "a": "Diagnostic objectif de la vitalite commerciale, Score Maps par commerce, déploiement clé en main pour construire un plan d'action avec métriques avant / après."
         }
       ],
       "stats": [
@@ -929,7 +930,7 @@
         },
         {
           "value": "90j",
-          "label": "pilote gratuit"
+          "label": "déploiement"
         }
       ]
     },
@@ -1003,7 +1004,7 @@
         },
         {
           "h2": "Comment COLHYBRI complete ces programmes ?",
-          "body": "COLHYBRI is the SaaS that makes Main Street measurable. Le dashboard municipal fournit des metriques de vitalite commerciale en temps reel, ideal pour justifier les investissements en Opportunity Zone ou les renouvellements de subvention federale. Pilote gratuit 90 jours sur 50 commerces avant tout engagement."
+          "body": "COLHYBRI is the SaaS that makes Main Street measurable. Le dashboard municipal fournit des metriques de vitalite commerciale en temps reel, ideal pour justifier les investissements en Opportunity Zone ou les renouvellements de subvention federale. Déploiement clé en main sur 50 commerces, financé par les habitants à 3€/mois. Sans engagement pour la commune."
         }
       ],
       "faq": [
@@ -1017,7 +1018,7 @@
         },
         {
           "q": "Comment COLHYBRI aide une ville americaine ?",
-          "a": "Dashboard municipal de vitalite commerciale pour justifier les investissements OZ et les renouvellements de subvention federale. Pilote gratuit 90 jours."
+          "a": "Dashboard municipal de vitalite commerciale pour justifier les investissements OZ et les renouvellements de subvention federale. Déploiement clé en main."
         }
       ],
       "stats": [
@@ -2089,7 +2090,7 @@
     },
     "pour-les-collectivites": {
       "title": "COLHYBRI pour les collectivites : dashboard vitalite",
-      "desc": "Pilote gratuit 90 jours sur 50 commerces. Score Maps, dashboard, rapport impact. 500 EUR/mois apres."
+      "desc": "Déploiement clé en main sur 50 commerces. Score Maps, dashboard, rapport d'impact. Financé par les habitants à 3€/mois."
     },
     "ecosr-european-capital-small-retail": {
       "title": "Capitales Europeennes du Petit Commerce 2026",
@@ -2449,8 +2450,8 @@
         "bio": "Ex-ONEtoONE Corporate Finance. Modelisation financiere, levees de fonds, structuration deal."
       },
       "stephane": {
-        "role": "CTO",
-        "bio": "Architecte SaaS. Infrastructure scalable, securite, integrations Google Business Profile."
+        "role": "Partenaire Fundraising",
+        "bio": "Partenaire fundraising via Winvesty (10% commission). Label WEP Access. Expert en structuration de tours et levées de fonds."
       }
     },
     "deck": {

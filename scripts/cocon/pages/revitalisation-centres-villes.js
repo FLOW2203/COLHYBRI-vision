@@ -24,7 +24,7 @@ module.exports = {
       },
       {
         h2: 'Comment COLHYBRI contribue-t-il a la revitalisation ?',
-        body: "COLHYBRI apporte le maillon manquant : un outil SaaS de mesure de la vitalite commerciale en temps reel. Le module Maps+ audite la presence Google de chaque commerce en 48 heures, le pool solidaire genere du trafic vers les commercants partenaires et le dashboard municipal fournit au conseil municipal des metriques verifiables. Un pilote gratuit de 90 jours permet a une commune de tester le dispositif sur 50 commerces avant tout engagement.",
+        body: "COLHYBRI apporte le maillon manquant : un outil SaaS de mesure de la vitalite commerciale en temps reel. Le module Maps+ audite la presence Google de chaque commerce en 48 heures, le pool solidaire genere du trafic vers les commercants partenaires et le dashboard municipal fournit au conseil municipal des metriques verifiables. Un rendez-vous de 30 minutes permet à une commune de cadrer le déploiement clé en main sur 50 commerces.",
       },
     ],
     faq: [
@@ -38,7 +38,7 @@ module.exports = {
       },
       {
         q: 'Comment COLHYBRI aide-t-il une commune concretement ?',
-        a: "Pilote gratuit de 90 jours : audit Google de 50 commerces, dashboard municipal de vitalite, rapport d'impact pour le conseil municipal et accompagnement au deploiement terrain.",
+        a: "Déploiement clé en main : audit Google de 50 commerces, dashboard municipal de vitalité, rapport d'impact pour le conseil municipal et accompagnement au déploiement terrain.",
       },
     ],
     stats: [
@@ -74,7 +74,7 @@ module.exports = {
       },
       {
         h2: 'How does COLHYBRI contribute to revitalization?',
-        body: "COLHYBRI provides the missing layer: a SaaS tool to measure downtown vitality in real time. Maps+ audits every shop Google presence in 48 hours, the community pool drives foot traffic to partner merchants and the municipal dashboard delivers verifiable metrics to the city council. A free 90-day pilot lets a city test the setup on 50 shops before committing.",
+        body: "COLHYBRI provides the missing layer: a SaaS tool to measure downtown vitality in real time. Maps+ audits every shop Google presence in 48 hours, the community pool drives foot traffic to partner merchants and the municipal dashboard delivers verifiable metrics to the city council. A 30-minute scoping call lets a city plan the turnkey rollout on 50 shops.",
       },
     ],
     faq: [
@@ -88,7 +88,7 @@ module.exports = {
       },
       {
         q: 'How does COLHYBRI help a city in practice?',
-        a: 'Free 90-day pilot: Google audit of 50 shops, municipal vitality dashboard, city council impact report and deployment support.',
+        a: 'Turnkey deployment: Google audit of 50 shops, municipal vitality dashboard, city council impact report and deployment support.',
       },
     ],
     stats: [
@@ -124,7 +124,7 @@ module.exports = {
       },
       {
         h2: 'Como contribuye COLHYBRI a la revitalizacion?',
-        body: 'COLHYBRI aporta una herramienta SaaS de medicion de la vitalidad comercial en tiempo real. Maps+ audita la presencia Google de cada comercio en 48 horas y el dashboard municipal ofrece metricas verificables al consejo municipal. Piloto gratuito de 90 dias sobre 50 comercios antes de cualquier compromiso.',
+        body: 'COLHYBRI aporta una herramienta SaaS de medicion de la vitalidad comercial en tiempo real. Maps+ audita la presencia Google de cada comercio en 48 horas y el dashboard municipal ofrece metricas verificables al consejo municipal. Despliegue llave en mano sobre 50 comercios, financiado por los residentes a 3€/mes. Sin compromiso para la ciudad.',
       },
     ],
     faq: [
@@ -138,7 +138,7 @@ module.exports = {
       },
       {
         q: 'Como ayuda COLHYBRI a un municipio?',
-        a: 'Piloto gratuito de 90 dias: auditoria Google de 50 comercios, dashboard municipal de vitalidad, informe para el consejo municipal y acompanamiento en el despliegue.',
+        a: 'Despliegue llave en mano: auditoría Google de 50 comercios, dashboard municipal de vitalidad, informe para el consejo municipal y acompañamiento en el despliegue.',
       },
     ],
     stats: [

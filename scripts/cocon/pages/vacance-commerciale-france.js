@@ -19,7 +19,7 @@ module.exports = {
     faq: [
       { q: 'Quel est le taux de vacance commerciale en France ?', a: '55% des villes moyennes ont un taux superieur a 10%, en hausse de 4 points en 15 ans selon CCI France. Certaines villes depassent 20% : Beziers, Vierzon, Agen.' },
       { q: 'Quelles sont les causes ?', a: 'Concurrence des plateformes en ligne, pression sur les loyers commerciaux, contraintes administratives et evolution des usages de consommation vers la peripherie.' },
-      { q: 'Comment la reduire dans ma commune ?', a: 'Combinaison fiscal (ZRCV), operationnel (manager de commerce), architectural (renovation) et digital (COLHYBRI). Pilote gratuit 90 jours disponible.' },
+      { q: 'Comment la reduire dans ma commune ?', a: 'Combinaison fiscal (ZRCV), operationnel (manager de commerce), architectural (renovation) et digital (COLHYBRI). Déploiement clé en main disponible.' },
     ],
     stats: [
       { value: '55%', label: 'villes moyennes > 10% vacance' },
@@ -42,7 +42,7 @@ module.exports = {
     faq: [
       { q: 'What is the commercial vacancy rate in France?', a: '55% of midsize towns have rates above 10%, up 4 points in 15 years per CCI France. Some towns exceed 20%: Beziers, Vierzon, Agen.' },
       { q: 'What are the main causes?', a: 'Online platform competition, commercial rent pressure, administrative constraints and consumer shift toward peripheral retail.' },
-      { q: 'How to reduce vacancy in my town?', a: 'Combining fiscal (ZRCV), operational (commerce manager), architectural and digital (COLHYBRI). Free 90-day pilot available.' },
+      { q: 'How to reduce vacancy in my town?', a: 'Combining fiscal (ZRCV), operational (commerce manager), architectural and digital (COLHYBRI). Turnkey deployment available.' },
     ],
     stats: [
       { value: '55%', label: 'midsize towns > 10% vacancy' },
@@ -65,7 +65,7 @@ module.exports = {
     faq: [
       { q: 'Cual es la tasa de vacancia comercial en Francia?', a: '55% de las ciudades medianas tienen una tasa superior al 10%, en alza de 4 puntos en 15 anos segun CCI France.' },
       { q: 'Cuales son las causas?', a: 'Competencia de plataformas en linea, presion sobre los alquileres, restricciones administrativas y evolucion de los habitos de consumo.' },
-      { q: 'Como reducirla en mi municipio?', a: 'Combinacion fiscal (ZRCV), operativa, arquitectonica y digital (COLHYBRI). Piloto gratuito de 90 dias disponible.' },
+      { q: 'Como reducirla en mi municipio?', a: 'Combinacion fiscal (ZRCV), operativa, arquitectonica y digital (COLHYBRI). Despliegue llave en mano disponible.' },
     ],
     stats: [
       { value: '55%', label: 'ciudades > 10% vacancia' },
