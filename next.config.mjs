@@ -118,6 +118,23 @@ const nextConfig = {
     return localizedRoutes;
   },
   async headers() {
+    const csp = [
+      "default-src 'self'",
+      // Next.js injects inline scripts; Vercel Analytics + Live Preview
+      "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://va.vercel-scripts.com https://vercel.live",
+      // Tailwind runtime styles + Google Fonts CSS
+      "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
+      "font-src 'self' https://fonts.gstatic.com data:",
+      // Supabase vision-images, world-atlas TopoJSON thumbnails, ONLYMORE Group CDN for team photos
+      "img-src 'self' data: blob: https://isuzbpzwxcagtnbosgjl.supabase.co https://cdn.jsdelivr.net https://www.onlymore.group",
+      // world-atlas geojson fetched by react-simple-maps, Supabase APIs, Vercel telemetry + HMR
+      "connect-src 'self' https://isuzbpzwxcagtnbosgjl.supabase.co https://cdn.jsdelivr.net https://vitals.vercel-insights.com https://vercel.live wss://vercel.live",
+      "frame-ancestors 'none'",
+      "base-uri 'self'",
+      "form-action 'self'",
+      "object-src 'none'",
+    ].join('; ');
+
     return [
       {
         source: '/:path*',
@@ -125,7 +142,10 @@ const nextConfig = {
           { key: 'X-DNS-Prefetch-Control', value: 'on' },
           { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
           { key: 'X-Content-Type-Options', value: 'nosniff' },
-          { key: 'Referrer-Policy', value: 'origin-when-cross-origin' },
+          { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
+          { key: 'Strict-Transport-Security', value: 'max-age=63072000; includeSubDomains; preload' },
+          { key: 'Permissions-Policy', value: 'camera=(), microphone=(), geolocation=(self), interest-cohort=(), browsing-topics=()' },
+          { key: 'Content-Security-Policy', value: csp },
         ],
       },
     ];
