@@ -226,7 +226,7 @@ export const routeMap: Record<string, Record<string, string>> = {
     hi: 'solution/maps-plus', pl: 'solution/maps-plus',
   },
   'solution-pool-solidaire': {
-    en: 'solution/pool-solidaire', 'en-gb': 'solution/pool-solidaire', fr: 'solution/pool-solidaire',
+    en: 'solution/community-pool', 'en-gb': 'solution/community-pool', fr: 'solution/pool-solidaire',
     es: 'solution/pool-solidaire', pt: 'solution/pool-solidaire', de: 'solution/pool-solidaire',
     it: 'solution/pool-solidaire', zh: 'solution/pool-solidaire', ja: 'solution/pool-solidaire',
     hi: 'solution/pool-solidaire', pl: 'solution/pool-solidaire',

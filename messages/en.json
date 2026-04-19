@@ -88,11 +88,11 @@
   },
   "worldImpact": {
     "headline": "Our impact, from local to global",
-    "subheadline": "One tool, adapted to every territory. From a French ZRCV town to an American Main Street.",
+    "subheadline": "One tool, adapted to every territory. From a French ZRCV town (Zones de Revitalisation du Commerce de Ville — France's designated downtown commercial revitalization areas) to an American Main Street.",
     "regions": {
       "france": {
         "title": "France",
-        "detail": "1,732 ZRCV towns. 244 Action Coeur de Ville. 1,646 Petites Villes de Demain."
+        "detail": "1,732 ZRCV towns (designated revitalization zones). 244 Action Coeur de Ville towns (France's flagship mid-size downtown program). 1,646 Petites Villes de Demain towns (France's small-town revitalization program)."
       },
       "usa": {
         "title": "United States",
@@ -309,7 +309,7 @@
     "description": "COLHYBRI gives city halls the commercial vitality dashboard their main street deserves. Automated Google audit for every shop in 48 hours. Monthly dashboard. Municipal impact report.",
     "benefits": {
       "multiplier": "Measurable increase in local economic activity through the Keynesian multiplier effect",
-      "inclusion": "Support downtown revitalization programs (ZRCV, ACV, PVD, Main Street, OZ 2.0)",
+      "inclusion": "Support downtown revitalization programs: ZRCV (French revitalization zones), ACV (Action Coeur de Ville — 244 mid-size towns), PVD (Petites Villes de Demain — 1,646 small towns), Main Street America, and Opportunity Zones 2.0.",
       "fabric": "Strengthen the commercial fabric of neighborhoods and support local businesses",
       "dashboard": "Real-time vitality dashboard tracking jobs, spending, and community growth"
     }

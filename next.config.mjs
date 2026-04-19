@@ -42,11 +42,18 @@ const nextConfig = {
       { locale: 'ja', slug: 'how-it-works' },
       { locale: 'hi', slug: 'how-it-works' },
     ];
-    return howItWorksSlugs.map(({ locale, slug }) => ({
+    const howItWorksRedirects = howItWorksSlugs.map(({ locale, slug }) => ({
       source: `/${locale}/${slug}`,
       destination: `/${locale}/solution`,
       permanent: true,
     }));
+    // EN / en-gb: rename /solution/pool-solidaire → /solution/community-pool
+    // (FR keeps pool-solidaire since it is the locale term)
+    const communityPoolRedirects = [
+      { source: '/en/solution/pool-solidaire', destination: '/en/solution/community-pool', permanent: true },
+      { source: '/en-gb/solution/pool-solidaire', destination: '/en-gb/solution/community-pool', permanent: true },
+    ];
+    return [...howItWorksRedirects, ...communityPoolRedirects];
   },
   async rewrites() {
     // Localized slugs → actual file-based routes

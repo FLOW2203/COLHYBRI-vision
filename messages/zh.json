@@ -123,7 +123,8 @@
       "description": "赠送邻居一张COLHYBRI卡。可在合作商店使用。充值社区池并奖励当地商家。",
       "priceLabel": "金额可变",
       "cta": "探索礼品卡"
-    }
+    },
+    "ctaApp": "打开应用"
   },
   "impact": {
     "title": "影响力",
@@ -2175,6 +2176,25 @@
       "proposition": {
         "title": "The COLHYBRI proposition for the USA",
         "body": "TODO Florent: integrate the USA value proposition (pricing, federal programs, Main Street partnerships)."
+      },
+      "barometer": {
+        "title": "American downtown barometer",
+        "subtitle": "2024-2025 data from Main Street America, Treasury, FloridaCommerce",
+        "items": [
+          {
+            "value": "$7.65B",
+            "label": "Main Street America local reinvestment in 2024"
+          },
+          {
+            "value": "33,835",
+            "label": "new jobs created by the network in 2024"
+          },
+          {
+            "value": "43%",
+            "label": "Tampa economic growth 2019-2023 (ranked 2nd among US mid-sized cities)"
+          }
+        ],
+        "quote": "Under President Trump's leadership, the Working Families Tax Cuts permanently renewed and strengthened Opportunity Zones. Scott Bessent, US Treasury Secretary, April 2026."
       }
     },
     "europe": {

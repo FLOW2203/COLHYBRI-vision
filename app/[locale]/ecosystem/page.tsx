@@ -27,6 +27,7 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
 export default function EcosystemPage({ params: { locale } }: PageProps) {
   const t = useTranslations('ecosystem');
   const common = useTranslations('common');
+  const nav = useTranslations('nav');
   const l = locale as Locale;
 
   const orgJsonLd = generateOrganizationJsonLd(l);
@@ -123,18 +124,15 @@ export default function EcosystemPage({ params: { locale } }: PageProps) {
       {/* Internal Links */}
       <section className="bg-colhybri-light">
         <div className="section-container text-center">
-          <h2 className="section-heading mb-10">
-            {common('learnMore')}
-          </h2>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href={getLocalizedPath('investors', l)} className="btn-primary">
-              {common('learnMore')}
+              {nav('investors')}
             </Link>
             <Link href={getLocalizedPath('mission', l)} className="btn-secondary">
-              {common('learnMore')}
+              {nav('mission')}
             </Link>
             <Link href={getLocalizedPath('impact', l)} className="btn-accent">
-              {common('learnMore')}
+              {nav('impact')}
             </Link>
           </div>
         </div>

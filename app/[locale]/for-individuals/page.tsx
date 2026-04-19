@@ -28,6 +28,7 @@ export default function ForIndividualsPage({ params: { locale } }: PageProps) {
   const t = useTranslations('forIndividuals');
   const pricing = useTranslations('pricing');
   const common = useTranslations('common');
+  const nav = useTranslations('nav');
   const l = locale as Locale;
 
   const landingJsonLd = {
@@ -115,17 +116,17 @@ export default function ForIndividualsPage({ params: { locale } }: PageProps) {
       <section className="bg-white">
         <div className="section-container text-center">
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href={getLocalizedPath('how-it-works', l)} className="btn-primary">
-              {common('learnMore')}
+            <Link href={getLocalizedPath('solution', l)} className="btn-primary">
+              {common('discoverSolution')}
             </Link>
             <Link href={getLocalizedPath('pricing', l)} className="btn-secondary">
-              {common('learnMore')}
+              {nav('pricing')}
             </Link>
             <Link href={getLocalizedPath('for-shops', l)} className="btn-accent">
-              {common('learnMore')}
+              {nav('forShops')}
             </Link>
             <Link href={getLocalizedPath('faq', l)} className="btn-secondary">
-              {common('learnMore')}
+              {nav('faq')}
             </Link>
           </div>
         </div>

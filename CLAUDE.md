@@ -27,3 +27,30 @@ Quand l'utilisateur tape /dream, executer :
 3. **CONSOLIDATE** — Fusionner doublons, convertir dates relatives en absolues, resoudre contradictions
 4. **PRUNE** — Supprimer entrees obsoletes, maintenir memory.md < 200 lignes
 5. **UPDATE** — Mettre a jour last_dream avec date absolue (ex: 25 Mars 2026 19h)
+
+## Règles de non-régression colhybri.vision (audit 2026-04-19)
+
+### Doctrine ONLYMORE
+- Slogan FR : "Chaque geste compte. Le vôtre aussi." (accent OBLIGATOIRE sur vôtre)
+- Slogan EN : "Own Your Neighborhood. Own Your Future."
+- Stéphane Picard = Fundraising Partner (Winvesty). JAMAIS CTO.
+- Zéro free pilot. Modèle 100% subscription. Utiliser "turnkey deployment" / "déploiement clé en main".
+- CTA : "Réserver un rendez-vous" / "Book a meeting". JAMAIS "Souscrire" / "Sign up".
+- Pricing : Basic 3€/$3, Standard 10€/$10, Premium/Maps+ 15€/$15, Carte Cadeau solidaire.
+- Email : onlymore2024@gmail.com UNIQUEMENT (JAMAIS contact@colhybri.vision).
+- Ville : Rodilhan (30230), Occitanie.
+
+### i18n
+- 11 locales : en, en-gb, fr, es, pt, de, it, zh, ja, hi, pl.
+- Script `npm run i18n:check` doit retourner 0 missing avant tout commit sur main.
+- Accents FR obligatoires dans TOUS les titres, slogans, footer, CTAs (voir scripts/i18n-check.js).
+
+### Routing
+- `/solution` = source de vérité (pas `/how-it-works`). Redirects 301 configurés dans next.config.mjs.
+- `/en/solution/community-pool` = alias anglais de `/fr/solution/pool-solidaire` (doctrine "community support" en US).
+- `/fr/pour-les-villes` et autres slugs localisés gérés par rewrites.
+
+### Git
+- Commits avec onlymore2024@gmail.com / Florent Gibert.
+- Conventional commits (fix/feat/chore + scope).
+

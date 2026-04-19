@@ -33,6 +33,7 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
 export default function ImpactPage({ params: { locale } }: PageProps) {
   const t = useTranslations('impact');
   const common = useTranslations('common');
+  const nav = useTranslations('nav');
   const tImg = useTranslations('images');
   const l = locale as Locale;
 
@@ -211,18 +212,15 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
       {/* Internal Links (Cocon Semantique) */}
       <section className="bg-colhybri-light">
         <div className="section-container text-center">
-          <h2 className="section-heading mb-10">
-            {common('learnMore')}
-          </h2>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href={getLocalizedPath('for-cities', l)} className="btn-primary">
-              {common('learnMore')}
+              {common('bookDemo')}
             </Link>
             <Link href={getLocalizedPath('investors', l)} className="btn-secondary">
-              {common('learnMore')}
+              {nav('investors')}
             </Link>
             <Link href={getLocalizedPath('pricing', l)} className="btn-accent">
-              {common('learnMore')}
+              {nav('pricing')}
             </Link>
           </div>
         </div>
