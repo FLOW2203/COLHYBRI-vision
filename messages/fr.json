@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "title": "COLHYBRI. Chaque geste compte. Le votre aussi.",
-    "description": "La plateforme qui revitalise les centres-villes par la solidarite de quartier. De Paris a Pittsburgh."
+    "title": "COLHYBRI. Chaque geste compte. Le vôtre aussi.",
+    "description": "La plateforme qui revitalise les centres-villes par la solidarité de quartier. De Paris a Pittsburgh."
   },
   "nav": {
     "home": "Accueil",
@@ -13,7 +13,7 @@
     "forShops": "Commerces",
     "forCities": "Pour les Villes",
     "miami": "Miami",
-    "ecosystem": "Ecosysteme",
+    "ecosystem": "Écosystème",
     "investors": "Investisseurs",
     "blog": "Blog",
     "faq": "FAQ",
@@ -22,10 +22,10 @@
   },
   "hero": {
     "tagline": "Revitalisation des centres-villes",
-    "headline": "Chaque geste compte. Le votre aussi.",
-    "subheadline": "La plateforme qui revitalise les centres-villes par la solidarite de quartier. De Paris a Pittsburgh.",
+    "headline": "Chaque geste compte. Le vôtre aussi.",
+    "subheadline": "La plateforme qui revitalise les centres-villes par la solidarité de quartier. De Paris a Pittsburgh.",
     "cta": "Ouvrir l'app",
-    "ctaSecondary": "Decouvrir notre impact",
+    "ctaSecondary": "Découvrir notre impact",
     "stats": {
       "price": "0%",
       "priceLabel": "Commission COLHYBRI",
@@ -37,7 +37,7 @@
   },
   "problem": {
     "headline": "Le probleme est mesurable",
-    "subheadline": "La vitalite commerciale des centres-villes s'effondre. Les programmes existent. Les outils manquent.",
+    "subheadline": "La vitalité commerciale des centres-villes s'effondre. Les programmes existent. Les outils manquent.",
     "stats": {
       "vacancy": {
         "value": "55",
@@ -60,23 +60,23 @@
     "headline": "Comment COLHYBRI revitalise votre centre-ville",
     "subheadline": "Trois piliers, un meme objectif : faire revivre la rue commercante.",
     "pillar1": {
-      "title": "Solidarite de quartier",
-      "description": "3 EUR par mois. 75% reverses au pool. Des services offerts aleatoirement a un voisin, un commercant, une cause locale.",
+      "title": "Solidarité de quartier",
+      "description": "3€ par mois. 75% reverses au pool. Des services offerts aléatoirement a un voisin, un commerçant, une cause locale.",
       "linkLabel": "Voir le pool solidaire"
     },
     "pillar2": {
-      "title": "Visibilite digitale",
-      "description": "Audit Google automatise. Onboarding zero-friction pour les commercants. Monitoring continu de la presence en ligne.",
+      "title": "Visibilité digitale",
+      "description": "Audit Google automatise. Onboarding zero-friction pour les commerçants. Monitoring continu de la presence en ligne.",
       "linkLabel": "Voir Maps+"
     },
     "pillar3": {
       "title": "Engagement communautaire",
-      "description": "26 mini-jeux locaux. Defis de quartier. Classements par rue commercante. La rue devient un terrain de jeu collectif.",
+      "description": "26 mini-jeux locaux. Défis de quartier. Classements par rue commercante. La rue devient un terrain de jeu collectif.",
       "linkLabel": "Voir la gamification"
     }
   },
   "institutional": {
-    "headline": "Dans l'ecosysteme de revitalisation mondial",
+    "headline": "Dans l'écosystème de revitalisation mondial",
     "subheadline": "COLHYBRI s'inscrit dans les programmes de revitalisation des centres-villes en France, aux USA et en Europe.",
     "badges": [
       "Action Coeur de Ville",
@@ -114,7 +114,7 @@
   },
   "triplePlay": {
     "headline": "Le triple-play ONLYMORE",
-    "subheadline": "Trois piliers, un meme ecosysteme. La revitalisation du centre-ville par le commerce, le sport et le credit.",
+    "subheadline": "Trois piliers, un meme écosystème. La revitalisation du centre-ville par le commerce, le sport et le credit.",
     "col1": {
       "brand": "COLHYBRI",
       "tag": "Commerce de proximite"
@@ -127,13 +127,13 @@
       "brand": "ONLYMORE FINANCE",
       "tag": "Credit solidaire"
     },
-    "quote": "Un club sportif qui remplit le downtown. Des commercants qui font vivre le quartier. Un credit qui finance la croissance."
+    "quote": "Un club sportif qui remplit le downtown. Des commerçants qui font vivre le quartier. Un credit qui finance la croissance."
   },
   "finalCta": {
     "headline": "Pret a revitaliser votre centre-ville ?",
     "cta1": {
       "title": "Ouvrir l'app",
-      "sub": "Particuliers et commercants"
+      "sub": "Particuliers et commerçants"
     },
     "cta2": {
       "title": "Planifier une demo",
@@ -147,37 +147,37 @@
   "mission": {
     "title": "Notre Mission",
     "headline": "Faire notre part, comme le colibri",
-    "description": "Dans une legende amerindienne, alors que la foret brule, le colibri transporte de l'eau goutte a goutte. On lui demande pourquoi. Il repond : je fais ma part. COLHYBRI incarne cet esprit : de petites actions de chacun creent un impact collectif immense sur la vitalite du centre-ville.",
+    "description": "Dans une légende amérindienne, alors que la forêt brule, le colibri transporte de l'eau goutte a goutte. On lui demande pourquoi. Il repond : je fais ma part. COLHYBRI incarne cet esprit : de petites actions de chacun creent un impact collectif immense sur la vitalité du centre-ville.",
     "pillars": {
       "inclusion": {
-        "title": "Solidarite de quartier",
-        "description": "COLHYBRI est une mutuelle de quartier digitale. 3 EUR par mois suffisent a financer un pool solidaire redistribue sous forme de services offerts par les commercants de la rue."
+        "title": "Solidarité de quartier",
+        "description": "COLHYBRI est une mutuelle de quartier digitale. 3 EUR par mois suffisent a financer un pool solidaire redistribue sous forme de services offerts par les commerçants de la rue."
       },
       "commerce": {
         "title": "Commerce de proximite",
-        "description": "Les commerces locaux deviennent les premiers beneficiaires de leur propre quartier. Visibilite digitale, fidelisation, trafic retrouve. Le centre-ville redevient vivant."
+        "description": "Les commerces locaux deviennent les premiers beneficiaires de leur propre quartier. Visibilité digitale, fidelisation, trafic retrouve. Le centre-ville redevient vivant."
       },
       "community": {
         "title": "Engagement collectif",
-        "description": "Quand particuliers et commercants se connectent via COLHYBRI, l'argent circule localement. L'engagement redonne du sens a la rue commercante et a ses habitants."
+        "description": "Quand particuliers et commerçants se connectent via COLHYBRI, l'argent circule localement. L'engagement redonne du sens a la rue commercante et a ses habitants."
       }
     }
   },
   "howItWorks": {
     "title": "Solution",
-    "headline": "Trois etapes simples pour revitaliser votre quartier",
+    "headline": "Trois étapes simples pour revitaliser votre quartier",
     "steps": {
       "subscribe": {
         "title": "Abonnez-vous",
-        "description": "3 EUR par mois, sans engagement. 75% de votre contribution est reversee au pool solidaire de votre quartier."
+        "description": "3€ par mois, sans engagement. 75% de votre contribution est reversee au pool solidaire de votre quartier."
       },
       "connect": {
         "title": "Connectez-vous localement",
-        "description": "Decouvrez les commerces de proximite via Maps+. Audit Google automatique et onboarding zero-friction pour chaque commercant."
+        "description": "Découvrez les commerces de proximite via Maps+. Audit Google automatique et onboarding zero-friction pour chaque commerçant."
       },
       "thrive": {
         "title": "Prosperez ensemble",
-        "description": "Chaque euro circule localement. Les services sont redistribues aleatoirement a un voisin, un commercant, une cause du quartier."
+        "description": "Chaque euro circule localement. Les services sont redistribues aléatoirement a un voisin, un commerçant, une cause du quartier."
       }
     }
   },
@@ -187,37 +187,58 @@
     "ctaApp": "Ouvrir l'app",
     "individuals": {
       "title": "Pour les Particuliers",
-      "price": "3 EUR",
+      "price": "3€",
       "period": "/mois",
       "features": [
-        "Solidarite de quartier mutualisee",
-        "Services offerts aleatoirement",
+        "Solidarité de quartier mutualisee",
+        "Services offerts aléatoirement",
         "26 mini-jeux locaux",
-        "Defis de quartier",
+        "Défis de quartier",
         "Sans engagement",
         "Transparence totale du pool"
       ],
-      "cta": "S'inscrire sur colhybri.com"
+      "cta": "Réserver un rendez-vous"
     },
     "shops": {
       "title": "Pour les Commerces",
-      "price": "10 EUR",
+      "price": "10€",
       "period": "/mois",
       "features": [
         "Audit Google automatise (Maps+)",
         "Onboarding zero-friction",
         "Fidelisation de quartier",
-        "Tableau de bord de vitalite",
-        "Visibilite dans l'app",
+        "Tableau de bord de vitalité",
+        "Visibilité dans l'app",
         "Inscription dans le pool solidaire"
       ],
-      "cta": "S'inscrire sur colhybri.com"
+      "cta": "Réserver un rendez-vous"
+    },
+    "premium": {
+      "title": "Maps+ Premium",
+      "price": "15€",
+      "period": "/mois",
+      "features": [
+        "Audit Google avancé (Maps+ Premium)",
+        "Monitoring continu et alertes",
+        "Accompagnement onboarding dédié",
+        "Inscription prioritaire au pool solidaire",
+        "Tableau de bord vitalité personnalisé",
+        "Outils de développement d'avis"
+      ],
+      "cta": "Réserver un rendez-vous"
+    },
+    "giftCard": {
+      "title": "Carte Cadeau Solidaire",
+      "subtitle": "Offrir un soutien prêt à l'emploi",
+      "description": "Offrez une carte COLHYBRI à un voisin. Utilisable chez les commerces partenaires. Alimente le pool solidaire et récompense les commerçants locaux.",
+      "priceLabel": "Montant variable",
+      "cta": "Découvrir la Carte Cadeau"
     }
   },
   "impact": {
     "title": "Impact",
-    "headline": "Le multiplicateur keynesien en action",
-    "description": "Chaque euro qui circule localement multiplie sa valeur en activite economique. COLHYBRI canalise les depenses vers le commerce de proximite, renforce la vitalite des centres-villes et construit des quartiers plus resilients.",
+    "headline": "Le multiplicateur keynésien en action",
+    "description": "Chaque euro qui circule localement multiplie sa valeur en activite économique. COLHYBRI canalise les dépenses vers le commerce de proximite, renforce la vitalité des centres-villes et construit des quartiers plus résilients.",
     "metrics": {
       "localValue": {
         "value": "x2,5",
@@ -229,12 +250,12 @@
       },
       "moneyLocal": {
         "value": "Important",
-        "label": "Part des depenses restant localement"
+        "label": "Part des dépenses restant localement"
       }
     },
     "regionsMenu": {
       "title": "Explorez par region",
-      "subtitle": "Donnees locales verifiees, pages dediees par sphere linguistique.",
+      "subtitle": "Données locales vérifiées, pages dediees par sphere linguistique.",
       "labels": {
         "france": "France",
         "maroc": "Maroc",
@@ -247,13 +268,21 @@
       },
       "roadmapTitle": "Roadmap internationale",
       "roadmapBody": "Pour les investisseurs et partenaires internationaux, les pages hors sphere francophone restent accessibles par URL directe.",
-      "roadmapSoon": "Bientot"
+      "roadmapSoon": "Bientôt"
+    },
+    "multiplierExplanation": {
+      "title": "Le multiplicateur keynésien",
+      "subscription": "Abonnement",
+      "subscriptionAmount": "3€",
+      "multiplierLabel": "Multiplicateur",
+      "localValueLabel": "Valeur économique locale",
+      "localValueAmount": "7,50€"
     }
   },
   "miami": {
     "title": "Miami",
     "headline": "Miami, ville pilote pour la revitalisation des centres-villes americains",
-    "description": "Miami-Dade combine un ecosysteme de commerces locaux dense, une population bilingue et un agenda de revitalisation des centres-villes. C'est un pilote pertinent pour le deploiement de COLHYBRI aux Etats-Unis.",
+    "description": "Miami-Dade combine un écosystème de commerces locaux dense, une population bilingue et un agenda de revitalisation des centres-villes. C'est un pilote pertinent pour le deploiement de COLHYBRI aux Etats-Unis.",
     "whyMiami": {
       "title": "Pourquoi Miami ?",
       "reasons": [
@@ -266,28 +295,28 @@
   },
   "forIndividuals": {
     "title": "Pour les Particuliers",
-    "headline": "Chaque geste compte. Le votre aussi.",
-    "description": "3 EUR par mois alimentent un pool solidaire qui transforme votre quartier. Decouvrez les commerces de proximite, offrez des services aleatoirement, jouez aux mini-jeux hyperlocaux. Votre geste compte. Le sien aussi."
+    "headline": "Chaque geste compte. Le vôtre aussi.",
+    "description": "3€ par mois alimentent un pool solidaire qui transforme votre quartier. Découvrez les commerces de proximite, offrez des services aléatoirement, jouez aux mini-jeux hyperlocaux. Votre geste compte. Le sien aussi."
   },
   "forShops": {
     "title": "Pour les Commerces",
     "headline": "Votre commerce au coeur du quartier",
-    "description": "Rejoignez COLHYBRI et reprenez le controle de votre visibilite digitale. Audit Google automatique, onboarding zero-friction, tableau de bord de vitalite. Faites revenir le trafic dans votre rue commercante."
+    "description": "Rejoignez COLHYBRI et reprenez le contrôle de votre visibilité digitale. Audit Google automatique, onboarding zero-friction, tableau de bord de vitalité. Faites revenir le trafic dans votre rue commercante."
   },
   "forCities": {
     "title": "Pour les Villes",
     "headline": "Revitalisez votre centre-ville avec COLHYBRI",
     "description": "Les villes partenaires de COLHYBRI constatent des augmentations mesurables de l'activité économique locale. Notre plateforme renforce le tissu commercial des quartiers tout en avançant les objectifs d'inclusion financière.",
     "benefits": {
-      "multiplier": "Hausse mesurable de l'activite economique locale grace au multiplicateur keynesien",
-      "inclusion": "Avancer les objectifs d'inclusion financiere pour les residents non-bancarises",
+      "multiplier": "Hausse mesurable de l'activite économique locale grace au multiplicateur keynésien",
+      "inclusion": "Avancer les objectifs d'inclusion financière pour les residents non-bancarises",
       "fabric": "Renforcer le tissu commercial des quartiers et soutenir les commerces locaux",
-      "dashboard": "Tableau de bord d'impact en temps reel : emplois, depenses et croissance communautaire"
+      "dashboard": "Tableau de bord d'impact en temps réel : emplois, dépenses et croissance communautaire"
     }
   },
   "ecosystem": {
-    "title": "Ecosysteme",
-    "headline": "L'Ecosysteme COLHYBRI",
+    "title": "Écosystème",
+    "headline": "L'Écosystème COLHYBRI",
     "description": "COLHYBRI est une plateforme technologique dédiée à l'inclusion financière par le commerce local. Notre écosystème connecte particuliers, commerces locaux et collectivités.",
     "pillars": {
       "individuals": {
@@ -322,7 +351,7 @@
       },
       {
         "q": "Combien coûte COLHYBRI ?",
-        "a": "Les tarifs seront annoncés prochainement. COLHYBRI est conçu pour être accessible aux particuliers comme aux commerces locaux. Il n'y aura pas de frais cachés, pas de vérification de crédit et pas de solde minimum requis."
+        "a": "3€/mois pour les particuliers. 10€/mois pour les commerces. 15€/mois pour Maps+ Premium. Zéro commission. Inscription sur colhybri.com."
       },
       {
         "q": "Ai-je besoin d'un compte bancaire pour utiliser COLHYBRI ?",
@@ -346,20 +375,21 @@
     "title": "Contact",
     "headline": "Contactez-Nous",
     "description": "Intéressé par COLHYBRI ? Que vous soyez un particulier, un commerçant, un élu local ou un investisseur, nous serions ravis d'échanger avec vous.",
-    "email": "contact@colhybri.vision",
-    "cta": "Envoyer un Message"
+    "email": "onlymore2024@gmail.com",
+    "cta": "Envoyer un Message",
+    "headquarters": "Siège"
   },
   "footer": {
-    "tagline": "Chaque geste compte. Le votre aussi.",
-    "quote": "Je fais ma part. Legende amerindienne du colibri.",
+    "tagline": "Chaque geste compte. Le vôtre aussi.",
+    "quote": "Je fais ma part. Légende amérindienne du colibri.",
     "group": "Un projet ONLYMORE Group",
-    "copyright": "2026 COLHYBRI. Tous droits reserves.",
+    "copyright": "2026 COLHYBRI. Tous droits réservés.",
     "links": {
       "about": "A propos",
-      "privacy": "Politique de confidentialite",
+      "privacy": "Politique de confidentialité",
       "terms": "Conditions d'utilisation"
     },
-    "accessApp": "Acceder a l'application COLHYBRI"
+    "accessApp": "Accéder a l'application COLHYBRI"
   },
   "localStats": {
     "title": "Impact Local en France",
@@ -369,15 +399,15 @@
   },
   "thirdPlace": {
     "label": "Barometre Confiance & Solitude",
-    "headline": "1,4 milliard d'adultes sont seuls. COLHYBRI est le tiers-lieu numerique.",
-    "subheadline": "La confiance sociale s'effondre partout dans le monde. Exclusion financiere et solitude s'alimentent mutuellement. COLHYBRI construit la communaute par l'inclusion financiere.",
+    "headline": "1,4 milliard d'adultes sont seuls. COLHYBRI est le tiers-lieu numérique.",
+    "subheadline": "La confiance sociale s'effondre partout dans le monde. Exclusion financière et solitude s'alimentent mutuellement. COLHYBRI construit la communaute par l'inclusion financière.",
     "stats": {
       "lonely": "Adultes seuls dans le monde",
       "distrust": "Taux de defiance en France",
       "increase": "Hausse de l'isolement post-2019",
       "ministers": "Pays avec ministre de la solitude"
     },
-    "cta": "Explorer les donnees regionales",
+    "cta": "Explorer les données regionales",
     "sources": "Sources"
   },
   "regionImpact": {
@@ -390,29 +420,29 @@
     "loneliness": "Taux de solitude",
     "trust": "Taux de confiance",
     "unbanked": "Taux de non-bancarisation",
-    "sourcesTitle": "Sources des Donnees",
+    "sourcesTitle": "Sources des Données",
     "otherRegions": "Explorer d'Autres Regions",
     "ctaHeadline": "Rejoignez le Mouvement",
-    "ctaButton": "Decouvrir COLHYBRI",
+    "ctaButton": "Découvrir COLHYBRI",
     "faq": {
       "q1": "Comment COLHYBRI peut-il aider cette region ?",
-      "q2": "Que nous disent les donnees ?"
+      "q2": "Que nous disent les données ?"
     }
   },
   "common": {
     "learnMore": "En savoir plus",
     "getStarted": "Commencer",
     "contactUs": "Nous contacter",
-    "bookDemo": "Reserver une demo",
+    "bookDemo": "Réserver une demo",
     "applyWithColhybri": "Candidater avec COLHYBRI",
     "institutionalPartnership": "Partenariat institutionnel",
     "proposePilot": "Proposer un pilote",
-    "discoverSolution": "Decouvrir la solution",
+    "discoverSolution": "Découvrir la solution",
     "backToHome": "Retour a l'accueil"
   },
   "city": {
-    "metaTitle": "COLHYBRI a {city}. Revitaliser votre centre-ville par la solidarite de quartier.",
-    "metaDescription": "COLHYBRI renforce le commerce local a {city}, {region}. Rejoignez le mouvement d'inclusion financiere dans votre quartier.",
+    "metaTitle": "COLHYBRI a {city}. Revitaliser votre centre-ville par la solidarité de quartier.",
+    "metaDescription": "COLHYBRI renforce le commerce local a {city}, {region}. Rejoignez le mouvement d'inclusion financière dans votre quartier.",
     "heroTitle": "COLHYBRI a {city}",
     "heroDescription": "{city} et ses {population} habitants meritent des services financiers accessibles. COLHYBRI connecte les personnes non-bancarisees aux commerces de quartier pour batir une economie communautaire.",
     "ctaJoin": "Rejoindre le mouvement",
@@ -422,28 +452,28 @@
     "statShopsValue": "1000+",
     "statShops": "Commerces locaux",
     "statMultiplierValue": "×2,5",
-    "statMultiplier": "Multiplicateur keynesien",
+    "statMultiplier": "Multiplicateur keynésien",
     "benefitsTitle": "Benefices pour le commerce local",
-    "benefit1Title": "Inclusion financiere",
-    "benefit1Description": "Donnez aux residents non-bancarises de {city} un acces aux services financiers essentiels via les commerces de quartier.",
-    "benefit2Title": "Multiplicateur keynesien",
-    "benefit2Description": "Chaque euro depense localement a {city} multiplie son impact economique dans la communaute.",
+    "benefit1Title": "Inclusion financière",
+    "benefit1Description": "Donnez aux residents non-bancarises de {city} un accès aux services financiers essentiels via les commerces de quartier.",
+    "benefit2Title": "Multiplicateur keynésien",
+    "benefit2Description": "Chaque euro dépense localement a {city} multiplie son impact économique dans la communaute.",
     "benefit3Title": "Hub communautaire",
-    "benefit3Description": "Les commerces locaux de {city} deviennent des tiers-lieux numeriques, ou la solidarite de quartier rencontre la revitalisation du centre-ville.",
+    "benefit3Description": "Les commerces locaux de {city} deviennent des tiers-lieux numériques, ou la solidarité de quartier rencontre la revitalisation du centre-ville.",
     "benefit4Title": "Tableau de bord d'impact",
-    "benefit4Description": "Suivez l'impact economique en temps reel : emplois crees, argent circulant localement a {city}.",
+    "benefit4Description": "Suivez l'impact économique en temps réel : emplois crees, argent circulant localement a {city}.",
     "ctaTitle": "Pret a transformer {city} ?",
-    "ctaDescription": "Rejoignez COLHYBRI et construisez l'inclusion financiere dans votre quartier.",
+    "ctaDescription": "Rejoignez COLHYBRI et construisez l'inclusion financière dans votre quartier.",
     "ctaButton": "Nous contacter"
   },
   "games": {
     "title": "Jeux COLHYBRI",
-    "subtitle": "Jouez, apprenez et decouvrez la puissance du commerce local. Chaque geste compte !",
+    "subtitle": "Jouez, apprenez et découvrez la puissance du commerce local. Chaque geste compte !",
     "iframeTitle": "Mini-jeux COLHYBRI",
     "loading": "Chargement des jeux...",
-    "ctaTitle": "Chaque geste compte. Le votre aussi.",
+    "ctaTitle": "Chaque geste compte. Le vôtre aussi.",
     "ctaDescription": "Pret a faire une vraie difference ? Rejoignez COLHYBRI et transformez votre communaute.",
-    "ctaButton": "S'inscrire maintenant"
+    "ctaButton": "Réserver un rendez-vous"
   },
   "cocon": {
     "common": {
@@ -522,19 +552,19 @@
         "title": "Fidelisation communautaire"
       },
       "google-maps-commerce": {
-        "title": "Google Maps pour commercants"
+        "title": "Google Maps pour commerçants"
       },
       "visibilite-google-pme": {
-        "title": "Visibilite Google pour PME"
+        "title": "Visibilité Google pour PME"
       },
       "seo-local-commerce": {
         "title": "SEO local pour commerces"
       },
       "avis-google-commercants": {
-        "title": "Avis Google pour commercants"
+        "title": "Avis Google pour commerçants"
       },
       "onboarding-digital-commerce": {
-        "title": "Onboarding digital commercant"
+        "title": "Onboarding digital commerçant"
       },
       "score-maps-audit": {
         "title": "Score Maps audit"
@@ -552,7 +582,7 @@
       "sections": [
         {
           "h2": "Qu'est-ce que la revitalisation des centres-villes ?",
-          "body": "La revitalisation des centres-villes designe l'ensemble des politiques publiques qui redynamisent les coeurs commercants frappes par la vacance et la devitalisation. Elle s'articule autour de trois leviers : l'habitat, le commerce de proximite et les services publics. L'Agence Nationale de la Cohesion des Territoires (ANCT) pilote les programmes nationaux en lien avec la Banque des Territoires."
+          "body": "La revitalisation des centres-villes designe l'ensemble des politiques publiques qui redynamisent les coeurs commerçants frappes par la vacance et la devitalisation. Elle s'articule autour de trois leviers : l'habitat, le commerce de proximite et les services publics. L'Agence Nationale de la Cohesion des Territoires (ANCT) pilote les programmes nationaux en lien avec la Banque des Territoires."
         },
         {
           "h2": "Quels sont les programmes nationaux en France ?",
@@ -560,13 +590,13 @@
         },
         {
           "h2": "Comment COLHYBRI contribue-t-il a la revitalisation ?",
-          "body": "COLHYBRI apporte le maillon manquant : un outil SaaS de mesure de la vitalite commerciale en temps reel. Le module Maps+ audite la presence Google de chaque commerce en 48 heures, le pool solidaire genere du trafic vers les commercants partenaires et le dashboard municipal fournit au conseil municipal des metriques verifiables. Un pilote gratuit de 90 jours permet a une commune de tester le dispositif sur 50 commerces avant tout engagement."
+          "body": "COLHYBRI apporte le maillon manquant : un outil SaaS de mesure de la vitalité commerciale en temps réel. Le module Maps+ audite la presence Google de chaque commerce en 48 heures, le pool solidaire génère du trafic vers les commerçants partenaires et le dashboard municipal fournit au conseil municipal des metriques verifiables. Un rendez-vous de 30 minutes permet à une commune de cadrer le déploiement clé en main sur 50 commerces."
         }
       ],
       "faq": [
         {
           "q": "Qu'est-ce que la revitalisation des centres-villes ?",
-          "a": "Des politiques publiques qui redynamisent les coeurs commercants via trois leviers : habitat, commerce et services. En France elle est pilotee par l'ANCT a travers les programmes Action Coeur de Ville et Petites Villes de Demain."
+          "a": "Des politiques publiques qui redynamisent les coeurs commerçants via trois leviers : habitat, commerce et services. En France elle est pilotee par l'ANCT a travers les programmes Action Coeur de Ville et Petites Villes de Demain."
         },
         {
           "q": "Quels sont les programmes nationaux en France ?",
@@ -574,7 +604,7 @@
         },
         {
           "q": "Comment COLHYBRI aide-t-il une commune concretement ?",
-          "a": "Pilote gratuit de 90 jours : audit Google de 50 commerces, dashboard municipal de vitalite, rapport d'impact pour le conseil municipal et accompagnement au deploiement terrain."
+          "a": "Déploiement clé en main : audit Google de 50 commerces, dashboard municipal de vitalité, rapport d'impact pour le conseil municipal et accompagnement au deploiement terrain."
         }
       ],
       "stats": [
@@ -620,19 +650,19 @@
       "h1": "Action Coeur de Ville : le programme de revitalisation des villes moyennes",
       "metaTitle": "Action Coeur de Ville : 244 villes, 5 Mds EUR, 2023-2026",
       "metaDescription": "Action Coeur de Ville mobilise 5 Mds EUR pour revitaliser 244 villes moyennes. Pilote par l'ANCT, Banque des Territoires, Action Logement et Anah.",
-      "snippet": "Action Coeur de Ville est un programme national lance en 2018 qui mobilise 5 milliards d'euros sur 2023-2026 pour revitaliser 244 villes moyennes francaises. Pilote par l'ANCT avec Banque des Territoires (2,5 Mds EUR), Action Logement (1,7 Md EUR) et l'Anah (1 Md EUR), il couvre la renovation de l'habitat, le retour des commerces et la transition numerique.",
+      "snippet": "Action Coeur de Ville est un programme national lance en 2018 qui mobilise 5 milliards d'euros sur 2023-2026 pour revitaliser 244 villes moyennes francaises. Pilote par l'ANCT avec Banque des Territoires (2,5 Mds EUR), Action Logement (1,7 Md EUR) et l'Anah (1 Md EUR), il couvre la renovation de l'habitat, le retour des commerces et la transition numérique.",
       "sections": [
         {
           "h2": "Qu'est-ce que le programme Action Coeur de Ville ?",
-          "body": "Action Coeur de Ville (ACV) est le programme phare de l'Etat pour redynamiser les villes moyennes. Lance en 2018, il regroupe desormais 244 communes et 20 millions d'habitants. Le perimetre couvre cinq axes : habitat, commerces, accessibilite, mise en valeur de l'espace public et transition numerique. Le financement croise Banque des Territoires, Action Logement et Anah."
+          "body": "Action Coeur de Ville (ACV) est le programme phare de l'Etat pour redynamiser les villes moyennes. Lance en 2018, il regroupe desormais 244 communes et 20 millions d'habitants. Le perimetre couvre cinq axes : habitat, commerces, accessibilite, mise en valeur de l'espace public et transition numérique. Le financement croise Banque des Territoires, Action Logement et Anah."
         },
         {
           "h2": "Quelles villes beneficient de ACV ?",
-          "body": "Les 244 villes ACV incluent des chefs-lieux departementaux et des sous-prefectures confrontes a la devitalisation commerciale. Parmi les laureates emblematiques : Nimes, Chalon-sur-Saone, Draguignan, Montlucon, Roanne, Saint-Brieuc. Chaque commune beneficie d une convention pluriannuelle avec un chef de projet dedie et un acces prioritaire aux credits ANCT."
+          "body": "Les 244 villes ACV incluent des chefs-lieux departementaux et des sous-prefectures confrontes a la devitalisation commerciale. Parmi les laureates emblematiques : Nimes, Chalon-sur-Saone, Draguignan, Montlucon, Roanne, Saint-Brieuc. Chaque commune bénéficie d une convention pluriannuelle avec un chef de projet dedie et un accès prioritaire aux credits ANCT."
         },
         {
-          "h2": "Comment un commerce beneficie-t-il de ACV ?",
-          "body": "Un commerce situe dans le perimetre ACV peut beneficier d aides a la renovation de vitrine, de subventions au loyer, de la prime numerique, ou du dispositif Petites Villes de Demain s il est complementaire. COLHYBRI permet au manager de commerce ACV de piloter la visibilite digitale de l ensemble des commerces du perimetre via un dashboard municipal unique."
+          "h2": "Comment un commerce bénéficie-t-il de ACV ?",
+          "body": "Un commerce situe dans le perimetre ACV peut bénéficier d aides a la renovation de vitrine, de subventions au loyer, de la prime numérique, ou du dispositif Petites Villes de Demain s il est complementaire. COLHYBRI permet au manager de commerce ACV de piloter la visibilité digitale de l ensemble des commerces du perimetre via un dashboard municipal unique."
         }
       ],
       "faq": [
@@ -646,7 +676,7 @@
         },
         {
           "q": "Comment COLHYBRI complete le programme ?",
-          "a": "COLHYBRI fournit au manager de commerce ACV un dashboard municipal de vitalite commerciale en temps reel et audite la presence Google de chaque commerce en 48 heures."
+          "a": "COLHYBRI fournit au manager de commerce ACV un dashboard municipal de vitalité commerciale en temps réel et audite la presence Google de chaque commerce en 48 heures."
         }
       ],
       "stats": [
@@ -664,7 +694,7 @@
         },
         {
           "value": "2018",
-          "label": "annee de lancement"
+          "label": "année de lancement"
         }
       ]
     },
@@ -681,11 +711,11 @@
         },
         {
           "h2": "Comment candidater a PVD ?",
-          "body": "Les communes ont ete selectionnees par l'ANCT et les prefets de region sur criteres de centralite et de fragilite. Une commune deja classee peut acceder aux aides en signant la convention ORT. Les nouveaux appels sont rares : PVD est desormais dans sa phase de deploiement operationnel jusqu'a fin 2026."
+          "body": "Les communes ont ete selectionnees par l'ANCT et les prefets de region sur criteres de centralite et de fragilite. Une commune deja classee peut accéder aux aides en signant la convention ORT. Les nouveaux appels sont rares : PVD est desormais dans sa phase de deploiement opérationnel jusqu'a fin 2026."
         },
         {
           "h2": "Comment COLHYBRI complete PVD ?",
-          "body": "COLHYBRI est l outil operationnel de mesure de la vitalite commerciale pour les chefs de projet PVD. Pilote gratuit 90 jours sur 50 commerces, dashboard municipal, rapport d impact pour le conseil municipal. Particulierement adapte aux petites communes qui n ont pas de manager de commerce dedie."
+          "body": "COLHYBRI est l outil opérationnel de mesure de la vitalité commerciale pour les chefs de projet PVD. Déploiement clé en main sur 50 commerces, dashboard municipal, rapport d'impact pour le conseil municipal. Particulièrement adapté aux petites communes qui n ont pas de manager de commerce dedie."
         }
       ],
       "faq": [
@@ -699,7 +729,7 @@
         },
         {
           "q": "Comment COLHYBRI aide une commune PVD ?",
-          "a": "Pilote gratuit 90 jours : audit Google de 50 commerces, dashboard de vitalite en temps reel, rapport d'impact pour le conseil municipal."
+          "a": "Déploiement clé en main : audit Google de 50 commerces, dashboard de vitalité en temps réel, rapport d'impact pour le conseil municipal."
         }
       ],
       "stats": [
@@ -717,7 +747,7 @@
         },
         {
           "value": "2020",
-          "label": "annee de lancement"
+          "label": "année de lancement"
         }
       ]
     },
@@ -730,7 +760,7 @@
       "sections": [
         {
           "h2": "Qu'est-ce qu'une ZRCV ?",
-          "body": "Une zone de revitalisation des centres-villes est un perimetre fiscal delimite par la commune. A l'interieur de la zone, les commerces peuvent beneficier d'exonerations de Cotisation Fonciere des Entreprises (CFE) et de taxe fonciere sur les proprietes baties. La loi Pinel a etendu le dispositif en 2018 et l'arrete du 26 decembre 2025 a actualise la liste."
+          "body": "Une zone de revitalisation des centres-villes est un perimetre fiscal delimite par la commune. A l'interieur de la zone, les commerces peuvent bénéficier d'exonerations de Cotisation Fonciere des Entreprises (CFE) et de taxe fonciere sur les proprietes baties. La loi Pinel a etendu le dispositif en 2018 et l'arrete du 26 decembre 2025 a actualise la liste."
         },
         {
           "h2": "Comment savoir si ma commune est en ZRCV ?",
@@ -738,7 +768,7 @@
         },
         {
           "h2": "Comment COLHYBRI aide une commune ZRCV ?",
-          "body": "COLHYBRI complete le dispositif fiscal par un outil de pilotage : audit Google des commerces du perimetre en 48 heures, dashboard de vitalite commerciale, rapport d'impact pour le conseil municipal. Le combine exoneration fiscale + outil digital maximise les chances de reussite de la revitalisation."
+          "body": "COLHYBRI complete le dispositif fiscal par un outil de pilotage : audit Google des commerces du perimetre en 48 heures, dashboard de vitalité commerciale, rapport d'impact pour le conseil municipal. Le combine exoneration fiscale + outil digital maximise les chances de reussite de la revitalisation."
         }
       ],
       "faq": [
@@ -787,11 +817,11 @@
         },
         {
           "h2": "Qui finance le manager de commerce ?",
-          "body": "Historiquement, les managers de commerce etaient finances par les CCI sur fonds propres. Depuis 2025, un co-financement Etat-CCI-commune a ete mis en place dans le cadre du plan commerce. Les villes Action Coeur de Ville et Petites Villes de Demain beneficient d'un acces prioritaire a ce dispositif de co-financement."
+          "body": "Historiquement, les managers de commerce etaient finances par les CCI sur fonds propres. Depuis 2025, un co-financement Etat-CCI-commune a ete mis en place dans le cadre du plan commerce. Les villes Action Coeur de Ville et Petites Villes de Demain beneficient d'un accès prioritaire a ce dispositif de co-financement."
         },
         {
           "h2": "Comment un manager de commerce utilise COLHYBRI ?",
-          "body": "COLHYBRI est l outil numerique du manager de commerce. Le dashboard municipal lui permet de suivre en temps reel le Score Maps de chaque commerce, de reperer les fiches Google incompletes, de relancer les commercants sans avis recents, et de mesurer l impact de ses actions sur la vitalite commerciale. Audit automatise en 48 heures."
+          "body": "COLHYBRI est l outil numérique du manager de commerce. Le dashboard municipal lui permet de suivre en temps réel le Score Maps de chaque commerce, de reperer les fiches Google incompletes, de relancer les commerçants sans avis recents, et de mesurer l impact de ses actions sur la vitalité commerciale. Audit automatise en 48 heures."
         }
       ],
       "faq": [
@@ -801,17 +831,17 @@
         },
         {
           "q": "Qui finance le manager de commerce ?",
-          "a": "Historiquement les CCI ; depuis 2025 un co-financement Etat-CCI-commune. Les villes ACV et PVD ont un acces prioritaire au dispositif."
+          "a": "Historiquement les CCI ; depuis 2025 un co-financement Etat-CCI-commune. Les villes ACV et PVD ont un accès prioritaire au dispositif."
         },
         {
           "q": "Comment COLHYBRI aide un manager de commerce ?",
-          "a": "COLHYBRI fournit un dashboard municipal de vitalite commerciale, un audit Google automatise en 48 heures et un rapport d impact pour le conseil municipal."
+          "a": "COLHYBRI fournit un dashboard municipal de vitalité commerciale, un audit Google automatise en 48 heures et un rapport d impact pour le conseil municipal."
         }
       ],
       "stats": [
         {
           "value": "2025",
-          "label": "annee co-financement"
+          "label": "année co-financement"
         },
         {
           "value": "Etat-CCI",
@@ -823,7 +853,7 @@
         },
         {
           "value": "10 EUR",
-          "label": "abonnement commercant"
+          "label": "abonnement commerçant"
         }
       ]
     },
@@ -844,7 +874,7 @@
         },
         {
           "h2": "Comment reduire la vacance commerciale ?",
-          "body": "La revitalisation des centres-villes combine plusieurs leviers : fiscal (ZRCV), operationnel (manager de commerce), architectural (renovation de vitrine), et digital (visibilite en ligne). COLHYBRI apporte le pilier digital : audit Google de chaque commerce en 48 heures et pool solidaire qui genere du trafic vers les commercants restants."
+          "body": "La revitalisation des centres-villes combine plusieurs leviers : fiscal (ZRCV), opérationnel (manager de commerce), architectural (renovation de vitrine), et digital (visibilité en ligne). COLHYBRI apporte le pilier digital : audit Google de chaque commerce en 48 heures et pool solidaire qui génère du trafic vers les commerçants restants."
         }
       ],
       "faq": [
@@ -858,7 +888,7 @@
         },
         {
           "q": "Comment la reduire dans ma commune ?",
-          "a": "Combinaison fiscal (ZRCV), operationnel (manager de commerce), architectural (renovation) et digital (COLHYBRI). Pilote gratuit 90 jours disponible."
+          "a": "Combinaison fiscal (ZRCV), opérationnel (manager de commerce), architectural (renovation) et digital (COLHYBRI). Déploiement clé en main disponible."
         }
       ],
       "stats": [
@@ -876,7 +906,7 @@
         },
         {
           "value": "2024",
-          "label": "donnees CCI France"
+          "label": "données CCI France"
         }
       ]
     },
@@ -884,20 +914,20 @@
       "title": "Municipales 2026 et commerce",
       "h1": "Municipales 2026 : la revitalisation commerciale comme enjeu electoral",
       "metaTitle": "Municipales 2026 : commerce et centre-ville, enjeu numero 1",
-      "metaDescription": "Les municipales 2026 placent la revitalisation commerciale au premier rang des enjeux. La Confederation des Commercants de France a publie un Livre blanc.",
-      "snippet": "A l'approche des elections municipales de 2026, la revitalisation des centres-villes s'impose comme l'enjeu central des projets de mandat. La Confederation des Commercants de France (CDF) a publie un Livre blanc proposant des solutions articulees autour de quatre axes : commerces vacants, mobilites douces, animation commerciale et securite.",
+      "metaDescription": "Les municipales 2026 placent la revitalisation commerciale au premier rang des enjeux. La Confederation des Commerçants de France a publie un Livre blanc.",
+      "snippet": "A l'approche des elections municipales de 2026, la revitalisation des centres-villes s'impose comme l'enjeu central des projets de mandat. La Confederation des Commerçants de France (CDF) a publie un Livre blanc proposant des solutions articulees autour de quatre axes : commerces vacants, mobilites douces, animation commerciale et securite.",
       "sections": [
         {
           "h2": "Pourquoi le commerce est-il l'enjeu des municipales 2026 ?",
           "body": "Apres 15 ans de hausse continue de la vacance commerciale, les centres-villes sont devenus le symbole visible du declin territorial. Les candidats aux municipales 2026 doivent repondre a une attente forte des habitants : voir leur rue commercante revivre. Selon plusieurs sondages, le commerce arrive en tete des preoccupations locales devant la securite et la mobilite."
         },
         {
-          "h2": "Que propose la Confederation des Commercants de France ?",
+          "h2": "Que propose la Confederation des Commerçants de France ?",
           "body": "La CDF a publie un Livre blanc pour les municipales 2026 articule autour de quatre axes : reduire la vacance commerciale (via ZRCV et encadrement des loyers), favoriser les mobilites douces (pietonnisation ciblee), animer les centres-villes (evenements, marches), et renforcer la securite (presence policiere, eclairage). Le document est disponible sur le site de la CDF."
         },
         {
           "h2": "Comment COLHYBRI aide un candidat a construire son programme ?",
-          "body": "COLHYBRI fournit aux candidats aux municipales un diagnostic objectif de la vitalite commerciale de leur centre-ville : taux de vacance, Score Maps moyen, fiches Google incompletes, commerces sans avis recents. Le pilote gratuit 90 jours permet de presenter un plan d action concret avec des metriques avant / apres."
+          "body": "COLHYBRI fournit aux candidats aux municipales un diagnostic objectif de la vitalité commerciale de leur centre-ville : taux de vacance, Score Maps moyen, fiches Google incompletes, commerces sans avis recents. Le déploiement clé en main permet de présenter un plan d'action concret avec des métriques avant / après."
         }
       ],
       "faq": [
@@ -907,17 +937,17 @@
         },
         {
           "q": "Que propose la CDF pour les municipales ?",
-          "a": "Un Livre blanc articule autour de 4 axes : vacance commerciale, mobilites douces, animation et securite. Disponible sur le site de la Confederation des Commercants de France."
+          "a": "Un Livre blanc articule autour de 4 axes : vacance commerciale, mobilites douces, animation et securite. Disponible sur le site de la Confederation des Commerçants de France."
         },
         {
           "q": "Comment COLHYBRI aide un candidat ?",
-          "a": "Diagnostic objectif de la vitalite commerciale, Score Maps par commerce, pilote gratuit 90 jours pour construire un plan d action avec metriques avant / apres."
+          "a": "Diagnostic objectif de la vitalité commerciale, Score Maps par commerce, déploiement clé en main pour construire un plan d'action avec métriques avant / après."
         }
       ],
       "stats": [
         {
           "value": "2026",
-          "label": "annee electorale"
+          "label": "année electorale"
         },
         {
           "value": "#1",
@@ -929,7 +959,7 @@
         },
         {
           "value": "90j",
-          "label": "pilote gratuit"
+          "label": "déploiement"
         }
       ]
     },
@@ -938,32 +968,32 @@
       "h1": "Digitaliser le commerce de proximite : enjeux et solutions 2026",
       "metaTitle": "Digitalisation commerce proximite 2026 : guide COLHYBRI",
       "metaDescription": "75% des PME commerciales sont invisibles sur Google en 2026. Guide complet de la digitalisation : audit, onboarding, monitoring.",
-      "snippet": "75% des PME commerciales sont invisibles sur Google en 2026. La digitalisation du commerce de proximite passe par trois etapes : l'audit de presence digitale (Score Maps), l'optimisation de la fiche Google Business (onboarding zero-friction), et le monitoring continu des avis clients. COLHYBRI propose ces trois services pour 10 EUR/mois avec 0% de commission.",
+      "snippet": "75% des PME commerciales sont invisibles sur Google en 2026. La digitalisation du commerce de proximite passe par trois étapes : l'audit de presence digitale (Score Maps), l'optimisation de la fiche Google Business (onboarding zero-friction), et le monitoring continu des avis clients. COLHYBRI propose ces trois services pour 10 EUR/mois avec 0% de commission.",
       "sections": [
         {
           "h2": "Pourquoi digitaliser le commerce de proximite ?",
           "body": "La presence digitale est devenue le premier point de contact entre un commerce et ses clients. 76% des recherches 'pres de moi' aboutissent a un achat dans les 24 heures (Google, 2025). Un commerce invisible sur Google perd mecaniquement des clients potentiels au profit de ses concurrents mieux references."
         },
         {
-          "h2": "Quelles sont les 3 etapes de la digitalisation ?",
+          "h2": "Quelles sont les 3 étapes de la digitalisation ?",
           "body": "Etape 1 : l'audit de presence digitale (Score Maps en 48 heures, evaluation de la fiche Google Business et des avis). Etape 2 : l'optimisation zero-friction (onboarding en 30 secondes, completion de la fiche, ajout de photos). Etape 3 : le monitoring continu (alertes sur les avis negatifs, suivi du positionnement, generation d'avis via QR code post-visite)."
         },
         {
           "h2": "Combien coute la digitalisation avec COLHYBRI ?",
-          "body": "COLHYBRI propose un abonnement commercant a 10 EUR par mois avec 0% de commission. Ce tarif inclut l'audit Maps+, l'onboarding Google Places, la generation d'avis post-visite et le monitoring en temps reel. Compare aux plateformes de livraison (30% de commission UberEats, 25% JustEat), COLHYBRI preserve les marges des petits commerces."
+          "body": "COLHYBRI propose un abonnement commerçant a 10 EUR par mois avec 0% de commission. Ce tarif inclut l'audit Maps+, l'onboarding Google Places, la generation d'avis post-visite et le monitoring en temps réel. Compare aux plateformes de livraison (30% de commission UberEats, 25% JustEat), COLHYBRI preserve les marges des petits commerces."
         }
       ],
       "faq": [
         {
-          "q": "Pourquoi un commerce doit-il etre digitalise ?",
+          "q": "Pourquoi un commerce doit-il être digitalise ?",
           "a": "76% des recherches 'pres de moi' aboutissent a un achat dans les 24 heures. Un commerce invisible sur Google perd mecaniquement des clients au profit de ses concurrents mieux references."
         },
         {
-          "q": "Quelles sont les etapes de la digitalisation ?",
+          "q": "Quelles sont les étapes de la digitalisation ?",
           "a": "Audit Score Maps en 48h, onboarding Google Business en 30 secondes, monitoring continu avec generation d avis post-visite."
         },
         {
-          "q": "Combien coute COLHYBRI pour un commercant ?",
+          "q": "Combien coute COLHYBRI pour un commerçant ?",
           "a": "10 EUR par mois avec 0% de commission. Inclut audit, onboarding, generation d avis et monitoring."
         }
       ],
@@ -995,7 +1025,7 @@
       "sections": [
         {
           "h2": "Quels sont les programmes americains de revitalisation ?",
-          "body": "Trois programmes dominent : les Opportunity Zones (dispositif fiscal federal cree en 2017, rendu permanent en 2025), Main Street America (reseau de 1 200+ communautes utilisant l'approche de preservation-based economic development), et les subventions RAISE du Department of Transportation (USD 23,7M pour East Moline, USD 20M pour Allentown). Les credits d'impot historiques (20% federal + 25% etat) completent le dispositif."
+          "body": "Trois programmes dominent : les Opportunity Zones (dispositif fiscal federal créé en 2017, rendu permanent en 2025), Main Street America (réseau de 1 200+ communautes utilisant l'approche de preservation-based economic development), et les subventions RAISE du Department of Transportation (USD 23,7M pour East Moline, USD 20M pour Allentown). Les credits d'impot historiques (20% federal + 25% etat) completent le dispositif."
         },
         {
           "h2": "Qu'est-ce que le One Big Beautiful Bill Act ?",
@@ -1003,7 +1033,7 @@
         },
         {
           "h2": "Comment COLHYBRI complete ces programmes ?",
-          "body": "COLHYBRI is the SaaS that makes Main Street measurable. Le dashboard municipal fournit des metriques de vitalite commerciale en temps reel, ideal pour justifier les investissements en Opportunity Zone ou les renouvellements de subvention federale. Pilote gratuit 90 jours sur 50 commerces avant tout engagement."
+          "body": "COLHYBRI is the SaaS that makes Main Street measurable. Le dashboard municipal fournit des metriques de vitalité commerciale en temps réel, ideal pour justifier les investissements en Opportunity Zone ou les renouvellements de subvention federale. Déploiement clé en main sur 50 commerces, financé par les habitants à 3€/mois. Sans engagement pour la commune."
         }
       ],
       "faq": [
@@ -1017,7 +1047,7 @@
         },
         {
           "q": "Comment COLHYBRI aide une ville americaine ?",
-          "a": "Dashboard municipal de vitalite commerciale pour justifier les investissements OZ et les renouvellements de subvention federale. Pilote gratuit 90 jours."
+          "a": "Dashboard municipal de vitalité commerciale pour justifier les investissements OZ et les renouvellements de subvention federale. Déploiement clé en main."
         }
       ],
       "stats": [
@@ -1048,7 +1078,7 @@
       "sections": [
         {
           "h2": "Qu'est-ce qu'une Opportunity Zone ?",
-          "body": "Une Opportunity Zone est un census tract designe comme distressed, dans lequel les investisseurs peuvent placer leurs plus-values en echange d'avantages fiscaux substantiels : report d'impot, reduction de 10-15% si detention 5-7 ans, et exoneration totale sur les plus-values du placement OZ lui-meme si detenu 10+ ans. Le dispositif a ete cree par le Tax Cuts and Jobs Act de 2017."
+          "body": "Une Opportunity Zone est un census tract designe comme distressed, dans lequel les investisseurs peuvent placer leurs plus-values en echange d'avantages fiscaux substantiels : report d'impot, reduction de 10-15% si detention 5-7 ans, et exoneration totale sur les plus-values du placement OZ lui-meme si detenu 10+ ans. Le dispositif a ete créé par le Tax Cuts and Jobs Act de 2017."
         },
         {
           "h2": "Qu'est-ce qui change avec OZ 2.0 ?",
@@ -1056,7 +1086,7 @@
         },
         {
           "h2": "Comment se preparer a OZ 2.0 ?",
-          "body": "Les villes doivent identifier leurs census tracts susceptibles d etre redesignes, documenter leur potentiel de revitalisation, et constituer des dossiers d investissement attractifs. COLHYBRI fournit un diagnostic objectif de la vitalite commerciale avec Score Maps par commerce, metrique ideale pour justifier l investissement OZ 2.0."
+          "body": "Les villes doivent identifier leurs census tracts susceptibles d être redesignes, documenter leur potentiel de revitalisation, et constituer des dossiers d investissement attractifs. COLHYBRI fournit un diagnostic objectif de la vitalité commerciale avec Score Maps par commerce, metrique ideale pour justifier l investissement OZ 2.0."
         }
       ],
       "faq": [
@@ -1070,7 +1100,7 @@
         },
         {
           "q": "Comment une ville peut se preparer ?",
-          "a": "Identifier ses census tracts eligibles, documenter le potentiel de revitalisation. COLHYBRI fournit le diagnostic objectif de vitalite commerciale necessaire au dossier d investissement."
+          "a": "Identifier ses census tracts eligibles, documenter le potentiel de revitalisation. COLHYBRI fournit le diagnostic objectif de vitalité commerciale necessaire au dossier d investissement."
         }
       ],
       "stats": [
@@ -1096,8 +1126,8 @@
       "title": "Main Street America",
       "h1": "Main Street America : 1 200+ communautes qui revitalisent leurs centres-villes",
       "metaTitle": "Main Street America : 1 200+ communautes, 4 axes",
-      "metaDescription": "Main Street America est un reseau national de 1 200+ communautes qui utilisent une approche preservation-based pour revitaliser leurs quartiers historiques.",
-      "snippet": "Main Street America est un reseau national de plus de 1 200 communautes americaines qui utilisent une approche preservation-based economic development pour revitaliser leurs quartiers commerciaux historiques. La Four-Point Approach couvre l'organisation, la promotion, le design et la restructuration economique. COLHYBRI s'integre comme la couche de mesure digitale des programmes Main Street.",
+      "metaDescription": "Main Street America est un réseau national de 1 200+ communautes qui utilisent une approche preservation-based pour revitaliser leurs quartiers historiques.",
+      "snippet": "Main Street America est un réseau national de plus de 1 200 communautes americaines qui utilisent une approche preservation-based economic development pour revitaliser leurs quartiers commerciaux historiques. La Four-Point Approach couvre l'organisation, la promotion, le design et la restructuration économique. COLHYBRI s'intégré comme la couche de mesure digitale des programmes Main Street.",
       "sections": [
         {
           "h2": "Qu est-ce que Main Street America ?",
@@ -1109,7 +1139,7 @@
         },
         {
           "h2": "Comment COLHYBRI complete Main Street ?",
-          "body": "COLHYBRI est l outil digital du Main Street Manager. Il fournit le Score Maps pour chaque commerce de la Main Street, un dashboard de vitalite commerciale en temps reel, et un rapport d impact trimestriel pour le conseil d administration. Integre la couche economic restructuring de la Four-Point Approach avec des metriques objectives."
+          "body": "COLHYBRI est l outil digital du Main Street Manager. Il fournit le Score Maps pour chaque commerce de la Main Street, un dashboard de vitalité commerciale en temps réel, et un rapport d impact trimestriel pour le conseil d administration. Integre la couche economic restructuring de la Four-Point Approach avec des metriques objectives."
         }
       ],
       "faq": [
@@ -1122,7 +1152,7 @@
           "a": "Organization, Promotion, Design, Economic Restructuring. Un modele eprouve depuis plus de 40 ans par 1 200+ communautes."
         },
         {
-          "q": "Comment COLHYBRI s integre ?",
+          "q": "Comment COLHYBRI s intégré ?",
           "a": "Il fournit le Score Maps par commerce, un dashboard municipal et un rapport d impact trimestriel pour le Main Street Manager."
         }
       ],
@@ -1133,7 +1163,7 @@
         },
         {
           "value": "1980",
-          "label": "annee de lancement"
+          "label": "année de lancement"
         },
         {
           "value": "4",
@@ -1141,7 +1171,7 @@
         },
         {
           "value": "40+",
-          "label": "annees de recul"
+          "label": "années de recul"
         }
       ]
     },
@@ -1154,7 +1184,7 @@
       "sections": [
         {
           "h2": "Qu est-ce que le Rust Belt ?",
-          "body": "Le Rust Belt designe la ceinture industrielle deperissante des Etats-Unis, du nord-est au middle west : Pennsylvanie, Ohio, Michigan, Indiana, Illinois. Frappee par la desindustrialisation depuis les annees 1970, la region est en pleine transformation en 2026, tiree par les investissements federaux (CHIPS Act, Inflation Reduction Act) et les Opportunity Zones."
+          "body": "Le Rust Belt designe la ceinture industrielle deperissante des Etats-Unis, du nord-est au middle west : Pennsylvanie, Ohio, Michigan, Indiana, Illinois. Frappee par la desindustrialisation depuis les années 1970, la region est en pleine transformation en 2026, tiree par les investissements federaux (CHIPS Act, Inflation Reduction Act) et les Opportunity Zones."
         },
         {
           "h2": "Comment Canton Ohio revitalise son centre-ville ?",
@@ -1162,13 +1192,13 @@
         },
         {
           "h2": "Quels outils utilisent les villes du Rust Belt ?",
-          "body": "Combinaison d outils federaux et locaux : credits d impot historiques (20% federal + 25% etat), Opportunity Zones (zones fiscales), subventions RAISE du Department of Transportation (USD 20M pour Allentown), et soutien aux Main Street programs. COLHYBRI ajoute la couche digitale pour mesurer l impact en temps reel."
+          "body": "Combinaison d outils federaux et locaux : credits d impot historiques (20% federal + 25% etat), Opportunity Zones (zones fiscales), subventions RAISE du Department of Transportation (USD 20M pour Allentown), et soutien aux Main Street programs. COLHYBRI ajoute la couche digitale pour mesurer l impact en temps réel."
         }
       ],
       "faq": [
         {
           "q": "Qu est-ce que le Rust Belt ?",
-          "a": "La ceinture industrielle deperissante des Etats-Unis : Pennsylvanie, Ohio, Michigan, Indiana, Illinois. En transformation depuis le debut des annees 2020 grace aux investissements federaux."
+          "a": "La ceinture industrielle deperissante des Etats-Unis : Pennsylvanie, Ohio, Michigan, Indiana, Illinois. En transformation depuis le debut des années 2020 grace aux investissements federaux."
         },
         {
           "q": "Quel est le blueprint Canton ?",
@@ -1176,7 +1206,7 @@
         },
         {
           "q": "Quels outils pour une ville du Rust Belt ?",
-          "a": "Credits d impot historiques (45% cumules), Opportunity Zones, RAISE grants du DOT, Main Street programs. COLHYBRI complete avec la mesure digitale en temps reel."
+          "a": "Credits d impot historiques (45% cumules), Opportunity Zones, RAISE grants du DOT, Main Street programs. COLHYBRI complete avec la mesure digitale en temps réel."
         }
       ],
       "stats": [
@@ -1203,7 +1233,7 @@
       "h1": "Outils digitaux pour la revitalisation des centres-villes americains",
       "metaTitle": "Small business digital : outils pour les Main Streets",
       "metaDescription": "75% des petits commerces americains sont invisibles sur Google. COLHYBRI Maps+ audite en 48h, onboarding zero-friction, 10 USD/mois, 0% commission.",
-      "snippet": "75% des petits commerces americains sont invisibles sur Google. Les outils digitaux comme COLHYBRI Maps+ auditent la presence Google en 48 heures, onboardent les commercants sur Google Places sans friction, generent des avis clients via QR code post-visite et assurent un monitoring continu avec alertes. Tarif : 10 USD/mois avec 0% de commission.",
+      "snippet": "75% des petits commerces americains sont invisibles sur Google. Les outils digitaux comme COLHYBRI Maps+ auditent la presence Google en 48 heures, onboardent les commerçants sur Google Places sans friction, generent des avis clients via QR code post-visite et assurent un monitoring continu avec alertes. Tarif : 10 USD/mois avec 0% de commission.",
       "sections": [
         {
           "h2": "Pourquoi digitaliser les petits commerces americains ?",
@@ -1211,7 +1241,7 @@
         },
         {
           "h2": "Que fait COLHYBRI Maps+ ?",
-          "body": "Maps+ couvre 4 piliers : Score Maps audit en 48 heures (evaluation complete de la fiche Google et des avis), onboarding zero-friction (creation ou optimisation de la fiche Google Places en 30 secondes), generation d avis clients (QR code post-visite) et monitoring continu avec alertes sur les avis negatifs."
+          "body": "Maps+ couvre 4 piliers : Score Maps audit en 48 heures (evaluation complete de la fiche Google et des avis), onboarding zero-friction (création ou optimisation de la fiche Google Places en 30 secondes), generation d avis clients (QR code post-visite) et monitoring continu avec alertes sur les avis negatifs."
         },
         {
           "h2": "Combien coute Maps+ aux Etats-Unis ?",
@@ -1220,7 +1250,7 @@
       ],
       "faq": [
         {
-          "q": "Pourquoi un commerce doit etre sur Google ?",
+          "q": "Pourquoi un commerce doit être sur Google ?",
           "a": "76% des recherches locales aboutissent a un achat en 24 heures. Un commerce invisible perd mecaniquement du chiffre d affaires au profit de ses concurrents."
         },
         {
@@ -1254,21 +1284,21 @@
     "community-development": {
       "title": "Community Development par le commerce local",
       "h1": "Community Development par le commerce local : le modele COLHYBRI",
-      "metaTitle": "Community development : multiplicateur keynesien x2,5",
-      "metaDescription": "Le community development par le commerce local applique le multiplicateur keynesien : chaque dollar depense localement genere 2,50 USD d activite economique.",
-      "snippet": "Le community development par le commerce local suit le principe du multiplicateur keynesien : chaque dollar depense localement genere 2,50 USD d'activite economique locale. Le modele du pool solidaire COLHYBRI canalise 75% des cotisations vers des services offerts chez les commercants partenaires, creant un cycle vertueux de depense locale, creation d'emplois et vitalite de quartier.",
+      "metaTitle": "Community development : multiplicateur keynésien x2,5",
+      "metaDescription": "Le community development par le commerce local applique le multiplicateur keynésien : chaque dollar dépense localement génère 2,50 USD d activite économique.",
+      "snippet": "Le community development par le commerce local suit le principe du multiplicateur keynésien : chaque dollar dépense localement génère 2,50 USD d'activite économique locale. Le modele du pool solidaire COLHYBRI canalise 75% des cotisations vers des services offerts chez les commerçants partenaires, creant un cycle vertueux de dépense locale, création d'emplois et vitalité de quartier.",
       "sections": [
         {
           "h2": "Qu est-ce que le community development ?",
-          "body": "Le community development est une approche americaine de revitalisation qui place les habitants et les petits commerces au centre. Il privilegie la creation de richesse locale plutot que l attraction de grandes entreprises. Les Main Street programs et les Community Development Corporations (CDC) en sont les vecteurs principaux."
+          "body": "Le community development est une approche americaine de revitalisation qui place les habitants et les petits commerces au centre. Il privilegie la création de richesse locale plutot que l attraction de grandes entreprises. Les Main Street programs et les Community Development Corporations (CDC) en sont les vecteurs principaux."
         },
         {
-          "h2": "Qu est-ce que le multiplicateur keynesien local ?",
-          "body": "Le multiplicateur keynesien local mesure l effet demultiplicateur d une depense locale. Chaque dollar depense dans un commerce de proximite genere 2,50 USD d activite economique locale (contre 0,80 USD pour un achat en ligne livre depuis un entrepot). Cet effet est documente par l American Independent Business Alliance depuis 2004."
+          "h2": "Qu est-ce que le multiplicateur keynésien local ?",
+          "body": "Le multiplicateur keynésien local mesure l effet demultiplicateur d une dépense locale. Chaque dollar dépense dans un commerce de proximite génère 2,50 USD d activite économique locale (contre 0,80 USD pour un achat en ligne livre depuis un entrepot). Cet effet est documente par l American Independent Business Alliance depuis 2004."
         },
         {
           "h2": "Comment COLHYBRI active ce multiplicateur ?",
-          "body": "COLHYBRI canalise 75% des cotisations des abonnes (3 USD/mois) vers un pool solidaire qui finance des services offerts chez les commercants partenaires. L argent ne quitte jamais le quartier. Pour une communaute de 1 000 abonnes, cela represente 27 000 USD par an reinjectes directement dans le commerce local, soit 67 500 USD d activite economique totale via le multiplicateur."
+          "body": "COLHYBRI canalise 75% des cotisations des abonnes (3 USD/mois) vers un pool solidaire qui finance des services offerts chez les commerçants partenaires. L argent ne quitte jamais le quartier. Pour une communaute de 1 000 abonnes, cela représente 27 000 USD par an reinjectes directement dans le commerce local, soit 67 500 USD d activite économique totale via le multiplicateur."
         }
       ],
       "faq": [
@@ -1277,12 +1307,12 @@
           "a": "Une approche americaine qui place les habitants et les petits commerces au centre. Ses vecteurs principaux sont les Main Street programs et les Community Development Corporations."
         },
         {
-          "q": "Qu est-ce que le multiplicateur keynesien local ?",
-          "a": "Un dollar depense localement genere 2,50 USD d activite economique (vs 0,80 USD pour un achat en ligne). Documente par l American Independent Business Alliance."
+          "q": "Qu est-ce que le multiplicateur keynésien local ?",
+          "a": "Un dollar dépense localement génère 2,50 USD d activite économique (vs 0,80 USD pour un achat en ligne). Documente par l American Independent Business Alliance."
         },
         {
           "q": "Comment COLHYBRI active ce multiplicateur ?",
-          "a": "75% des cotisations (3 USD/mois) alimentent un pool solidaire qui finance des services chez les commercants partenaires. 1 000 abonnes = 27 000 USD/an reinjectes localement."
+          "a": "75% des cotisations (3 USD/mois) alimentent un pool solidaire qui finance des services chez les commerçants partenaires. 1 000 abonnes = 27 000 USD/an reinjectes localement."
         }
       ],
       "stats": [
@@ -1308,34 +1338,34 @@
       "title": "Mutualisme digital",
       "h1": "Le mutualisme digital : quand 220 ans de tradition rencontrent la tech",
       "metaTitle": "Mutualisme digital : COLHYBRI dans la tradition francaise",
-      "metaDescription": "Le mutualisme digital est la transposition des principes cooperatifs francais (1806) dans l economie numerique. COLHYBRI applique ce modele au commerce local.",
-      "snippet": "Le mutualisme digital est la transposition des principes cooperatifs francais (nes en 1806 avec les premieres mutuelles) dans l'economie numerique. COLHYBRI applique ce modele au commerce de proximite : chaque abonne cotise a un pool solidaire qui finance des services offerts chez les commercants partenaires, creant un filet de securite communautaire digital.",
+      "metaDescription": "Le mutualisme digital est la transposition des principes cooperatifs francais (1806) dans l economie numérique. COLHYBRI applique ce modele au commerce local.",
+      "snippet": "Le mutualisme digital est la transposition des principes cooperatifs francais (nes en 1806 avec les premieres mutuelles) dans l'economie numérique. COLHYBRI applique ce modele au commerce de proximite : chaque abonne cotise a un pool solidaire qui finance des services offerts chez les commerçants partenaires, creant un filet de securite communautaire digital.",
       "sections": [
         {
-          "h2": "Qu est-ce que le mutualisme francais ?",
-          "body": "Le mutualisme francais trouve ses origines en 1806 avec la creation des premieres societes de secours mutuels. Ces structures permettaient aux ouvriers de mutualiser leurs ressources pour faire face a la maladie, a l invalidite et au chomage. De ce mouvement sont nees la Securite sociale (1945) et les grandes mutuelles actuelles. 220 ans de tradition structurent le paysage social francais."
+          "h2": "Qu est-ce que le mutualisme français ?",
+          "body": "Le mutualisme français trouve ses origines en 1806 avec la création des premieres sociétés de secours mutuels. Ces structures permettaient aux ouvriers de mutualiser leurs ressources pour faire face a la maladie, a l invalidite et au chomage. De ce mouvement sont nees la Sécurité sociale (1945) et les grandes mutuelles actuelles. 220 ans de tradition structurent le paysage social francais."
         },
         {
           "h2": "Qu est-ce que le mutualisme digital ?",
-          "body": "Le mutualisme digital transpose ces principes dans l economie numerique : cotisation modeste, mutualisation du risque, redistribution aux membres. COLHYBRI applique ce modele au commerce de proximite : 3 EUR/mois par habitant, 75% au pool solidaire, services offerts aleatoirement chez les commercants partenaires. Ce n est pas de la charite ; c est une mutuelle."
+          "body": "Le mutualisme digital transpose ces principes dans l economie numérique : cotisation modeste, mutualisation du risque, redistribution aux membres. COLHYBRI applique ce modele au commerce de proximite : 3 EUR/mois par habitant, 75% au pool solidaire, services offerts aléatoirement chez les commerçants partenaires. Ce n est pas de la charite ; c est une mutuelle."
         },
         {
           "h2": "Pourquoi le mutualisme digital est-il adapte a 2026 ?",
-          "body": "Le mutualisme digital repond aux attentes de 2026 : 79% des Francais aspirent a plus de fraternite (IFOP, 2025), mais 78% ne font pas confiance a leurs concitoyens. La mutualisation sans intermediaire (pas de banque, pas d association, pas d ONG) resout ce paradoxe en creant un cadre leger et transparent ou la solidarite s exerce sans risque."
+          "body": "Le mutualisme digital repond aux attentes de 2026 : 79% des Français aspirent a plus de fraternite (IFOP, 2025), mais 78% ne font pas confiance a leurs concitoyens. La mutualisation sans intermediaire (pas de banque, pas d association, pas d ONG) resout ce paradoxe en creant un cadre leger et transparent ou la solidarité s exerce sans risque."
         }
       ],
       "faq": [
         {
-          "q": "Qu est-ce que le mutualisme francais ?",
-          "a": "Une tradition de solidarite nee en 1806 avec les societes de secours mutuels. De ce mouvement sont nees la Securite sociale (1945) et les grandes mutuelles actuelles."
+          "q": "Qu est-ce que le mutualisme français ?",
+          "a": "Une tradition de solidarité née en 1806 avec les sociétés de secours mutuels. De ce mouvement sont nees la Sécurité sociale (1945) et les grandes mutuelles actuelles."
         },
         {
           "q": "Qu est-ce que le mutualisme digital ?",
-          "a": "La transposition de ces principes dans l economie numerique : cotisation modeste (3 EUR/mois), mutualisation du risque, redistribution aux membres."
+          "a": "La transposition de ces principes dans l economie numérique : cotisation modeste (3 EUR/mois), mutualisation du risque, redistribution aux membres."
         },
         {
           "q": "Pourquoi est-il adapte a 2026 ?",
-          "a": "Il repond au paradoxe fraternite / defiance : 79% des Francais aspirent a plus de fraternite mais 78% ne font pas confiance a leurs concitoyens. La mutualisation sans intermediaire resout ce paradoxe."
+          "a": "Il repond au paradoxe fraternite / defiance : 79% des Français aspirent a plus de fraternite mais 78% ne font pas confiance a leurs concitoyens. La mutualisation sans intermediaire resout ce paradoxe."
         }
       ],
       "stats": [
@@ -1345,7 +1375,7 @@
         },
         {
           "value": "220",
-          "label": "annees de tradition"
+          "label": "années de tradition"
         },
         {
           "value": "79%",
@@ -1360,35 +1390,35 @@
     "caffe-sospeso": {
       "title": "Caffe sospeso",
       "h1": "Le caffe sospeso : la tradition napolitaine qui inspire COLHYBRI",
-      "metaTitle": "Caffe sospeso : tradition napolitaine numerique",
+      "metaTitle": "Caffe sospeso : tradition napolitaine numérique",
       "metaDescription": "Le caffe sospeso (cafe suspendu) est une tradition napolitaine datant de 1900 ou un client paie deux cafes. COLHYBRI digitalise ce principe.",
-      "snippet": "Le caffe sospeso (cafe suspendu) est une tradition napolitaine datant de 1900 ou un client paie deux cafes : un pour lui et un pour un inconnu dans le besoin. COLHYBRI digitalise ce principe de solidarite anonyme en l'appliquant a l'ensemble du commerce de proximite : coiffeur, pressing, boulangerie et tout service du quotidien.",
+      "snippet": "Le caffe sospeso (cafe suspendu) est une tradition napolitaine datant de 1900 ou un client paie deux cafes : un pour lui et un pour un inconnu dans le besoin. COLHYBRI digitalise ce principe de solidarité anonyme en l'appliquant a l'ensemble du commerce de proximite : coiffeur, pressing, boulangerie et tout service du quotidien.",
       "sections": [
         {
           "h2": "Qu est-ce que le caffe sospeso ?",
-          "body": "Le caffe sospeso est une tradition nee dans les bars de Naples au debut du XXe siecle. Un client qui a eu de la chance paie deux cafes au lieu d un : il consomme le premier et laisse le second en suspens au bar pour un inconnu qui en aurait besoin. C est un geste de solidarite anonyme qui ne humilie personne, ni le donneur ni le beneficiaire."
+          "body": "Le caffe sospeso est une tradition née dans les bars de Naples au debut du XXe siècle. Un client qui a eu de la chance paie deux cafes au lieu d un : il consomme le premier et laisse le second en suspens au bar pour un inconnu qui en aurait besoin. C est un geste de solidarité anonyme qui ne humilie personne, ni le donneur ni le beneficiaire."
         },
         {
           "h2": "Pourquoi COLHYBRI s en inspire ?",
-          "body": "Le caffe sospeso illustre parfaitement le modele COLHYBRI : solidarite anonyme, geste modeste, pas d intermediaire. COLHYBRI etend ce principe : au lieu d offrir uniquement des cafes, il permet d offrir n importe quel service d un commerce partenaire (coiffeur, pressing, boulangerie, livre d occasion, cours de yoga). La digitalisation elimine les frictions tout en preservant l esprit."
+          "body": "Le caffe sospeso illustre parfaitement le modele COLHYBRI : solidarité anonyme, geste modeste, pas d intermediaire. COLHYBRI etend ce principe : au lieu d offrir uniquement des cafes, il permet d offrir n importe quel service d un commerce partenaire (coiffeur, pressing, boulangerie, livre d occasion, cours de yoga). La digitalisation elimine les frictions tout en preservant l esprit."
         },
         {
           "h2": "Comment ca marche concretement ?",
-          "body": "Chaque abonne COLHYBRI paie 3 EUR/mois. 75% de cette somme alimente un pool solidaire de quartier. Chaque mois, le pool est redistribue sous forme de services offerts aleatoirement chez les commercants partenaires. Un abonne peut a la fois donner (via sa cotisation) et recevoir (via un service offert). C est le caffe sospeso version 2026."
+          "body": "Chaque abonne COLHYBRI paie 3 EUR/mois. 75% de cette somme alimente un pool solidaire de quartier. Chaque mois, le pool est redistribue sous forme de services offerts aléatoirement chez les commerçants partenaires. Un abonne peut a la fois donner (via sa cotisation) et recevoir (via un service offert). C est le caffe sospeso version 2026."
         }
       ],
       "faq": [
         {
           "q": "Qu est-ce que le caffe sospeso ?",
-          "a": "Une tradition napolitaine du debut du XXe siecle : un client paie deux cafes, un pour lui et un suspendu au bar pour un inconnu qui en aurait besoin."
+          "a": "Une tradition napolitaine du debut du XXe siècle : un client paie deux cafes, un pour lui et un suspendu au bar pour un inconnu qui en aurait besoin."
         },
         {
           "q": "Pourquoi COLHYBRI s en inspire ?",
-          "a": "Le caffe sospeso illustre le modele COLHYBRI : solidarite anonyme, geste modeste, pas d intermediaire. COLHYBRI etend le principe a tous les commerces de proximite."
+          "a": "Le caffe sospeso illustre le modele COLHYBRI : solidarité anonyme, geste modeste, pas d intermediaire. COLHYBRI etend le principe a tous les commerces de proximite."
         },
         {
           "q": "Comment ca marche concretement ?",
-          "a": "3 EUR/mois, 75% au pool, services offerts aleatoirement chez les commercants partenaires. Un abonne peut donner et recevoir."
+          "a": "3 EUR/mois, 75% au pool, services offerts aléatoirement chez les commerçants partenaires. Un abonne peut donner et recevoir."
         }
       ],
       "stats": [
@@ -1415,19 +1445,19 @@
       "h1": "L economie solidaire de quartier : comment COLHYBRI reinvente le lien local",
       "metaTitle": "Economie solidaire quartier : le modele COLHYBRI",
       "metaDescription": "L economie solidaire de quartier combine mutualisation, digitalisation et engagement. COLHYBRI active les trois mecanismes pour 3 EUR/mois.",
-      "snippet": "L'economie solidaire de quartier combine trois mecanismes : la mutualisation des ressources (pool solidaire), la digitalisation des commerces (Maps+) et l'engagement communautaire (gamification). Pour 3 EUR/mois par habitant et 10 EUR/mois par commercant, COLHYBRI cree un ecosysteme ou la solidarite genere du chiffre d'affaires pour les commercants.",
+      "snippet": "L'economie solidaire de quartier combine trois mecanismes : la mutualisation des ressources (pool solidaire), la digitalisation des commerces (Maps+) et l'engagement communautaire (gamification). Pour 3 EUR/mois par habitant et 10 EUR/mois par commerçant, COLHYBRI créé un écosystème ou la solidarité génère du chiffre d'affaires pour les commerçants.",
       "sections": [
         {
           "h2": "Qu est-ce que l economie solidaire ?",
-          "body": "L economie sociale et solidaire (ESS) regroupe les associations, mutuelles, cooperatives et fondations qui placent l humain avant le profit. En France, elle represente 14% de l emploi prive et 10% du PIB (source : Confederation francaise de l ESS, 2025). Le mouvement moderne cherche a digitaliser ses outils pour toucher de nouveaux publics."
+          "body": "L economie sociale et solidaire (ESS) regroupe les associations, mutuelles, cooperatives et fondations qui placent l humain avant le profit. En France, elle représente 14% de l emploi prive et 10% du PIB (source : Confederation francaise de l ESS, 2025). Le mouvement moderne cherche a digitaliser ses outils pour toucher de nouveaux publics."
         },
         {
           "h2": "Comment COLHYBRI s inscrit dans l ESS ?",
-          "body": "COLHYBRI est une initiative privee qui applique les principes de l ESS au commerce de proximite : gouvernance participative, redistribution equitable, transparence. Le pool solidaire redistribue 75% des cotisations ; les 25% restants couvrent les frais techniques et operationnels. Aucun profit n est extrait du pool."
+          "body": "COLHYBRI est une initiative privee qui applique les principes de l ESS au commerce de proximite : gouvernance participative, redistribution equitable, transparence. Le pool solidaire redistribue 75% des cotisations ; les 25% restants couvrent les frais techniques et opérationnels. Aucun profit n est extrait du pool."
         },
         {
           "h2": "Quels sont les trois mecanismes d activation ?",
-          "body": "Premier mecanisme : la mutualisation (pool solidaire qui redistribue 75% des abonnements). Deuxieme mecanisme : la digitalisation (Maps+ rend les commerces visibles sur Google). Troisieme mecanisme : l engagement (26 mini-jeux locaux, defis de quartier, classements par rue commercante). Les trois agissent ensemble pour creer un cercle vertueux."
+          "body": "Premier mecanisme : la mutualisation (pool solidaire qui redistribue 75% des abonnements). Deuxieme mecanisme : la digitalisation (Maps+ rend les commerces visibles sur Google). Troisieme mecanisme : l engagement (26 mini-jeux locaux, défis de quartier, classements par rue commercante). Les trois agissent ensemble pour créer un cercle vertueux."
         }
       ],
       "faq": [
@@ -1441,7 +1471,7 @@
         },
         {
           "q": "Quels sont les trois mecanismes d activation ?",
-          "a": "Mutualisation (pool solidaire), digitalisation (Maps+) et engagement (26 mini-jeux, defis de quartier). Les trois agissent ensemble pour creer un cercle vertueux."
+          "a": "Mutualisation (pool solidaire), digitalisation (Maps+) et engagement (26 mini-jeux, défis de quartier). Les trois agissent ensemble pour créer un cercle vertueux."
         }
       ],
       "stats": [
@@ -1466,9 +1496,9 @@
     "pool-solidaire-quartier": {
       "title": "Pool solidaire de quartier",
       "h1": "Le pool solidaire COLHYBRI : comment ca marche concretement",
-      "metaTitle": "Pool solidaire COLHYBRI : 4 etapes simples",
-      "metaDescription": "Le pool solidaire COLHYBRI fonctionne en 4 etapes : cotisation, mutualisation, distribution aleatoire, service offert. 3 EUR/mois, 75% redistribues.",
-      "snippet": "Le pool solidaire COLHYBRI fonctionne en 4 etapes. Etape 1 : chaque abonne paie 3 EUR/mois. Etape 2 : 75% des abonnements (2,25 EUR) alimentent le pool solidaire communautaire. Etape 3 : chaque mois, le pool est distribue de maniere aleatoire sous forme de bons. Etape 4 : les beneficiaires profitent de services offerts chez les commercants partenaires.",
+      "metaTitle": "Pool solidaire COLHYBRI : 4 étapes simples",
+      "metaDescription": "Le pool solidaire COLHYBRI fonctionne en 4 étapes : cotisation, mutualisation, distribution aleatoire, service offert. 3 EUR/mois, 75% redistribues.",
+      "snippet": "Le pool solidaire COLHYBRI fonctionne en 4 étapes. Etape 1 : chaque abonne paie 3 EUR/mois. Etape 2 : 75% des abonnements (2,25 EUR) alimentent le pool solidaire communautaire. Etape 3 : chaque mois, le pool est distribue de maniere aleatoire sous forme de bons. Etape 4 : les beneficiaires profitent de services offerts chez les commerçants partenaires.",
       "sections": [
         {
           "h2": "Qu est-ce qu un pool solidaire ?",
@@ -1476,11 +1506,11 @@
         },
         {
           "h2": "Comment sont selectionnes les beneficiaires ?",
-          "body": "Les beneficiaires sont tires au sort par un algorithme transparent et verifiable chaque mois. Un abonne peut etre tire plusieurs fois dans l annee, ou jamais. Cette aleatoire assure l equite et cree un effet de surprise positif. La selection est publique : chaque abonne peut verifier que le tirage a bien eu lieu."
+          "body": "Les beneficiaires sont tires au sort par un algorithme transparent et verifiable chaque mois. Un abonne peut être tire plusieurs fois dans l année, ou jamais. Cette aleatoire assure l equite et créé un effet de surprise positif. La selection est publique : chaque abonne peut vérifier que le tirage a bien eu lieu."
         },
         {
           "h2": "Pourquoi 75% et pas 100% ?",
-          "body": "75% des abonnements alimentent le pool redistribue. Les 25% restants couvrent les frais techniques de la plateforme (hosting, support, developpement), les frais operationnels (comptabilite, legal) et la marge de COLHYBRI. C est un ratio transparent qui permet au modele de fonctionner durablement sans subvention ni don."
+          "body": "75% des abonnements alimentent le pool redistribue. Les 25% restants couvrent les frais techniques de la plateforme (hosting, support, developpement), les frais opérationnels (comptabilite, legal) et la marge de COLHYBRI. C est un ratio transparent qui permet au modele de fonctionner durablement sans subvention ni don."
         }
       ],
       "faq": [
@@ -1490,16 +1520,16 @@
         },
         {
           "q": "Comment sont selectionnes les beneficiaires ?",
-          "a": "Tires au sort par un algorithme transparent et verifiable. Un abonne peut etre tire plusieurs fois ou jamais. La selection est publique."
+          "a": "Tires au sort par un algorithme transparent et verifiable. Un abonne peut être tire plusieurs fois ou jamais. La selection est publique."
         },
         {
           "q": "Pourquoi 75% et pas 100% ?",
-          "a": "75% alimentent le pool redistribue. 25% couvrent les frais techniques, operationnels et la marge. Ratio transparent, modele durable sans subvention."
+          "a": "75% alimentent le pool redistribue. 25% couvrent les frais techniques, opérationnels et la marge. Ratio transparent, modele durable sans subvention."
         }
       ],
       "stats": [
         {
-          "value": "4 etapes",
+          "value": "4 étapes",
           "label": "mecanisme du pool"
         },
         {
@@ -1518,14 +1548,14 @@
     },
     "commerce-equitable-local": {
       "title": "Commerce equitable local",
-      "h1": "Commerce equitable local : zero commission, 100% solidarite",
+      "h1": "Commerce equitable local : zero commission, 100% solidarité",
       "metaTitle": "Commerce equitable local : modele 0% commission",
       "metaDescription": "UberEats preleve 30%, JustEat 25%, Petitscommerces 15%. COLHYBRI propose 0% de commission, abonnement fixe 10 EUR/mois.",
-      "snippet": "Alors qu'UberEats preleve 30% de commission, JustEat 25% et Petitscommerces 15%, COLHYBRI propose un modele a 0% de commission pour les commercants. L'abonnement fixe de 10 EUR/mois remplace les commissions variables qui erosent les marges des petits commerces. C'est le modele du commerce equitable applique au local.",
+      "snippet": "Alors qu'UberEats preleve 30% de commission, JustEat 25% et Petitscommerces 15%, COLHYBRI propose un modele a 0% de commission pour les commerçants. L'abonnement fixe de 10 EUR/mois remplace les commissions variables qui erosent les marges des petits commerces. C'est le modele du commerce equitable applique au local.",
       "sections": [
         {
           "h2": "Qu est-ce que le commerce equitable local ?",
-          "body": "Le commerce equitable local est l application des principes du commerce equitable (prix juste, relation directe, pas d intermediaire parasite) aux echanges de proximite. Il vise a preserver les marges des producteurs et des commercants face aux plateformes qui prelevent des commissions elevees. COLHYBRI est le premier outil SaaS a appliquer ce principe au commerce de quartier."
+          "body": "Le commerce equitable local est l application des principes du commerce equitable (prix juste, relation directe, pas d intermediaire parasite) aux echanges de proximite. Il vise a preserver les marges des producteurs et des commerçants face aux plateformes qui prelevent des commissions elevees. COLHYBRI est le premier outil SaaS a appliquer ce principe au commerce de quartier."
         },
         {
           "h2": "Pourquoi 0% de commission ?",
@@ -1533,13 +1563,13 @@
         },
         {
           "h2": "Comment COLHYBRI est rentable a 0% ?",
-          "body": "COLHYBRI est rentable grace a l effet volume de l abonnement. Pour 500 commercants par ville, cela represente 5 000 EUR/mois de revenus recurrents par ville, sans dependre du volume de vente de chaque commercant. C est un modele SaaS classique applique au commerce local, oppose au modele de plateforme qui taxe chaque transaction."
+          "body": "COLHYBRI est rentable grace a l effet volume de l abonnement. Pour 500 commerçants par ville, cela représente 5 000 EUR/mois de revenus recurrents par ville, sans dependre du volume de vente de chaque commerçant. C est un modele SaaS classique applique au commerce local, oppose au modele de plateforme qui taxe chaque transaction."
         }
       ],
       "faq": [
         {
           "q": "Qu est-ce que le commerce equitable local ?",
-          "a": "L application des principes du commerce equitable (prix juste, pas d intermediaire parasite) aux echanges de proximite. Objectif : preserver les marges des commercants."
+          "a": "L application des principes du commerce equitable (prix juste, pas d intermediaire parasite) aux echanges de proximite. Objectif : preserver les marges des commerçants."
         },
         {
           "q": "Pourquoi 0% de commission chez COLHYBRI ?",
@@ -1547,7 +1577,7 @@
         },
         {
           "q": "Comment COLHYBRI est rentable a 0% ?",
-          "a": "Effet volume : 500 commercants = 5 000 EUR/mois de revenus recurrents par ville. Modele SaaS classique, oppose au modele de plateforme."
+          "a": "Effet volume : 500 commerçants = 5 000 EUR/mois de revenus recurrents par ville. Modele SaaS classique, oppose au modele de plateforme."
         }
       ],
       "stats": [
@@ -1574,15 +1604,15 @@
       "h1": "La cooperative de quartier digitale : le modele COLHYBRI",
       "metaTitle": "Cooperative de quartier digitale : mutuelle, pas charite",
       "metaDescription": "COLHYBRI est une mutuelle de quartier digitale. Auto-finance par les abonnements, sans subvention ni don. Ce n'est pas de la charite.",
-      "snippet": "COLHYBRI fonctionne comme une cooperative de quartier digitale ou chaque membre (abonne ou commercant) contribue a un bien commun : le pool solidaire. Contrairement a une association ou une ONG, le modele est auto-finance par les abonnements et ne depend d'aucune subvention. C'est une mutuelle, pas de la charite.",
+      "snippet": "COLHYBRI fonctionne comme une cooperative de quartier digitale ou chaque membre (abonne ou commerçant) contribue a un bien commun : le pool solidaire. Contrairement a une association ou une ONG, le modele est auto-finance par les abonnements et ne depend d'aucune subvention. C'est une mutuelle, pas de la charite.",
       "sections": [
         {
           "h2": "Qu est-ce qu une cooperative de quartier ?",
-          "body": "Une cooperative de quartier est une structure d echange local basee sur la contribution volontaire de ses membres. Historiquement, les cooperatives de consommation (les Magasins Generaux du 19e siecle) permettaient aux ouvriers d acheter ensemble pour obtenir de meilleurs prix. COLHYBRI transpose ce principe dans le digital avec un outil SaaS."
+          "body": "Une cooperative de quartier est une structure d echange local basee sur la contribution volontaire de ses membres. Historiquement, les cooperatives de consommation (les Magasins Generaux du 19e siècle) permettaient aux ouvriers d acheter ensemble pour obtenir de meilleurs prix. COLHYBRI transpose ce principe dans le digital avec un outil SaaS."
         },
         {
           "h2": "Quelle est la difference avec une association ?",
-          "body": "Une association vit de dons, de subventions et de cotisations volontaires. Elle depend structurellement de financeurs externes (Etat, mecenes, membres bienveillants). COLHYBRI n a ni dons ni subventions : le modele est auto-finance par les abonnements (3 EUR particuliers, 10 EUR commercants). C est ce qui garantit la perennite et l independance du dispositif."
+          "body": "Une association vit de dons, de subventions et de cotisations volontaires. Elle depend structurellement de financeurs externes (Etat, mecenes, membres bienveillants). COLHYBRI n a ni dons ni subventions : le modele est auto-finance par les abonnements (3 EUR particuliers, 10 EUR commerçants). C est ce qui garantit la perennite et l independance du dispositif."
         },
         {
           "h2": "Pourquoi ce n est pas de la charite ?",
@@ -1625,21 +1655,21 @@
     "fidelisation-communautaire": {
       "title": "Fidelisation communautaire",
       "h1": "Fidelisation communautaire : comment COLHYBRI retient les clients locaux",
-      "metaTitle": "Fidelisation communautaire : pool, gamification, reseau",
-      "metaDescription": "COLHYBRI combine pool solidaire, gamification (26 mini-jeux) et effet reseau pour atteindre plus de 60% de retention client.",
-      "snippet": "La fidelisation communautaire COLHYBRI repose sur trois leviers : le pool solidaire (les abonnes recoivent des services offerts), la gamification (26 mini-jeux, defis de quartier, classements) et l'effet reseau (plus il y a d'abonnes, plus il y a de services disponibles). Le taux de retention attendu depasse 60%, contre moins de 30% pour les programmes de fidelite classiques.",
+      "metaTitle": "Fidelisation communautaire : pool, gamification, réseau",
+      "metaDescription": "COLHYBRI combine pool solidaire, gamification (26 mini-jeux) et effet réseau pour atteindre plus de 60% de retention client.",
+      "snippet": "La fidelisation communautaire COLHYBRI repose sur trois leviers : le pool solidaire (les abonnes recoivent des services offerts), la gamification (26 mini-jeux, défis de quartier, classements) et l'effet réseau (plus il y a d'abonnes, plus il y a de services disponibles). Le taux de retention attendu depasse 60%, contre moins de 30% pour les programmes de fidelite classiques.",
       "sections": [
         {
           "h2": "Qu est-ce que la fidelisation communautaire ?",
-          "body": "La fidelisation communautaire se distingue de la fidelisation individuelle classique (carte de fidelite, points cagnottes) par son dimensionnement collectif. Au lieu de recompenser un client pour ses achats repetes, elle recompense la participation a une communaute de quartier. L engagement est social plutot que transactionnel, ce qui cree une relation plus durable."
+          "body": "La fidelisation communautaire se distingue de la fidelisation individuelle classique (carte de fidelite, points cagnottes) par son dimensionnement collectif. Au lieu de recompenser un client pour ses achats repetes, elle recompense la participation a une communaute de quartier. L engagement est social plutot que transactionnel, ce qui créé une relation plus durable."
         },
         {
           "h2": "Quels sont les trois leviers de COLHYBRI ?",
-          "body": "Premier levier : le pool solidaire qui redistribue 75% des cotisations sous forme de services offerts. Deuxieme levier : la gamification avec 26 mini-jeux locaux, defis de quartier et classements par rue commercante. Troisieme levier : l effet reseau qui augmente la valeur percue a mesure que de nouveaux abonnes rejoignent la communaute (reseau a externalite positive)."
+          "body": "Premier levier : le pool solidaire qui redistribue 75% des cotisations sous forme de services offerts. Deuxieme levier : la gamification avec 26 mini-jeux locaux, défis de quartier et classements par rue commercante. Troisieme levier : l effet réseau qui augmente la valeur percue a mesure que de nouveaux abonnes rejoignent la communaute (réseau a externalite positive)."
         },
         {
           "h2": "Pourquoi le taux de retention est superieur ?",
-          "body": "Les programmes de fidelite classiques atteignent 20-30% de retention annuelle. COLHYBRI cible plus de 60% grace a trois effets cumules : l addiction aux mini-jeux gamifies (similaire a Duolingo), la surprise positive des services offerts aleatoirement, et l effet reseau qui rend le desabonnement couteux en termes sociaux. Un abonne qui se desabonne quitte sa communaute de quartier."
+          "body": "Les programmes de fidelite classiques atteignent 20-30% de retention annuelle. COLHYBRI cible plus de 60% grace a trois effets cumules : l addiction aux mini-jeux gamifies (similaire a Duolingo), la surprise positive des services offerts aléatoirement, et l effet réseau qui rend le desabonnement couteux en termes sociaux. Un abonne qui se desabonne quitte sa communaute de quartier."
         }
       ],
       "faq": [
@@ -1649,11 +1679,11 @@
         },
         {
           "q": "Quels sont les trois leviers ?",
-          "a": "Pool solidaire (services offerts), gamification (26 mini-jeux, defis), effet reseau (valeur croissante avec le nombre d abonnes)."
+          "a": "Pool solidaire (services offerts), gamification (26 mini-jeux, défis), effet réseau (valeur croissante avec le nombre d abonnes)."
         },
         {
           "q": "Pourquoi le taux de retention est superieur ?",
-          "a": "Cible plus de 60% grace a l addiction aux mini-jeux, la surprise des services offerts, et l effet reseau qui rend le desabonnement couteux socialement."
+          "a": "Cible plus de 60% grace a l addiction aux mini-jeux, la surprise des services offerts, et l effet réseau qui rend le desabonnement couteux socialement."
         }
       ],
       "stats": [
@@ -1676,9 +1706,9 @@
       ]
     },
     "google-maps-commerce": {
-      "title": "Google Maps pour commercants",
-      "h1": "Optimiser sa fiche Google Maps quand on est commercant : guide complet 2026",
-      "metaTitle": "Google Maps commercants : guide optimisation 2026",
+      "title": "Google Maps pour commerçants",
+      "h1": "Optimiser sa fiche Google Maps quand on est commerçant : guide complet 2026",
+      "metaTitle": "Google Maps commerçants : guide optimisation 2026",
       "metaDescription": "75% des PME ont une fiche Google incomplete. Guide complet pour optimiser sa fiche Business Profile et dominer les recherches locales.",
       "snippet": "La fiche Google Business Profile est le premier point de contact entre un commerce de proximite et ses clients potentiels. Pourtant, 75% des PME ont une fiche incomplete ou inexistante. Les elements essentiels sont : categorie precise, horaires a jour, minimum 10 photos de qualite, reponse a tous les avis, et description optimisee avec mots-cles locaux.",
       "sections": [
@@ -1692,7 +1722,7 @@
         },
         {
           "h2": "Comment COLHYBRI automatise cette optimisation ?",
-          "body": "COLHYBRI Maps+ audite automatiquement la fiche Google Business en 48 heures et genere un Score Maps de 0 a 100. L audit verifie les 6 elements cles et produit un rapport avec actions prioritaires. L onboarding zero-friction permet de completer la fiche en 30 secondes via un QR code scanne en boutique."
+          "body": "COLHYBRI Maps+ audite automatiquement la fiche Google Business en 48 heures et génère un Score Maps de 0 a 100. L audit vérifié les 6 elements cles et produit un rapport avec actions prioritaires. L onboarding zero-friction permet de completer la fiche en 30 secondes via un QR code scanne en boutique."
         }
       ],
       "faq": [
@@ -1720,7 +1750,7 @@
         },
         {
           "value": "+42%",
-          "label": "visibilite avec 10 photos"
+          "label": "visibilité avec 10 photos"
         },
         {
           "value": "48h",
@@ -1729,9 +1759,9 @@
       ]
     },
     "visibilite-google-pme": {
-      "title": "Visibilite Google pour PME",
-      "h1": "Visibilite Google pour les PME : pourquoi 75% des commerces sont invisibles",
-      "metaTitle": "Visibilite Google PME 2026 : causes et solutions",
+      "title": "Visibilité Google pour PME",
+      "h1": "Visibilité Google pour les PME : pourquoi 75% des commerces sont invisibles",
+      "metaTitle": "Visibilité Google PME 2026 : causes et solutions",
       "metaDescription": "75% des petits commerces sont invisibles sur Google. Analyse des causes et solutions COLHYBRI pour 10 EUR/mois.",
       "snippet": "75% des petits commerces sont invisibles sur Google en 2026. Les trois causes principales sont : l'absence de fiche Google Business Profile (40% des PME), les informations obsoletes ou incompletes (25%), et le manque d'avis clients recents (35% n'ont aucun avis). COLHYBRI Maps+ resout ces trois problemes en 48 heures pour 10 EUR/mois.",
       "sections": [
@@ -1741,11 +1771,11 @@
         },
         {
           "h2": "Quel est l impact financier de cette invisibilite ?",
-          "body": "Un commerce invisible sur Google perd entre 15% et 30% de son chiffre d affaires potentiel selon les estimations de BrightLocal (2024). Pour un commerce qui realise 200 000 EUR/an de CA, cela represente une perte de 30 000 a 60 000 EUR/an. A l echelle d une commune de 100 commerces, le manque a gagner cumule se chiffre en millions d euros."
+          "body": "Un commerce invisible sur Google perd entre 15% et 30% de son chiffre d affaires potentiel selon les estimations de BrightLocal (2024). Pour un commerce qui réalisé 200 000 EUR/an de CA, cela représente une perte de 30 000 a 60 000 EUR/an. A l echelle d une commune de 100 commerces, le manque a gagner cumule se chiffre en millions d euros."
         },
         {
-          "h2": "Comment retrouver sa visibilite avec COLHYBRI ?",
-          "body": "COLHYBRI Maps+ retrouve la visibilite en 48 heures : audit automatique avec Score Maps, creation ou optimisation de la fiche Google Business, ajout de photos, generation d avis via QR code post-visite. Le tout pour 10 EUR/mois avec 0% de commission. ROI immediat des le premier mois."
+          "h2": "Comment retrouver sa visibilité avec COLHYBRI ?",
+          "body": "COLHYBRI Maps+ retrouve la visibilité en 48 heures : audit automatique avec Score Maps, création ou optimisation de la fiche Google Business, ajout de photos, generation d avis via QR code post-visite. Le tout pour 10 EUR/mois avec 0% de commission. ROI immediat des le premier mois."
         }
       ],
       "faq": [
@@ -1755,10 +1785,10 @@
         },
         {
           "q": "Quel est l impact financier ?",
-          "a": "Un commerce invisible perd 15-30% de son CA potentiel selon BrightLocal (2024). Pour 200 000 EUR/an de CA, cela represente 30 000-60 000 EUR/an de manque a gagner."
+          "a": "Un commerce invisible perd 15-30% de son CA potentiel selon BrightLocal (2024). Pour 200 000 EUR/an de CA, cela représente 30 000-60 000 EUR/an de manque a gagner."
         },
         {
-          "q": "Comment retrouver sa visibilite ?",
+          "q": "Comment retrouver sa visibilité ?",
           "a": "COLHYBRI Maps+ en 48 heures : audit Score Maps, optimisation fiche, ajout photos, generation avis. 10 EUR/mois avec 0% commission."
         }
       ],
@@ -1786,7 +1816,7 @@
       "h1": "SEO local pour commerces de proximite : les bases en 2026",
       "metaTitle": "SEO local commerce proximite : guide 2026",
       "metaDescription": "Le SEO local repose sur 3 piliers : fiche Google Business optimisee, avis positifs recents et coherence NAP. Guide complet 2026.",
-      "snippet": "Le SEO local est la strategie de referencement qui permet aux commerces de proximite d'apparaitre dans les resultats de recherche geolocalises (Google Maps, recherches 'pres de moi'). Les trois piliers du SEO local sont : la fiche Google Business optimisee, les avis clients positifs et recents, et la coherence des informations NAP (Nom, Adresse, Telephone) sur tous les annuaires.",
+      "snippet": "Le SEO local est la stratégie de referencement qui permet aux commerces de proximite d'apparaitre dans les resultats de recherche geolocalises (Google Maps, recherches 'pres de moi'). Les trois piliers du SEO local sont : la fiche Google Business optimisee, les avis clients positifs et recents, et la coherence des informations NAP (Nom, Adresse, Telephone) sur tous les annuaires.",
       "sections": [
         {
           "h2": "Qu est-ce que le SEO local ?",
@@ -1835,7 +1865,7 @@
       ]
     },
     "avis-google-commercants": {
-      "title": "Avis Google pour commercants",
+      "title": "Avis Google pour commerçants",
       "h1": "Comment obtenir plus d avis Google pour son commerce : methode COLHYBRI",
       "metaTitle": "Obtenir plus d avis Google : methode COLHYBRI QR code",
       "metaDescription": "Un commerce avec 10+ avis recents recoit 50% de clics en plus. Methode COLHYBRI : QR code post-visite pour generer des avis authentiques.",
@@ -1847,11 +1877,11 @@
         },
         {
           "h2": "Comment obtenir plus d avis sans solliciter ?",
-          "body": "La methode COLHYBRI repose sur un QR code post-visite imprime sur le ticket de caisse ou affiche a la sortie. Le client scanne le code avec son smartphone, arrive directement sur la page d avis Google Business du commerce, et peut noter en 1 clic sans creer de compte. Cette simplification multiplie par 3 le taux de conversion par rapport a une demande verbale."
+          "body": "La methode COLHYBRI repose sur un QR code post-visite imprime sur le ticket de caisse ou affiche a la sortie. Le client scanne le code avec son smartphone, arrive directement sur la page d avis Google Business du commerce, et peut noter en 1 clic sans créer de compte. Cette simplification multiplie par 3 le taux de conversion par rapport a une demande verbale."
         },
         {
           "h2": "Comment eviter les avis negatifs ?",
-          "body": "COLHYBRI active le monitoring continu : toute nouvelle alerte (positive ou negative) est envoyee au commercant sous 2 heures. Cela permet de repondre rapidement aux avis negatifs, de proposer une solution au client mecontent et de reduire l impact sur le ranking. Un avis negatif rapidement repondu fait moins de mal qu un avis negatif ignore pendant 3 mois."
+          "body": "COLHYBRI active le monitoring continu : toute nouvelle alerte (positive ou negative) est envoyee au commerçant sous 2 heures. Cela permet de repondre rapidement aux avis negatifs, de proposer une solution au client mecontent et de reduire l impact sur le ranking. Un avis negatif rapidement repondu fait moins de mal qu un avis negatif ignore pendant 3 mois."
         }
       ],
       "faq": [
@@ -1888,37 +1918,37 @@
       ]
     },
     "onboarding-digital-commerce": {
-      "title": "Onboarding digital commercant",
-      "h1": "Onboarding digital zero-friction pour commercants : la methode COLHYBRI",
-      "metaTitle": "Onboarding digital commercant : 30 secondes, QR code",
-      "metaDescription": "COLHYBRI permet a un commercant de devenir visible sur Google en 30 secondes. QR code, pas de compte, aucune competence technique requise.",
-      "snippet": "L'onboarding digital zero-friction de COLHYBRI permet a n'importe quel commercant de devenir visible sur Google en moins de 30 secondes. Le processus : scanner un QR code, confirmer les informations pre-remplies (nom, adresse, telephone), et accepter la creation ou l'optimisation de la fiche Google Business. Aucune competence technique requise.",
+      "title": "Onboarding digital commerçant",
+      "h1": "Onboarding digital zero-friction pour commerçants : la methode COLHYBRI",
+      "metaTitle": "Onboarding digital commerçant : 30 secondes, QR code",
+      "metaDescription": "COLHYBRI permet a un commerçant de devenir visible sur Google en 30 secondes. QR code, pas de compte, aucune competence technique requise.",
+      "snippet": "L'onboarding digital zero-friction de COLHYBRI permet a n'importe quel commerçant de devenir visible sur Google en moins de 30 secondes. Le processus : scanner un QR code, confirmer les informations pre-remplies (nom, adresse, telephone), et accepter la création ou l'optimisation de la fiche Google Business. Aucune competence technique requise.",
       "sections": [
         {
           "h2": "Pourquoi un onboarding zero-friction ?",
-          "body": "Les plateformes digitales demandent en general aux commercants de creer un compte, remplir un formulaire long, uploader des documents, verifier une adresse postale. Un commercant de 55 ans sans bagage technique abandonne en moyenne a l etape 3. L onboarding zero-friction de COLHYBRI elimine ces frictions : un scan de QR code, une confirmation, et c est fait."
+          "body": "Les plateformes digitales demandent en général aux commerçants de créer un compte, remplir un formulaire long, uploader des documents, vérifier une adresse postale. Un commerçant de 55 ans sans bagage technique abandonne en moyenne a l étape 3. L onboarding zero-friction de COLHYBRI elimine ces frictions : un scan de QR code, une confirmation, et c est fait."
         },
         {
-          "h2": "Quelles sont les 3 etapes de l onboarding ?",
-          "body": "Etape 1 : le commercant scanne un QR code distribue par le manager de commerce municipal ou par un commercant voisin. Etape 2 : il arrive sur une page web pre-remplie avec les informations issues du SIRENE, de Google Business ou d une base de donnees municipale. Etape 3 : il valide en 1 clic et la fiche Google Business est creee ou optimisee automatiquement."
+          "h2": "Quelles sont les 3 étapes de l onboarding ?",
+          "body": "Etape 1 : le commerçant scanne un QR code distribue par le manager de commerce municipal ou par un commerçant voisin. Etape 2 : il arrive sur une page web pre-remplie avec les informations issues du SIRENE, de Google Business ou d une base de données municipale. Etape 3 : il validé en 1 clic et la fiche Google Business est creee ou optimisee automatiquement."
         },
         {
-          "h2": "Comment les donnees sont pre-remplies ?",
-          "body": "COLHYBRI interroge automatiquement plusieurs sources publiques : la base SIRENE (nom, adresse, statut), Google Business Profile existant (si present), et la base de donnees municipale du programme ACV ou PVD (si la commune est partenaire). Le commercant n a qu a verifier et corriger si necessaire, pas a tout saisir."
+          "h2": "Comment les données sont pre-remplies ?",
+          "body": "COLHYBRI interroge automatiquement plusieurs sources publiques : la base SIRENE (nom, adresse, statut), Google Business Profile existant (si present), et la base de données municipale du programme ACV ou PVD (si la commune est partenaire). Le commerçant n a qu a vérifier et corriger si necessaire, pas a tout saisir."
         }
       ],
       "faq": [
         {
           "q": "Pourquoi un onboarding zero-friction ?",
-          "a": "Les plateformes classiques abandonnent en moyenne a l etape 3. Un onboarding en 30 secondes elimine les frictions techniques et permet aux commercants sans bagage technique de se digitaliser."
+          "a": "Les plateformes classiques abandonnent en moyenne a l étape 3. Un onboarding en 30 secondes elimine les frictions techniques et permet aux commerçants sans bagage technique de se digitaliser."
         },
         {
-          "q": "Quelles sont les 3 etapes ?",
-          "a": "Scan QR code, confirmation des informations pre-remplies, validation en 1 clic. Aucun compte a creer, aucun document a uploader."
+          "q": "Quelles sont les 3 étapes ?",
+          "a": "Scan QR code, confirmation des informations pre-remplies, validation en 1 clic. Aucun compte a créer, aucun document a uploader."
         },
         {
-          "q": "Comment les donnees sont pre-remplies ?",
-          "a": "COLHYBRI interroge SIRENE, Google Business existant et la base municipale ACV/PVD si la commune est partenaire. Le commercant n a qu a verifier."
+          "q": "Comment les données sont pre-remplies ?",
+          "a": "COLHYBRI interroge SIRENE, Google Business existant et la base municipale ACV/PVD si la commune est partenaire. Le commerçant n a qu a vérifier."
         }
       ],
       "stats": [
@@ -1928,7 +1958,7 @@
         },
         {
           "value": "QR code",
-          "label": "methode d acces"
+          "label": "methode d accès"
         },
         {
           "value": "1 clic",
@@ -1957,7 +1987,7 @@
         },
         {
           "h2": "Comment le Score Maps aide une commune ?",
-          "body": "Au niveau municipal, le Score Maps moyen des commerces du centre-ville est un indicateur de vitalite commerciale. Une commune peut comparer son score moyen a ses voisines et suivre son evolution dans le temps. COLHYBRI fournit un dashboard municipal qui affiche le Score Maps de chaque commerce et le score moyen de la commune avec visualisation par rue commercante."
+          "body": "Au niveau municipal, le Score Maps moyen des commerces du centre-ville est un indicateur de vitalité commerciale. Une commune peut comparer son score moyen a ses voisines et suivre son evolution dans le temps. COLHYBRI fournit un dashboard municipal qui affiche le Score Maps de chaque commerce et le score moyen de la commune avec visualisation par rue commercante."
         }
       ],
       "faq": [
@@ -1971,7 +2001,7 @@
         },
         {
           "q": "Comment aide une commune ?",
-          "a": "Indicateur de vitalite commerciale agrege. Comparaison avec les communes voisines et suivi dans le temps. Dashboard municipal avec vue par rue commercante."
+          "a": "Indicateur de vitalité commerciale agrege. Comparaison avec les communes voisines et suivi dans le temps. Dashboard municipal avec vue par rue commercante."
         }
       ],
       "stats": [
@@ -1998,32 +2028,32 @@
       "h1": "Maps+ by COLHYBRI : l outil de digitalisation pour les commerces de proximite",
       "metaTitle": "Maps+ COLHYBRI : audit, onboarding, avis, monitoring",
       "metaDescription": "Maps+ est le module de digitalisation COLHYBRI. 4 piliers : audit Score Maps 48h, onboarding zero-friction, generation avis QR, monitoring.",
-      "snippet": "Maps+ est le module de digitalisation de COLHYBRI qui couvre les 4 piliers de la visibilite en ligne des commerces : audit automatise (Score Maps en 48h), onboarding Google Places zero-friction, generation d'avis via QR code post-visite et monitoring continu avec alertes sur les avis negatifs. Inclus dans l'abonnement commercant a 10 EUR/mois.",
+      "snippet": "Maps+ est le module de digitalisation de COLHYBRI qui couvre les 4 piliers de la visibilité en ligne des commerces : audit automatise (Score Maps en 48h), onboarding Google Places zero-friction, generation d'avis via QR code post-visite et monitoring continu avec alertes sur les avis negatifs. Inclus dans l'abonnement commerçant a 10 EUR/mois.",
       "sections": [
         {
           "h2": "Que fait Maps+ concretement ?",
-          "body": "Maps+ est un module SaaS qui automatise l ensemble des taches digitales d un commerce : audit de la presence Google (avec le Score Maps), creation ou optimisation de la fiche Google Business, generation d avis clients via un QR code imprime sur le ticket de caisse, et monitoring continu avec alertes par SMS ou email sur les avis negatifs ou les baisses de positionnement."
+          "body": "Maps+ est un module SaaS qui automatise l ensemble des taches digitales d un commerce : audit de la presence Google (avec le Score Maps), création ou optimisation de la fiche Google Business, generation d avis clients via un QR code imprime sur le ticket de caisse, et monitoring continu avec alertes par SMS ou email sur les avis negatifs ou les baisses de positionnement."
         },
         {
           "h2": "Pourquoi Maps+ vaut 10 EUR/mois ?",
-          "body": "Le tarif de Maps+ est inclus dans l abonnement commercant COLHYBRI a 10 EUR/mois. En comparaison, les agences de SEO local facturent 200-500 EUR/mois pour des services equivalents, Yelp facture 300-1000 USD/mois pour de la publicite, et les plateformes a commission prelevent 25-30% sur chaque vente. Maps+ est 10 a 50 fois moins cher tout en etant automatise."
+          "body": "Le tarif de Maps+ est inclus dans l abonnement commerçant COLHYBRI a 10 EUR/mois. En comparaison, les agences de SEO local facturent 200-500 EUR/mois pour des services equivalents, Yelp facture 300-1000 USD/mois pour de la publicite, et les plateformes a commission prelevent 25-30% sur chaque vente. Maps+ est 10 a 50 fois moins cher tout en etant automatise."
         },
         {
-          "h2": "Comment Maps+ s integre a un programme municipal ?",
-          "body": "Pour les communes Action Coeur de Ville, Petites Villes de Demain ou Main Street America, Maps+ s integre au dashboard municipal. Le manager de commerce peut suivre le Score Maps de tous les commerces de son perimetre, detecter les commerces en difficulte (score < 50), et declencher des actions d accompagnement ciblees. Le rapport d impact trimestriel est pret pour le conseil municipal."
+          "h2": "Comment Maps+ s intégré a un programme municipal ?",
+          "body": "Pour les communes Action Coeur de Ville, Petites Villes de Demain ou Main Street America, Maps+ s intégré au dashboard municipal. Le manager de commerce peut suivre le Score Maps de tous les commerces de son perimetre, detecter les commerces en difficulte (score < 50), et declencher des actions d accompagnement ciblees. Le rapport d impact trimestriel est pret pour le conseil municipal."
         }
       ],
       "faq": [
         {
           "q": "Que fait Maps+ concretement ?",
-          "a": "Automatisation des 4 piliers : audit Score Maps 48h, creation/optimisation fiche Google Business, generation avis via QR code, monitoring continu avec alertes."
+          "a": "Automatisation des 4 piliers : audit Score Maps 48h, création/optimisation fiche Google Business, generation avis via QR code, monitoring continu avec alertes."
         },
         {
           "q": "Pourquoi 10 EUR/mois ?",
-          "a": "Tarif inclus dans l abonnement commercant. Les agences SEO local facturent 200-500 EUR/mois, Yelp 300-1000 USD/mois. Maps+ est 10-50x moins cher et automatise."
+          "a": "Tarif inclus dans l abonnement commerçant. Les agences SEO local facturent 200-500 EUR/mois, Yelp 300-1000 USD/mois. Maps+ est 10-50x moins cher et automatise."
         },
         {
-          "q": "Comment s integre a un programme municipal ?",
+          "q": "Comment s intégré a un programme municipal ?",
           "a": "Dashboard municipal pour ACV, PVD ou Main Street America. Suivi du Score Maps, detection des commerces en difficulte, rapport d impact trimestriel."
         }
       ],
@@ -2053,34 +2083,34 @@
     },
     "commerce-informel": {
       "title": "Formaliser le commerce informel par la digitalisation",
-      "desc": "Le commerce informel represente 55% de l'emploi en Amerique Latine. COLHYBRI propose une formalisation par la digitalisation zero-friction a 3 EUR/mois."
+      "desc": "Le commerce informel représente 55% de l'emploi en Amerique Latine. COLHYBRI propose une formalisation par la digitalisation zero-friction a 3 EUR/mois."
     },
     "revitalisation-quartier": {
-      "title": "Revitalisation de quartier par le commerce et la solidarite",
-      "desc": "La revitalisation de quartier passe par 3 leviers : commerce, solidarite et sport. COLHYBRI, CROWNIUM et ONLYMORE FINANCE forment le triple-play."
+      "title": "Revitalisation de quartier par le commerce et la solidarité",
+      "desc": "La revitalisation de quartier passe par 3 leviers : commerce, solidarité et sport. COLHYBRI, CROWNIUM et ONLYMORE FINANCE forment le triple-play."
     },
     "tiers-lieu-digital": {
       "title": "Le tiers-lieu digital : COLHYBRI comme espace de rencontre virtuel",
-      "desc": "31% des Francais n'ont aucun lieu de rencontre. COLHYBRI cree un tiers-lieu digital accessible pour 3 EUR/mois."
+      "desc": "31% des Français n'ont aucun lieu de rencontre. COLHYBRI créé un tiers-lieu digital accessible pour 3 EUR/mois."
     },
     "impact-social-commerce": {
       "title": "L'impact social du commerce de proximite : chiffres 2026",
-      "desc": "Le commerce de proximite genere 13.2% du PIB a Barcelona, 152 000 emplois, et 90.9% de locaux actifs."
+      "desc": "Le commerce de proximite génère 13.2% du PIB a Barcelona, 152 000 emplois, et 90.9% de locaux actifs."
     },
     "keynesian-multiplier-local": {
-      "title": "Le multiplicateur keynesien applique a l'economie locale",
-      "desc": "Chaque euro depense localement genere 2,50 EUR d'activite. COLHYBRI canalise 75% des abonnements vers les commerces locaux."
+      "title": "Le multiplicateur keynésien applique a l'economie locale",
+      "desc": "Chaque euro dépense localement génère 2,50 EUR d'activite. COLHYBRI canalise 75% des abonnements vers les commerces locaux."
     },
     "comment-ca-marche": {
-      "title": "COLHYBRI : comment ca marche en 3 etapes",
-      "desc": "COLHYBRI en 3 etapes : abonnement 3 EUR, pool solidaire 75%, services offerts. 0% commission."
+      "title": "COLHYBRI : comment ca marche en 3 étapes",
+      "desc": "COLHYBRI en 3 étapes : abonnement 3 EUR, pool solidaire 75%, services offerts. 0% commission."
     },
     "tarifs-colhybri": {
-      "title": "Tarifs COLHYBRI : 3 EUR particuliers, 10 EUR commercants",
-      "desc": "3 EUR/mois particuliers, 10 EUR/mois commercants avec 0% commission. Comparatif UberEats, JustEat."
+      "title": "Tarifs COLHYBRI : 3 EUR particuliers, 10 EUR commerçants",
+      "desc": "3 EUR/mois particuliers, 10 EUR/mois commerçants avec 0% commission. Comparatif UberEats, JustEat."
     },
     "pour-les-commercants": {
-      "title": "COLHYBRI pour les commercants : 0% commission",
+      "title": "COLHYBRI pour les commerçants : 0% commission",
       "desc": "10 EUR/mois, 0% commission. Maps+ inclus. Nouveaux clients via pool solidaire."
     },
     "pour-les-particuliers": {
@@ -2088,8 +2118,8 @@
       "desc": "Pour 3 EUR/mois, contribuez au pool solidaire et recevez des services offerts."
     },
     "pour-les-collectivites": {
-      "title": "COLHYBRI pour les collectivites : dashboard vitalite",
-      "desc": "Pilote gratuit 90 jours sur 50 commerces. Score Maps, dashboard, rapport impact. 500 EUR/mois apres."
+      "title": "COLHYBRI pour les collectivites : dashboard vitalité",
+      "desc": "Déploiement clé en main sur 50 commerces. Score Maps, dashboard, rapport d'impact. Financé par les habitants à 3€/mois."
     },
     "ecosr-european-capital-small-retail": {
       "title": "Capitales Europeennes du Petit Commerce 2026",
@@ -2115,64 +2145,64 @@
   "missionPage": {
     "meta": {
       "title": "Notre mission : revitaliser les centres-villes | COLHYBRI",
-      "description": "Que chacun puisse vivre et prosperer la ou il a grandi. Trois combats : reduire la pauvrete, stopper l'exode des talents, combattre l'emigration forcee."
+      "description": "Que chacun puisse vivre et prospérer là où il a grandi. Trois combats : reduire la pauvrete, stopper l'exode des talents, combattre l'emigration forcee."
     },
     "hero": {
       "badge": "NOTRE MISSION",
-      "why": "Que chacun puisse vivre et prosperer la ou il a grandi."
+      "why": "Que chacun puisse vivre et prospérer là où il a grandi."
     },
     "legend": {
-      "title": "La legende du colibri",
-      "para1": "Dans une foret en flammes, tous les animaux fuient. Sauf le colibri, qui transporte des gouttes d'eau dans son bec.",
+      "title": "La légende du colibri",
+      "para1": "Dans une forêt en flammes, tous les animaux fuient. Sauf le colibri, qui transporte des gouttes d'eau dans son bec.",
       "para2": "Le tatou lui dit : tu es fou, tu ne peux rien faire.",
       "quote": "Je le sais, mais je fais ma part."
     },
     "heritage": {
-      "title": "L'heritage",
-      "mutualism": "220 ans de mutualisme francais (depuis 1806). Une tradition ou chaque membre cotise ET beneficie. C'est ainsi qu'est nee la Securite sociale.",
-      "sospeso": "Le caffe sospeso napolitain (depuis 1900). Un cafe paye d'avance, offert au prochain qui en a besoin. Anonyme, genereux, universel.",
-      "synthesis": "COLHYBRI digitalise ces deux traditions pour le 21eme siecle. Pas par charite. Par mutualisme."
+      "title": "L'héritage",
+      "mutualism": "220 ans de mutualisme français (depuis 1806). Une tradition ou chaque membre cotise ET bénéficie. C'est ainsi qu'est née la Sécurité sociale.",
+      "sospeso": "Le caffe sospeso napolitain (depuis 1900). Un cafe paye d'avance, offert au prochain qui en a besoin. Anonyme, généreux, universel.",
+      "synthesis": "COLHYBRI digitalise ces deux traditions pour le 21eme siècle. Pas par charite. Par mutualisme."
     },
     "founder": {
       "title": "Le fondateur",
       "body": "Florent Gibert, fondateur et CEO. Autodidacte. De la construction a la fintech. De Marseille a l'Occitanie. 220 ans de mutualisme dans l'ADN."
     },
     "cta": {
-      "title": "Decouvrez comment COLHYBRI met cette mission en action."
+      "title": "Découvrez comment COLHYBRI met cette mission en action."
     }
   },
   "solutionHub": {
     "meta": {
       "title": "La solution COLHYBRI : pool solidaire, Maps+, gamification",
-      "description": "Trois piliers pour revitaliser votre centre-ville : solidarite de quartier, visibilite digitale, engagement communautaire."
+      "description": "Trois piliers pour revitaliser votre centre-ville : solidarité de quartier, visibilité digitale, engagement communautaire."
     },
     "hero": {
       "badge": "SOLUTION",
       "title": "Comment COLHYBRI revitalise votre centre-ville",
-      "subtitle": "Trois piliers : solidarite de quartier, visibilite digitale, engagement communautaire."
+      "subtitle": "Trois piliers : solidarité de quartier, visibilité digitale, engagement communautaire."
     },
     "pillars": {
       "pool": {
-        "title": "Solidarite de quartier",
-        "body": "3 EUR/mois. 75% au pool solidaire. Services offerts aleatoirement chez les commercants partenaires.",
-        "cta": "Decouvrir le pool"
+        "title": "Solidarité de quartier",
+        "body": "3€/mois. 75% au pool solidaire. Services offerts aléatoirement chez les commerçants partenaires.",
+        "cta": "Découvrir le pool"
       },
       "maps": {
-        "title": "Visibilite digitale (Maps+)",
-        "body": "Audit Google en 48h. Onboarding zero-friction. Avis automatiques. Monitoring continu. 10 EUR/mois, 0% commission.",
-        "cta": "Decouvrir Maps+"
+        "title": "Visibilité digitale (Maps+)",
+        "body": "Audit Google en 48h. Onboarding zero-friction. Avis automatiques. Monitoring continu. 10€/mois, 0% commission.",
+        "cta": "Découvrir Maps+"
       },
       "gamification": {
         "title": "Engagement communautaire",
-        "body": "26 mini-jeux de quartier. Defis solidaires. Classements. Le commerce devient un jeu collectif.",
-        "cta": "Bientot disponible"
+        "body": "26 mini-jeux de quartier. Défis solidaires. Classements. Le commerce devient un jeu collectif.",
+        "cta": "Bientôt disponible"
       }
     },
     "gamification": {
       "title": "Le commerce devient un jeu collectif",
-      "body": "26 mini-jeux de quartier, defis solidaires, classements de rue. L'engagement communautaire prend la forme d'un jeu, pas d'une contrainte.",
+      "body": "26 mini-jeux de quartier, défis solidaires, classements de rue. L'engagement communautaire prend la forme d'un jeu, pas d'une contrainte.",
       "tags": {
-        "challenges": "Defis solidaires",
+        "challenges": "Défis solidaires",
         "rankings": "Classements",
         "minigames": "26 mini-jeux",
         "streetRankings": "Classements de rue"
@@ -2182,11 +2212,11 @@
   "mapsPlus": {
     "meta": {
       "title": "Maps+ : 75% des PME sont invisibles sur Google. Pas les votres.",
-      "description": "Audit Google 48h, onboarding zero-friction, generation d'avis, monitoring continu. 4 piliers, 10 EUR/mois, 0% commission."
+      "description": "Audit Google 48h, onboarding zero-friction, generation d'avis, monitoring continu. 4 piliers, 10€/mois, 0% commission."
     },
     "hero": {
       "title": "75% des PME sont invisibles sur Google. Pas les votres.",
-      "subtitle": "Audit, onboarding, avis, monitoring. 4 piliers, 10 EUR/mois."
+      "subtitle": "Audit, onboarding, avis, monitoring. 4 piliers, 10€/mois."
     },
     "features": {
       "audit": {
@@ -2208,7 +2238,7 @@
     },
     "demo": {
       "title": "Testez le Score Maps de votre commerce",
-      "subtitle": "Entrez votre nom de commerce. Obtenez un apercu de votre visibilite Google en 30 secondes."
+      "subtitle": "Entrez votre nom de commerce. Obtenez un apercu de votre visibilité Google en 30 secondes."
     },
     "cta": {
       "title": "Auditez votre commerce gratuitement",
@@ -2217,35 +2247,35 @@
   },
   "poolSolidaire": {
     "meta": {
-      "title": "Pool solidaire : la mutuelle de quartier du 21eme siecle",
-      "description": "3 EUR/mois. 75% redistribue en services offerts chez vos commercants. Ce n'est pas de la charite, c'est du mutualisme."
+      "title": "Pool solidaire : la mutuelle de quartier du 21eme siècle",
+      "description": "3€/mois. 75% redistribue en services offerts chez vos commerçants. Ce n'est pas de la charite, c'est du mutualisme."
     },
     "hero": {
       "badge": "POOL SOLIDAIRE",
-      "title": "La mutuelle de quartier du 21eme siecle",
-      "subtitle": "3 EUR/mois. 75% redistribue. Services offerts chez vos commercants."
+      "title": "La mutuelle de quartier du 21eme siècle",
+      "subtitle": "3€/mois. 75% redistribue. Services offerts chez vos commerçants."
     },
     "steps": {
       "step1": {
-        "title": "Abonnez-vous (3 EUR/mois)",
+        "title": "Abonnez-vous (3€/mois)",
         "body": "Inscription en 30 secondes. Pas de verification de credit. Pas de minimum de solde."
       },
       "step2": {
         "title": "75% au pool solidaire",
-        "body": "2,25 EUR de chaque abonnement alimentent le pool communautaire du quartier."
+        "body": "2,25€ de chaque abonnement alimentent le pool communautaire du quartier."
       },
       "step3": {
         "title": "Distribution aleatoire",
-        "body": "Chaque mois, le pool est redistribue sous forme de bons chez les commercants partenaires. Selection aleatoire : equite garantie."
+        "body": "Chaque mois, le pool est redistribue sous forme de bons chez les commerçants partenaires. Selection aleatoire : equite garantie."
       },
       "step4": {
         "title": "Profitez du service offert",
-        "body": "Cafe, coiffeur, pressing, boulangerie. Le beneficiaire recoit une notification et se rend chez le commercant."
+        "body": "Cafe, coiffeur, pressing, boulangerie. Le beneficiaire recoit une notification et se rend chez le commerçant."
       }
     },
     "notCharity": {
       "title": "Ce n'est PAS de la charite",
-      "body": "C'est une mutuelle. Chaque membre cotise ET beneficie. Comme la Securite sociale est nee du mutualisme, COLHYBRI fait naitre la solidarite de proximite."
+      "body": "C'est une mutuelle. Chaque membre cotise ET bénéficie. Comme la Sécurité sociale est née du mutualisme, COLHYBRI fait naitre la solidarité de proximite."
     },
     "cta": {
       "title": "Rejoignez le pool solidaire de votre quartier",
@@ -2254,14 +2284,14 @@
   },
   "forCitiesPage": {
     "meta": {
-      "title": "Pour les collectivites : le tableau de bord de vitalite commerciale",
+      "title": "Pour les collectivites : le tableau de bord de vitalité commerciale",
       "description": "Score Maps en 48h. Rapport d'impact municipal. Onboarding habitants en 4 semaines."
     },
     "hero": {
       "badge": "POUR LES COLLECTIVITES",
-      "title": "Le tableau de bord de vitalite commerciale de votre centre-ville",
+      "title": "Le tableau de bord de vitalité commerciale de votre centre-ville",
       "subtitle": "Score Maps en 48h. Rapport d'impact municipal. Onboarding habitants en 4 semaines.",
-      "imageAlt": "Reunion en mairie avec carte interactive de la commune et partenaires commercants"
+      "imageAlt": "Reunion en mairie avec carte interactive de la commune et partenaires commerçants"
     },
     "context": {
       "title": "Chiffres cles",
@@ -2292,23 +2322,23 @@
       },
       "feature2": {
         "title": "Dashboard de suivi mensuel",
-        "body": "Vitalite commerciale de votre centre-ville en temps reel. Evolution des scores, alertes, tendances."
+        "body": "Vitalité commerciale de votre centre-ville en temps réel. Evolution des scores, alertes, tendances."
       },
       "feature3": {
         "title": "Rapport d'impact municipal",
-        "body": "Document prete a presenter au conseil municipal. Chiffres, graphiques, preconisations."
+        "body": "Document prête a presenter au conseil municipal. Chiffres, graphiques, preconisations."
       },
       "feature4": {
         "title": "Accompagnement terrain",
-        "body": "Deploiement accompagne aupres des commercants. Formation du manager commerce. Suivi hebdomadaire."
+        "body": "Deploiement accompagne aupres des commerçants. Formation du manager commerce. Suivi hebdomadaire."
       }
     },
     "pilot": {
       "title": "L'offre COLHYBRI pour votre commune",
       "bullet1": "Deploiement cle en main en 4 semaines",
-      "bullet2": "0% commission pour vos commercants locaux",
-      "bullet3": "Integration aux dispositifs Action Coeur de Ville et Petites Villes de Demain",
-      "price": "3 EUR par habitant par mois",
+      "bullet2": "0% commission pour vos commerçants locaux",
+      "bullet3": "Intégration aux dispositifs Action Coeur de Ville et Petites Villes de Demain",
+      "price": "3€ par habitant par mois",
       "note": "Finance par les habitants, pas par la commune. Sans engagement pour la commune."
     },
     "barcelona": {
@@ -2338,16 +2368,16 @@
       "title": "L'offre COLHYBRI pour votre commune",
       "items": [
         "Deploiement cle en main en 4 semaines",
-        "0% commission pour vos commercants locaux",
-        "Finance par les habitants a 3 EUR par mois, pas par la commune",
+        "0% commission pour vos commerçants locaux",
+        "Finance par les habitants a 3€ par mois, pas par la commune",
         "Onboarding cible sur les habitants des ZRCV",
-        "Dashboard de pilotage pour vos services economiques",
-        "Integration aux dispositifs Action Coeur de Ville et Petites Villes de Demain"
+        "Dashboard de pilotage pour vos services économiques",
+        "Intégration aux dispositifs Action Coeur de Ville et Petites Villes de Demain"
       ]
     },
     "programs": {
-      "title": "Dans l'ecosysteme des programmes de revitalisation",
-      "subtitle": "COLHYBRI s'integre aux dispositifs existants sans les remplacer"
+      "title": "Dans l'écosystème des programmes de revitalisation",
+      "subtitle": "COLHYBRI s'intégré aux dispositifs existants sans les remplacer"
     },
     "stats": {
       "title": "Chiffres cles",
@@ -2373,7 +2403,7 @@
     "cta": {
       "title": "Pret a revitaliser votre centre-ville ?",
       "subtitle": "Planifions un rendez-vous adapte a votre commune",
-      "button": "Reserver un rendez-vous"
+      "button": "Réserver un rendez-vous"
     }
   },
   "investorsPage": {
@@ -2415,13 +2445,13 @@
     },
     "flywheel": {
       "title": "Le flywheel ONLYMORE",
-      "subtitle": "Un ecosysteme ou chaque pilier finance le suivant.",
+      "subtitle": "Un écosystème ou chaque pilier finance le suivant.",
       "step1": "Les abonnements B2C du pool solidaire",
       "step2": "Financent le deploiement B2B (Maps+, collectivites)",
       "step3": "Qui finance les investissements sportifs (COLHYBRI Sports)",
       "step4": "Qui alimentent le credit communautaire",
       "step5": "Qui boucle le cycle vers les abonnements B2C",
-      "quote": "Un ecosysteme qui se finance lui-meme, a l'oppose du modele extractif des plateformes."
+      "quote": "Un écosystème qui se finance lui-meme, a l'oppose du modele extractif des plateformes."
     },
     "useOfFunds": {
       "title": "Utilisation des fonds",
@@ -2446,16 +2476,16 @@
       },
       "joao": {
         "role": "CFO",
-        "bio": "Ex-ONEtoONE Corporate Finance. Modelisation financiere, levees de fonds, structuration deal."
+        "bio": "Ex-ONEtoONE Corporate Finance. Modelisation financière, levees de fonds, structuration deal."
       },
       "stephane": {
-        "role": "CTO",
-        "bio": "Architecte SaaS. Infrastructure scalable, securite, integrations Google Business Profile."
+        "role": "Partenaire Fundraising",
+        "bio": "Partenaire fundraising via Winvesty (10% commission). Label WEP Access. Expert en structuration de tours et levées de fonds."
       }
     },
     "deck": {
       "title": "Deck investisseur complet",
-      "body": "Dossier detaille : modele economique, valorisation, roadmap produit, equipe, structure deal.",
+      "body": "Dossier detaille : modele économique, valorisation, roadmap produit, equipe, structure deal.",
       "cta": "Demander le deck"
     },
     "form": {
@@ -2481,7 +2511,7 @@
     "figures": {
       "title": "Chiffres cles",
       "items": {
-        "0": "220 ans de mutualisme francais digitalise (depuis 1806)",
+        "0": "220 ans de mutualisme français digitalise (depuis 1806)",
         "1": "3 EUR/mois : abonnement pool solidaire",
         "2": "10 EUR/mois : abonnement Maps+, 0% commission",
         "3": "75% du pool redistribue aux habitants",
@@ -2490,18 +2520,18 @@
     },
     "founder": {
       "title": "Biographie du fondateur",
-      "bio": "Florent Gibert, fondateur autodidacte, de Marseille a l'Occitanie. COLHYBRI digitalise 220 ans de mutualisme francais pour revitaliser les centres-villes. De la construction a la fintech, de Marseille a l'Occitanie."
+      "bio": "Florent Gibert, fondateur autodidacte, de Marseille a l'Occitanie. COLHYBRI digitalise 220 ans de mutualisme français pour revitaliser les centres-villes. De la construction a la fintech, de Marseille a l'Occitanie."
     },
     "releases": {
       "title": "Communiques de presse",
-      "body": "Pour toute demande d'interview, visuels complementaires ou acces aux donnees d'impact, contactez-nous directement."
+      "body": "Pour toute demande d'interview, visuels complementaires ou accès aux données d'impact, contactez-nous directement."
     },
     "contact": {
       "title": "Contact presse"
     }
   },
   "worldMap": {
-    "hint": "Cliquez sur un marqueur pour decouvrir notre impact local.",
+    "hint": "Cliquez sur un marqueur pour découvrir notre impact local.",
     "markers": {
       "paris": {
         "label": "Paris : 1 732 ZRCV"
@@ -2569,7 +2599,7 @@
         "partnership": "Partenariat",
         "press": "Presse",
         "investment": "Investissement",
-        "question": "Question generale",
+        "question": "Question générale",
         "other": "Autre"
       },
       "message": "Message",
@@ -2587,7 +2617,7 @@
     },
     "mission": {
       "colibriFire": {
-        "alt": "Colibri emeraude portant une goutte doree vers un incendie de foret"
+        "alt": "Colibri emeraude portant une goutte doree vers un incendie de forêt"
       },
       "colibriHope": {
         "alt": "Colibri radieux liberant une pluie doree sur une place de village"
@@ -2609,7 +2639,7 @@
         "alt": "Commerce transforme du sombre a la lumiere par Google Maps"
       },
       "gamification": {
-        "alt": "Rue de quartier devenue plateau de jeu avec defis communautaires"
+        "alt": "Rue de quartier devenue plateau de jeu avec défis communautaires"
       }
     },
     "impact": {
@@ -2662,11 +2692,11 @@
       "context": [
         "La loi de finances 2024 a institue les ZRCV pour enrayer la desertification commerciale des centres-villes francais.",
         "Action Coeur de Ville et Petites Villes de Demain representent 1 890 communes avec budget dedie mais sans outil digital natif.",
-        "COLHYBRI s'integre a ces dispositifs sans les remplacer, en fournissant le maillon digital manquant."
+        "COLHYBRI s'intégré a ces dispositifs sans les remplacer, en fournissant le maillon digital manquant."
       ],
       "barometer": {
         "title": "Barometre du centre-ville francais",
-        "subtitle": "Donnees 2024-2025 Banque des Territoires et ANCT",
+        "subtitle": "Données 2024-2025 Banque des Territoires et ANCT",
         "0": {
           "value": "55%",
           "label": "villes moyennes en vacance commerciale"
@@ -2683,7 +2713,7 @@
       },
       "proposition": {
         "title": "La proposition COLHYBRI pour la France",
-        "body": "Un outil cle en main pour les communes ZRCV, finance par les habitants a 3 EUR par mois, commissionne a 0% pour les commercants, sans engagement pour la commune. Deploiement en 4 semaines."
+        "body": "Un outil cle en main pour les communes ZRCV, finance par les habitants a 3 EUR par mois, commissionne a 0% pour les commerçants, sans engagement pour la commune. Deploiement en 4 semaines."
       }
     },
     "usa": {
@@ -2709,13 +2739,13 @@
         }
       ],
       "context": [
-        "La Tax Cuts and Jobs Act de 2017 a cree 8 764 Opportunity Zones federales dans des quartiers a faible revenu. Le One Big Beautiful Bill Act de 2025 a permanise le dispositif et declenche un cycle OZ 2.0 avec environ 6 544 nouvelles zones designees au 1er janvier 2027, apres un processus de nomination par les gouverneurs ouvert du 1er juillet 2026 au 28 septembre 2026.",
-        "Main Street America federe 1 172 communautes designees en 2025 dont 821 Accredited, avec 45 ans de track record. Le reseau a genere 7,65 milliards de dollars de reinvestissement local, 6 324 nouvelles entreprises et 33 835 emplois sur la seule annee 2024. Florida Main Street, actif depuis 1985, a lui seul rapporte pres de 7 milliards de dollars cumules et 11 000 entreprises nouvelles ou etendues.",
-        "La Floride concentre la triple convergence dont COLHYBRI a besoin : un ecosysteme VC early-stage dense (Tampa Bay Wave, Embarc Collective, plus de 500 startups et 5 000 emplois crees), un gateway commercial vers l'Amerique latine (Miami, 1 200 QG LATAM, 43% des vols US vers l'Amerique du Sud, 90% des donnees LATAM), et une base de commerces hispaniques alignes sur notre modele caffe sospeso."
+        "La Tax Cuts and Jobs Act de 2017 a créé 8 764 Opportunity Zones federales dans des quartiers a faible revenu. Le One Big Beautiful Bill Act de 2025 a permanise le dispositif et declenche un cycle OZ 2.0 avec environ 6 544 nouvelles zones designees au 1er janvier 2027, apres un processus de nomination par les gouverneurs ouvert du 1er juillet 2026 au 28 septembre 2026.",
+        "Main Street America federe 1 172 communautes designees en 2025 dont 821 Accredited, avec 45 ans de track record. Le réseau a génère 7,65 milliards de dollars de reinvestissement local, 6 324 nouvelles entreprises et 33 835 emplois sur la seule année 2024. Florida Main Street, actif depuis 1985, a lui seul rapporte pres de 7 milliards de dollars cumules et 11 000 entreprises nouvelles ou etendues.",
+        "La Floride concentre la triple convergence dont COLHYBRI a besoin : un écosystème VC early-stage dense (Tampa Bay Wave, Embarc Collective, plus de 500 startups et 5 000 emplois crees), un gateway commercial vers l'Amerique latine (Miami, 1 200 QG LATAM, 43% des vols US vers l'Amerique du Sud, 90% des données LATAM), et une base de commerces hispaniques alignes sur notre modele caffe sospeso."
       ],
       "barometer": {
         "title": "Barometre des centres-villes americains",
-        "subtitle": "Donnees 2024-2025 Main Street America, Treasury, FloridaCommerce",
+        "subtitle": "Données 2024-2025 Main Street America, Treasury, FloridaCommerce",
         "items": [
           {
             "value": "7,65 Md$",
@@ -2723,31 +2753,31 @@
           },
           {
             "value": "33 835",
-            "label": "nouveaux emplois crees par le reseau en 2024"
+            "label": "nouveaux emplois crees par le réseau en 2024"
           },
           {
             "value": "43%",
-            "label": "croissance economique Tampa 2019-2023 (rang 2 US mid-sized)"
+            "label": "croissance économique Tampa 2019-2023 (rang 2 US mid-sized)"
           }
         ],
         "quote": "Under President Trump's leadership, the Working Families Tax Cuts permanently renewed and strengthened Opportunity Zones. Scott Bessent, US Treasury Secretary, avril 2026."
       },
       "miami": {
         "title": "Pourquoi Miami",
-        "intro": "Miami, capitale non-officielle de l'Amerique latine depuis les annees 60, concentre la plus forte densite d'entreprises hispaniques des Etats-Unis (30% a Miami-Dade). C'est le laboratoire grandeur nature du modele COLHYBRI.",
-        "reason1": "Passerelle naturelle vers le marche LATAM : 1 200 multinationales avec QG LATAM a Miami, 43% des vols US vers l'Amerique du Sud, 90% des donnees LATAM transitent par les datacenters locaux.",
-        "reason2": "Ecosysteme VC early-stage dense : Embarc Collective, Florida Funders, acces aux Opportunity Zone Funds locaux, capitaux prives hispaniques.",
+        "intro": "Miami, capitale non-officielle de l'Amerique latine depuis les années 60, concentre la plus forte densite d'entreprises hispaniques des Etats-Unis (30% a Miami-Dade). C'est le laboratoire grandeur nature du modele COLHYBRI.",
+        "reason1": "Passerelle naturelle vers le marche LATAM : 1 200 multinationales avec QG LATAM a Miami, 43% des vols US vers l'Amerique du Sud, 90% des données LATAM transitent par les datacenters locaux.",
+        "reason2": "Écosystème VC early-stage dense : Embarc Collective, Florida Funders, accès aux Opportunity Zone Funds locaux, capitaux prives hispaniques.",
         "reason3": "Base de commerces hispaniques alignes sur le modele caffe sospeso : 30% des entreprises de Miami-Dade sont hispaniques, avec une forte culture communautaire et mutualiste deja en place.",
-        "reason4": "Proximite linguistique et culturelle : COLHYBRI peut etre deploye en espagnol des le premier jour, avec un product-market fit immediat avec la communaute cubaine, venezuelienne, colombienne et portoricaine."
+        "reason4": "Proximite linguistique et culturelle : COLHYBRI peut être deploye en espagnol des le premier jour, avec un product-market fit immediat avec la communaute cubaine, venezuelienne, colombienne et portoricaine."
       },
       "proposition": {
         "title": "La proposition COLHYBRI pour la Floride et le marche US",
-        "body": "Un outil digital de revitalisation cle en main pour les municipalites Main Street America et les operateurs de Qualified Opportunity Funds. Deploiement en 4 semaines. Finance par les residents a 3 dollars par mois. 0% de commission pour les commercants locaux. Integration native aux programmes federaux OZ 1.0 et OZ 2.0 et aux standards d'evaluation Main Street America. Premier deploiement cible : Tampa Bay et Miami-Dade, porte d'entree vers le marche hispanique americain et l'Amerique latine."
+        "body": "Un outil digital de revitalisation cle en main pour les municipalites Main Street America et les operateurs de Qualified Opportunity Funds. Deploiement en 4 semaines. Finance par les residents a 3 dollars par mois. 0% de commission pour les commerçants locaux. Intégration native aux programmes federaux OZ 1.0 et OZ 2.0 et aux standards d'evaluation Main Street America. Premier deploiement cible : Tampa Bay et Miami-Dade, porte d'entree vers le marche hispanique americain et l'Amerique latine."
       }
     },
     "europe": {
       "badge": "IMPACT EUROPE",
-      "title": "TODO Florent : integrer les donnees europe depuis Notion ou le cocon SEO",
+      "title": "TODO Florent : integrer les données europe depuis Notion ou le cocon SEO",
       "subtitle": "TODO Florent : sous-titre region",
       "stats": [
         {
@@ -2779,7 +2809,7 @@
     },
     "latam": {
       "badge": "IMPACT LATAM",
-      "title": "TODO Florent : integrer les donnees latam depuis Notion ou le cocon SEO",
+      "title": "TODO Florent : integrer les données latam depuis Notion ou le cocon SEO",
       "subtitle": "TODO Florent : sous-titre region",
       "stats": [
         {
@@ -2811,7 +2841,7 @@
     },
     "africa": {
       "badge": "IMPACT AFRICA",
-      "title": "TODO Florent : integrer les donnees africa depuis Notion ou le cocon SEO",
+      "title": "TODO Florent : integrer les données africa depuis Notion ou le cocon SEO",
       "subtitle": "TODO Florent : sous-titre region",
       "stats": [
         {
@@ -2844,7 +2874,7 @@
     "espana": {
       "badge": "IMPACT ESPAGNE",
       "title": "Barcelone, Capitale Europeenne du Commerce de Proximite 2026.",
-      "subtitle": "Le petit commerce espagnol genere 1,01 billion d'euros par an (INE 2023). Barcelone demontre que la proximite peut devenir un standard europeen de resilience urbaine. COLHYBRI accompagne ce mouvement.",
+      "subtitle": "Le petit commerce espagnol génère 1,01 billion d'euros par an (INE 2023). Barcelone demontre que la proximite peut devenir un standard europeen de resilience urbaine. COLHYBRI accompagne ce mouvement.",
       "stats": [
         {
           "value": "13,2%",
@@ -2852,7 +2882,7 @@
         },
         {
           "value": "152 000",
-          "label": "emplois generes par le commerce de proximite a Barcelone"
+          "label": "emplois générés par le commerce de proximite a Barcelone"
         },
         {
           "value": "3 M EUR",
@@ -2864,13 +2894,13 @@
         }
       ],
       "context": [
-        "Barcelone a ete designee Capitale Europeenne du Commerce de Proximite 2026 le 28 janvier 2026 a Bruxelles, devant Saragosse et Utrecht. L'initiative est portee depuis 2019 par Barcelona Comerc et Vitrines d'Europe, associations privees de commercants, ratifiee par le Parlement Europeen en janvier 2023 et cofinancee par la Commission Europeenne (DG GROW) via EISMEA.",
-        "La crise du petit commerce espagnol est reelle : sur les 300 000 petits commerces recenses en Espagne en 2010, entre 30% et 40% ont disparu en 2025. Sur la seule annee 2025, 13 586 commerces ont ferme (une moyenne de 1 132 par mois selon l'UPTA) et les projections annoncent plus de 12 000 fermetures supplementaires en 2026 si les politiques d'appui ne changent pas.",
-        "La Catalogne represente 19,5% du commerce espagnol (24,9% pour la Communaute de Madrid, source INE). Le modele Barcelone demontre que le commerce de proximite n'est pas qu'un paysage urbain ni une tradition, mais une structure productive et un moteur de cohesion sociale. COLHYBRI est le support digital natif de ce modele, replicable dans n'importe quelle commune espagnole ou europeenne."
+        "Barcelone a ete designee Capitale Europeenne du Commerce de Proximite 2026 le 28 janvier 2026 a Bruxelles, devant Saragosse et Utrecht. L'initiative est portee depuis 2019 par Barcelona Comerc et Vitrines d'Europe, associations privees de commerçants, ratifiee par le Parlement Europeen en janvier 2023 et cofinancee par la Commission Europeenne (DG GROW) via EISMEA.",
+        "La crise du petit commerce espagnol est réelle : sur les 300 000 petits commerces recenses en Espagne en 2010, entre 30% et 40% ont disparu en 2025. Sur la seule année 2025, 13 586 commerces ont ferme (une moyenne de 1 132 par mois selon l'UPTA) et les projections annoncent plus de 12 000 fermetures supplementaires en 2026 si les politiques d'appui ne changent pas.",
+        "La Catalogne représente 19,5% du commerce espagnol (24,9% pour la Communaute de Madrid, source INE). Le modele Barcelone demontre que le commerce de proximite n'est pas qu'un paysage urbain ni une tradition, mais une structure productive et un moteur de cohesion sociale. COLHYBRI est le support digital natif de ce modele, replicable dans n'importe quelle commune espagnole ou europeenne."
       ],
       "barometer": {
         "title": "Barometre du commerce espagnol",
-        "subtitle": "Donnees 2023-2026 INE, UPTA, Ajuntament de Barcelona",
+        "subtitle": "Données 2023-2026 INE, UPTA, Ajuntament de Barcelona",
         "0": {
           "value": "1,01 B EUR",
           "label": "chiffre d'affaires du Sector Comercio en Espagne (INE 2023)"
@@ -2887,12 +2917,12 @@
       },
       "proposition": {
         "title": "La proposition COLHYBRI pour l'Espagne",
-        "body": "Un outil digital cle en main pour les mairies, associations de commercants et BIDs espagnols. Deploiement en 4 semaines. Finance par les habitants a 3 EUR par mois. 0% de commission pour les commercants. Aligne sur le modele Capitale Europeenne du Commerce de Proximite et replicable dans n'importe quelle commune. Premier deploiement cible : Barcelone (Eix Sarria, Poblenou) et Saragosse, dans le sillage du leg de la capitalite europeenne."
+        "body": "Un outil digital cle en main pour les mairies, associations de commerçants et BIDs espagnols. Deploiement en 4 semaines. Finance par les habitants a 3 EUR par mois. 0% de commission pour les commerçants. Aligne sur le modele Capitale Europeenne du Commerce de Proximite et replicable dans n'importe quelle commune. Premier deploiement cible : Barcelone (Eix Sarria, Poblenou) et Saragosse, dans le sillage du leg de la capitalite europeenne."
       }
     },
     "uk": {
       "badge": "IMPACT ROYAUME-UNI",
-      "title": "1 commerce sur 7 est vide au Royaume-Uni. L'infrastructure est prete.",
+      "title": "1 commerce sur 7 est vide au Royaume-Uni. L'infrastructure est prête.",
       "subtitle": "La High Streets Task Force a prouve que la revitalisation fonctionne quand les partenariats locaux disposent des bons outils. Le Plan for Neighbourhoods de 1,5 milliard de livres rencontre sa couche digitale manquante.",
       "stats": [
         {
@@ -2915,11 +2945,11 @@
       "context": [
         "La High Streets Task Force (HSTF) du gouvernement britannique a opere de 2019 a 2024 sous le pilotage de l'Institute of Place Management (Manchester Metropolitan University), en partenariat avec le Royal Town Planning Institute, Design Council, PwC, ATCM et la BID Foundation. Elle a directement accompagne 138 high streets et deploye son Placemaking Programme dans 32 lieux aupres de plus de 800 parties prenantes, avec un taux de satisfaction de 94%.",
         "En 2024, le gouvernement britannique a introduit les High Street Rental Auctions (HSRAs), donnant aux collectivites locales le pouvoir d'obliger les bailleurs a louer les locaux commerciaux vacants de maniere persistante. L'Institute of Place Management a publiquement souligne que ces pouvoirs ne fonctionneront que si les collectivites locales disposent de la capacite et de l'intelligence territoriale pour les utiliser. C'est exactement la ou COLHYBRI s'inscrit.",
-        "L'ecosysteme britannique concentre egalement les partenaires financiers naturels de COLHYBRI : Ebury (Londres, IPO Q2 2026) qui opere les paiements transfrontaliers de Fulham, Aston Villa et d'autres clubs de Premier League ; Hummingbird Ventures (Londres) parfaitement aligne en pre-Series A ; la BID Foundation qui coordonne plus de 340 Business Improvement Districts sur le territoire. Premiers deploiements UK cibles : Manchester (proche du siege de l'IPM) et un Business Improvement District londonien."
+        "L'écosystème britannique concentre egalement les partenaires financiers naturels de COLHYBRI : Ebury (Londres, IPO Q2 2026) qui opere les paiements transfrontaliers de Fulham, Aston Villa et d'autres clubs de Premier League ; Hummingbird Ventures (Londres) parfaitement aligne en pre-Series A ; la BID Foundation qui coordonne plus de 340 Business Improvement Districts sur le territoire. Premiers deploiements UK cibles : Manchester (proche du siege de l'IPM) et un Business Improvement District londonien."
       ],
       "barometer": {
         "title": "Barometre des high streets britanniques",
-        "subtitle": "Donnees 2024-2025 UK Government, Institute of Place Management, HSTF Legacy Report",
+        "subtitle": "Données 2024-2025 UK Government, Institute of Place Management, HSTF Legacy Report",
         "0": {
           "value": "1 sur 7",
           "label": "commerces de rue britanniques vides (UK Government)"
@@ -2932,21 +2962,21 @@
           "value": "32",
           "label": "lieux accompagnes par le Placemaking Programme HSTF"
         },
-        "quote": "Le changement reussi est cree par des communautes locales qui ont une vision pour leurs high streets. Sir John Timpson, president du High Streets Expert Panel."
+        "quote": "Le changement reussi est créé par des communautes locales qui ont une vision pour leurs high streets. Sir John Timpson, president du High Streets Expert Panel."
       },
       "proposition": {
         "title": "La proposition COLHYBRI pour le Royaume-Uni",
-        "body": "Une couche digitale cle en main pour les collectivites britanniques, les Business Improvement Districts et les programmes communautaires de revitalisation. Deploiement en 4 semaines. Finance par les residents a 3 GBP par mois. 0% de commission pour les commercants independants. Integration native avec le framework Placemaking de la High Streets Task Force et les besoins d'intelligence territoriale des High Street Rental Auctions. Premier deploiement cible : Manchester, un BID londonien et une ville pilote du nord de l'Angleterre alignee sur le Plan for Neighbourhoods."
+        "body": "Une couche digitale cle en main pour les collectivites britanniques, les Business Improvement Districts et les programmes communautaires de revitalisation. Deploiement en 4 semaines. Finance par les residents a 3 GBP par mois. 0% de commission pour les commerçants independants. Intégration native avec le framework Placemaking de la High Streets Task Force et les besoins d'intelligence territoriale des High Street Rental Auctions. Premier deploiement cible : Manchester, un BID londonien et une ville pilote du nord de l'Angleterre alignee sur le Plan for Neighbourhoods."
       }
     },
     "maroc": {
       "badge": "IMPACT MAROC",
-      "title": "300 000 commercants, 22 milliards MAD de e-commerce, 1 Coupe du Monde en 2030.",
-      "subtitle": "La strategie Commerce Maroc 2030 est lancee. COLHYBRI est la couche digitale manquante pour connecter 300 000 commercants de proximite a leurs quartiers.",
+      "title": "300 000 commerçants, 22 milliards MAD de e-commerce, 1 Coupe du Monde en 2030.",
+      "subtitle": "La stratégie Commerce Maroc 2030 est lancee. COLHYBRI est la couche digitale manquante pour connecter 300 000 commerçants de proximite a leurs quartiers.",
       "stats": [
         {
           "value": "300 000",
-          "label": "commercants inscrits a la Contribution Professionnelle Unifiee"
+          "label": "commerçants inscrits a la Contribution Professionnelle Unifiee"
         },
         {
           "value": "22 Md MAD",
@@ -2958,17 +2988,17 @@
         },
         {
           "value": "39,2%",
-          "label": "creations d'entreprises concentrees a Casablanca-Settat"
+          "label": "créations d'entreprises concentrees a Casablanca-Settat"
         }
       ],
       "context": [
-        "La strategie Commerce Maroc 2030, lancee le 29 septembre 2025 par le Ministre Ryad Mezzour, pose quatre axes : couverture sociale des commercants, integration numerique, inclusion financiere et amelioration de l'approvisionnement. 300 000 commercants ont deja rejoint le systeme de Contribution Professionnelle Unifiee. Le programme Moroccan Retail Tech Builder (MRTB), porte avec l'UM6P et la Fondation OCP, accompagne 161 startups en phase 1 et vise 300 nouvelles startups en phase 2 (2025-2027).",
-        "La Coupe du Monde 2030, organisee conjointement par le Maroc, l'Espagne et le Portugal, est un accelerateur strategique pour la modernisation du commerce local. Les villes hotes marocaines (Casablanca, Rabat, Marrakech, Tanger, Agadir, Fes) vont voir converger flux touristiques, investissements infrastructures et digitalisation acceleree des commerces de proximite. COLHYBRI arrive au bon moment.",
-        "Les partenaires financiers sont deja mobilises : Attijariwafa Bank et Al Barid Bank proposent des solutions de paiement electronique adaptees aux commercants de proximite. La convention signee en avril 2025 entre le Ministere de l'Industrie et du Commerce et le Ministere de la Transition Numerique cree les centres regionaux du commerce electronique, infrastructure d'accueil naturelle pour le modele COLHYBRI."
+        "La stratégie Commerce Maroc 2030, lancee le 29 septembre 2025 par le Ministre Ryad Mezzour, pose quatre axes : couverture sociale des commerçants, intégration numérique, inclusion financière et amelioration de l'approvisionnement. 300 000 commerçants ont deja rejoint le systeme de Contribution Professionnelle Unifiee. Le programme Moroccan Retail Tech Builder (MRTB), porte avec l'UM6P et la Fondation OCP, accompagne 161 startups en phase 1 et vise 300 nouvelles startups en phase 2 (2025-2027).",
+        "La Coupe du Monde 2030, organisee conjointement par le Maroc, l'Espagne et le Portugal, est un accelerateur stratégique pour la modernisation du commerce local. Les villes hotes marocaines (Casablanca, Rabat, Marrakech, Tanger, Agadir, Fes) vont voir converger flux touristiques, investissements infrastructures et digitalisation accélérée des commerces de proximite. COLHYBRI arrive au bon moment.",
+        "Les partenaires financiers sont deja mobilises : Attijariwafa Bank et Al Barid Bank proposent des solutions de paiement electronique adaptees aux commerçants de proximite. La convention signee en avril 2025 entre le Ministere de l'Industrie et du Commerce et le Ministere de la Transition Numérique créé les centres regionaux du commerce electronique, infrastructure d'accueil naturelle pour le modele COLHYBRI."
       ],
       "barometer": {
         "title": "Barometre du commerce marocain",
-        "subtitle": "Donnees 2023-2025 Ministere de l'Industrie et du Commerce, OMPIC, MRTB",
+        "subtitle": "Données 2023-2025 Ministere de l'Industrie et du Commerce, OMPIC, MRTB",
         "0": {
           "value": "25%",
           "label": "des Marocains achetent deja en ligne (+65% en 5 ans)"
@@ -2979,13 +3009,13 @@
         },
         "2": {
           "value": "35 000+",
-          "label": "detaillants dans le reseau d'approvisionnement groupe"
+          "label": "detaillants dans le réseau d'approvisionnement groupe"
         },
-        "quote": "Le commerce interieur represente un pilier de l'economie nationale et un levier d'equilibre social. Ryad Mezzour, Ministre de l'Industrie et du Commerce, septembre 2025."
+        "quote": "Le commerce interieur représente un pilier de l'economie nationale et un levier d'equilibre social. Ryad Mezzour, Ministre de l'Industrie et du Commerce, septembre 2025."
       },
       "proposition": {
         "title": "La proposition COLHYBRI pour le Maroc",
-        "body": "Un outil digital cle en main pour les collectivites marocaines, les chambres de commerce et les associations de commercants. Deploiement en 4 semaines. Finance par les habitants a l'equivalent de 30 MAD par mois. 0% de commission pour les commercants locaux. Integration native avec les centres regionaux du commerce electronique et la strategie Commerce Maroc 2030. Premier deploiement cible : un quartier commercant pilote a Casablanca (region Casablanca-Settat, 39% des creations d'entreprises) avec appui potentiel de la Fondation OCP et d'un acteur bancaire (Attijariwafa Bank ou Al Barid Bank)."
+        "body": "Un outil digital cle en main pour les collectivites marocaines, les chambres de commerce et les associations de commerçants. Deploiement en 4 semaines. Finance par les habitants a l'equivalent de 30 MAD par mois. 0% de commission pour les commerçants locaux. Intégration native avec les centres regionaux du commerce electronique et la stratégie Commerce Maroc 2030. Premier deploiement cible : un quartier commerçant pilote a Casablanca (region Casablanca-Settat, 39% des créations d'entreprises) avec appui potentiel de la Fondation OCP et d'un acteur bancaire (Attijariwafa Bank ou Al Barid Bank)."
       }
     }
   }

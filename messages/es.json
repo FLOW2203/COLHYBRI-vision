@@ -187,7 +187,7 @@
     "ctaApp": "Abrir la app",
     "individuals": {
       "title": "Para Individuos",
-      "price": "3 EUR",
+      "price": "3€",
       "period": "/mes",
       "features": [
         "Solidaridad de barrio mutualizada",
@@ -197,11 +197,11 @@
         "Sin compromiso",
         "Transparencia total del pool"
       ],
-      "cta": "Registrate en colhybri.com"
+      "cta": "Reservar una reunión"
     },
     "shops": {
       "title": "Para Comercios",
-      "price": "10 EUR",
+      "price": "10€",
       "period": "/mes",
       "features": [
         "Auditoria Google automatizada (Maps+)",
@@ -211,7 +211,28 @@
         "Visibilidad en la app",
         "Inscripcion en el pool comunitario"
       ],
-      "cta": "Registrate en colhybri.com"
+      "cta": "Reservar una reunión"
+    },
+    "premium": {
+      "title": "Maps+ Premium",
+      "price": "15€",
+      "period": "/mes",
+      "features": [
+        "Auditoría Google avanzada (Maps+ Premium)",
+        "Monitoreo continuo y alertas",
+        "Acompañamiento de onboarding dedicado",
+        "Inscripción prioritaria en el pool solidario",
+        "Panel de vitalidad personalizado",
+        "Herramientas de crecimiento de reseñas"
+      ],
+      "cta": "Reservar una reunión"
+    },
+    "giftCard": {
+      "title": "Tarjeta Regalo Solidaria",
+      "subtitle": "Ofrece un apoyo listo para usar",
+      "description": "Regala una tarjeta COLHYBRI a un vecino. Canjeable en comercios asociados. Alimenta el pool solidario y recompensa a los comerciantes locales.",
+      "priceLabel": "Importe variable",
+      "cta": "Descubrir la Tarjeta Regalo"
     }
   },
   "impact": {
@@ -248,6 +269,14 @@
       "roadmapTitle": "Roadmap internacional",
       "roadmapBody": "Para inversores y partenariados internacionales, las paginas fuera de la esfera hispana siguen accesibles por URL directa.",
       "roadmapSoon": "Proximamente"
+    },
+    "multiplierExplanation": {
+      "title": "El multiplicador keynesiano",
+      "subscription": "Suscripción",
+      "subscriptionAmount": "3€",
+      "multiplierLabel": "Multiplicador",
+      "localValueLabel": "Valor económico local",
+      "localValueAmount": "7,50€"
     }
   },
   "miami": {
@@ -322,7 +351,7 @@
       },
       {
         "q": "Cuanto cuesta?",
-        "a": "3 EUR al mes para particulares. 10 EUR al mes para comerciantes. Cero comision. Registro en colhybri.com."
+        "a": "3€/mes para particulares. 10€/mes para comercios. 15€/mes para Maps+ Premium. Cero comisión. Registro en colhybri.com."
       },
       {
         "q": "Que es Maps+?",
@@ -338,7 +367,7 @@
       },
       {
         "q": "Como puede participar mi ciudad?",
-        "a": "Las ciudades pueden iniciar un piloto gratuito de 90 dias sobre 50 comercios. Contacto desde la pagina Para Ciudades."
+        "a": "Las ciudades pueden iniciar un despliegue llave en mano sobre 50 comercios. Contacto desde la página Para Ciudades."
       },
       {
         "q": "Quien esta detras de COLHYBRI?",
@@ -354,8 +383,9 @@
     "title": "Contáctanos",
     "headline": "Ponte en Contacto",
     "description": "¿Interesado en COLHYBRI? Ya seas un individuo, dueño de un comercio local, funcionario municipal o inversor, nos encantaría saber de ti.",
-    "email": "contact@colhybri.vision",
-    "cta": "Enviar Mensaje"
+    "email": "onlymore2024@gmail.com",
+    "cta": "Enviar Mensaje",
+    "headquarters": "Sede"
   },
   "footer": {
     "tagline": "Cada gesto cuenta. El tuyo tambien.",
@@ -411,7 +441,12 @@
     "learnMore": "Saber Más",
     "getStarted": "Comenzar",
     "contactUs": "Contáctanos",
-    "backToHome": "Volver al Inicio"
+    "backToHome": "Volver al Inicio",
+    "bookDemo": "Reservar una reunión",
+    "applyWithColhybri": "Candidatarse con COLHYBRI",
+    "institutionalPartnership": "Alianza institucional",
+    "proposePilot": "Proponer un despliegue",
+    "discoverSolution": "Descubrir la solución"
   },
   "city": {
     "metaTitle": "COLHYBRI en {city}. Revitaliza tu centro urbano con solidaridad de barrio.",
@@ -563,7 +598,7 @@
         },
         {
           "h2": "Como contribuye COLHYBRI a la revitalizacion?",
-          "body": "COLHYBRI aporta una herramienta SaaS de medicion de la vitalidad comercial en tiempo real. Maps+ audita la presencia Google de cada comercio en 48 horas y el dashboard municipal ofrece metricas verificables al consejo municipal. Piloto gratuito de 90 dias sobre 50 comercios antes de cualquier compromiso."
+          "body": "COLHYBRI aporta una herramienta SaaS de medicion de la vitalidad comercial en tiempo real. Maps+ audita la presencia Google de cada comercio en 48 horas y el dashboard municipal ofrece metricas verificables al consejo municipal. Piloto despliegue llave en mano sobre 50 comercios, financiado por los residentes a 3€/mes. Sin compromiso para la ciudad."
         }
       ],
       "faq": [
@@ -577,7 +612,7 @@
         },
         {
           "q": "Como ayuda COLHYBRI a un municipio?",
-          "a": "Piloto gratuito de 90 dias: auditoria Google de 50 comercios, dashboard municipal de vitalidad, informe para el consejo municipal y acompanamiento en el despliegue."
+          "a": "Piloto despliegue llave en mano: auditoría Google de 50 comercios, dashboard municipal de vitalidad, informe para el consejo municipal y acompañamiento en el despliegue."
         }
       ],
       "stats": [
@@ -688,7 +723,7 @@
         },
         {
           "h2": "Como complementa COLHYBRI a PVD?",
-          "body": "COLHYBRI es la herramienta operativa de medicion de la vitalidad comercial para los jefes de proyecto PVD. Piloto gratuito de 90 dias sobre 50 comercios, dashboard municipal, informe de impacto."
+          "body": "COLHYBRI es la herramienta operativa de medicion de la vitalidad comercial para los jefes de proyecto PVD. Piloto despliegue llave en mano sobre 50 comercios, dashboard municipal, informe de impacto."
         }
       ],
       "faq": [
@@ -702,7 +737,7 @@
         },
         {
           "q": "Como ayuda COLHYBRI a un municipio PVD?",
-          "a": "Piloto gratuito de 90 dias: auditoria Google de 50 comercios, dashboard de vitalidad en tiempo real, informe de impacto."
+          "a": "Piloto despliegue llave en mano: auditoría Google de 50 comercios, dashboard de vitalidad en tiempo real, informe de impacto."
         }
       ],
       "stats": [
@@ -861,7 +896,7 @@
         },
         {
           "q": "Como reducirla en mi municipio?",
-          "a": "Combinacion fiscal (ZRCV), operativa, arquitectonica y digital (COLHYBRI). Piloto gratuito de 90 dias disponible."
+          "a": "Combinacion fiscal (ZRCV), operativa, arquitectonica y digital (COLHYBRI). Piloto despliegue llave en mano disponible."
         }
       ],
       "stats": [
@@ -900,7 +935,7 @@
         },
         {
           "h2": "Como ayuda COLHYBRI a un candidato?",
-          "body": "COLHYBRI ofrece a los candidatos un diagnostico objetivo de la vitalidad comercial de su centro urbano: tasa de vacancia, Score Maps medio, fichas Google incompletas. Piloto gratuito de 90 dias para presentar un plan de accion con metricas antes/despues."
+          "body": "COLHYBRI ofrece a los candidatos un diagnostico objetivo de la vitalidad comercial de su centro urbano: tasa de vacancia, Score Maps medio, fichas Google incompletas. Piloto despliegue llave en mano para presentar un plan de acción con métricas antes/después."
         }
       ],
       "faq": [
@@ -914,7 +949,7 @@
         },
         {
           "q": "Como ayuda COLHYBRI a un candidato?",
-          "a": "Diagnostico objetivo, Score Maps por comercio, piloto gratuito 90 dias con metricas antes/despues."
+          "a": "Diagnostico objetivo, Score Maps por comercio, despliegue llave en mano con métricas antes/después."
         }
       ],
       "stats": [
@@ -932,7 +967,7 @@
         },
         {
           "value": "90d",
-          "label": "piloto gratuito"
+          "label": "despliegue llave en mano"
         }
       ]
     },
@@ -1020,7 +1055,7 @@
         },
         {
           "q": "Como ayuda COLHYBRI a una ciudad estadounidense?",
-          "a": "Dashboard municipal de vitalidad para justificar inversiones OZ y renovaciones de subvencion federal. Piloto gratuito de 90 dias."
+          "a": "Dashboard municipal de vitalidad para justificar inversiones OZ y renovaciones de subvencion federal. Piloto despliegue llave en mano."
         }
       ],
       "stats": [
@@ -2092,7 +2127,7 @@
     },
     "pour-les-collectivites": {
       "title": "COLHYBRI para colectividades: dashboard vitalidad",
-      "desc": "Piloto gratuito 90 dias. Score Maps, dashboard, informe impacto."
+      "desc": "Piloto despliegue llave en mano. Score Maps, dashboard, informe de impacto."
     },
     "ecosr-european-capital-small-retail": {
       "title": "Capitales Europeas del Pequeno Comercio 2026",
@@ -2452,8 +2487,8 @@
         "bio": "Ex-ONEtoONE Corporate Finance. Modelizacion financiera, captacion de fondos, estructuracion de deals."
       },
       "stephane": {
-        "role": "CTO",
-        "bio": "Arquitecto SaaS. Infraestructura escalable, seguridad, integraciones Google Business Profile."
+        "role": "Socio de Fundraising",
+        "bio": "Socio de fundraising vía Winvesty (10% de comisión). Sello WEP Access. Experto en estructuración de rondas y captación de fondos."
       }
     },
     "deck": {

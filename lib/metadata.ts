@@ -294,7 +294,7 @@ export function generateLocalBusinessJsonLd() {
     },
     url: `${BASE_URL}/en/miami`,
     telephone: '',
-    email: 'contact@colhybri.vision',
+    email: 'onlymore2024@gmail.com',
     priceRange: 'Affordable',
   };
 }

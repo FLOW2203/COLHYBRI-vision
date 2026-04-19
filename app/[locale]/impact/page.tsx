@@ -33,6 +33,7 @@ export async function generateMetadata({ params: { locale } }: PageProps) {
 export default function ImpactPage({ params: { locale } }: PageProps) {
   const t = useTranslations('impact');
   const common = useTranslations('common');
+  const nav = useTranslations('nav');
   const tImg = useTranslations('images');
   const l = locale as Locale;
 
@@ -113,28 +114,28 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
           <div className="card bg-gradient-to-br from-colhybri-primary/5 to-colhybri-secondary/5 border border-colhybri-primary/10">
             <div className="text-center mb-8">
               <h2 className="text-2xl sm:text-3xl font-bold text-colhybri-dark mb-4">
-                The Keynesian Multiplier
+                {t('multiplierExplanation.title')}
               </h2>
             </div>
             <div className="grid sm:grid-cols-3 gap-6">
               <div className="text-center">
                 <div className="w-16 h-16 rounded-full bg-colhybri-primary/10 flex items-center justify-center mx-auto mb-4">
-                  <span className="text-2xl font-bold text-colhybri-primary">$3</span>
+                  <span className="text-2xl font-bold text-colhybri-primary">{t('multiplierExplanation.subscriptionAmount')}</span>
                 </div>
-                <p className="text-colhybri-dark/70 text-sm">Subscription</p>
+                <p className="text-colhybri-dark/70 text-sm">{t('multiplierExplanation.subscription')}</p>
               </div>
               <div className="text-center flex flex-col items-center justify-center">
                 <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#00A878" strokeWidth="2" aria-hidden="true" className="mb-2">
                   <path d="M5 12h14" />
                   <path d="M12 5l7 7-7 7" />
                 </svg>
-                <span className="text-colhybri-primary font-bold text-lg">Multiplier</span>
+                <span className="text-colhybri-primary font-bold text-lg">{t('multiplierExplanation.multiplierLabel')}</span>
               </div>
               <div className="text-center">
                 <div className="w-16 h-16 rounded-full bg-colhybri-secondary/10 flex items-center justify-center mx-auto mb-4">
-                  <span className="text-2xl font-bold text-colhybri-secondary">$7.50</span>
+                  <span className="text-2xl font-bold text-colhybri-secondary">{t('multiplierExplanation.localValueAmount')}</span>
                 </div>
-                <p className="text-colhybri-dark/70 text-sm">Local Economic Value</p>
+                <p className="text-colhybri-dark/70 text-sm">{t('multiplierExplanation.localValueLabel')}</p>
               </div>
             </div>
           </div>
@@ -211,18 +212,15 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
       {/* Internal Links (Cocon Semantique) */}
       <section className="bg-colhybri-light">
         <div className="section-container text-center">
-          <h2 className="section-heading mb-10">
-            {common('learnMore')}
-          </h2>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href={getLocalizedPath('for-cities', l)} className="btn-primary">
-              {common('learnMore')}
+              {common('bookDemo')}
             </Link>
             <Link href={getLocalizedPath('investors', l)} className="btn-secondary">
-              {common('learnMore')}
+              {nav('investors')}
             </Link>
             <Link href={getLocalizedPath('pricing', l)} className="btn-accent">
-              {common('learnMore')}
+              {nav('pricing')}
             </Link>
           </div>
         </div>

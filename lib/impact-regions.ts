@@ -14,14 +14,14 @@ export type ImpactRegionSlug =
 // Regions NOT listed here remain accessible by direct URL for cross-sphere visitors
 // (investors, international partners).
 const REGIONS_BY_LOCALE: Partial<Record<Locale, ImpactRegionSlug[]>> = {
-  fr: ['france', 'maroc'],
-  es: ['espana'],
-  en: ['usa', 'uk'],
-  'en-gb': ['usa', 'uk'],
+  fr: ['france', 'usa', 'europe', 'latam', 'africa'],
+  es: ['espana', 'usa', 'europe', 'latam', 'africa'],
+  en: ['france', 'usa', 'europe', 'latam', 'africa'],
+  'en-gb': ['france', 'usa', 'uk', 'europe', 'africa'],
 };
 
-// Fallback for locales without a dedicated sphere: show the global anchor (France).
-const DEFAULT_REGIONS: ImpactRegionSlug[] = ['france'];
+// Fallback for locales without a dedicated sphere: show the 5 primary regions.
+const DEFAULT_REGIONS: ImpactRegionSlug[] = ['france', 'usa', 'europe', 'latam', 'africa'];
 
 export function getRegionsForLocale(locale: string): ImpactRegionSlug[] {
   return REGIONS_BY_LOCALE[locale as Locale] ?? DEFAULT_REGIONS;

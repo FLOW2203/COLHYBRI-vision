@@ -67,8 +67,8 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
 
   const team = [
     { name: 'Florent Gibert', role: t('team.florent.role'), bio: t('team.florent.bio') },
-    { name: 'Joao Almeida', role: t('team.joao.role'), bio: t('team.joao.bio') },
-    { name: 'Stephane Picard', role: t('team.stephane.role'), bio: t('team.stephane.bio') },
+    { name: 'João Almeida', role: t('team.joao.role'), bio: t('team.joao.bio') },
+    { name: 'Stéphane Picard', role: t('team.stephane.role'), bio: t('team.stephane.bio') },
   ];
 
   return (

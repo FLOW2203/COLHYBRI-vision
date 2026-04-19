@@ -28,6 +28,7 @@ export default function ForShopsPage({ params: { locale } }: PageProps) {
   const t = useTranslations('forShops');
   const pricing = useTranslations('pricing');
   const common = useTranslations('common');
+  const nav = useTranslations('nav');
   const l = locale as Locale;
 
   const landingJsonLd = {
@@ -104,9 +105,6 @@ export default function ForShopsPage({ params: { locale } }: PageProps) {
               <span className="text-6xl font-extrabold text-colhybri-secondary">{pricing('shops.price')}</span>
               <span className="text-colhybri-dark/50 text-xl">{pricing('shops.period')}</span>
             </div>
-            <p className="text-colhybri-dark/60 mb-6">
-              {t('description')}
-            </p>
             <Link href={getLocalizedPath('contact', l)} className="btn-accent w-full">
               {pricing('shops.cta')}
             </Link>
@@ -119,16 +117,16 @@ export default function ForShopsPage({ params: { locale } }: PageProps) {
         <div className="section-container text-center">
           <div className="flex flex-col sm:flex-row gap-4 justify-center flex-wrap">
             <Link href={getLocalizedPath('pricing', l)} className="btn-primary">
-              {common('learnMore')}
+              {nav('pricing')}
             </Link>
-            <Link href={getLocalizedPath('how-it-works', l)} className="btn-secondary">
-              {common('learnMore')}
+            <Link href={getLocalizedPath('solution', l)} className="btn-secondary">
+              {common('discoverSolution')}
             </Link>
             <Link href={getLocalizedPath('impact', l)} className="btn-accent">
-              {common('learnMore')}
+              {nav('impact')}
             </Link>
             <Link href={getLocalizedPath('for-cities', l)} className="btn-secondary">
-              {common('learnMore')}
+              {nav('forCities')}
             </Link>
           </div>
         </div>

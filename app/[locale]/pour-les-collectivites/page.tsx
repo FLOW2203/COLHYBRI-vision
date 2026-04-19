@@ -8,7 +8,7 @@ interface PageProps {
 
 export async function generateMetadata({ params: { locale } }: PageProps) {
   const titles = {"fr":"COLHYBRI pour les collectivites : dashboard vitalite","en":"COLHYBRI for Cities: Vitality Dashboard","es":"COLHYBRI para colectividades: dashboard vitalidad"};
-  const descs = {"fr":"Pilote gratuit 90 jours sur 50 commerces. Score Maps, dashboard, rapport impact. 500 EUR/mois apres.","en":"Free 90-day pilot for 50 businesses. Score Maps, dashboard, impact report.","es":"Piloto gratuito 90 dias. Score Maps, dashboard, informe impacto."};
+  const descs = {"fr":"Déploiement clé en main sur 50 commerces. Score Maps, dashboard, rapport d'impact. Financé par les habitants à 3€/mois.","en":"Turnkey rollout for 50 businesses. Score Maps, dashboard, impact report.","es":"Despliegue llave en mano. Score Maps, dashboard, informe de impacto."};
   return {
     title: titles[locale as keyof typeof titles] || titles.fr,
     description: descs[locale as keyof typeof descs] || descs.fr,

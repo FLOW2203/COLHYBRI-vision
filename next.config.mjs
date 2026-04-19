@@ -21,6 +21,40 @@ const nextConfig = {
     deviceSizes: [640, 750, 828, 1080, 1200, 1920],
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
   },
+  async redirects() {
+    // /how-it-works (and localized equivalents) are consolidated into /solution
+    const howItWorksSlugs = [
+      { locale: 'en', slug: 'how-it-works' },
+      { locale: 'en-gb', slug: 'how-it-works' },
+      { locale: 'fr', slug: 'comment-ca-marche' },
+      { locale: 'fr', slug: 'how-it-works' },
+      { locale: 'es', slug: 'como-funciona' },
+      { locale: 'es', slug: 'how-it-works' },
+      { locale: 'pt', slug: 'como-funciona' },
+      { locale: 'pt', slug: 'how-it-works' },
+      { locale: 'de', slug: 'so-funktioniert-es' },
+      { locale: 'de', slug: 'how-it-works' },
+      { locale: 'it', slug: 'come-funziona' },
+      { locale: 'it', slug: 'how-it-works' },
+      { locale: 'pl', slug: 'jak-to-dziala' },
+      { locale: 'pl', slug: 'how-it-works' },
+      { locale: 'zh', slug: 'how-it-works' },
+      { locale: 'ja', slug: 'how-it-works' },
+      { locale: 'hi', slug: 'how-it-works' },
+    ];
+    const howItWorksRedirects = howItWorksSlugs.map(({ locale, slug }) => ({
+      source: `/${locale}/${slug}`,
+      destination: `/${locale}/solution`,
+      permanent: true,
+    }));
+    // EN / en-gb: rename /solution/pool-solidaire → /solution/community-pool
+    // (FR keeps pool-solidaire since it is the locale term)
+    const communityPoolRedirects = [
+      { source: '/en/solution/pool-solidaire', destination: '/en/solution/community-pool', permanent: true },
+      { source: '/en-gb/solution/pool-solidaire', destination: '/en-gb/solution/community-pool', permanent: true },
+    ];
+    return [...howItWorksRedirects, ...communityPoolRedirects];
+  },
   async rewrites() {
     // Localized slugs → actual file-based routes
     // navigation.ts generates localized URLs but pages live under English slugs
@@ -29,7 +63,6 @@ const nextConfig = {
       { source: '/fr/pour-les-commerces', destination: '/fr/for-shops' },
       { source: '/fr/pour-les-villes', destination: '/fr/for-cities' },
       { source: '/fr/pour-les-particuliers', destination: '/fr/for-individuals' },
-      { source: '/fr/comment-ca-marche', destination: '/fr/how-it-works' },
       { source: '/fr/tarifs', destination: '/fr/pricing' },
       { source: '/fr/ecosysteme', destination: '/fr/ecosystem' },
       { source: '/fr/investisseurs', destination: '/fr/investors' },
@@ -37,7 +70,6 @@ const nextConfig = {
       { source: '/es/para-comercios', destination: '/es/for-shops' },
       { source: '/es/para-ciudades', destination: '/es/for-cities' },
       { source: '/es/para-individuos', destination: '/es/for-individuals' },
-      { source: '/es/como-funciona', destination: '/es/how-it-works' },
       { source: '/es/precios', destination: '/es/pricing' },
       { source: '/es/mision', destination: '/es/mission' },
       { source: '/es/ecosistema', destination: '/es/ecosystem' },
@@ -48,7 +80,6 @@ const nextConfig = {
       { source: '/pt/para-comercios', destination: '/pt/for-shops' },
       { source: '/pt/para-cidades', destination: '/pt/for-cities' },
       { source: '/pt/para-individuos', destination: '/pt/for-individuals' },
-      { source: '/pt/como-funciona', destination: '/pt/how-it-works' },
       { source: '/pt/precos', destination: '/pt/pricing' },
       { source: '/pt/missao', destination: '/pt/mission' },
       { source: '/pt/ecossistema', destination: '/pt/ecosystem' },
@@ -59,7 +90,6 @@ const nextConfig = {
       { source: '/de/fuer-geschaefte', destination: '/de/for-shops' },
       { source: '/de/fuer-staedte', destination: '/de/for-cities' },
       { source: '/de/fuer-einzelpersonen', destination: '/de/for-individuals' },
-      { source: '/de/so-funktioniert-es', destination: '/de/how-it-works' },
       { source: '/de/preise', destination: '/de/pricing' },
       { source: '/de/oekosystem', destination: '/de/ecosystem' },
       { source: '/de/investoren', destination: '/de/investors' },
@@ -69,7 +99,6 @@ const nextConfig = {
       { source: '/it/per-le-botteghe', destination: '/it/for-shops' },
       { source: '/it/per-i-comuni', destination: '/it/for-cities' },
       { source: '/it/per-i-cittadini', destination: '/it/for-individuals' },
-      { source: '/it/come-funziona', destination: '/it/how-it-works' },
       { source: '/it/prezzi', destination: '/it/pricing' },
       { source: '/it/missione', destination: '/it/mission' },
       { source: '/it/ecosistema', destination: '/it/ecosystem' },
@@ -80,7 +109,6 @@ const nextConfig = {
       { source: '/pl/dla-sklepow', destination: '/pl/for-shops' },
       { source: '/pl/dla-miast', destination: '/pl/for-cities' },
       { source: '/pl/dla-osob-prywatnych', destination: '/pl/for-individuals' },
-      { source: '/pl/jak-to-dziala', destination: '/pl/how-it-works' },
       { source: '/pl/cennik', destination: '/pl/pricing' },
       { source: '/pl/misja', destination: '/pl/mission' },
       { source: '/pl/ekosystem', destination: '/pl/ecosystem' },
