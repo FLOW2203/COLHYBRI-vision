@@ -88,10 +88,19 @@ function resolveUrl(urlPath: string, physicalRoutes: Set<string>, rewrites: Arra
   // Exact path to compare
   const fullPath = `/${locale}${after ? '/' + after : ''}`;
 
-  // Redirect?
+  // Redirect? (exact match)
   if (redirects.some((r) => r.source === fullPath)) return 'redirected';
-  // Rewrite?
-  if (rewrites.some((r) => r.source === fullPath)) return 'rewritten';
+  // Rewrite? (exact match OR wildcard :param match, e.g. '/es/impacto/:region')
+  const matchesRewrite = rewrites.some((r) => {
+    if (r.source === fullPath) return true;
+    if (!r.source.includes(':')) return false;
+    // Convert '/es/impacto/:region' → regex '^/es/impacto/[^/]+$'
+    const regex = new RegExp(
+      '^' + r.source.replace(/:[a-zA-Z]+\*?/g, '[^/]+') + '$'
+    );
+    return regex.test(fullPath);
+  });
+  if (matchesRewrite) return 'rewritten';
 
   // Physical route? Compare after the locale prefix
   // Homepage
