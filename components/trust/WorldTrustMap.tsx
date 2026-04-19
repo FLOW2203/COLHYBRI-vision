@@ -152,13 +152,13 @@ export function WorldTrustMap({ locale, onRegionClick }: WorldTrustMapProps) {
         <div className="flex items-center gap-2">
           <span className="w-3 h-3 rounded-full" style={{ backgroundColor: '#2dd4bf' }} />
           <span className="text-colhybri-dark/60 text-xs">
-            {locale === 'fr' ? 'Potentiel eleve (4)' : 'High potential (4)'}
+            {locale === 'fr' ? 'Potentiel élevé (4)' : 'High potential (4)'}
           </span>
         </div>
         <div className="flex items-center gap-2">
           <span className="w-3 h-3 rounded-full" style={{ backgroundColor: '#FF6B35' }} />
           <span className="text-colhybri-dark/60 text-xs">
-            {locale === 'fr' ? 'Potentiel modere (3)' : 'Moderate potential (3)'}
+            {locale === 'fr' ? 'Potentiel modéré (3)' : 'Moderate potential (3)'}
           </span>
         </div>
       </div>
@@ -284,12 +284,10 @@ export function WorldTrustMap({ locale, onRegionClick }: WorldTrustMapProps) {
                 textAnchor="middle"
                 className="pointer-events-none select-none"
                 fill="#1e293b"
-                fontSize="8"
+                fontSize="9"
                 fontWeight="600"
               >
-                {localeData.regionName.length > 10
-                  ? localeData.regionName.substring(0, 9) + '...'
-                  : localeData.regionName}
+                {localeData.regionName}
               </text>
             );
           })}
@@ -319,7 +317,7 @@ export function WorldTrustMap({ locale, onRegionClick }: WorldTrustMapProps) {
       {/* Instruction text */}
       <p className="text-center text-colhybri-dark/40 text-xs mt-4">
         {locale === 'fr'
-          ? 'Cliquez sur une region pour explorer les donnees locales'
+          ? 'Cliquez sur une région pour explorer les données locales'
           : 'Click a region to explore local data'}
       </p>
     </div>
