@@ -274,7 +274,11 @@
     "tagline": "地域商業を通じた金融包摂",
     "quote": "「私は自分の役割を果たしています。」 — ネイティブアメリカンの伝説（ハチドリ）",
     "group": "COLHYBRI — 2026年2月26日ローンチ",
-    "copyright": "© 2026 COLHYBRI. All rights reserved.",
+    "copyright": {
+      "main": "© 2026 COLHYBRI。ONLYMORE Group の一部。無断転載を禁じます。",
+      "ip": "すべての写真、テキスト、デザイン、コンテンツは ONLYMORE Group の知的財産であり、書面による事前の許可なく複製、配布、または商業目的で使用することはできません。",
+      "contact": "ライセンス、プレス、パートナーシップに関するお問い合わせ:onlymore2024@gmail.com"
+    },
     "links": {
       "about": "COLHYBRIについて",
       "privacy": "プライバシーポリシー",

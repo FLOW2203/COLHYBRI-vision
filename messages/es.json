@@ -391,7 +391,11 @@
     "tagline": "Cada gesto cuenta. El tuyo tambien.",
     "quote": "Estoy haciendo mi parte. Leyenda amerindia del colibri.",
     "group": "Un proyecto ONLYMORE Group",
-    "copyright": "2026 COLHYBRI. Todos los derechos reservados.",
+    "copyright": {
+      "main": "© 2026 COLHYBRI. Parte de ONLYMORE Group. Todos los derechos reservados.",
+      "ip": "Todas las fotos, textos, diseños y contenidos son propiedad intelectual de ONLYMORE Group y no pueden ser reproducidos, distribuidos o utilizados con fines comerciales sin permiso previo por escrito.",
+      "contact": "Para licencias, prensa o asociaciones: onlymore2024@gmail.com"
+    },
     "links": {
       "about": "Acerca de",
       "privacy": "Política de Privacidad",

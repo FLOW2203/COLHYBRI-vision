@@ -95,16 +95,24 @@ export function Footer({ locale }: FooterProps) {
         </div>
 
         {/* Bottom Bar */}
-        <div className="mt-12 pt-8 border-t border-white/10 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p className="text-sm text-white/40">{t('copyright')}</p>
-          <div className="flex gap-6">
-            <Link href="#" className="text-sm text-white/40 hover:text-white/60 transition-colors">
-              {t('links.privacy')}
-            </Link>
-            <Link href="#" className="text-sm text-white/40 hover:text-white/60 transition-colors">
-              {t('links.terms')}
-            </Link>
+        <div className="mt-12 pt-8 border-t border-white/10 space-y-4">
+          <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+            <p className="text-sm text-white/60 font-medium">{t('copyright.main')}</p>
+            <div className="flex gap-6">
+              <Link href="#" className="text-sm text-white/40 hover:text-white/60 transition-colors">
+                {t('links.privacy')}
+              </Link>
+              <Link href="#" className="text-sm text-white/40 hover:text-white/60 transition-colors">
+                {t('links.terms')}
+              </Link>
+            </div>
           </div>
+          <p className="text-xs text-white/35 leading-relaxed max-w-4xl">
+            {t('copyright.ip')}
+          </p>
+          <p className="text-xs text-white/35">
+            {t('copyright.contact')}
+          </p>
         </div>
       </div>
     </footer>

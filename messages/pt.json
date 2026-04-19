@@ -274,7 +274,11 @@
     "tagline": "Inclusao Financeira Atraves do Comercio Local",
     "quote": "\"Estou fazendo minha parte.\" — Lenda Indigena (O Beija-flor)",
     "group": "COLHYBRI — Lançado em 26/02/2026",
-    "copyright": "© 2026 COLHYBRI. Todos os direitos reservados.",
+    "copyright": {
+      "main": "© 2026 COLHYBRI. Parte do ONLYMORE Group. Todos os direitos reservados.",
+      "ip": "Todas as fotos, textos, designs e conteúdos são propriedade intelectual do ONLYMORE Group e não podem ser reproduzidos, distribuídos ou usados para fins comerciais sem autorização prévia por escrito.",
+      "contact": "Para licenciamento, imprensa ou parcerias: onlymore2024@gmail.com"
+    },
     "links": {
       "about": "Sobre",
       "privacy": "Politica de Privacidade",

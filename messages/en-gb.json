@@ -274,7 +274,11 @@
     "tagline": "Financial Inclusion Through Local Commerce",
     "quote": "\"I am doing my part.\" — Native American Legend (The Hummingbird)",
     "group": "COLHYBRI — Launched 26/02/2026",
-    "copyright": "© 2026 COLHYBRI. All rights reserved.",
+    "copyright": {
+      "main": "© 2026 COLHYBRI. Part of ONLYMORE Group. All rights reserved.",
+      "ip": "All photos, texts, designs and content are the intellectual property of ONLYMORE Group and may not be reproduced, distributed or used for commercial purposes without prior written permission.",
+      "contact": "For licensing, press, or partnership enquiries: onlymore2024@gmail.com"
+    },
     "links": {
       "about": "About",
       "privacy": "Privacy Policy",
