@@ -9,35 +9,35 @@ export const routeMap: Record<string, Record<string, string>> = {
   },
   mission: {
     en: 'mission', 'en-gb': 'mission', fr: 'mission', es: 'mision', pt: 'missao',
-    de: 'mission', it: 'missione', zh: '使命', ja: 'ミッション', hi: 'mission', pl: 'misja',
+    de: 'mission', it: 'missione', zh: 'mission', ja: 'mission', hi: 'mission', pl: 'misja',
   },
   'how-it-works': {
     en: 'how-it-works', 'en-gb': 'how-it-works', fr: 'comment-ca-marche', es: 'como-funciona',
-    pt: 'como-funciona', de: 'so-funktioniert-es', it: 'come-funziona', zh: '工作原理', ja: '仕組み',
-    hi: 'kaise-kaam-karta-hai', pl: 'jak-to-dziala',
+    pt: 'como-funciona', de: 'so-funktioniert-es', it: 'come-funziona', zh: 'how-it-works', ja: 'how-it-works',
+    hi: 'how-it-works', pl: 'jak-to-dziala',
   },
   pricing: {
     en: 'pricing', 'en-gb': 'pricing', fr: 'tarifs', es: 'precios', pt: 'precos',
-    de: 'preise', it: 'prezzi', zh: '定价', ja: '料金', hi: 'mulya', pl: 'cennik',
+    de: 'preise', it: 'prezzi', zh: 'pricing', ja: 'pricing', hi: 'pricing', pl: 'cennik',
   },
   impact: {
     en: 'impact', 'en-gb': 'impact', fr: 'impact', es: 'impacto', pt: 'impacto',
-    de: 'wirkung', it: 'impatto', zh: '影响', ja: 'インパクト', hi: 'prabhav', pl: 'wplyw',
+    de: 'wirkung', it: 'impatto', zh: 'impact', ja: 'impact', hi: 'impact', pl: 'wplyw',
   },
   'for-individuals': {
     en: 'for-individuals', 'en-gb': 'for-individuals', fr: 'pour-les-particuliers', es: 'para-individuos',
-    pt: 'para-individuos', de: 'fuer-einzelpersonen', it: 'per-i-cittadini', zh: '个人用户', ja: '個人向け',
-    hi: 'vyaktiyon-ke-liye', pl: 'dla-osob-prywatnych',
+    pt: 'para-individuos', de: 'fuer-einzelpersonen', it: 'per-i-cittadini', zh: 'for-individuals', ja: 'for-individuals',
+    hi: 'for-individuals', pl: 'dla-osob-prywatnych',
   },
   'for-shops': {
     en: 'for-shops', 'en-gb': 'for-shops', fr: 'pour-les-commerces', es: 'para-comercios',
-    pt: 'para-comercios', de: 'fuer-geschaefte', it: 'per-le-botteghe', zh: '商家', ja: '店舗向け',
-    hi: 'dukano-ke-liye', pl: 'dla-sklepow',
+    pt: 'para-comercios', de: 'fuer-geschaefte', it: 'per-le-botteghe', zh: 'for-shops', ja: 'for-shops',
+    hi: 'for-shops', pl: 'dla-sklepow',
   },
   'for-cities': {
     en: 'for-cities', 'en-gb': 'for-cities', fr: 'pour-les-villes', es: 'para-ciudades',
-    pt: 'para-cidades', de: 'fuer-staedte', it: 'per-i-comuni', zh: '城市', ja: '都市向け',
-    hi: 'shaharon-ke-liye', pl: 'dla-miast',
+    pt: 'para-cidades', de: 'fuer-staedte', it: 'per-i-comuni', zh: 'for-cities', ja: 'for-cities',
+    hi: 'for-cities', pl: 'dla-miast',
   },
   miami: {
     en: 'miami', 'en-gb': 'miami', fr: 'miami', es: 'miami', pt: 'miami',
@@ -45,23 +45,23 @@ export const routeMap: Record<string, Record<string, string>> = {
   },
   ecosystem: {
     en: 'ecosystem', 'en-gb': 'ecosystem', fr: 'ecosysteme', es: 'ecosistema', pt: 'ecossistema',
-    de: 'oekosystem', it: 'ecosistema', zh: '生态系统', ja: 'エコシステム', hi: 'paristhitiki-tantra', pl: 'ekosystem',
+    de: 'oekosystem', it: 'ecosistema', zh: 'ecosystem', ja: 'ecosystem', hi: 'ecosystem', pl: 'ekosystem',
   },
   investors: {
     en: 'investors', 'en-gb': 'investors', fr: 'investisseurs', es: 'inversores', pt: 'investidores',
-    de: 'investoren', it: 'investitori', zh: '投资者', ja: '投資家向け', hi: 'niveshak', pl: 'inwestorzy',
+    de: 'investoren', it: 'investitori', zh: 'investors', ja: 'investors', hi: 'investors', pl: 'inwestorzy',
   },
   blog: {
     en: 'blog', 'en-gb': 'blog', fr: 'blog', es: 'blog', pt: 'blog',
-    de: 'blog', it: 'blog', zh: '博客', ja: 'ブログ', hi: 'blog', pl: 'blog',
+    de: 'blog', it: 'blog', zh: 'blog', ja: 'blog', hi: 'blog', pl: 'blog',
   },
   faq: {
     en: 'faq', 'en-gb': 'faq', fr: 'faq', es: 'faq', pt: 'faq',
-    de: 'faq', it: 'faq', zh: '常见问题', ja: 'よくある質問', hi: 'faq', pl: 'faq',
+    de: 'faq', it: 'faq', zh: 'faq', ja: 'faq', hi: 'faq', pl: 'faq',
   },
   contact: {
     en: 'contact', 'en-gb': 'contact', fr: 'contact', es: 'contacto', pt: 'contato',
-    de: 'kontakt', it: 'contatti', zh: '联系我们', ja: 'お問い合わせ', hi: 'sampark', pl: 'kontakt',
+    de: 'kontakt', it: 'contatti', zh: 'contact', ja: 'contact', hi: 'contact', pl: 'kontakt',
   },
   'solidarite-proximite': {
     en: 'solidarite-proximite', 'en-gb': 'solidarite-proximite', fr: 'solidarite-proximite',
