@@ -3026,5 +3026,9 @@
         "body": "A turnkey digital tool for Moroccan local authorities, chambers of commerce and merchant associations. 4-week deployment. Funded by residents at the equivalent of 30 MAD per month. 0% commission for local merchants. Native integration with regional e-commerce centers and the Commerce Maroc 2030 strategy. First deployment target: a pilot commercial district in Casablanca (Casablanca-Settat region, 39% of business creations) with potential support from the OCP Foundation and a banking partner (Attijariwafa Bank or Al Barid Bank)."
       }
     }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "message": "This page flew away with the hummingbird."
   }
 }

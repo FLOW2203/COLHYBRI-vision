@@ -3018,5 +3018,9 @@
         "body": "Un outil digital cle en main pour les collectivites marocaines, les chambres de commerce et les associations de commerçants. Deploiement en 4 semaines. Finance par les habitants a l'equivalent de 30 MAD par mois. 0% de commission pour les commerçants locaux. Intégration native avec les centres regionaux du commerce electronique et la stratégie Commerce Maroc 2030. Premier deploiement cible : un quartier commerçant pilote a Casablanca (region Casablanca-Settat, 39% des créations d'entreprises) avec appui potentiel de la Fondation OCP et d'un acteur bancaire (Attijariwafa Bank ou Al Barid Bank)."
       }
     }
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "message": "Cette page s'est envolée avec le colibri."
   }
 }

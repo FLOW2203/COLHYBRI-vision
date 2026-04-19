@@ -3018,5 +3018,9 @@
       "errorTitle": "Error",
       "errorBody": "Error sending. Please email onlymore2024@gmail.com"
     }
+  },
+  "notFound": {
+    "title": "Strona nie znaleziona",
+    "message": "Ta strona odleciała razem z kolibrem."
   }
 }

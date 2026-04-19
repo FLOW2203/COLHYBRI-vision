@@ -3018,5 +3018,9 @@
       "errorTitle": "Error",
       "errorBody": "Error sending. Please email onlymore2024@gmail.com"
     }
+  },
+  "notFound": {
+    "title": "पृष्ठ नहीं मिला",
+    "message": "यह पृष्ठ हमिंगबर्ड के साथ उड़ गया।"
   }
 }
