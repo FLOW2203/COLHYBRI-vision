@@ -3018,5 +3018,34 @@
         "body": "Un outil digital cle en main pour les collectivites marocaines, les chambres de commerce et les associations de commerçants. Deploiement en 4 semaines. Finance par les habitants a l'equivalent de 30 MAD par mois. 0% de commission pour les commerçants locaux. Intégration native avec les centres regionaux du commerce electronique et la stratégie Commerce Maroc 2030. Premier deploiement cible : un quartier commerçant pilote a Casablanca (region Casablanca-Settat, 39% des créations d'entreprises) avec appui potentiel de la Fondation OCP et d'un acteur bancaire (Attijariwafa Bank ou Al Barid Bank)."
       }
     }
+  },
+  "trustMap": {
+    "title": "Carte mondiale de la confiance & solitude",
+    "subtitle": "Explorez les données régionales pour comprendre où COLHYBRI peut avoir le plus grand impact.",
+    "legend": {
+      "score5": "Potentiel maximum",
+      "score4": "Potentiel élevé",
+      "score3": "Potentiel modéré"
+    },
+    "labels": {
+      "loneliness": "Taux de solitude",
+      "trust": "Confiance dans les autres",
+      "population": "Population adulte"
+    },
+    "regions": {
+      "france": "France",
+      "uk": "Royaume-Uni",
+      "usa": "États-Unis",
+      "canada": "Canada",
+      "brazil": "Brésil",
+      "africa": "Afrique subsaharienne",
+      "eastern-europe": "Europe de l'Est",
+      "india": "Inde",
+      "japan": "Japon"
+    },
+    "explore": "Explorer la région",
+    "close": "Fermer",
+    "hint": "Cliquez sur un marqueur pour explorer les données locales",
+    "sources": "Sources : IFOP 2026, OMS 2025, JAMA Network Open 2025, OCDE 2025, Banque Mondiale Findex 2025"
   }
 }

@@ -2,6 +2,7 @@
 
 import { useCallback } from 'react';
 import { useRouter } from 'next/navigation';
+import { useTranslations } from 'next-intl';
 import { WorldTrustMap } from './WorldTrustMap';
 
 interface TrustMapSectionProps {
@@ -10,6 +11,7 @@ interface TrustMapSectionProps {
 
 export function TrustMapSection({ locale }: TrustMapSectionProps) {
   const router = useRouter();
+  const t = useTranslations('trustMap');
 
   const handleRegionClick = useCallback(
     (regionId: string) => {
@@ -23,14 +25,10 @@ export function TrustMapSection({ locale }: TrustMapSectionProps) {
       <div className="section-container">
         <div className="text-center mb-10">
           <h2 className="text-2xl sm:text-3xl font-bold text-colhybri-dark mb-4">
-            {locale === 'fr'
-              ? 'Carte mondiale de la confiance & solitude'
-              : 'World Trust & Loneliness Map'}
+            {t('title')}
           </h2>
           <p className="text-colhybri-dark/60 max-w-2xl mx-auto">
-            {locale === 'fr'
-              ? 'Explorez les données régionales pour comprendre où COLHYBRI peut avoir le plus grand impact.'
-              : 'Explore regional data to understand where COLHYBRI can have the greatest impact.'}
+            {t('subtitle')}
           </p>
         </div>
         <WorldTrustMap locale={locale} onRegionClick={handleRegionClick} />

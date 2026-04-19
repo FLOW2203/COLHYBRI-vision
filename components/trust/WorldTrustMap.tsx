@@ -1,324 +1,232 @@
 'use client';
 
 import { useState, useCallback } from 'react';
+import {
+  ComposableMap,
+  Geographies,
+  Geography,
+  Marker,
+} from 'react-simple-maps';
+import { useTranslations } from 'next-intl';
 import { TRUST_DATA, getRegionForLocale } from '@/data/trust-data';
+
+const GEO_URL = 'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json';
+
+// Representative centroid (longitude, latitude) for each tracked region.
+type MarkerSpec = {
+  id: string;
+  coords: [number, number];
+  labelOffsetY?: number;
+};
+
+const REGION_MARKERS: MarkerSpec[] = [
+  { id: 'france', coords: [2.35, 46.23] },
+  { id: 'uk', coords: [-3.44, 54.0], labelOffsetY: -16 },
+  { id: 'usa', coords: [-98.5, 39.5] },
+  { id: 'canada', coords: [-106.0, 58.0], labelOffsetY: -16 },
+  { id: 'brazil', coords: [-53.0, -12.0] },
+  { id: 'africa', coords: [18.0, 2.0] },
+  { id: 'eastern-europe', coords: [25.0, 50.5] },
+  { id: 'india', coords: [80.0, 22.0] },
+  { id: 'japan', coords: [138.0, 37.0] },
+];
+
+function potentialColor(potential: number): string {
+  switch (potential) {
+    case 5:
+      return '#00A878'; // colhybri primary — Highest
+    case 4:
+      return '#2dd4bf'; // teal — High
+    case 3:
+    default:
+      return '#FF6B35'; // colhybri secondary — Moderate
+  }
+}
 
 interface WorldTrustMapProps {
   locale: string;
   onRegionClick: (regionId: string) => void;
 }
 
-interface TooltipData {
-  regionName: string;
-  lonelinessRate: number;
-  x: number;
-  y: number;
-}
-
-// Color mapping based on colhybriPotential
-function getPotentialColor(potential: number): string {
-  switch (potential) {
-    case 5:
-      return '#00A878'; // green - highest potential
-    case 4:
-      return '#2dd4bf'; // teal - high potential
-    case 3:
-      return '#FF6B35'; // orange - moderate potential
-    default:
-      return '#94a3b8'; // slate fallback
-  }
-}
-
-// Simplified SVG paths for each region (approximate world map outlines)
-const REGION_PATHS: Record<string, { d: string; labelX: number; labelY: number }> = {
-  france: {
-    d: 'M470,155 L480,148 L492,150 L498,158 L496,172 L488,180 L478,178 L470,170 Z',
-    labelX: 484,
-    labelY: 164,
-  },
-  usa: {
-    d: 'M120,140 L200,130 L240,135 L250,150 L245,175 L220,185 L180,190 L140,185 L115,175 L110,160 Z',
-    labelX: 180,
-    labelY: 162,
-  },
-  brazil: {
-    d: 'M260,260 L300,240 L330,250 L340,280 L335,320 L310,340 L280,335 L260,310 L250,285 Z',
-    labelX: 295,
-    labelY: 290,
-  },
-  japan: {
-    d: 'M780,155 L788,145 L795,148 L798,160 L794,175 L786,178 L780,170 Z',
-    labelX: 789,
-    labelY: 162,
-  },
-  india: {
-    d: 'M660,200 L690,185 L710,195 L720,220 L715,255 L695,270 L670,260 L655,235 L650,215 Z',
-    labelX: 685,
-    labelY: 230,
-  },
-  'eastern-europe': {
-    d: 'M510,120 L540,110 L560,118 L565,140 L558,158 L540,165 L520,160 L508,145 Z',
-    labelX: 536,
-    labelY: 140,
-  },
-  africa: {
-    d: 'M470,220 L510,205 L550,215 L560,250 L555,310 L530,350 L500,355 L475,340 L460,300 L455,260 Z',
-    labelX: 510,
-    labelY: 280,
-  },
-  uk: {
-    d: 'M455,105 L462,98 L470,100 L474,108 L472,118 L465,122 L458,120 L453,113 Z',
-    labelX: 463,
-    labelY: 110,
-  },
-  canada: {
-    d: 'M100,70 L160,55 L220,60 L250,70 L255,90 L240,110 L200,115 L150,112 L110,105 L95,90 Z',
-    labelX: 175,
-    labelY: 88,
-  },
-};
-
 export function WorldTrustMap({ locale, onRegionClick }: WorldTrustMapProps) {
-  const [tooltip, setTooltip] = useState<TooltipData | null>(null);
+  const t = useTranslations('trustMap');
   const [hoveredRegion, setHoveredRegion] = useState<string | null>(null);
+  const [selectedRegion, setSelectedRegion] = useState<string | null>(null);
 
-  const handleMouseEnter = useCallback(
-    (regionId: string, event: React.MouseEvent<SVGPathElement>) => {
-      const regionData = TRUST_DATA[regionId];
-      const localeData = getRegionForLocale(regionId, locale);
-      if (!regionData || !localeData) return;
-
-      const svg = event.currentTarget.closest('svg');
-      if (!svg) return;
-
-      const rect = svg.getBoundingClientRect();
-      const x = event.clientX - rect.left;
-      const y = event.clientY - rect.top;
-
-      setTooltip({
-        regionName: localeData.regionName,
-        lonelinessRate: regionData.lonelinessRate,
-        x,
-        y,
-      });
-      setHoveredRegion(regionId);
+  const handleMarkerClick = useCallback(
+    (regionId: string) => {
+      setSelectedRegion(regionId);
     },
-    [locale]
+    []
   );
 
-  const handleMouseMove = useCallback(
-    (event: React.MouseEvent<SVGPathElement>) => {
-      if (!tooltip) return;
-
-      const svg = event.currentTarget.closest('svg');
-      if (!svg) return;
-
-      const rect = svg.getBoundingClientRect();
-      setTooltip((prev) =>
-        prev
-          ? {
-              ...prev,
-              x: event.clientX - rect.left,
-              y: event.clientY - rect.top,
-            }
-          : null
-      );
-    },
-    [tooltip]
-  );
-
-  const handleMouseLeave = useCallback(() => {
-    setTooltip(null);
-    setHoveredRegion(null);
-  }, []);
-
-  const handleClick = useCallback(
+  const handleExplore = useCallback(
     (regionId: string) => {
       onRegionClick(regionId);
     },
     [onRegionClick]
   );
 
+  const selectedData = selectedRegion ? TRUST_DATA[selectedRegion] : null;
+  const selectedLocaleData = selectedRegion
+    ? getRegionForLocale(selectedRegion, locale)
+    : null;
+
   return (
-    <div className="relative w-full max-w-4xl mx-auto">
+    <div className="relative w-full max-w-5xl mx-auto">
       {/* Legend */}
-      <div className="flex flex-wrap justify-center gap-4 mb-6">
-        <div className="flex items-center gap-2">
-          <span className="w-3 h-3 rounded-full" style={{ backgroundColor: '#00A878' }} />
-          <span className="text-colhybri-dark/60 text-xs">
-            {locale === 'fr' ? 'Potentiel maximum (5)' : 'Highest potential (5)'}
-          </span>
-        </div>
-        <div className="flex items-center gap-2">
-          <span className="w-3 h-3 rounded-full" style={{ backgroundColor: '#2dd4bf' }} />
-          <span className="text-colhybri-dark/60 text-xs">
-            {locale === 'fr' ? 'Potentiel élevé (4)' : 'High potential (4)'}
-          </span>
-        </div>
-        <div className="flex items-center gap-2">
-          <span className="w-3 h-3 rounded-full" style={{ backgroundColor: '#FF6B35' }} />
-          <span className="text-colhybri-dark/60 text-xs">
-            {locale === 'fr' ? 'Potentiel modéré (3)' : 'Moderate potential (3)'}
-          </span>
-        </div>
+      <div className="flex flex-wrap justify-center gap-5 mb-6">
+        {[5, 4, 3].map((p) => (
+          <div key={p} className="flex items-center gap-2">
+            <span
+              className="w-3 h-3 rounded-full"
+              style={{ backgroundColor: potentialColor(p) }}
+            />
+            <span className="text-colhybri-dark/70 text-xs font-sans">
+              {t(`legend.score${p}`)}
+            </span>
+          </div>
+        ))}
       </div>
 
-      {/* SVG Map */}
-      <div className="relative">
-        <svg
-          viewBox="0 0 900 420"
-          className="w-full h-auto"
-          role="img"
-          aria-label={locale === 'fr' ? 'Carte mondiale de confiance COLHYBRI' : 'COLHYBRI world trust map'}
+      {/* Map */}
+      <div className="relative rounded-2xl overflow-hidden border border-colhybri-teal/10 bg-colhybri-cream">
+        <ComposableMap
+          projection="geoEqualEarth"
+          projectionConfig={{ scale: 155 }}
+          width={980}
+          height={480}
+          style={{ width: '100%', height: 'auto' }}
         >
-          {/* Background ocean */}
-          <rect x="0" y="0" width="900" height="420" fill="#f0fdf4" rx="12" />
+          <Geographies geography={GEO_URL}>
+            {({ geographies }: { geographies: Array<{ rsmKey: string; id: string }> }) =>
+              geographies.map((geo) => (
+                <Geography
+                  key={geo.rsmKey}
+                  geography={geo}
+                  fill="#E8EFE6"
+                  stroke="#FFFFFF"
+                  strokeWidth={0.4}
+                  style={{
+                    default: { outline: 'none' },
+                    hover: { outline: 'none', fill: '#DDE8DB' },
+                    pressed: { outline: 'none' },
+                  }}
+                />
+              ))
+            }
+          </Geographies>
 
-          {/* Subtle grid lines */}
-          {[100, 200, 300].map((y) => (
-            <line
-              key={`h-${y}`}
-              x1="0"
-              y1={y}
-              x2="900"
-              y2={y}
-              stroke="#e2e8f0"
-              strokeWidth="0.5"
-              strokeDasharray="4 4"
-            />
-          ))}
-          {[200, 400, 600, 800].map((x) => (
-            <line
-              key={`v-${x}`}
-              x1={x}
-              y1="0"
-              x2={x}
-              y2="420"
-              stroke="#e2e8f0"
-              strokeWidth="0.5"
-              strokeDasharray="4 4"
-            />
-          ))}
-
-          {/* Simplified continent outlines (non-interactive background) */}
-          {/* North America outline */}
-          <path
-            d="M80,80 L100,60 L180,50 L250,55 L270,80 L265,120 L255,140 L250,175 L230,195 L195,200 L150,195 L120,185 L100,170 L85,140 L75,110 Z"
-            fill="#e2e8f0"
-            stroke="#cbd5e1"
-            strokeWidth="0.5"
-          />
-          {/* South America outline */}
-          <path
-            d="M230,230 L260,220 L300,225 L340,240 L350,275 L345,320 L330,355 L305,370 L275,360 L255,335 L240,300 L235,265 Z"
-            fill="#e2e8f0"
-            stroke="#cbd5e1"
-            strokeWidth="0.5"
-          />
-          {/* Europe outline */}
-          <path
-            d="M440,80 L480,70 L530,75 L570,85 L580,110 L575,145 L565,170 L540,180 L500,185 L470,178 L450,160 L440,130 Z"
-            fill="#e2e8f0"
-            stroke="#cbd5e1"
-            strokeWidth="0.5"
-          />
-          {/* Africa outline */}
-          <path
-            d="M440,195 L480,188 L530,192 L570,205 L580,245 L575,310 L555,365 L520,385 L485,380 L460,360 L445,315 L435,260 Z"
-            fill="#e2e8f0"
-            stroke="#cbd5e1"
-            strokeWidth="0.5"
-          />
-          {/* Asia outline */}
-          <path
-            d="M580,60 L650,50 L730,55 L800,70 L820,100 L815,150 L800,190 L760,210 L720,225 L680,235 L640,225 L610,200 L590,170 L580,130 Z"
-            fill="#e2e8f0"
-            stroke="#cbd5e1"
-            strokeWidth="0.5"
-          />
-
-          {/* Interactive region paths */}
-          {Object.entries(REGION_PATHS).map(([regionId, pathData]) => {
-            const regionData = TRUST_DATA[regionId];
-            if (!regionData) return null;
-
-            const fillColor = getPotentialColor(regionData.colhybriPotential);
-            const isHovered = hoveredRegion === regionId;
+          {REGION_MARKERS.map((marker) => {
+            const data = TRUST_DATA[marker.id];
+            if (!data) return null;
+            const color = potentialColor(data.colhybriPotential);
+            const isHovered = hoveredRegion === marker.id;
+            const isSelected = selectedRegion === marker.id;
+            const scale = isHovered || isSelected ? 1.35 : 1;
+            const localeData = getRegionForLocale(marker.id, locale);
+            const label = localeData?.regionName ?? t(`regions.${marker.id}`);
 
             return (
-              <path
-                key={regionId}
-                d={pathData.d}
-                fill={fillColor}
-                fillOpacity={isHovered ? 0.95 : 0.75}
-                stroke={isHovered ? '#ffffff' : fillColor}
-                strokeWidth={isHovered ? 2.5 : 1.5}
-                className="cursor-pointer transition-all duration-200"
-                onMouseEnter={(e) => handleMouseEnter(regionId, e)}
-                onMouseMove={handleMouseMove}
-                onMouseLeave={handleMouseLeave}
-                onClick={() => handleClick(regionId)}
-                role="button"
-                tabIndex={0}
-                aria-label={getRegionForLocale(regionId, locale)?.regionName || regionId}
-                onKeyDown={(e) => {
-                  if (e.key === 'Enter' || e.key === ' ') {
-                    e.preventDefault();
-                    handleClick(regionId);
-                  }
+              <Marker
+                key={marker.id}
+                coordinates={marker.coords}
+                onMouseEnter={() => setHoveredRegion(marker.id)}
+                onMouseLeave={() => setHoveredRegion(null)}
+                onClick={() => handleMarkerClick(marker.id)}
+                style={{
+                  default: { cursor: 'pointer' },
+                  hover: { cursor: 'pointer' },
+                  pressed: { cursor: 'pointer' },
                 }}
-              />
-            );
-          })}
-
-          {/* Region labels */}
-          {Object.entries(REGION_PATHS).map(([regionId, pathData]) => {
-            const localeData = getRegionForLocale(regionId, locale);
-            if (!localeData) return null;
-
-            return (
-              <text
-                key={`label-${regionId}`}
-                x={pathData.labelX}
-                y={pathData.labelY}
-                textAnchor="middle"
-                className="pointer-events-none select-none"
-                fill="#1e293b"
-                fontSize="9"
-                fontWeight="600"
               >
-                {localeData.regionName}
-              </text>
+                <g transform={`scale(${scale})`} style={{ transition: 'transform 180ms ease' }}>
+                  <circle
+                    r={9}
+                    fill={color}
+                    fillOpacity={0.22}
+                    stroke="none"
+                  />
+                  <circle
+                    r={5}
+                    fill={color}
+                    stroke="#FFFFFF"
+                    strokeWidth={1.5}
+                  />
+                </g>
+                <text
+                  textAnchor="middle"
+                  y={marker.labelOffsetY ?? 18}
+                  style={{
+                    fontFamily: 'DM Sans, system-ui, sans-serif',
+                    fontSize: 11,
+                    fontWeight: 600,
+                    fill: '#1A1A2E',
+                    pointerEvents: 'none',
+                  }}
+                >
+                  {label}
+                </text>
+              </Marker>
             );
           })}
-        </svg>
+        </ComposableMap>
 
-        {/* Tooltip */}
-        {tooltip && (
+        {/* Detail panel */}
+        {selectedData && selectedLocaleData && (
           <div
-            className="absolute z-10 pointer-events-none bg-colhybri-dark text-white rounded-lg px-4 py-3 shadow-xl border border-white/10"
-            style={{
-              left: `${tooltip.x}px`,
-              top: `${tooltip.y - 70}px`,
-              transform: 'translateX(-50%)',
-            }}
+            role="dialog"
+            aria-label={selectedLocaleData.regionName}
+            className="absolute top-4 right-4 max-w-xs w-[85%] sm:w-80 bg-white rounded-xl shadow-xl border border-colhybri-teal/20 p-5"
           >
-            <p className="font-semibold text-sm">{tooltip.regionName}</p>
-            <p className="text-colhybri-primary text-xs mt-1">
-              {locale === 'fr' ? 'Taux de solitude' : 'Loneliness rate'}:{' '}
-              <span className="font-bold">{tooltip.lonelinessRate}%</span>
+            <button
+              type="button"
+              onClick={() => setSelectedRegion(null)}
+              className="absolute top-3 right-3 text-colhybri-dark/50 hover:text-colhybri-dark text-xl leading-none"
+              aria-label={t('close')}
+            >
+              ×
+            </button>
+            <p
+              className="font-sans text-xs uppercase tracking-widest mb-2"
+              style={{ color: potentialColor(selectedData.colhybriPotential) }}
+            >
+              {t(`legend.score${selectedData.colhybriPotential}`)}
             </p>
-            {/* Tooltip arrow */}
-            <div className="absolute left-1/2 -translate-x-1/2 -bottom-1.5 w-3 h-3 bg-colhybri-dark rotate-45 border-r border-b border-white/10" />
+            <h3 className="font-display text-lg font-semibold text-colhybri-dark mb-3">
+              {selectedLocaleData.regionName}
+            </h3>
+            <dl className="space-y-2 text-sm font-sans">
+              <div className="flex items-baseline justify-between gap-3">
+                <dt className="text-colhybri-dark/60">{t('labels.loneliness')}</dt>
+                <dd className="font-bold text-colhybri-dark">{selectedData.lonelinessRate}%</dd>
+              </div>
+              <div className="flex items-baseline justify-between gap-3">
+                <dt className="text-colhybri-dark/60">{t('labels.trust')}</dt>
+                <dd className="font-bold text-colhybri-dark">{selectedData.trustRate}%</dd>
+              </div>
+              <div className="flex items-baseline justify-between gap-3">
+                <dt className="text-colhybri-dark/60">{t('labels.population')}</dt>
+                <dd className="font-bold text-colhybri-dark">{selectedData.adultPopulation}</dd>
+              </div>
+            </dl>
+            <button
+              type="button"
+              onClick={() => handleExplore(selectedRegion!)}
+              className="mt-5 w-full px-4 py-2 bg-colhybri-teal text-white text-sm font-semibold rounded-full hover:bg-colhybri-gold transition-colors"
+            >
+              {t('explore')}
+            </button>
           </div>
         )}
       </div>
 
-      {/* Instruction text */}
-      <p className="text-center text-colhybri-dark/40 text-xs mt-4">
-        {locale === 'fr'
-          ? 'Cliquez sur une région pour explorer les données locales'
-          : 'Click a region to explore local data'}
+      {/* Hint + sources */}
+      <p className="text-center text-xs text-colhybri-dark/50 mt-4 font-sans">
+        {t('hint')}
+      </p>
+      <p className="text-center text-xs text-colhybri-dark/40 mt-1 font-sans">
+        {t('sources')}
       </p>
     </div>
   );

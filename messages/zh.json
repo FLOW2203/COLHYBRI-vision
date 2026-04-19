@@ -3018,5 +3018,34 @@
       "errorTitle": "Error",
       "errorBody": "Error sending. Please email onlymore2024@gmail.com"
     }
+  },
+  "trustMap": {
+    "title": "全球信任与孤独地图",
+    "subtitle": "探索区域数据,了解 COLHYBRI 可以产生最大影响的地方。",
+    "legend": {
+      "score5": "最高潜力",
+      "score4": "高潜力",
+      "score3": "中等潜力"
+    },
+    "labels": {
+      "loneliness": "孤独率",
+      "trust": "对他人的信任",
+      "population": "成年人口"
+    },
+    "regions": {
+      "france": "法国",
+      "uk": "英国",
+      "usa": "美国",
+      "canada": "加拿大",
+      "brazil": "巴西",
+      "africa": "撒哈拉以南非洲",
+      "eastern-europe": "东欧",
+      "india": "印度",
+      "japan": "日本"
+    },
+    "explore": "探索该地区",
+    "close": "关闭",
+    "hint": "点击标记以探索本地数据",
+    "sources": "来源:IFOP 2026、世卫组织 2025、JAMA Network Open 2025、经合组织 2025、世界银行 Findex 2025"
   }
 }
