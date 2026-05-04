@@ -197,7 +197,7 @@
         "Sin compromiso",
         "Transparencia total del pool"
       ],
-      "cta": "Reservar una reunión"
+      "cta": "Abrir la app"
     },
     "shops": {
       "title": "Para Comercios",
@@ -211,7 +211,7 @@
         "Visibilidad en la app",
         "Inscripcion en el pool comunitario"
       ],
-      "cta": "Reservar una reunión"
+      "cta": "Abrir la app"
     },
     "premium": {
       "title": "Maps+ Premium",
@@ -225,7 +225,7 @@
         "Panel de vitalidad personalizado",
         "Herramientas de crecimiento de reseñas"
       ],
-      "cta": "Reservar una reunión"
+      "cta": "Abrir la app"
     },
     "giftCard": {
       "title": "Tarjeta Regalo Solidaria",
@@ -446,7 +446,7 @@
     "getStarted": "Comenzar",
     "contactUs": "Contáctanos",
     "backToHome": "Volver al Inicio",
-    "bookDemo": "Reservar una reunión",
+    "bookDemo": "Abrir la app",
     "applyWithColhybri": "Candidatarse con COLHYBRI",
     "institutionalPartnership": "Alianza institucional",
     "proposePilot": "Proponer un despliegue",

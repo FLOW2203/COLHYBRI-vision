@@ -24,7 +24,7 @@
     "tagline": "Financial Inclusion Through Local Commerce",
     "headline": "Every pound spent locally strengthens your community",
     "subheadline": "COLHYBRI connects financially excluded individuals with neighbourhood shops through a simple, affordable subscription. Together, we build financial inclusion from the ground up.",
-    "cta": "Join the Movement",
+    "cta": "Open the app",
     "ctaSecondary": "See How It Works",
     "stats": {
       "price": "—",
@@ -87,7 +87,7 @@
         "Local shop discounts",
         "Digital payment capabilities"
       ],
-      "cta": "Book a meeting"
+      "cta": "Open the app"
     },
     "shops": {
       "title": "For Local Shops",
@@ -101,7 +101,7 @@
         "Community visibility boost",
         "Impact dashboard"
       ],
-      "cta": "Book a meeting"
+      "cta": "Open the app"
     },
     "premium": {
       "title": "Maps+ Premium",
@@ -115,11 +115,11 @@
         "Bespoke vitality dashboard",
         "Review growth tooling"
       ],
-      "cta": "Book a meeting"
+      "cta": "Open the app"
     },
     "giftCard": {
       "title": "Community Gift Card",
-      "subtitle": "Offer a ready-to-use solidarity gift card",
+      "subtitle": "Offer a ready-to-use community gift card",
       "description": "Gift a COLHYBRI card to a neighbour. Fully redeemable at partner shops. Powers the community pool and rewards local merchants.",
       "priceLabel": "Variable amount",
       "cta": "Discover Gift Cards"
@@ -242,7 +242,7 @@
       },
       {
         "q": "How much does COLHYBRI cost?",
-        "a": "£3/month for individuals. £10/month for merchants. £15/month for Maps+ Premium. Zero commission. Sign up on colhybri.com."
+        "a": "£3/month for individuals. £10/month for merchants. £15/month for Maps+ Premium. Zero commission. Open the app on colhybri.com."
       },
       {
         "q": "Do I need a bank account to use COLHYBRI?",
@@ -368,7 +368,7 @@
     "loading": "Loading games...",
     "ctaTitle": "Own Your Neighbourhood. Own Your Future.",
     "ctaDescription": "Ready to make a real impact? Join COLHYBRI and transform your community.",
-    "ctaButton": "Sign Up Now"
+    "ctaButton": "Open the app"
   },
   "cocon": {
     "common": {
@@ -432,10 +432,10 @@
         "title": "Caffe sospeso"
       },
       "economie-solidaire": {
-        "title": "Neighborhood solidarity economy"
+        "title": "Neighborhood community economy"
       },
       "pool-solidaire-quartier": {
-        "title": "Neighborhood solidarity pool"
+        "title": "Neighborhood community pool"
       },
       "commerce-equitable-local": {
         "title": "Fair local commerce"
@@ -1181,7 +1181,7 @@
       "h1": "Community Development Through Local Commerce: The COLHYBRI Model",
       "metaTitle": "Community development: x2.5 Keynesian multiplier",
       "metaDescription": "Community development through local commerce applies the Keynesian multiplier: every dollar spent locally generates $2.50 in local economic activity.",
-      "snippet": "Community development through local commerce follows the Keynesian multiplier principle: every dollar spent locally generates $2.50 in local economic activity. COLHYBRI solidarity pool channels 75% of subscriber fees into services gifted at partner shops, creating a virtuous cycle of local spending, job creation and neighborhood vitality.",
+      "snippet": "Community development through local commerce follows the Keynesian multiplier principle: every dollar spent locally generates $2.50 in local economic activity. COLHYBRI community pool channels 75% of subscriber fees into services gifted at partner shops, creating a virtuous cycle of local spending, job creation and neighborhood vitality.",
       "sections": [
         {
           "h2": "What is community development?",
@@ -1193,7 +1193,7 @@
         },
         {
           "h2": "How does COLHYBRI activate this multiplier?",
-          "body": "COLHYBRI channels 75% of subscriber fees ($3/month) into a solidarity pool that funds services gifted at partner shops. The money never leaves the neighborhood. For a 1,000-subscriber community, that is $27,000 per year directly reinjected into local commerce, generating $67,500 of total economic activity through the multiplier."
+          "body": "COLHYBRI channels 75% of subscriber fees ($3/month) into a community pool that funds services gifted at partner shops. The money never leaves the neighborhood. For a 1,000-subscriber community, that is $27,000 per year directly reinjected into local commerce, generating $67,500 of total economic activity through the multiplier."
         }
       ],
       "faq": [
@@ -1234,7 +1234,7 @@
       "h1": "Digital mutualism: when 220 years of tradition meet tech",
       "metaTitle": "Digital mutualism: COLHYBRI in the French tradition",
       "metaDescription": "Digital mutualism transposes French cooperative principles (1806) into the digital economy. COLHYBRI applies this model to local commerce.",
-      "snippet": "Digital mutualism is the transposition of French cooperative principles (born in 1806 with the first mutuelles) into the digital economy. COLHYBRI applies this model to local commerce: each subscriber contributes to a solidarity pool that funds services gifted at partner shops, creating a digital community safety net.",
+      "snippet": "Digital mutualism is the transposition of French cooperative principles (born in 1806 with the first mutuelles) into the digital economy. COLHYBRI applies this model to local commerce: each subscriber contributes to a community pool that funds services gifted at partner shops, creating a digital community safety net.",
       "sections": [
         {
           "h2": "What is French mutualism?",
@@ -1242,17 +1242,17 @@
         },
         {
           "h2": "What is digital mutualism?",
-          "body": "Digital mutualism brings these principles into the digital economy: modest contribution, shared risk, redistribution to members. COLHYBRI applies this model to local commerce: 3 EUR/month per resident, 75% to the solidarity pool, services randomly gifted at partner shops. This is not charity; it is a mutual."
+          "body": "Digital mutualism brings these principles into the digital economy: modest contribution, shared risk, redistribution to members. COLHYBRI applies this model to local commerce: 3 EUR/month per resident, 75% to the community pool, services randomly gifted at partner shops. This is not charity; it is a mutual."
         },
         {
           "h2": "Why is digital mutualism fit for 2026?",
-          "body": "It answers 2026 expectations: 79% of French people aspire to more brotherhood (IFOP, 2025) but 78% do not trust fellow citizens. Mutualization without an intermediary (no bank, no NGO) resolves this paradox by creating a light, transparent frame where solidarity happens without risk."
+          "body": "It answers 2026 expectations: 79% of French people aspire to more brotherhood (IFOP, 2025) but 78% do not trust fellow citizens. Mutualization without an intermediary (no bank, no NGO) resolves this paradox by creating a light, transparent frame where community support happens without risk."
         }
       ],
       "faq": [
         {
           "q": "What is French mutualism?",
-          "a": "A solidarity tradition born in 1806 with mutual aid societies. From this movement came Social Security (1945) and the modern mutuelles."
+          "a": "A mutual aid tradition born in 1806 with mutual aid societies. From this movement came Social Security (1945) and the modern mutuelles."
         },
         {
           "q": "What is digital mutualism?",
@@ -1287,19 +1287,19 @@
       "h1": "Caffe sospeso: the Neapolitan tradition that inspires COLHYBRI",
       "metaTitle": "Caffe sospeso: digital Neapolitan tradition",
       "metaDescription": "Caffe sospeso (suspended coffee) is a Neapolitan tradition from 1900 where a customer pays for two coffees. COLHYBRI digitalizes this principle.",
-      "snippet": "Caffe sospeso (suspended coffee) is a Neapolitan tradition dating from 1900 where a customer pays for two coffees: one for themselves and one for a stranger in need. COLHYBRI digitalizes this anonymous solidarity principle by applying it to all neighborhood commerce: hairdresser, dry cleaner, bakery and every daily service.",
+      "snippet": "Caffe sospeso (suspended coffee) is a Neapolitan tradition dating from 1900 where a customer pays for two coffees: one for themselves and one for a stranger in need. COLHYBRI digitalizes this anonymous community support principle by applying it to all neighborhood commerce: hairdresser, dry cleaner, bakery and every daily service.",
       "sections": [
         {
           "h2": "What is caffe sospeso?",
-          "body": "Caffe sospeso is a tradition born in Naples bars in the early 20th century. A customer who had a lucky day pays for two coffees instead of one: they consume the first and leave the second \"suspended\" at the bar for a stranger who might need it. It is an anonymous act of solidarity that does not humiliate anyone, neither giver nor receiver."
+          "body": "Caffe sospeso is a tradition born in Naples bars in the early 20th century. A customer who had a lucky day pays for two coffees instead of one: they consume the first and leave the second \"suspended\" at the bar for a stranger who might need it. It is an anonymous act of community support that does not humiliate anyone, neither giver nor receiver."
         },
         {
           "h2": "Why does COLHYBRI draw on it?",
-          "body": "Caffe sospeso perfectly illustrates the COLHYBRI model: anonymous solidarity, modest gesture, no intermediary. COLHYBRI extends the principle: instead of offering only coffees, it lets people offer any service from a partner shop (hairdresser, dry cleaner, bakery, yoga class). Digitalization removes friction while preserving the spirit."
+          "body": "Caffe sospeso perfectly illustrates the COLHYBRI model: anonymous community support, modest gesture, no intermediary. COLHYBRI extends the principle: instead of offering only coffees, it lets people offer any service from a partner shop (hairdresser, dry cleaner, bakery, yoga class). Digitalization removes friction while preserving the spirit."
         },
         {
           "h2": "How does it work in practice?",
-          "body": "Each COLHYBRI subscriber pays 3 EUR/month. 75% of that sum feeds a neighborhood solidarity pool. Each month, the pool is redistributed as services randomly gifted at partner shops. A subscriber can both give (through their contribution) and receive (through a gifted service). It is caffe sospeso, 2026 edition."
+          "body": "Each COLHYBRI subscriber pays 3 EUR/month. 75% of that sum feeds a neighborhood community pool. Each month, the pool is redistributed as services randomly gifted at partner shops. A subscriber can both give (through their contribution) and receive (through a gifted service). It is caffe sospeso, 2026 edition."
         }
       ],
       "faq": [
@@ -1309,7 +1309,7 @@
         },
         {
           "q": "Why does COLHYBRI draw on it?",
-          "a": "Caffe sospeso illustrates the COLHYBRI model: anonymous solidarity, modest gesture, no intermediary. COLHYBRI extends it to all neighborhood shops."
+          "a": "Caffe sospeso illustrates the COLHYBRI model: anonymous community support, modest gesture, no intermediary. COLHYBRI extends it to all neighborhood shops."
         },
         {
           "q": "How does it work in practice?",
@@ -1331,38 +1331,38 @@
         },
         {
           "value": "75%",
-          "label": "to solidarity pool"
+          "label": "to community pool"
         }
       ]
     },
     "economie-solidaire": {
-      "title": "Neighborhood solidarity economy",
-      "h1": "Neighborhood solidarity economy: how COLHYBRI reinvents local ties",
-      "metaTitle": "Neighborhood solidarity economy: the COLHYBRI model",
-      "metaDescription": "Neighborhood solidarity economy combines mutualization, digitalization and engagement. COLHYBRI activates all three for 3 EUR/month.",
-      "snippet": "Neighborhood solidarity economy combines three mechanisms: resource pooling (solidarity pool), shop digitalization (Maps+) and community engagement (gamification). For 3 EUR/month per resident and 10 EUR/month per merchant, COLHYBRI creates an ecosystem where solidarity generates revenue for merchants.",
+      "title": "Neighborhood community economy",
+      "h1": "Neighborhood community economy: how COLHYBRI reinvents local ties",
+      "metaTitle": "Neighborhood community economy: the COLHYBRI model",
+      "metaDescription": "Neighborhood community economy combines mutualization, digitalization and engagement. COLHYBRI activates all three for 3 EUR/month.",
+      "snippet": "Neighborhood community economy combines three mechanisms: resource pooling (community pool), shop digitalization (Maps+) and community engagement (gamification). For 3 EUR/month per resident and 10 EUR/month per merchant, COLHYBRI creates an ecosystem where community support generates revenue for merchants.",
       "sections": [
         {
-          "h2": "What is the solidarity economy?",
-          "body": "The social and solidarity economy (SSE) includes associations, mutuelles, cooperatives and foundations that put people before profit. In France, it represents 14% of private employment and 10% of GDP (Confederation francaise de l ESS, 2025). The modern movement digitalizes its tools to reach new audiences."
+          "h2": "What is the community economy?",
+          "body": "The social and community economy (SSE) includes associations, mutuelles, cooperatives and foundations that put people before profit. In France, it represents 14% of private employment and 10% of GDP (Confederation francaise de l ESS, 2025). The modern movement digitalizes its tools to reach new audiences."
         },
         {
           "h2": "How does COLHYBRI fit into SSE?",
-          "body": "COLHYBRI is a private initiative that applies SSE principles to local commerce: participatory governance, fair redistribution, transparency. The solidarity pool redistributes 75% of subscriber fees; the remaining 25% covers technical and operational costs. No profit is extracted from the pool."
+          "body": "COLHYBRI is a private initiative that applies SSE principles to local commerce: participatory governance, fair redistribution, transparency. The community pool redistributes 75% of subscriber fees; the remaining 25% covers technical and operational costs. No profit is extracted from the pool."
         },
         {
           "h2": "What are the three activation mechanisms?",
-          "body": "First mechanism: mutualization (solidarity pool redistributes 75% of subscriptions). Second: digitalization (Maps+ makes shops visible on Google). Third: engagement (26 local mini-games, neighborhood challenges, commercial street rankings). The three work together to create a virtuous cycle."
+          "body": "First mechanism: mutualization (community pool redistributes 75% of subscriptions). Second: digitalization (Maps+ makes shops visible on Google). Third: engagement (26 local mini-games, neighborhood challenges, commercial street rankings). The three work together to create a virtuous cycle."
         }
       ],
       "faq": [
         {
-          "q": "What is the solidarity economy?",
+          "q": "What is the community economy?",
           "a": "SSE includes associations, mutuelles, cooperatives and foundations. In France: 14% of private employment and 10% of GDP per Confederation francaise de l ESS."
         },
         {
           "q": "How does COLHYBRI fit into SSE?",
-          "a": "COLHYBRI applies SSE principles to local commerce: participatory governance, fair redistribution, transparency. 75% of fees go to the solidarity pool."
+          "a": "COLHYBRI applies SSE principles to local commerce: participatory governance, fair redistribution, transparency. 75% of fees go to the community pool."
         },
         {
           "q": "What are the three mechanisms?",
@@ -1389,15 +1389,15 @@
       ]
     },
     "pool-solidaire-quartier": {
-      "title": "Neighborhood solidarity pool",
-      "h1": "COLHYBRI solidarity pool: how it works in practice",
-      "metaTitle": "COLHYBRI solidarity pool: 4 simple steps",
-      "metaDescription": "The COLHYBRI solidarity pool works in 4 steps: contribution, mutualization, random distribution, gifted service. 3 EUR/month, 75% redistributed.",
-      "snippet": "The COLHYBRI solidarity pool works in 4 steps. Step 1: each subscriber pays 3 EUR/month. Step 2: 75% of subscriptions (2.25 EUR) feed the community solidarity pool. Step 3: each month the pool is randomly distributed as vouchers. Step 4: beneficiaries enjoy services gifted at partner shops.",
+      "title": "Neighborhood community pool",
+      "h1": "COLHYBRI community pool: how it works in practice",
+      "metaTitle": "COLHYBRI community pool: 4 simple steps",
+      "metaDescription": "The COLHYBRI community pool works in 4 steps: contribution, mutualization, random distribution, gifted service. 3 EUR/month, 75% redistributed.",
+      "snippet": "The COLHYBRI community pool works in 4 steps. Step 1: each subscriber pays 3 EUR/month. Step 2: 75% of subscriptions (2.25 EUR) feed the community community pool. Step 3: each month the pool is randomly distributed as vouchers. Step 4: beneficiaries enjoy services gifted at partner shops.",
       "sections": [
         {
-          "h2": "What is a solidarity pool?",
-          "body": "A solidarity pool is a common fund fed by several members contributions and redistributed according to a transparent rule. COLHYBRI chose a simple rule: each month, beneficiaries are drawn at random from neighborhood subscribers. All have equal chances, all contribute at the same level. It is the opposite of a privilege or clientelism logic."
+          "h2": "What is a community pool?",
+          "body": "A community pool is a common fund fed by several members contributions and redistributed according to a transparent rule. COLHYBRI chose a simple rule: each month, beneficiaries are drawn at random from neighborhood subscribers. All have equal chances, all contribute at the same level. It is the opposite of a privilege or clientelism logic."
         },
         {
           "h2": "How are beneficiaries selected?",
@@ -1410,7 +1410,7 @@
       ],
       "faq": [
         {
-          "q": "What is a solidarity pool?",
+          "q": "What is a community pool?",
           "a": "A common fund fed by multiple member contributions and redistributed by a transparent rule. At COLHYBRI, beneficiaries are drawn at random each month."
         },
         {
@@ -1443,7 +1443,7 @@
     },
     "commerce-equitable-local": {
       "title": "Fair local commerce",
-      "h1": "Fair local commerce: zero commission, 100% solidarity",
+      "h1": "Fair local commerce: zero commission, 100% community",
       "metaTitle": "Fair local commerce: 0% commission model",
       "metaDescription": "UberEats takes 30%, JustEat 25%, Petitscommerces 15%. COLHYBRI offers 0% commission with a flat 10 EUR/month subscription.",
       "snippet": "While UberEats takes 30% commission, JustEat 25% and Petitscommerces 15%, COLHYBRI offers 0% commission for merchants. The flat 10 EUR/month subscription replaces variable commissions that erode small shop margins. It is fair trade applied to local commerce.",
@@ -1499,7 +1499,7 @@
       "h1": "The digital neighborhood cooperative: the COLHYBRI model",
       "metaTitle": "Digital neighborhood cooperative: mutual, not charity",
       "metaDescription": "COLHYBRI is a digital neighborhood mutual. Self-funded by subscriptions, no subsidies or donations. This is not charity.",
-      "snippet": "COLHYBRI operates as a digital neighborhood cooperative where each member (subscriber or merchant) contributes to a common good: the solidarity pool. Unlike an association or NGO, the model is self-funded by subscriptions and does not depend on any subsidy. It is a mutual, not charity.",
+      "snippet": "COLHYBRI operates as a digital neighborhood cooperative where each member (subscriber or merchant) contributes to a common good: the community pool. Unlike an association or NGO, the model is self-funded by subscriptions and does not depend on any subsidy. It is a mutual, not charity.",
       "sections": [
         {
           "h2": "What is a neighborhood cooperative?",
@@ -1551,8 +1551,8 @@
       "title": "Community-driven loyalty",
       "h1": "Community-driven loyalty: how COLHYBRI retains local customers",
       "metaTitle": "Community loyalty: pool, gamification, network effect",
-      "metaDescription": "COLHYBRI combines the solidarity pool, gamification (26 mini-games) and network effect to reach over 60% retention.",
-      "snippet": "COLHYBRI community-driven loyalty relies on three levers: the solidarity pool (subscribers receive gifted services), gamification (26 mini-games, neighborhood challenges, rankings) and network effect (more subscribers = more services available). Expected retention exceeds 60%, versus less than 30% for standard loyalty programs.",
+      "metaDescription": "COLHYBRI combines the community pool, gamification (26 mini-games) and network effect to reach over 60% retention.",
+      "snippet": "COLHYBRI community-driven loyalty relies on three levers: the community pool (subscribers receive gifted services), gamification (26 mini-games, neighborhood challenges, rankings) and network effect (more subscribers = more services available). Expected retention exceeds 60%, versus less than 30% for standard loyalty programs.",
       "sections": [
         {
           "h2": "What is community-driven loyalty?",
@@ -1560,7 +1560,7 @@
         },
         {
           "h2": "What are COLHYBRI three levers?",
-          "body": "First lever: the solidarity pool redistributing 75% of fees as gifted services. Second: gamification with 26 local mini-games, neighborhood challenges and commercial-street rankings. Third: network effect that raises perceived value as new subscribers join (positive-externality network)."
+          "body": "First lever: the community pool redistributing 75% of fees as gifted services. Second: gamification with 26 local mini-games, neighborhood challenges and commercial-street rankings. Third: network effect that raises perceived value as new subscribers join (positive-externality network)."
         },
         {
           "h2": "Why is retention higher?",
@@ -1981,8 +1981,8 @@
       "desc": "Informal commerce represents 55% of employment in Latin America. COLHYBRI offers formalization through zero-friction digitalization at $3/month."
     },
     "revitalisation-quartier": {
-      "title": "Neighborhood Revitalization Through Commerce and Solidarity",
-      "desc": "Neighborhood revitalization requires 3 levers: commerce, solidarity and sport."
+      "title": "Neighborhood Revitalization Through Commerce and Community",
+      "desc": "Neighborhood revitalization requires 3 levers: commerce, community and sport."
     },
     "tiers-lieu-digital": {
       "title": "The Digital Third Place: COLHYBRI as a Virtual Meeting Space",
@@ -1998,7 +1998,7 @@
     },
     "comment-ca-marche": {
       "title": "COLHYBRI: How It Works in 3 Steps",
-      "desc": "COLHYBRI in 3 steps: 3 EUR subscription, 75% solidarity pool, gifted services. 0% commission."
+      "desc": "COLHYBRI in 3 steps: 3 EUR subscription, 75% community pool, gifted services. 0% commission."
     },
     "tarifs-colhybri": {
       "title": "COLHYBRI Pricing: 3 EUR Individuals, 10 EUR Merchants",
@@ -2006,11 +2006,11 @@
     },
     "pour-les-commercants": {
       "title": "COLHYBRI for Merchants: 0% Commission",
-      "desc": "10 EUR/month, 0% commission. Maps+ included. New customers via solidarity pool."
+      "desc": "10 EUR/month, 0% commission. Maps+ included. New customers via community pool."
     },
     "pour-les-particuliers": {
       "title": "COLHYBRI for Individuals: 3 EUR/Month",
-      "desc": "For 3 EUR/month, contribute to the solidarity pool and receive gifted services."
+      "desc": "For 3 EUR/month, contribute to the community pool and receive gifted services."
     },
     "pour-les-collectivites": {
       "title": "COLHYBRI for Cities: Vitality Dashboard",
@@ -2709,18 +2709,18 @@
   },
   "solutionHub": {
     "meta": {
-      "title": "The COLHYBRI solution: solidarity pool, Maps+, gamification",
-      "description": "Three pillars to revitalize your downtown: neighborhood solidarity, digital visibility, community engagement."
+      "title": "The COLHYBRI solution: community pool, Maps+, gamification",
+      "description": "Three pillars to revitalize your downtown: neighborhood community support, digital visibility, community engagement."
     },
     "hero": {
       "badge": "SOLUTION",
       "title": "How COLHYBRI revitalizes your downtown",
-      "subtitle": "Three pillars: neighborhood solidarity, digital visibility, community engagement."
+      "subtitle": "Three pillars: neighborhood community support, digital visibility, community engagement."
     },
     "pillars": {
       "pool": {
-        "title": "Neighborhood solidarity",
-        "body": "£3/month. 75% to the solidarity pool. Services randomly gifted at partner shops.",
+        "title": "Neighborhood community support",
+        "body": "£3/month. 75% to the community pool. Services randomly gifted at partner shops.",
         "cta": "Discover the pool"
       },
       "maps": {
@@ -2736,7 +2736,7 @@
     },
     "gamification": {
       "title": "Commerce becomes a collective game",
-      "body": "26 neighborhood mini-games, solidarity challenges, street rankings. Community engagement takes the form of a game, not a constraint.",
+      "body": "26 neighborhood mini-games, community challenges, street rankings. Community engagement takes the form of a game, not a constraint.",
       "tags": {
         "challenges": "Solidarity challenges",
         "rankings": "Rankings",
@@ -2761,7 +2761,7 @@
         "body": "30-second signup. No credit check. No minimum balance."
       },
       "step2": {
-        "title": "75% to the solidarity pool",
+        "title": "75% to the community pool",
         "body": "£2.25 from each subscription feeds the neighborhood community pool."
       },
       "step3": {
@@ -2775,10 +2775,10 @@
     },
     "notCharity": {
       "title": "This is NOT charity",
-      "body": "It's a mutual. Every member contributes AND benefits. Just as Social Security was born from mutualism, COLHYBRI creates local solidarity."
+      "body": "It's a mutual. Every member contributes AND benefits. Just as Social Security was born from mutualism, COLHYBRI creates local community support."
     },
     "cta": {
-      "title": "Join your neighborhood solidarity pool",
+      "title": "Join your neighborhood community pool",
       "button": "Open app"
     }
   },
@@ -2821,7 +2821,7 @@
       "title": "Key figures",
       "items": {
         "0": "220 years of French mutualism digitized (since 1806)",
-        "1": "3 EUR/month: solidarity pool subscription",
+        "1": "3 EUR/month: community pool subscription",
         "2": "10 EUR/month: Maps+ subscription, 0% commission",
         "3": "75% of the pool redistributed to residents",
         "4": "From Paris to Pittsburgh: 5 continents, 25+ target countries"
@@ -2879,7 +2879,7 @@
     "flywheel": {
       "title": "The ONLYMORE flywheel",
       "subtitle": "An ecosystem where each pillar finances the next.",
-      "step1": "B2C solidarity pool subscriptions",
+      "step1": "B2C community pool subscriptions",
       "step2": "Fund B2B deployment (Maps+, cities)",
       "step3": "Which funds sports investments (COLHYBRI Sports)",
       "step4": "Which feeds community credit",
