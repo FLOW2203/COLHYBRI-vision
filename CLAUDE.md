@@ -34,8 +34,10 @@ Quand l'utilisateur tape /dream, executer :
 - Slogan FR : "Chaque geste compte. Le vôtre aussi." (accent OBLIGATOIRE sur vôtre)
 - Slogan EN : "Own Your Neighborhood. Own Your Future."
 - Stéphane Picard = Fundraising Partner (Winvesty). JAMAIS CTO.
-- Zéro free pilot. Modèle 100% subscription. Utiliser "turnkey deployment" / "déploiement clé en main".
-- CTA : "Réserver un rendez-vous" / "Book a meeting". JAMAIS "Souscrire" / "Sign up".
+- Zéro free pilot. Aucun rendez-vous B2C/commerçant. Tout passe par l'app self-serve.
+- CTA primary B2C/commerçant : "Ouvrir l'app" / "Open the app" → www.colhybri.com. JAMAIS "Réserver un rendez-vous" / "Book a meeting" / "Souscrire" / "Sign up" sur la home, le pricing ou les pages B2C.
+- CTA "Book a meeting" / "Réserver un rendez-vous" autorisé UNIQUEMENT sur for-cities (B2B muni gov) et investorsPage (B2B fundraising). Aucun rendez-vous sur le funnel résident/commerçant — tout se passe dans l'app (cartes cadeaux, services suspendus en attente d'un bénéficiaire).
+- Doctrine funnel : le site .vision DÉMONTRE les fonctionnalités. L'app COLHYBRI.com est le seul point de conversion B2C. Modèle 100% subscription self-serve. Utiliser "turnkey deployment" / "déploiement clé en main" pour les villes uniquement.
 - Pricing : Basic 3€/$3, Standard 10€/$10, Premium/Maps+ 15€/$15, Carte Cadeau solidaire.
 - Email : onlymore2024@gmail.com UNIQUEMENT (JAMAIS contact@colhybri.vision).
 - Ville : Rodilhan (30230), Occitanie.

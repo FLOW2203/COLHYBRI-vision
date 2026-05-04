@@ -21,9 +21,9 @@
     "openApp": "Ouvrir l'app"
   },
   "hero": {
-    "tagline": "Revitalisation des centres-villes",
-    "headline": "Chaque geste compte. Le vôtre aussi.",
-    "subheadline": "La plateforme qui revitalise les centres-villes par la solidarité de quartier. De Paris a Pittsburgh.",
+    "tagline": "POUR LES RÉSIDENTS",
+    "headline": "Soutenez les commerces de votre quartier. Recevez un service offert.",
+    "subheadline": "3€ par mois. 75% reversés en services chez vos commerçants. Cartes cadeaux solidaires, services suspendus, mini-jeux locaux. De Paris à Pittsburgh. Chaque geste compte. Le vôtre aussi.",
     "cta": "Ouvrir l'app",
     "ctaSecondary": "Découvrir notre impact",
     "stats": {
@@ -183,7 +183,7 @@
   },
   "pricing": {
     "title": "Tarifs",
-    "headline": "L'inscription se fait sur colhybri.com",
+    "headline": "Tout se passe dans l'app",
     "ctaApp": "Ouvrir l'app",
     "individuals": {
       "title": "Pour les Particuliers",
@@ -197,7 +197,7 @@
         "Sans engagement",
         "Transparence totale du pool"
       ],
-      "cta": "Réserver un rendez-vous"
+      "cta": "Ouvrir l'app"
     },
     "shops": {
       "title": "Pour les Commerces",
@@ -211,7 +211,7 @@
         "Visibilité dans l'app",
         "Inscription dans le pool solidaire"
       ],
-      "cta": "Réserver un rendez-vous"
+      "cta": "Ouvrir l'app"
     },
     "premium": {
       "title": "Maps+ Premium",
@@ -225,7 +225,7 @@
         "Tableau de bord vitalité personnalisé",
         "Outils de développement d'avis"
       ],
-      "cta": "Réserver un rendez-vous"
+      "cta": "Ouvrir l'app"
     },
     "giftCard": {
       "title": "Carte Cadeau Solidaire",
@@ -477,7 +477,7 @@
     "loading": "Chargement des jeux...",
     "ctaTitle": "Chaque geste compte. Le vôtre aussi.",
     "ctaDescription": "Pret a faire une vraie difference ? Rejoignez COLHYBRI et transformez votre communaute.",
-    "ctaButton": "Réserver un rendez-vous"
+    "ctaButton": "Ouvrir l'app"
   },
   "cocon": {
     "common": {
