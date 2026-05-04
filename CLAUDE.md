@@ -54,3 +54,26 @@ Quand l'utilisateur tape /dream, executer :
 - Commits avec onlymore2024@gmail.com / Florent Gibert.
 - Conventional commits (fix/feat/chore + scope).
 
+## gstack integration
+
+gstack (github.com/garrytan/gstack) est installé globalement avec préfixe.
+Skills disponibles préfixés gstack-* :
+- /gstack-office-hours : brainstorm produit
+- /gstack-plan-ceo-review : revue stratégique d'un plan
+- /gstack-plan-eng-review : revue archi
+- /gstack-plan-design-review : revue design
+- /gstack-autoplan : pipeline complet CEO → Eng → Design
+- /gstack-review : code review production-grade
+- /gstack-qa : QA browser Chromium réel (recommandé pour les 13 locales)
+- /gstack-cso : audit OWASP + STRIDE (complète colhybri-security, ne le remplace pas)
+- /gstack-retro : retro hebdo cross-tool
+
+Skills custom COLHYBRI préservés (priorité absolue) :
+- colhybri-deploy : pipeline ship Vercel — NE JAMAIS remplacer par /gstack-land-and-deploy sans audit
+- colhybri-security : audit RLS+Stripe+OAuth+env — base de référence sécurité
+
+Règles :
+- Pour deploy COLHYBRI : utiliser colhybri-deploy (PAS /gstack-ship ni /gstack-land-and-deploy)
+- Pour audit sécurité : exécuter colhybri-security EN PREMIER, puis /gstack-cso en complément
+- Pour QA visuelle : /gstack-qa sur les 13 locales (fr, en, es, it, de, pt, nl, pl, sv, da, fi, cs, ro)
+
