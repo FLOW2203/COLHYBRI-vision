@@ -329,11 +329,11 @@
     "getStarted": "始めましょう",
     "contactUs": "お問い合わせ",
     "backToHome": "ホームに戻る",
-    "bookDemo": "アプリを開く",
-    "applyWithColhybri": "COLHYBRIで応募する",
-    "institutionalPartnership": "機関連携",
-    "proposePilot": "導入を提案",
-    "discoverSolution": "ソリューションを見る"
+    "bookDemo": "Book a demo",
+    "applyWithColhybri": "Apply with COLHYBRI",
+    "institutionalPartnership": "Institutional partnership",
+    "proposePilot": "Propose a pilot",
+    "discoverSolution": "Discover the solution"
   },
   "city": {
     "metaTitle": "COLHYBRIが{city}に — 地域商業と金融包摂",
@@ -2094,13 +2094,13 @@
   },
   "impactPages": {
     "france": {
-      "badge": "IMPACT FRANCE",
-      "title": "1,732 ZRCV municipalities. One market, one mission.",
-      "subtitle": "Zones de Revitalisation du Commerce de Ville, Action Coeur de Ville, Petites Villes de Demain. COLHYBRI is the missing digital tool for these programs.",
+      "badge": "FRANCE IMPACT",
+      "title": "France is reinventing its downtowns",
+      "subtitle": "1,732 ZRCV, 244 Action Coeur de Ville, 1,646 Petites Villes de Demain.",
       "stats": [
         {
           "value": "1,732",
-          "label": "ZRCV municipalities 2024"
+          "label": "2026 ZRCV towns"
         },
         {
           "value": "244",
@@ -2111,75 +2111,75 @@
           "label": "Petites Villes de Demain"
         },
         {
-          "value": "55%",
-          "label": "mid-size cities with commercial vacancy"
+          "value": "5B EUR",
+          "label": "mobilized 2023-2026"
         }
       ],
       "context": [
-        "The 2024 French Finance Act created the ZRCV to counter the commercial desertification of French downtowns.",
-        "Action Coeur de Ville and Petites Villes de Demain cover 1,890 municipalities with dedicated budget but no native digital tool.",
-        "COLHYBRI plugs into these programs without replacing them, providing the missing digital layer."
+        "Downtown devitalization is the top issue for the 2026 municipal elections. 55% of midsize towns have commercial vacancy rates above 10%.",
+        "The government has launched commerce managers funded by Chambers of Commerce and a working group at the National Commerce Council.",
+        "National programs (ACV, PVD, ZRCV) cover 1,890 towns but lack digital measurement tools."
       ],
       "barometer": {
-        "title": "French downtown barometer",
-        "subtitle": "2024-2025 data from Banque des Territoires and ANCT",
         "0": {
-          "value": "55%",
-          "label": "mid-size cities with commercial vacancy"
+          "value": "79%",
+          "label": "aspire to fraternity"
         },
         "1": {
-          "value": "-12%",
-          "label": "downtown retail revenue since 2020"
+          "value": "55%",
+          "label": "experience loneliness"
         },
         "2": {
-          "value": "+18%",
-          "label": "peripheral openings over the same period"
+          "value": "31%",
+          "label": "have no meeting place"
         },
-        "quote": "Downtown is not a traffic problem, it is a digital infrastructure problem."
+        "title": "Trust and Fraternity Barometer",
+        "subtitle": "IFOP / Fraternity Lab 2026 data",
+        "quote": "COLHYBRI is the digital third place that fills this void."
       },
       "proposition": {
-        "title": "The COLHYBRI proposition for France",
-        "body": "A turnkey tool for ZRCV municipalities, funded by residents at 3 EUR per month, 0% commission for merchants, no commitment for the city. Four-week rollout."
+        "title": "The COLHYBRI proposition",
+        "body": "COLHYBRI is the Barcelona model as SaaS, accessible to any town of 25,000 inhabitants. Free 90-day pilot."
       }
     },
     "usa": {
-      "badge": "IMPACT USA",
-      "title": "8,764 Opportunity Zones. Main Street needs a digital tool.",
-      "subtitle": "TODO Florent: integrate the full USA framing from the SEO cocoon (Rust Belt, OZ 2.0, Main Street America).",
+      "badge": "USA IMPACT",
+      "title": "Revitalizing the Rust Belt, one Main Street at a time",
+      "subtitle": "8,764 Opportunity Zones. 1,200+ Main Street America communities.",
       "stats": [
         {
           "value": "8,764",
-          "label": "Opportunity Zones"
+          "label": "Opportunity Zones (OZ 1.0)"
         },
         {
           "value": "6,544",
-          "label": "OZ 2.0 in 2026"
+          "label": "new OZ 2.0 (July 2026)"
         },
         {
-          "value": "1,200",
-          "label": "Main Street communities"
+          "value": "1,200+",
+          "label": "Main Street America communities"
         },
         {
-          "value": "TODO",
-          "label": "TODO add verified USA metric"
+          "value": "$23.7M",
+          "label": "East Moline RAISE grant"
         }
       ],
       "context": [
-        "TODO Florent: Opportunity Zones and Rust Belt context from the SEO cocoon /rust-belt-revitalization and /opportunity-zones.",
-        "TODO Florent: Main Street America positioning and COLHYBRI product fit.",
-        "TODO Florent: USA proposition synthesis."
+        "The Rust Belt is undergoing a historic transformation. Pittsburgh, Cleveland, Canton and Allentown are pivoting from heavy manufacturing to tech and mixed-use downtown development.",
+        "The One Big Beautiful Bill Act (2025) makes Opportunity Zones permanent and launches OZ 2.0 in July 2026.",
+        "Canton (Ohio) is the blueprint: one developer restored 42 buildings using historic tax credits (20% federal + 25% state)."
       ],
       "miami": {
-        "title": "Why Miami",
-        "intro": "TODO Florent: reintegrate the Sprint 1 Miami copy (4 reasons for the choice).",
-        "reason1": "TODO reason1",
-        "reason2": "TODO reason2",
-        "reason3": "TODO reason3",
-        "reason4": "TODO reason4"
+        "title": "Miami, US pilot city",
+        "intro": "Miami-Dade combines a dense local commerce ecosystem, a bilingual population and a downtown revitalization agenda.",
+        "reason1": "A dense network of neighborhood shops along Main Streets",
+        "reason2": "A bilingual population aligned with our multilingual product",
+        "reason3": "A gateway to Latin America for regional expansion",
+        "reason4": "Local institutions engaged in downtown revitalization"
       },
       "proposition": {
-        "title": "The COLHYBRI proposition for the USA",
-        "body": "TODO Florent: integrate the USA value proposition (pricing, federal programs, Main Street partnerships)."
+        "title": "The COLHYBRI proposition",
+        "body": "COLHYBRI is the SaaS that makes Main Street measurable. You have the OZ incentives. We have the digital dashboard."
       },
       "barometer": {
         "title": "American downtown barometer",
@@ -2202,99 +2202,99 @@
       }
     },
     "europe": {
-      "badge": "IMPACT EUROPE",
-      "title": "TODO Florent: integrate europe data from Notion or the SEO cocoon",
-      "subtitle": "TODO Florent: region subtitle",
+      "badge": "EUROPE IMPACT",
+      "title": "Barcelona leads the way. COLHYBRI makes it accessible.",
+      "subtitle": "ECoSR 2026. EUI Call 4: 60M EUR ERDF. 28 candidate cities.",
       "stats": [
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "Barcelona",
+          "label": "European Capital of Small Retail 2026"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "60M EUR",
+          "label": "EUI Call 4 ERDF"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "28 cities",
+          "label": "ECoSR candidates in 13 countries"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "40+",
+          "label": "digital initiatives in Barcelona"
         }
       ],
       "context": [
-        "TODO Florent: regional context paragraph",
-        "TODO Florent: regional context paragraph",
-        "TODO Florent: regional context paragraph"
+        "The EU created the European Capital of Small Retail label in 2026 with 3 laureates: Barcelona, Caldas da Rainha, Silandro.",
+        "The 4 criteria: sustainability, digitalization, entrepreneurship, urban vitality.",
+        "The EU Agenda for Cities (December 2025) structures 3 pillars: territorial dialogue, simplification, strategic investment."
       ],
       "proposition": {
-        "title": "TODO Florent: europe proposition title",
-        "body": "TODO Florent: region proposition body"
+        "title": "The COLHYBRI proposition",
+        "body": "COLHYBRI makes the Barcelona model accessible as SaaS to any EU city of 25,000+ inhabitants. The 4 ECoSR criteria are the 4 pillars of COLHYBRI."
       }
     },
     "latam": {
-      "badge": "IMPACT LATAM",
-      "title": "TODO Florent: integrate latam data from Notion or the SEO cocoon",
-      "subtitle": "TODO Florent: region subtitle",
+      "badge": "LATIN AMERICA IMPACT",
+      "title": "Formalizing informal commerce through digital community support",
+      "subtitle": "55% informal employment. 2.1% growth 2026.",
       "stats": [
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "55%",
+          "label": "informal employment in Latin America"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "2.1%",
+          "label": "growth 2026 (lowest worldwide)"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "67M",
+          "label": "informal workers"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "$3/mo",
+          "label": "COLHYBRI subscription"
         }
       ],
       "context": [
-        "TODO Florent: regional context paragraph",
-        "TODO Florent: regional context paragraph",
-        "TODO Florent: regional context paragraph"
+        "Latin America has the lowest growth worldwide in 2026. 55% of workers are informal, a rate stable since 2018.",
+        "Commerce formalization is the priority of the IDB and World Bank to broaden the tax base.",
+        "Mobile-first is the only viable access channel for this population."
       ],
       "proposition": {
-        "title": "TODO Florent: latam proposition title",
-        "body": "TODO Florent: region proposition body"
+        "title": "The COLHYBRI proposition",
+        "body": "COLHYBRI formalizes informal commerce through zero-friction digitalization. $3/month. No credit check, no bank account required."
       }
     },
     "africa": {
-      "badge": "IMPACT AFRICA",
-      "title": "TODO Florent: integrate africa data from Notion or the SEO cocoon",
-      "subtitle": "TODO Florent: region subtitle",
+      "badge": "AFRICA IMPACT",
+      "title": "The first local commerce data for Africa",
+      "subtitle": "4.3% growth 2026. Zero dedicated digital tool.",
       "stats": [
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "4.3%",
+          "label": "growth 2026"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "4.5%",
+          "label": "growth 2027"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "0",
+          "label": "digital tools for urban informal commerce"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "Mobile-first",
+          "label": "only viable channel"
         }
       ],
       "context": [
-        "TODO Florent: regional context paragraph",
-        "TODO Florent: regional context paragraph",
-        "TODO Florent: regional context paragraph"
+        "Sub-Saharan Africa has the fastest growth worldwide but insufficient to absorb the expanding workforce.",
+        "Urban informal commerce is the top employer but has no digital tool.",
+        "Rapid urbanization creates an immediate need for local commerce structuring."
       ],
       "proposition": {
-        "title": "TODO Florent: africa proposition title",
-        "body": "TODO Florent: region proposition body"
+        "title": "The COLHYBRI proposition",
+        "body": "COLHYBRI mobile-first for African urban informal commerce. First local commerce data. Target pilot: Dakar, Abidjan, Tunis."
       }
     },
     "espana": {
@@ -2325,8 +2325,6 @@
         "Cataluna representa el 19,5% del comercio espanol (24,9% la Comunidad de Madrid, segun INE). El modelo Barcelona demuestra que el comercio de proximidad no es solo paisaje urbano ni tradicion, sino estructura productiva y motor de cohesion social. COLHYBRI es el soporte digital nativo de este modelo, replicable en cualquier municipio espanol o europeo."
       ],
       "barometer": {
-        "title": "Barometro del comercio espanol",
-        "subtitle": "Datos 2023-2026 INE, UPTA, Ajuntament de Barcelona",
         "0": {
           "value": "1,01 B EUR",
           "label": "cifra de negocios del Sector Comercio en Espana (INE 2023)"
@@ -2339,6 +2337,8 @@
           "value": "6,1%",
           "label": "crecimiento anual del Sector Comercio espanol (INE 2023)"
         },
+        "title": "Barometro del comercio espanol",
+        "subtitle": "Datos 2023-2026 INE, UPTA, Ajuntament de Barcelona",
         "quote": "El comercio de proximidad no es solo paisaje urbano ni tradicion; es estructura productiva. Prosper Puig, presidente de Barcelona Comerc."
       },
       "proposition": {
@@ -2374,8 +2374,6 @@
         "The UK ecosystem is also where COLHYBRI's financial infrastructure partners are concentrated: Ebury (London, IPO Q2 2026) powers cross-border payments for Fulham, Aston Villa and other Premier League clubs; Hummingbird Ventures (London) is a natural fit for pre-Series A; BID Foundation coordinates 340+ Business Improvement Districts across the country. First UK deployment targets: Manchester (near IPM HQ) and a London Business Improvement District."
       ],
       "barometer": {
-        "title": "UK high street barometer",
-        "subtitle": "2024-2025 data from UK Government, Institute of Place Management, HSTF Legacy Report",
         "0": {
           "value": "1 in 7",
           "label": "UK high street shops empty (UK Government)"
@@ -2388,6 +2386,8 @@
           "value": "32",
           "label": "HSTF Placemaking Programme places delivered"
         },
+        "title": "UK high street barometer",
+        "subtitle": "2024-2025 data from UK Government, Institute of Place Management, HSTF Legacy Report",
         "quote": "Successful change is created by local communities who have a vision for their high streets. Sir John Timpson, Chair of the High Streets Expert Panel."
       },
       "proposition": {
@@ -2423,8 +2423,6 @@
         "Les partenaires financiers sont deja mobilises : Attijariwafa Bank et Al Barid Bank proposent des solutions de paiement electronique adaptees aux commercants de proximite. La convention signee en avril 2025 entre le Ministere de l'Industrie et du Commerce et le Ministere de la Transition Numerique cree les centres regionaux du commerce electronique, infrastructure d'accueil naturelle pour le modele COLHYBRI."
       ],
       "barometer": {
-        "title": "Barometre du commerce marocain",
-        "subtitle": "Donnees 2023-2025 Ministere de l'Industrie et du Commerce, OMPIC, MRTB",
         "0": {
           "value": "25%",
           "label": "des Marocains achetent deja en ligne (+65% en 5 ans)"
@@ -2437,6 +2435,8 @@
           "value": "35 000+",
           "label": "detaillants dans le reseau d'approvisionnement groupe"
         },
+        "title": "Barometre du commerce marocain",
+        "subtitle": "Donnees 2023-2025 Ministere de l'Industrie et du Commerce, OMPIC, MRTB",
         "quote": "Le commerce interieur represente un pilier de l'economie nationale et un levier d'equilibre social. Ryad Mezzour, Ministre de l'Industrie et du Commerce, septembre 2025."
       },
       "proposition": {
@@ -2556,8 +2556,8 @@
   },
   "missionPage": {
     "meta": {
-      "title": "Our mission: revitalizing downtowns | COLHYBRI",
-      "description": "That everyone can live and thrive where they grew up. Three fights: reduce poverty, stop talent drain, fight forced emigration."
+      "title": "COLHYBRI Mission",
+      "description": "That everyone can live and thrive where they grew up. 220 years of French mutualism digitized for the 21st century."
     },
     "hero": {
       "badge": "OUR MISSION",
@@ -2565,105 +2565,105 @@
     },
     "legend": {
       "title": "The hummingbird legend",
-      "para1": "In a burning forest, all animals flee. Except the hummingbird, who carries water drops in its beak.",
-      "para2": "The armadillo says: you're crazy, you can't do anything.",
-      "quote": "I know, but I'm doing my part."
+      "para1": "One day, a massive fire ravages the forest. All animals flee in terror. Only the tiny hummingbird stays, carrying a few drops of water in its beak to throw on the flames.",
+      "para2": "The armadillo, annoyed, says: Hummingbird, you are crazy! Do you really think those few drops will put out the fire?",
+      "quote": "I know, but I am doing my part."
     },
     "heritage": {
       "title": "The heritage",
-      "mutualism": "220 years of French mutualism (since 1806). A tradition where every member contributes AND benefits. This is how Social Security was born.",
-      "sospeso": "The Neapolitan caffe sospeso (since 1900). A coffee paid in advance, offered to the next person in need. Anonymous, generous, universal.",
-      "synthesis": "COLHYBRI digitizes these two traditions for the 21st century. Not through charity. Through mutualism."
+      "mutualism": "French mutualism was born in 1806 with the first mutual aid societies. 220 years later, Social Security and the large mutuelles shape the French social landscape. COLHYBRI extends this tradition into the digital economy.",
+      "sospeso": "The caffe sospeso is a Neapolitan tradition from the early 20th century: a customer pays for two coffees, one for themselves and one suspended at the bar for a stranger. COLHYBRI extends this principle to every neighborhood service.",
+      "synthesis": "COLHYBRI digitizes these traditions for the 21st century: mutualization, anonymous solidarity, no intermediary."
     },
     "founder": {
       "title": "The founder",
-      "body": "Florent Gibert, founder and CEO. Self-taught. From construction to fintech. From Nîmes to Occitanie. 220 years of mutualism in the DNA."
+      "body": "Florent Gibert. Self-taught. From construction and delivery to fintech. From Marseille to Occitanie. The vision was born from a simple observation: downtowns are emptying while their residents aspire to more community. COLHYBRI is the answer."
     },
     "cta": {
-      "title": "Discover how COLHYBRI puts this mission into action."
+      "title": "Discover the solution"
     }
   },
   "forCitiesPage": {
     "meta": {
-      "title": "For local governments: the commercial vitality dashboard",
-      "description": "Maps score in 48h. Municipal impact report. Resident onboarding in 4 weeks."
+      "title": "COLHYBRI for Cities",
+      "description": "The downtown vitality dashboard your city needs. Free 90-day pilot on 50 businesses."
     },
     "hero": {
-      "badge": "FOR LOCAL GOVERNMENTS",
-      "title": "The commercial vitality dashboard your downtown needs",
-      "subtitle": "Maps score in 48h. Municipal impact report. Resident onboarding in 4 weeks.",
+      "badge": "FOR CITIES",
+      "title": "The downtown vitality dashboard your city needs",
+      "subtitle": "Free 90-day pilot on 50 businesses in your city",
       "imageAlt": "City hall meeting with interactive town map and local business partners"
     },
     "context": {
-      "title": "Key figures",
-      "stats": {
-        "0": {
+      "title": "Context",
+      "stats": [
+        {
           "value": "1,732",
-          "label": "ZRCV municipalities 2024"
+          "label": "2026 ZRCV towns"
         },
-        "1": {
+        {
           "value": "244",
           "label": "Action Coeur de Ville"
         },
-        "2": {
+        {
           "value": "1,646",
           "label": "Petites Villes de Demain"
         },
-        "3": {
-          "value": "8,764",
-          "label": "Opportunity Zones USA"
+        {
+          "value": "Barcelona",
+          "label": "EU Capital Small Retail 2026"
         }
-      }
+      ]
     },
     "features": {
       "title": "What you receive",
       "feature1": {
-        "title": "Score Maps for every business",
-        "body": "0-100 Google presence evaluation for every audited business. Delivered in 48h."
+        "title": "Score Maps in 48h",
+        "body": "Automated audit of Google presence for every business in your zone."
       },
       "feature2": {
-        "title": "Monthly monitoring dashboard",
-        "body": "Your downtown commercial vitality in real time. Score evolution, alerts, trends."
+        "title": "Monthly dashboard",
+        "body": "Visualize the evolution of your downtown commercial vitality in real time."
       },
       "feature3": {
         "title": "Municipal impact report",
-        "body": "A document ready to present to the city council. Numbers, charts, recommendations."
+        "body": "Document ready for city council with metrics, trends and recommendations."
       },
       "feature4": {
-        "title": "Field deployment support",
-        "body": "Guided rollout to merchants. Training for the commerce manager. Weekly follow-up."
+        "title": "Field support",
+        "body": "Assisted deployment, commerce manager training, merchant onboarding."
       }
     },
     "pilot": {
-      "title": "The COLHYBRI offer for your city",
-      "bullet1": "Turnkey deployment in 4 weeks",
-      "bullet2": "0% commission for your local businesses",
-      "bullet3": "Integration with Main Street America and similar programs",
-      "price": "3 EUR per resident per month",
-      "note": "Funded by residents, not by the city. No commitment from the city."
+      "title": "90 days free. Zero risk.",
+      "bullet1": "50 businesses audited and digitized",
+      "bullet2": "Operational dashboard from month one",
+      "bullet3": "Zero commitment, zero cost during the pilot",
+      "price": "After the pilot: 500 EUR/month (10 EUR x 50 businesses)",
+      "note": "Less than half an intern's salary."
     },
     "barcelona": {
-      "badge": "THE BARCELONA MODEL",
-      "title": "European Capital of Small Retail 2026",
-      "body": "In 2026, Barcelona was named European Capital of Small Retail. 40+ public initiatives. COLHYBRI makes this model accessible to any city of 25,000 inhabitants, as SaaS.",
-      "stats": {
-        "0": {
-          "value": "40+",
-          "label": "Barcelona public initiatives"
+      "badge": "ECOSR 2026",
+      "title": "The Barcelona model",
+      "body": "In 2026, Barcelona was named European Capital of Small Retail. 40+ digitalization, sustainability and entrepreneurship initiatives. COLHYBRI makes this model accessible to any city of 25,000 inhabitants, as SaaS.",
+      "stats": [
+        {
+          "value": "13.2%",
+          "label": "of GDP = local commerce"
         },
-        "1": {
-          "value": "2026",
-          "label": "EU Capital Small Retail"
+        {
+          "value": "152,000",
+          "label": "direct jobs"
         },
-        "2": {
-          "value": "25k pop.",
-          "label": "city size accessible as SaaS"
+        {
+          "value": "90.9%",
+          "label": "active premises"
         }
-      }
+      ]
     },
     "form": {
-      "title": "Book a meeting for your city",
-      "subtitle": "Fill out this form. We'll come back to you within 48h with a meeting slot."
+      "title": "Book a demo for your city",
+      "subtitle": "We get back to you within 48 hours."
     },
     "proposition": {
       "title": "The COLHYBRI offer for your city",
@@ -2709,36 +2709,36 @@
   },
   "solutionHub": {
     "meta": {
-      "title": "The COLHYBRI solution: community pool, Maps+, gamification",
-      "description": "Three pillars to revitalize your downtown: neighborhood community support, digital visibility, community engagement."
+      "title": "COLHYBRI Solution",
+      "description": "Community pool, Maps+ and gamification: the 3 pillars revitalizing your downtown."
     },
     "hero": {
       "badge": "SOLUTION",
       "title": "How COLHYBRI revitalizes your downtown",
-      "subtitle": "Three pillars: neighborhood community support, digital visibility, community engagement."
+      "subtitle": "Three pillars, one goal: bring your main street back to life."
     },
     "pillars": {
       "pool": {
         "title": "Neighborhood community support",
-        "body": "3 EUR/month. 75% to the community pool. Services randomly gifted at partner shops.",
-        "cta": "Discover the pool"
+        "body": "3 EUR per month. 75% to the community pool. Services gifted at random to a neighbor, a merchant, a local cause. A digital neighborhood mutual.",
+        "cta": "Discover"
       },
       "maps": {
-        "title": "Digital visibility (Maps+)",
-        "body": "Google audit in 48h. Zero-friction onboarding. Automatic reviews. Continuous monitoring. 10 EUR/month, 0% commission.",
-        "cta": "Discover Maps+"
+        "title": "Digital visibility",
+        "body": "Automated Google audit in 48 hours. Zero-friction onboarding for merchants. Continuous online monitoring. 10 EUR/month, 0% commission.",
+        "cta": "Discover"
       },
       "gamification": {
         "title": "Community engagement",
-        "body": "26 neighborhood mini-games. Solidarity challenges. Rankings. Commerce becomes a collective game.",
+        "body": "26 hyperlocal mini-games. Neighborhood challenges. Rankings by main street. The street becomes a collective playground.",
         "cta": "Coming soon"
       }
     },
     "gamification": {
-      "title": "Commerce becomes a collective game",
-      "body": "26 neighborhood mini-games, community challenges, street rankings. Community engagement takes the form of a game, not a constraint.",
+      "title": "Neighborhood gamification",
+      "body": "Community engagement through play. 26 territory-anchored mini-games turn every solidarity gesture into a fun collective experience.",
       "tags": {
-        "challenges": "Solidarity challenges",
+        "challenges": "Neighborhood challenges",
         "rankings": "Rankings",
         "minigames": "26 mini-games",
         "streetRankings": "Street rankings"
@@ -2747,93 +2747,93 @@
   },
   "poolSolidaire": {
     "meta": {
-      "title": "Solidarity pool: the neighborhood mutual of the 21st century",
-      "description": "3 EUR/month. 75% redistributed as gifted services at your shops. It's not charity, it's mutualism."
+      "title": "COLHYBRI Community Pool",
+      "description": "The neighborhood mutual of the 21st century. 3 EUR/month, 75% redistributed as gifted services at local shops."
     },
     "hero": {
-      "badge": "SOLIDARITY POOL",
+      "badge": "COMMUNITY POOL",
       "title": "The neighborhood mutual of the 21st century",
-      "subtitle": "3 EUR/month. 75% redistributed. Services gifted at your shops."
+      "subtitle": "3 EUR per month, 75% redistributed as services randomly gifted at your neighborhood shops."
     },
     "steps": {
       "step1": {
-        "title": "Subscribe (3 EUR/month)",
-        "body": "30-second signup. No credit check. No minimum balance."
+        "title": "Subscribe (3 EUR)",
+        "body": "Signup takes 30 seconds. Scan a QR code or download the app at colhybri.com. No commitment."
       },
       "step2": {
-        "title": "75% to the community pool",
-        "body": "2.25 EUR from each subscription feeds the neighborhood community pool."
+        "title": "75% goes to the community pool",
+        "body": "Each month, 2.25 EUR of your fee feeds your neighborhood community pool."
       },
       "step3": {
         "title": "Random distribution",
-        "body": "Each month, the pool is redistributed as vouchers at partner shops. Random selection: fairness guaranteed."
+        "body": "The pool is redistributed as vouchers. Beneficiaries are drawn at random by a transparent, verifiable algorithm."
       },
       "step4": {
-        "title": "Enjoy the gifted service",
-        "body": "Coffee, hairdresser, dry cleaner, bakery. The beneficiary receives a notification and visits the merchant."
+        "title": "A neighbor enjoys a gifted service",
+        "body": "Beneficiaries enjoy a free service at a partner shop: coffee, hairdresser, dry cleaning, bakery."
       }
     },
     "notCharity": {
       "title": "This is NOT charity",
-      "body": "It's a mutual. Every member contributes AND benefits. Just as Social Security was born from mutualism, COLHYBRI creates local community support."
+      "body": "COLHYBRI is a digital neighborhood mutual. Just as Social Security was born from mutualism, COLHYBRI creates local community support. Every subscriber pays the same fee and has equal chances to receive. Nobody is humiliated. It is symmetric."
     },
     "cta": {
-      "title": "Join your neighborhood community pool",
-      "button": "Open app"
+      "title": "Join the mutual",
+      "button": "Sign up on colhybri.com"
     }
   },
   "worldMap": {
-    "hint": "Click on a marker to discover our local impact.",
+    "hint": "Click a marker to explore regional impact.",
     "markers": {
       "paris": {
-        "label": "Paris: 1,732 ZRCV"
+        "label": "1,732 ZRCV"
       },
       "pittsburgh": {
-        "label": "Pittsburgh: 8,764 Opportunity Zones"
+        "label": "8,764 Opportunity Zones"
       },
       "barcelona": {
-        "label": "Barcelona: EU Capital Small Retail 2026"
+        "label": "EU Capital Small Retail 2026"
       },
       "dakar": {
-        "label": "Dakar: Africa expansion"
+        "label": "Africa Expansion"
       },
       "saopaulo": {
-        "label": "Sao Paulo: 55% informal employment"
+        "label": "55% informal employment"
       }
     }
   },
   "pressePage": {
     "meta": {
-      "title": "COLHYBRI press room | Press kit, logos, biography",
-      "description": "Press kit, logos, key figures, biography of founder Florent Gibert. Press contact: onlymore2024@gmail.com"
+      "title": "COLHYBRI Press",
+      "description": "Press kit, key figures, founder bio. Contact: onlymore2024@gmail.com"
     },
     "hero": {
-      "badge": "PRESS ROOM",
-      "title": "Press room",
-      "subtitle": "Press kit, logos, key figures, biography. Everything you need to talk about COLHYBRI."
+      "badge": "PRESS",
+      "title": "COLHYBRI Press Kit",
+      "subtitle": "Logos, key figures, founder bio and press contact."
     },
     "logo": {
-      "title": "Press kit",
-      "body": "Vector logos (SVG, PNG), brand guidelines, product visuals. Freely usable by the press.",
-      "download": "Download the logo"
+      "title": "COLHYBRI Logo",
+      "body": "Download the high-resolution SVG logo.",
+      "download": "Download SVG"
     },
     "figures": {
       "title": "Key figures",
-      "items": {
-        "0": "220 years of French mutualism digitized (since 1806)",
-        "1": "3 EUR/month: community pool subscription",
-        "2": "10 EUR/month: Maps+ subscription, 0% commission",
-        "3": "75% of the pool redistributed to residents",
-        "4": "From Paris to Pittsburgh: 5 continents, 25+ target countries"
-      }
+      "items": [
+        "3 EUR/month for individuals, 10 EUR/month for merchants",
+        "0% commission (vs 30% UberEats, 25% JustEat)",
+        "75% of subscriptions redistributed via the community pool",
+        "1,732 ZRCV towns in France in 2026",
+        "Expansion planned in 25+ countries by 2031"
+      ]
     },
     "founder": {
-      "title": "Founder biography",
-      "bio": "Florent Gibert, self-taught founder, from Nîmes to Occitanie. COLHYBRI digitizes 220 years of French mutualism to revitalize downtowns. From construction to fintech, from Nîmes to Occitanie."
+      "title": "The founder",
+      "bio": "Florent Gibert, founder and CEO of ONLYMORE Group, is a self-taught entrepreneur who went from construction and delivery to fintech. Based in Rodilhan, Occitanie, he designed COLHYBRI to digitize 220 years of French mutualism and revitalize downtowns."
     },
     "releases": {
       "title": "Press releases",
-      "body": "For any interview request, additional visuals or access to impact data, contact us directly."
+      "body": "Press releases coming soon. Sign up to be notified."
     },
     "contact": {
       "title": "Press contact"
@@ -2841,22 +2841,22 @@
   },
   "investorsPage": {
     "meta": {
-      "title": "Investors: pre-seed 200K-350K EUR | COLHYBRI",
-      "description": "Pre-seed. 200K-350K EUR. Valuation 500K-800K EUR. Projected ARR 2.31M EUR Y3. TAM: 450,000 businesses in France."
+      "title": "Invest in COLHYBRI",
+      "description": "Pre-seed 200K-350K EUR. Valuation 500K-800K EUR. Projected ARR Y3: 2.31M EUR."
     },
     "hero": {
       "badge": "INVESTORS",
       "title": "Invest in downtown revitalization",
-      "subtitle": "Pre-seed. 200K-350K EUR. Valuation 500K-800K EUR."
+      "subtitle": "Pre-seed | 200K - 350K EUR"
     },
     "keyNumbers": {
       "0": {
         "value": "500K-800K EUR",
-        "label": "pre-money valuation (3 methods)"
+        "label": "Pre-money valuation (3 methods)"
       },
       "1": {
         "value": "2.31M EUR",
-        "label": "projected ARR Y3"
+        "label": "Projected ARR Y3"
       },
       "2": {
         "value": "450,000",
@@ -2877,24 +2877,24 @@
       "title": "Key numbers"
     },
     "flywheel": {
-      "title": "The ONLYMORE flywheel",
-      "subtitle": "An ecosystem where each pillar finances the next.",
-      "step1": "B2C community pool subscriptions",
-      "step2": "Fund B2B deployment (Maps+, cities)",
-      "step3": "Which funds sports investments (COLHYBRI Sports)",
-      "step4": "Which feeds community credit",
-      "step5": "Which closes the loop back to B2C subscriptions",
-      "quote": "An ecosystem that finances itself, the opposite of the extractive platform model."
+      "title": "The model",
+      "subtitle": "A self-closing ecosystem.",
+      "step1": "COLHYBRI (B2C 3 EUR)",
+      "step2": "Community pool",
+      "step3": "Merchants (B2B 10 EUR)",
+      "step4": "CROWNIUM (sport)",
+      "step5": "ONLYMORE FINANCE (credit)",
+      "quote": "B2C subscriptions fund B2B. B2B funds sports investments. Credit closes the loop."
     },
     "useOfFunds": {
       "title": "Use of funds",
       "product": {
         "title": "Product",
-        "desc": "Dev, infrastructure, AI"
+        "desc": "Platform development, Maps+, gamification"
       },
       "gtm": {
         "title": "Go-to-market",
-        "desc": "Sales, partnerships"
+        "desc": "France launch, first city pilots"
       },
       "ops": {
         "title": "Operations",
@@ -2905,111 +2905,123 @@
       "title": "The team",
       "florent": {
         "role": "Founder and CEO",
-        "bio": "Self-taught. From construction to fintech. From Nîmes to Occitanie. 220 years of mutualism in the DNA.",
+        "bio": "Self-taught. From construction to fintech. 220 years of mutualism in the DNA.",
         "photoAlt": "COLHYBRI 創設者兼 CEO Florent Gibert の肖像"
       },
       "joao": {
         "role": "CFO",
-        "bio": "Ex-ONEtoONE Corporate Finance. Financial modeling, fundraising, deal structuring.",
+        "bio": "Financial structuring and investor reporting.",
         "photoAlt": "COLHYBRI CFO João Almeida の肖像"
       },
       "stephane": {
-        "role": "Fundraising Partner",
-        "bio": "Fundraising partner via Winvesty (10% commission). WEP Access label. Expert in deal structuring and fundraising rounds.",
+        "role": "Fundraising (Winvesty)",
+        "bio": "Capital raise and investor network.",
         "photoAlt": "COLHYBRI Fundraising Partner Stéphane Picard の肖像"
       }
     },
     "deck": {
-      "title": "Full investor deck",
-      "body": "Detailed file: business model, valuation, product roadmap, team, deal structure.",
+      "title": "Investor deck",
+      "body": "Receive the full deck by email.",
       "cta": "Request the deck"
     },
     "form": {
       "title": "Book a meeting",
-      "subtitle": "A short message is enough. We'll come back to you within 48h."
+      "subtitle": "Schedule a call with the founding team."
     }
   },
   "mapsPlus": {
     "meta": {
-      "title": "Maps+: 75% of SMBs are invisible on Google. Not yours.",
-      "description": "Google audit 48h, zero-friction onboarding, review generation, continuous monitoring. 4 pillars, 10 EUR/month, 0% commission."
+      "title": "Maps+ by COLHYBRI",
+      "description": "75% of small businesses are invisible on Google. Maps+ audits, onboards and monitors in 48h for 10 EUR/month."
     },
     "hero": {
-      "title": "75% of SMBs are invisible on Google. Not yours.",
-      "subtitle": "Audit, onboarding, reviews, monitoring. 4 pillars, 10 EUR/month."
+      "title": "75% of small businesses are invisible on Google. Not yours.",
+      "subtitle": "Maps+ digitizes each business in 48 hours with zero-friction onboarding."
     },
     "features": {
       "audit": {
-        "title": "Score Maps (48h audit)",
-        "body": "0-100 indicator evaluating Google presence: completeness (30%), reviews (30%), photos (20%), NAP consistency (20%)."
+        "title": "Automated audit",
+        "body": "Score Maps evaluates every shop Google presence on a 0-100 scale in 48 hours. 4 criteria: listing, reviews, photos, NAP consistency."
       },
       "onboarding": {
         "title": "Zero-friction onboarding",
-        "body": "Scan a QR code. Confirm info. Google listing created or optimized in 30 seconds."
+        "body": "The merchant scans a QR code, confirms pre-filled information and validates in 1 click. 30 seconds, no technical skills required."
       },
       "reviews": {
         "title": "Review generation",
-        "body": "QR code at checkout. Customer scans when leaving. Rate in 1 click. Authentic reviews effortlessly."
+        "body": "A post-visit QR code simplifies review submission: the customer scans on the way out, rates in 1 click. A shop with 10+ recent reviews gets 50% more clicks."
       },
       "monitoring": {
         "title": "Continuous monitoring",
-        "body": "Negative review alerts. Unauthorized changes detection. Score Maps evolution tracking."
+        "body": "SMS or email alerts on negative reviews or ranking drops. Reaction time: under 2 hours."
       }
     },
     "demo": {
-      "title": "Test your business Score Maps",
-      "subtitle": "Enter your business name. Get a preview of your Google visibility in 30 seconds."
+      "title": "Test your Score Maps",
+      "subtitle": "Enter your business name and discover your Google visibility score.",
+      "placeholder": "Your business name",
+      "audit": "Audit",
+      "scoreLabel": "Score Maps out of 100",
+      "profile": "Google listing",
+      "reviews": "Google reviews",
+      "photos": "Photos",
+      "hours": "Hours",
+      "improvement": "Improvement potential: {value}%",
+      "status": {
+        "incomplete": "Incomplete",
+        "missing": "Not listed"
+      }
     },
     "cta": {
-      "title": "Audit your business for free",
-      "button": "Open app"
+      "title": "Optimize your business",
+      "button": "Sign up on colhybri.com"
     }
   },
   "forms": {
     "city": {
       "firstName": "First name",
       "lastName": "Last name",
-      "role": "Function",
-      "rolePlaceholder": "Choose your function",
+      "role": "Role",
+      "rolePlaceholder": "Select your role",
       "roles": {
         "mayor": "Mayor",
-        "deputy": "Deputy mayor",
-        "dgs": "City manager",
-        "manager": "Commerce manager",
+        "deputy": "Deputy Mayor",
+        "dgs": "City Manager",
+        "manager": "Commerce Manager",
         "cci": "Chamber of Commerce",
-        "intercom": "Intermunicipal",
+        "intercom": "Inter-municipal body",
         "other": "Other"
       },
       "city": "City",
       "postcode": "Postal code",
       "email": "Professional email",
       "phone": "Phone",
-      "message": "Message (optional)",
-      "submit": "Book a demo",
+      "message": "Message",
+      "submit": "Submit request",
       "sending": "Sending...",
       "successTitle": "Thank you!",
-      "successBody": "We'll get back to you within 48h to schedule the demo.",
+      "successBody": "We will get back to you within 48h.",
       "errorTitle": "Error",
-      "errorBody": "Error sending. Please email onlymore2024@gmail.com"
+      "errorBody": "Error. Please send an email to onlymore2024@gmail.com"
     },
     "investor": {
-      "name": "First and Last Name",
-      "organization": "Organization / Fund",
+      "name": "Name",
+      "organization": "Organization",
       "email": "Email",
       "phone": "Phone",
-      "message": "Message (optional)",
+      "message": "Message",
       "submit": "Book a meeting",
       "sending": "Sending...",
       "successTitle": "Thank you!",
-      "successBody": "We'll get back to you within 48h.",
+      "successBody": "The founding team will contact you within 48h.",
       "errorTitle": "Error",
       "errorBody": "Error sending. Please email onlymore2024@gmail.com"
     },
     "general": {
-      "name": "First and Last Name",
+      "name": "Name",
       "email": "Email",
       "subject": "Subject",
-      "subjectPlaceholder": "Choose a subject",
+      "subjectPlaceholder": "Select a subject",
       "subjects": {
         "partnership": "Partnership",
         "press": "Press",
@@ -3021,7 +3033,7 @@
       "submit": "Send",
       "sending": "Sending...",
       "successTitle": "Thank you!",
-      "successBody": "We'll get back to you within 48h.",
+      "successBody": "We respond within 48h.",
       "errorTitle": "Error",
       "errorBody": "Error sending. Please email onlymore2024@gmail.com"
     }

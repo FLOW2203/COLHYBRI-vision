@@ -437,11 +437,11 @@
     "learnMore": "En savoir plus",
     "getStarted": "Commencer",
     "contactUs": "Nous contacter",
-    "bookDemo": "Réserver une demo",
+    "bookDemo": "Reserver une demo",
     "applyWithColhybri": "Candidater avec COLHYBRI",
     "institutionalPartnership": "Partenariat institutionnel",
     "proposePilot": "Proposer un pilote",
-    "discoverSolution": "Découvrir la solution",
+    "discoverSolution": "Decouvrir la solution",
     "backToHome": "Retour a l'accueil"
   },
   "city": {
@@ -2148,225 +2148,237 @@
   },
   "missionPage": {
     "meta": {
-      "title": "Notre mission : revitaliser les centres-villes | COLHYBRI",
-      "description": "Que chacun puisse vivre et prospérer là où il a grandi. Trois combats : reduire la pauvrete, stopper l'exode des talents, combattre l'emigration forcee."
+      "title": "Mission COLHYBRI",
+      "description": "Que chacun puisse vivre et prosperer la ou il a grandi. 220 ans de mutualisme francais digitalises pour le 21eme siecle."
     },
     "hero": {
       "badge": "NOTRE MISSION",
-      "why": "Que chacun puisse vivre et prospérer là où il a grandi."
+      "why": "Que chacun puisse vivre et prosperer la ou il a grandi."
     },
     "legend": {
-      "title": "La légende du colibri",
-      "para1": "Dans une forêt en flammes, tous les animaux fuient. Sauf le colibri, qui transporte des gouttes d'eau dans son bec.",
-      "para2": "Le tatou lui dit : tu es fou, tu ne peux rien faire.",
+      "title": "La legende du colibri",
+      "para1": "Un jour, un immense incendie ravage la foret. Tous les animaux fuient, terrifies. Seul le petit colibri s'active, portant quelques gouttes d'eau dans son bec pour les jeter sur les flammes.",
+      "para2": "Le tatou, agace, lui dit : Colibri, tu es fou ! Tu crois que c'est avec ces quelques gouttes que tu vas eteindre le feu ?",
       "quote": "Je le sais, mais je fais ma part."
     },
     "heritage": {
-      "title": "L'héritage",
-      "mutualism": "220 ans de mutualisme français (depuis 1806). Une tradition ou chaque membre cotise ET bénéficie. C'est ainsi qu'est née la Sécurité sociale.",
-      "sospeso": "Le caffe sospeso napolitain (depuis 1900). Un cafe paye d'avance, offert au prochain qui en a besoin. Anonyme, généreux, universel.",
-      "synthesis": "COLHYBRI digitalise ces deux traditions pour le 21eme siècle. Pas par charite. Par mutualisme."
+      "title": "L'heritage",
+      "mutualism": "Le mutualisme francais est ne en 1806 avec les premieres societes de secours mutuels. 220 ans plus tard, la Securite sociale et les grandes mutuelles structurent le paysage social francais. COLHYBRI prolonge cette tradition dans l'economie numerique.",
+      "sospeso": "Le caffe sospeso est une tradition napolitaine du debut du 20eme siecle : un client paie deux cafes, un pour lui et un suspendu au bar pour un inconnu. COLHYBRI etend ce principe a tous les services du quartier.",
+      "synthesis": "COLHYBRI digitalise ces traditions pour le 21eme siecle : mutualisation, solidarite anonyme, pas d'intermediaire."
     },
     "founder": {
       "title": "Le fondateur",
-      "body": "Florent Gibert, fondateur et CEO. Autodidacte. De la construction a la fintech. De Nîmes a l'Occitanie. 220 ans de mutualisme dans l'ADN."
+      "body": "Florent Gibert. Autodidacte. De la construction et la livraison a la fintech. De Marseille a l'Occitanie. La vision est nee d'un constat simple : les centres-villes se vident alors que leurs habitants aspirent a plus de fraternite. COLHYBRI est la reponse."
     },
     "cta": {
-      "title": "Découvrez comment COLHYBRI met cette mission en action."
+      "title": "Decouvrir la solution"
     }
   },
   "solutionHub": {
     "meta": {
-      "title": "La solution COLHYBRI : pool solidaire, Maps+, gamification",
-      "description": "Trois piliers pour revitaliser votre centre-ville : solidarité de quartier, visibilité digitale, engagement communautaire."
+      "title": "Solution COLHYBRI",
+      "description": "Pool solidaire, Maps+ et gamification : les 3 piliers qui revitalisent votre centre-ville."
     },
     "hero": {
       "badge": "SOLUTION",
       "title": "Comment COLHYBRI revitalise votre centre-ville",
-      "subtitle": "Trois piliers : solidarité de quartier, visibilité digitale, engagement communautaire."
+      "subtitle": "Trois piliers, un meme objectif : faire revivre la rue commercante."
     },
     "pillars": {
       "pool": {
-        "title": "Solidarité de quartier",
-        "body": "3€/mois. 75% au pool solidaire. Services offerts aléatoirement chez les commerçants partenaires.",
-        "cta": "Découvrir le pool"
+        "title": "Solidarite de quartier",
+        "body": "3 EUR par mois. 75% au pool solidaire. Des services offerts aleatoirement a un voisin, un commercant, une cause locale. C'est une mutuelle de quartier digitale.",
+        "cta": "Decouvrir"
       },
       "maps": {
-        "title": "Visibilité digitale (Maps+)",
-        "body": "Audit Google en 48h. Onboarding zero-friction. Avis automatiques. Monitoring continu. 10€/mois, 0% commission.",
-        "cta": "Découvrir Maps+"
+        "title": "Visibilite digitale",
+        "body": "Audit Google automatise en 48 heures. Onboarding zero-friction pour les commercants. Monitoring continu de la presence en ligne. 10 EUR/mois, 0% commission.",
+        "cta": "Decouvrir"
       },
       "gamification": {
         "title": "Engagement communautaire",
-        "body": "26 mini-jeux de quartier. Défis solidaires. Classements. Le commerce devient un jeu collectif.",
-        "cta": "Bientôt disponible"
+        "body": "26 mini-jeux locaux. Defis de quartier. Classements par rue commercante. La rue devient un terrain de jeu collectif.",
+        "cta": "Bientot"
       }
     },
     "gamification": {
-      "title": "Le commerce devient un jeu collectif",
-      "body": "26 mini-jeux de quartier, défis solidaires, classements de rue. L'engagement communautaire prend la forme d'un jeu, pas d'une contrainte.",
+      "title": "Gamification de quartier",
+      "body": "L'engagement communautaire passe par le jeu. 26 mini-jeux ancres dans le territoire transforment chaque geste solidaire en une experience ludique et collective.",
       "tags": {
-        "challenges": "Défis solidaires",
+        "challenges": "Defis de quartier",
         "rankings": "Classements",
         "minigames": "26 mini-jeux",
-        "streetRankings": "Classements de rue"
+        "streetRankings": "Rankings par rue"
       }
     }
   },
   "mapsPlus": {
     "meta": {
-      "title": "Maps+ : 75% des PME sont invisibles sur Google. Pas les votres.",
-      "description": "Audit Google 48h, onboarding zero-friction, generation d'avis, monitoring continu. 4 piliers, 10€/mois, 0% commission."
+      "title": "Maps+ par COLHYBRI",
+      "description": "75% des PME sont invisibles sur Google. Maps+ audite, onboarde et monitore en 48h pour 10 EUR/mois."
     },
     "hero": {
       "title": "75% des PME sont invisibles sur Google. Pas les votres.",
-      "subtitle": "Audit, onboarding, avis, monitoring. 4 piliers, 10€/mois."
+      "subtitle": "Maps+ digitalise chaque commerce en 48 heures avec onboarding zero-friction."
     },
     "features": {
       "audit": {
-        "title": "Score Maps (audit 48h)",
-        "body": "Indicateur 0-100 evaluant la presence Google : completude (30%), avis (30%), photos (20%), coherence NAP (20%)."
+        "title": "Audit automatise",
+        "body": "Le Score Maps evalue la presence Google de chaque commerce sur une echelle 0-100 en 48 heures. 4 criteres : fiche, avis, photos, coherence NAP."
       },
       "onboarding": {
         "title": "Onboarding zero-friction",
-        "body": "Scanner un QR code. Confirmer les infos. Fiche Google creee ou optimisee en 30 secondes."
+        "body": "Le commercant scanne un QR code, confirme ses informations pre-remplies et valide en 1 clic. 30 secondes, aucune competence technique requise."
       },
       "reviews": {
         "title": "Generation d'avis",
-        "body": "QR code en caisse. Le client scanne en sortant. Note en 1 clic. Avis authentiques sans effort."
+        "body": "Un QR code post-visite simplifie le depot d'avis : le client scanne en sortant, note en 1 clic. Un commerce avec 10+ avis recents recoit 50% de clics en plus."
       },
       "monitoring": {
         "title": "Monitoring continu",
-        "body": "Alertes avis negatifs. Detection modifications non-autorisees. Suivi evolution Score Maps."
+        "body": "Alertes par SMS ou email sur les avis negatifs ou les baisses de positionnement. Temps de reaction : moins de 2 heures."
       }
     },
     "demo": {
-      "title": "Testez le Score Maps de votre commerce",
-      "subtitle": "Entrez votre nom de commerce. Obtenez un apercu de votre visibilité Google en 30 secondes."
+      "title": "Testez votre Score Maps",
+      "subtitle": "Entrez le nom de votre commerce et decouvrez votre score de visibilite Google.",
+      "placeholder": "Nom de votre commerce",
+      "audit": "Auditer",
+      "scoreLabel": "Score Maps sur 100",
+      "profile": "Fiche Google",
+      "reviews": "Avis Google",
+      "photos": "Photos",
+      "hours": "Horaires",
+      "improvement": "Potentiel d'amelioration : {value}%",
+      "status": {
+        "incomplete": "Incomplete",
+        "missing": "Non renseigne"
+      }
     },
     "cta": {
-      "title": "Auditez votre commerce gratuitement",
-      "button": "Ouvrir l'app"
+      "title": "Optimisez votre commerce",
+      "button": "S'inscrire sur colhybri.com"
     }
   },
   "poolSolidaire": {
     "meta": {
-      "title": "Pool solidaire : la mutuelle de quartier du 21eme siècle",
-      "description": "3€/mois. 75% redistribue en services offerts chez vos commerçants. Ce n'est pas de la charite, c'est du mutualisme."
+      "title": "Pool solidaire COLHYBRI",
+      "description": "La mutuelle de quartier du 21eme siecle. 3 EUR/mois, 75% redistribues en services offerts chez les commercants."
     },
     "hero": {
       "badge": "POOL SOLIDAIRE",
-      "title": "La mutuelle de quartier du 21eme siècle",
-      "subtitle": "3€/mois. 75% redistribue. Services offerts chez vos commerçants."
+      "title": "La mutuelle de quartier du 21eme siecle",
+      "subtitle": "3 EUR par mois, 75% redistribues en services offerts aleatoirement chez les commercants de votre quartier."
     },
     "steps": {
       "step1": {
-        "title": "Abonnez-vous (3€/mois)",
-        "body": "Inscription en 30 secondes. Pas de verification de credit. Pas de minimum de solde."
+        "title": "Abonnez-vous (3 EUR)",
+        "body": "L'inscription prend 30 secondes. Scanner un QR code ou telecharger l'app sur colhybri.com. Sans engagement."
       },
       "step2": {
-        "title": "75% au pool solidaire",
-        "body": "2,25€ de chaque abonnement alimentent le pool communautaire du quartier."
+        "title": "75% va au pool solidaire",
+        "body": "Chaque mois, 2,25 EUR de votre cotisation alimentent le pool solidaire communautaire de votre quartier."
       },
       "step3": {
         "title": "Distribution aleatoire",
-        "body": "Chaque mois, le pool est redistribue sous forme de bons chez les commerçants partenaires. Selection aleatoire : equite garantie."
+        "body": "Le pool est redistribue sous forme de bons. Les beneficiaires sont tires au sort par un algorithme transparent et verifiable."
       },
       "step4": {
-        "title": "Profitez du service offert",
-        "body": "Cafe, coiffeur, pressing, boulangerie. Le beneficiaire recoit une notification et se rend chez le commerçant."
+        "title": "Un voisin profite d'un service offert",
+        "body": "Les beneficiaires profitent d'un service gratuit chez un commercant partenaire : cafe, coiffeur, pressing, boulangerie."
       }
     },
     "notCharity": {
       "title": "Ce n'est PAS de la charite",
-      "body": "C'est une mutuelle. Chaque membre cotise ET bénéficie. Comme la Sécurité sociale est née du mutualisme, COLHYBRI fait naitre la solidarité de proximite."
+      "body": "COLHYBRI est une mutuelle de quartier digitale. Comme la Securite sociale est nee du mutualisme, COLHYBRI fait naitre la solidarite de proximite. Chaque abonne paie la meme cotisation et a les memes chances de recevoir. Personne n'est humilie. C'est symetrique."
     },
     "cta": {
-      "title": "Rejoignez le pool solidaire de votre quartier",
-      "button": "Ouvrir l'app"
+      "title": "Rejoindre la mutuelle",
+      "button": "S'inscrire sur colhybri.com"
     }
   },
   "forCitiesPage": {
     "meta": {
-      "title": "Pour les collectivites : le tableau de bord de vitalité commerciale",
-      "description": "Score Maps en 48h. Rapport d'impact municipal. Onboarding habitants en 4 semaines."
+      "title": "COLHYBRI pour les collectivites",
+      "description": "Le dashboard de vitalite commerciale dont votre centre-ville a besoin. Pilote gratuit 90 jours sur 50 commerces."
     },
     "hero": {
-      "badge": "POUR LES COLLECTIVITES",
-      "title": "Le tableau de bord de vitalité commerciale de votre centre-ville",
-      "subtitle": "Score Maps en 48h. Rapport d'impact municipal. Onboarding habitants en 4 semaines.",
+      "badge": "COLLECTIVITES",
+      "title": "Le dashboard de vitalite commerciale dont votre centre-ville a besoin",
+      "subtitle": "Pilote gratuit 90 jours sur 50 commerces de votre commune",
       "imageAlt": "Reunion en mairie avec carte interactive de la commune et partenaires commerçants"
     },
     "context": {
-      "title": "Chiffres cles",
-      "stats": {
-        "0": {
+      "title": "Le contexte",
+      "stats": [
+        {
           "value": "1 732",
-          "label": "communes ZRCV 2024"
+          "label": "communes ZRCV 2026"
         },
-        "1": {
+        {
           "value": "244",
-          "label": "Action Coeur de Ville"
+          "label": "communes Action Coeur de Ville"
         },
-        "2": {
+        {
           "value": "1 646",
-          "label": "Petites Villes de Demain"
+          "label": "communes Petites Villes de Demain"
         },
-        "3": {
-          "value": "8 764",
-          "label": "Opportunity Zones USA"
+        {
+          "value": "Barcelona",
+          "label": "Capitale EU Petit Commerce 2026"
         }
-      }
+      ]
     },
     "features": {
       "title": "Ce que vous recevez",
       "feature1": {
-        "title": "Score Maps de chaque commerce",
-        "body": "Evaluation 0-100 de la presence Google de chaque commerce audite. Livre en 48h."
+        "title": "Score Maps en 48h",
+        "body": "Audit automatise de la presence Google de tous les commerces de votre zone."
       },
       "feature2": {
-        "title": "Dashboard de suivi mensuel",
-        "body": "Vitalité commerciale de votre centre-ville en temps réel. Evolution des scores, alertes, tendances."
+        "title": "Dashboard mensuel",
+        "body": "Visualisez l'evolution de la vitalite commerciale de votre centre-ville en temps reel."
       },
       "feature3": {
         "title": "Rapport d'impact municipal",
-        "body": "Document prête a presenter au conseil municipal. Chiffres, graphiques, preconisations."
+        "body": "Document pret pour le conseil municipal avec metriques, tendances et recommandations."
       },
       "feature4": {
         "title": "Accompagnement terrain",
-        "body": "Deploiement accompagne aupres des commerçants. Formation du manager commerce. Suivi hebdomadaire."
+        "body": "Deploiement assiste, formation des managers de commerce, onboarding des commercants."
       }
     },
     "pilot": {
-      "title": "L'offre COLHYBRI pour votre commune",
-      "bullet1": "Deploiement cle en main en 4 semaines",
-      "bullet2": "0% commission pour vos commerçants locaux",
-      "bullet3": "Intégration aux dispositifs Action Coeur de Ville et Petites Villes de Demain",
-      "price": "3€ par habitant par mois",
-      "note": "Finance par les habitants, pas par la commune. Sans engagement pour la commune."
+      "title": "90 jours gratuits. Zero risque.",
+      "bullet1": "50 commerces audites et digitalises",
+      "bullet2": "Dashboard operationnel des le premier mois",
+      "bullet3": "Zero engagement, zero cout pendant le pilote",
+      "price": "Apres le pilote : 500 EUR/mois (10 EUR x 50 commerces)",
+      "note": "Moins qu'un demi-poste de stagiaire."
     },
     "barcelona": {
-      "badge": "LE MODELE BARCELONA",
-      "title": "Capitale Europeenne du Petit Commerce 2026",
-      "body": "En 2026, Barcelona a ete nommee Capitale Europeenne du Petit Commerce. 40+ initiatives publiques. COLHYBRI rend ce modele accessible a toute ville de 25 000 habitants, en SaaS.",
-      "stats": {
-        "0": {
-          "value": "40+",
-          "label": "initiatives publiques Barcelona"
+      "badge": "ECOSR 2026",
+      "title": "Le modele Barcelona",
+      "body": "En 2026, Barcelona a ete nommee Capitale Europeenne du Petit Commerce. 40+ initiatives de digitalisation, durabilite et entrepreneuriat. COLHYBRI rend ce modele accessible a toute ville de 25 000 habitants, en SaaS.",
+      "stats": [
+        {
+          "value": "13,2%",
+          "label": "du PIB = commerce local"
         },
-        "1": {
-          "value": "2026",
-          "label": "capitale EU Petit Commerce"
+        {
+          "value": "152 000",
+          "label": "emplois directs"
         },
-        "2": {
-          "value": "25k hab.",
-          "label": "taille ville accessible en SaaS"
+        {
+          "value": "90,9%",
+          "label": "de locaux actifs"
         }
-      }
+      ]
     },
     "form": {
-      "title": "Planifier un rendez-vous pour votre commune",
-      "subtitle": "Remplissez ce formulaire. Nous revenons vers vous sous 48h avec un creneau de rendez-vous."
+      "title": "Planifier une demo pour votre commune",
+      "subtitle": "Nous revenons vers vous sous 48 heures."
     },
     "proposition": {
       "title": "L'offre COLHYBRI pour votre commune",
@@ -2412,18 +2424,18 @@
   },
   "investorsPage": {
     "meta": {
-      "title": "Investisseurs : pre-seed 200K-350K EUR | COLHYBRI",
-      "description": "Pre-seed. 200K-350K EUR. Valorisation 500K-800K EUR. ARR projete 2,31M EUR en Y3. TAM : 450 000 commerces en France."
+      "title": "Investir dans COLHYBRI",
+      "description": "Pre-seed 200K-350K EUR. Valorisation 500K-800K EUR. ARR projete Y3 : 2,31M EUR."
     },
     "hero": {
       "badge": "INVESTISSEURS",
       "title": "Investir dans la revitalisation des centres-villes",
-      "subtitle": "Pre-seed. 200K-350K EUR. Valorisation 500K-800K EUR."
+      "subtitle": "Pre-seed | 200K - 350K EUR"
     },
     "keyNumbers": {
       "0": {
         "value": "500K-800K EUR",
-        "label": "valorisation pre-money (3 methodes)"
+        "label": "Valorisation pre-money (3 methodes)"
       },
       "1": {
         "value": "2,31M EUR",
@@ -2431,7 +2443,7 @@
       },
       "2": {
         "value": "450 000",
-        "label": "commerces de proximite en France (TAM)"
+        "label": "commerces proximite France (TAM)"
       },
       "3": {
         "value": "25+ pays",
@@ -2448,112 +2460,112 @@
       "title": "Chiffres cles"
     },
     "flywheel": {
-      "title": "Le flywheel ONLYMORE",
-      "subtitle": "Un écosystème ou chaque pilier finance le suivant.",
-      "step1": "Les abonnements B2C du pool solidaire",
-      "step2": "Financent le deploiement B2B (Maps+, collectivites)",
-      "step3": "Qui finance les investissements sportifs (COLHYBRI Sports)",
-      "step4": "Qui alimentent le credit communautaire",
-      "step5": "Qui boucle le cycle vers les abonnements B2C",
-      "quote": "Un écosystème qui se finance lui-meme, a l'oppose du modele extractif des plateformes."
+      "title": "Le modele",
+      "subtitle": "Un ecosysteme qui boucle.",
+      "step1": "COLHYBRI (B2C 3 EUR)",
+      "step2": "Pool solidaire",
+      "step3": "Commercants (B2B 10 EUR)",
+      "step4": "CROWNIUM (sport)",
+      "step5": "ONLYMORE FINANCE (credit)",
+      "quote": "Les abonnements B2C financent le B2B. Le B2B finance les investissements sportifs. Le credit boucle le cycle."
     },
     "useOfFunds": {
-      "title": "Utilisation des fonds",
+      "title": "Use of funds",
       "product": {
         "title": "Produit",
-        "desc": "Dev, infrastructure, IA"
+        "desc": "Developpement plateforme, Maps+, gamification"
       },
       "gtm": {
         "title": "Go-to-market",
-        "desc": "Commercialisation, partenariats"
+        "desc": "Lancement France, premiers pilotes villes"
       },
       "ops": {
         "title": "Operations",
-        "desc": "Equipe, legal, compta"
+        "desc": "Equipe, legal, comptabilite"
       }
     },
     "team": {
       "title": "L'equipe",
       "florent": {
         "role": "Fondateur et CEO",
-        "bio": "Autodidacte. De la construction a la fintech. De Nîmes a l'Occitanie. 220 ans de mutualisme dans l'ADN.",
+        "bio": "Autodidacte. De la construction a la fintech. 220 ans de mutualisme dans l'ADN.",
         "photoAlt": "Portrait de Florent Gibert, fondateur et CEO de COLHYBRI"
       },
       "joao": {
         "role": "CFO",
-        "bio": "Ex-ONEtoONE Corporate Finance. Modelisation financière, levees de fonds, structuration deal.",
+        "bio": "Structuration financiere et reporting investisseurs.",
         "photoAlt": "Portrait de João Almeida, CFO de COLHYBRI"
       },
       "stephane": {
-        "role": "Partenaire Fundraising",
-        "bio": "Partenaire fundraising via Winvesty (10% commission). Label WEP Access. Expert en structuration de tours et levées de fonds.",
+        "role": "Fundraising (Winvesty)",
+        "bio": "Levee de fonds et reseau investisseurs.",
         "photoAlt": "Portrait de Stéphane Picard, Partenaire Fundraising de COLHYBRI"
       }
     },
     "deck": {
-      "title": "Deck investisseur complet",
-      "body": "Dossier detaille : modele économique, valorisation, roadmap produit, equipe, structure deal.",
-      "cta": "Demander le deck"
+      "title": "Dossier investisseur",
+      "body": "Recevez le dossier complet par email.",
+      "cta": "Demander le dossier"
     },
     "form": {
       "title": "Prendre rendez-vous",
-      "subtitle": "Un message court suffit. Nous revenons vers vous sous 48h."
+      "subtitle": "Planifiez un appel avec l'equipe fondatrice."
     }
   },
   "pressePage": {
     "meta": {
-      "title": "Espace presse COLHYBRI | Kit presse, logos, biographie",
-      "description": "Kit presse, logos, chiffres cles, biographie du fondateur Florent Gibert. Contact presse : onlymore2024@gmail.com"
+      "title": "Presse COLHYBRI",
+      "description": "Kit presse, chiffres cles, bio fondateur. Contact : onlymore2024@gmail.com"
     },
     "hero": {
-      "badge": "ESPACE PRESSE",
-      "title": "Espace presse",
-      "subtitle": "Kit presse, logos, chiffres cles, biographie. Tout ce dont vous avez besoin pour parler de COLHYBRI."
+      "badge": "PRESSE",
+      "title": "Kit presse COLHYBRI",
+      "subtitle": "Logos, chiffres, bio fondateur et contact presse."
     },
     "logo": {
-      "title": "Kit presse",
-      "body": "Logos vectoriels (SVG, PNG), charte graphique, visuels produit. Librement utilisables par la presse.",
-      "download": "Telecharger le logo"
+      "title": "Logo COLHYBRI",
+      "body": "Telechargez le logo SVG haute resolution.",
+      "download": "Telecharger le SVG"
     },
     "figures": {
       "title": "Chiffres cles",
-      "items": {
-        "0": "220 ans de mutualisme français digitalise (depuis 1806)",
-        "1": "3 EUR/mois : abonnement pool solidaire",
-        "2": "10 EUR/mois : abonnement Maps+, 0% commission",
-        "3": "75% du pool redistribue aux habitants",
-        "4": "De Paris a Pittsburgh : 5 continents, 25+ pays cibles"
-      }
+      "items": [
+        "3 EUR/mois pour les particuliers, 10 EUR/mois pour les commercants",
+        "0% de commission (vs 30% UberEats, 25% JustEat)",
+        "75% des abonnements redistribues via le pool solidaire",
+        "1 732 communes ZRCV en France en 2026",
+        "Expansion prevue dans 25+ pays d'ici 2031"
+      ]
     },
     "founder": {
-      "title": "Biographie du fondateur",
-      "bio": "Florent Gibert, fondateur autodidacte, de Nîmes a l'Occitanie. COLHYBRI digitalise 220 ans de mutualisme français pour revitaliser les centres-villes. De la construction a la fintech, de Nîmes a l'Occitanie."
+      "title": "Le fondateur",
+      "bio": "Florent Gibert, fondateur et CEO d'ONLYMORE Group, est un autodidacte passe de la construction et la livraison a la fintech. Base a Rodilhan en Occitanie, il a concu COLHYBRI pour digitaliser 220 ans de mutualisme francais et revitaliser les centres-villes."
     },
     "releases": {
       "title": "Communiques de presse",
-      "body": "Pour toute demande d'interview, visuels complementaires ou accès aux données d'impact, contactez-nous directement."
+      "body": "Communiques a venir. Inscrivez-vous pour etre notifie."
     },
     "contact": {
       "title": "Contact presse"
     }
   },
   "worldMap": {
-    "hint": "Cliquez sur un marqueur pour découvrir notre impact local.",
+    "hint": "Cliquez sur un marqueur pour explorer l'impact regional.",
     "markers": {
       "paris": {
-        "label": "Paris : 1 732 ZRCV"
+        "label": "1 732 ZRCV"
       },
       "pittsburgh": {
-        "label": "Pittsburgh : 8 764 Opportunity Zones"
+        "label": "8 764 Opportunity Zones"
       },
       "barcelona": {
-        "label": "Barcelona : Capitale EU Petit Commerce 2026"
+        "label": "Capitale EU Petit Commerce 2026"
       },
       "dakar": {
-        "label": "Dakar : expansion Afrique"
+        "label": "Expansion Afrique"
       },
       "saopaulo": {
-        "label": "Sao Paulo : 55% emploi informel"
+        "label": "55% emploi informel"
       }
     }
   },
@@ -2562,12 +2574,12 @@
       "firstName": "Prenom",
       "lastName": "Nom",
       "role": "Fonction",
-      "rolePlaceholder": "Choisissez votre fonction",
+      "rolePlaceholder": "Selectionnez votre fonction",
       "roles": {
         "mayor": "Maire",
-        "deputy": "Adjoint",
+        "deputy": "Adjoint.e",
         "dgs": "DGS",
-        "manager": "Manager commerce",
+        "manager": "Manager de commerce",
         "cci": "CCI",
         "intercom": "Intercommunalite",
         "other": "Autre"
@@ -2576,44 +2588,44 @@
       "postcode": "Code postal",
       "email": "Email professionnel",
       "phone": "Telephone",
-      "message": "Message (optionnel)",
-      "submit": "Planifier une demo",
-      "sending": "Envoi en cours...",
-      "successTitle": "Merci !",
-      "successBody": "Nous vous recontactons sous 48h pour planifier la demo.",
-      "errorTitle": "Erreur",
-      "errorBody": "Erreur lors de l'envoi. Envoyez un email a onlymore2024@gmail.com"
-    },
-    "investor": {
-      "name": "Prenom et Nom",
-      "organization": "Organisation / Fonds",
-      "email": "Email",
-      "phone": "Telephone",
-      "message": "Message (optionnel)",
-      "submit": "Prendre rendez-vous",
+      "message": "Message",
+      "submit": "Envoyer la demande",
       "sending": "Envoi en cours...",
       "successTitle": "Merci !",
       "successBody": "Nous vous recontactons sous 48h.",
       "errorTitle": "Erreur",
+      "errorBody": "Erreur. Veuillez envoyer un email a onlymore2024@gmail.com"
+    },
+    "investor": {
+      "name": "Nom",
+      "organization": "Organisation",
+      "email": "Email",
+      "phone": "Telephone",
+      "message": "Message",
+      "submit": "Prendre rendez-vous",
+      "sending": "Envoi en cours...",
+      "successTitle": "Merci !",
+      "successBody": "L'equipe fondatrice vous recontacte sous 48h.",
+      "errorTitle": "Erreur",
       "errorBody": "Erreur lors de l'envoi. Envoyez un email a onlymore2024@gmail.com"
     },
     "general": {
-      "name": "Prenom et Nom",
+      "name": "Nom",
       "email": "Email",
       "subject": "Sujet",
-      "subjectPlaceholder": "Choisissez un sujet",
+      "subjectPlaceholder": "Selectionnez un sujet",
       "subjects": {
         "partnership": "Partenariat",
         "press": "Presse",
         "investment": "Investissement",
-        "question": "Question générale",
+        "question": "Question generale",
         "other": "Autre"
       },
       "message": "Message",
       "submit": "Envoyer",
       "sending": "Envoi en cours...",
       "successTitle": "Merci !",
-      "successBody": "Nous vous recontactons sous 48h.",
+      "successBody": "Nous repondons sous 48h.",
       "errorTitle": "Erreur",
       "errorBody": "Erreur lors de l'envoi. Envoyez un email a onlymore2024@gmail.com"
     }
@@ -2676,12 +2688,12 @@
   "impactPages": {
     "france": {
       "badge": "IMPACT FRANCE",
-      "title": "1 732 communes ZRCV. Un marche, une mission.",
-      "subtitle": "Zones de Revitalisation du Commerce de Ville, Action Coeur de Ville, Petites Villes de Demain. COLHYBRI est l'outil digital qui manque a ces dispositifs.",
+      "title": "La France reinvente ses centres-villes",
+      "subtitle": "1 732 ZRCV, 244 Action Coeur de Ville, 1 646 Petites Villes de Demain.",
       "stats": [
         {
           "value": "1 732",
-          "label": "communes ZRCV 2024"
+          "label": "communes ZRCV 2026"
         },
         {
           "value": "244",
@@ -2692,63 +2704,63 @@
           "label": "Petites Villes de Demain"
         },
         {
-          "value": "55%",
-          "label": "villes moyennes en vacance commerciale"
+          "value": "5 Mds EUR",
+          "label": "mobilises 2023-2026"
         }
       ],
       "context": [
-        "La loi de finances 2024 a institue les ZRCV pour enrayer la desertification commerciale des centres-villes francais.",
-        "Action Coeur de Ville et Petites Villes de Demain representent 1 890 communes avec budget dedie mais sans outil digital natif.",
-        "COLHYBRI s'intégré a ces dispositifs sans les remplacer, en fournissant le maillon digital manquant."
+        "La devitalisation des centres-villes est le premier enjeu des municipales 2026. 55% des villes moyennes ont un taux de vacance commerciale superieur a 10%.",
+        "Le gouvernement a lance des managers de commerce finances par les CCI et un groupe de travail au Conseil National du Commerce.",
+        "Les programmes nationaux (ACV, PVD, ZRCV) couvrent 1 890 communes mais manquent d'outils de mesure numerique."
       ],
       "barometer": {
-        "title": "Barometre du centre-ville francais",
-        "subtitle": "Données 2024-2025 Banque des Territoires et ANCT",
         "0": {
-          "value": "55%",
-          "label": "villes moyennes en vacance commerciale"
+          "value": "79%",
+          "label": "aspirent a la fraternite"
         },
         "1": {
-          "value": "-12%",
-          "label": "CA commerces centre-ville depuis 2020"
+          "value": "55%",
+          "label": "vivent la solitude"
         },
         "2": {
-          "value": "+18%",
-          "label": "ouvertures en peripherie meme periode"
+          "value": "31%",
+          "label": "n'ont aucun lieu de rencontre"
         },
-        "quote": "Le centre-ville n'est pas un probleme de flux, c'est un probleme d'infrastructure digitale."
+        "title": "Barometre Confiance et Fraternite",
+        "subtitle": "Donnees IFOP / Labo de la Fraternite 2026",
+        "quote": "COLHYBRI est le tiers-lieu digital qui comble ce vide."
       },
       "proposition": {
-        "title": "La proposition COLHYBRI pour la France",
-        "body": "Un outil cle en main pour les communes ZRCV, finance par les habitants a 3 EUR par mois, commissionne a 0% pour les commerçants, sans engagement pour la commune. Deploiement en 4 semaines."
+        "title": "La proposition COLHYBRI",
+        "body": "COLHYBRI est le modele Barcelona en SaaS, accessible a toute commune de 25 000 habitants. Pilote gratuit 90 jours."
       }
     },
     "usa": {
       "badge": "IMPACT USA",
-      "title": "8 764 Opportunity Zones. Floride comme point d'entree.",
-      "subtitle": "L'infrastructure fiscale federale (OZ 1.0 jusqu'en 2028, OZ 2.0 activee au 1er janvier 2027) rencontre une demande des centres-villes americains pour un outil digital natif de revitalisation. COLHYBRI arrive par la Floride.",
+      "title": "Revitaliser le Rust Belt, une Main Street a la fois",
+      "subtitle": "8 764 Opportunity Zones. 1 200+ Main Street America communities.",
       "stats": [
         {
           "value": "8 764",
-          "label": "Opportunity Zones OZ 1.0 designees (Treasury)"
+          "label": "Opportunity Zones (OZ 1.0)"
         },
         {
           "value": "6 544",
-          "label": "nouvelles Opportunity Zones OZ 2.0 projetees en 2027"
+          "label": "nouvelles OZ 2.0 (juillet 2026)"
         },
         {
-          "value": "821",
-          "label": "Main Street America Accredited communities en 2025"
+          "value": "1 200+",
+          "label": "communautes Main Street America"
         },
         {
-          "value": "30%",
-          "label": "des entreprises Miami-Dade sont hispaniques"
+          "value": "$23.7M",
+          "label": "RAISE grant East Moline"
         }
       ],
       "context": [
-        "La Tax Cuts and Jobs Act de 2017 a créé 8 764 Opportunity Zones federales dans des quartiers a faible revenu. Le One Big Beautiful Bill Act de 2025 a permanise le dispositif et declenche un cycle OZ 2.0 avec environ 6 544 nouvelles zones designees au 1er janvier 2027, apres un processus de nomination par les gouverneurs ouvert du 1er juillet 2026 au 28 septembre 2026.",
-        "Main Street America federe 1 172 communautes designees en 2025 dont 821 Accredited, avec 45 ans de track record. Le réseau a génère 7,65 milliards de dollars de reinvestissement local, 6 324 nouvelles entreprises et 33 835 emplois sur la seule année 2024. Florida Main Street, actif depuis 1985, a lui seul rapporte pres de 7 milliards de dollars cumules et 11 000 entreprises nouvelles ou etendues.",
-        "La Floride concentre la triple convergence dont COLHYBRI a besoin : un écosystème VC early-stage dense (Tampa Bay Wave, Embarc Collective, plus de 500 startups et 5 000 emplois crees), un gateway commercial vers l'Amerique latine (Miami, 1 200 QG LATAM, 43% des vols US vers l'Amerique du Sud, 90% des données LATAM), et une base de commerces hispaniques alignes sur notre modele caffe sospeso."
+        "Le Rust Belt traverse une transformation historique. Pittsburgh, Cleveland, Canton et Allentown passent de l'industrie lourde a la tech et au developpement mixte de centre-ville.",
+        "Le One Big Beautiful Bill Act (2025) rend les Opportunity Zones permanentes et lance OZ 2.0 en juillet 2026.",
+        "Canton (Ohio) est le blueprint : un developpeur a restaure 42 batiments en centre-ville grace aux credits d'impot historiques (20% federal + 25% etat)."
       ],
       "barometer": {
         "title": "Barometre des centres-villes americains",
@@ -2770,112 +2782,112 @@
         "quote": "Under President Trump's leadership, the Working Families Tax Cuts permanently renewed and strengthened Opportunity Zones. Scott Bessent, US Treasury Secretary, avril 2026."
       },
       "miami": {
-        "title": "Pourquoi Miami",
-        "intro": "Miami, capitale non-officielle de l'Amerique latine depuis les années 60, concentre la plus forte densite d'entreprises hispaniques des Etats-Unis (30% a Miami-Dade). C'est le laboratoire grandeur nature du modele COLHYBRI.",
-        "reason1": "Passerelle naturelle vers le marche LATAM : 1 200 multinationales avec QG LATAM a Miami, 43% des vols US vers l'Amerique du Sud, 90% des données LATAM transitent par les datacenters locaux.",
-        "reason2": "Écosystème VC early-stage dense : Embarc Collective, Florida Funders, accès aux Opportunity Zone Funds locaux, capitaux prives hispaniques.",
-        "reason3": "Base de commerces hispaniques alignes sur le modele caffe sospeso : 30% des entreprises de Miami-Dade sont hispaniques, avec une forte culture communautaire et mutualiste deja en place.",
-        "reason4": "Proximite linguistique et culturelle : COLHYBRI peut être deploye en espagnol des le premier jour, avec un product-market fit immediat avec la communaute cubaine, venezuelienne, colombienne et portoricaine."
+        "title": "Miami, ville pilote US",
+        "intro": "Miami-Dade combine un ecosysteme dense de commerces locaux, une population bilingue et un agenda de revitalisation des centres-villes.",
+        "reason1": "Un tissu de commerces de proximite dense le long des Main Streets",
+        "reason2": "Une population bilingue alignee avec notre produit multilingue",
+        "reason3": "Une porte d'entree vers l'Amerique Latine pour l'expansion regionale",
+        "reason4": "Des institutions locales engagees dans la revitalisation"
       },
       "proposition": {
-        "title": "La proposition COLHYBRI pour la Floride et le marche US",
-        "body": "Un outil digital de revitalisation cle en main pour les municipalites Main Street America et les operateurs de Qualified Opportunity Funds. Deploiement en 4 semaines. Finance par les residents a 3 dollars par mois. 0% de commission pour les commerçants locaux. Intégration native aux programmes federaux OZ 1.0 et OZ 2.0 et aux standards d'evaluation Main Street America. Premier deploiement cible : Tampa Bay et Miami-Dade, porte d'entree vers le marche hispanique americain et l'Amerique latine."
+        "title": "La proposition COLHYBRI",
+        "body": "COLHYBRI is the SaaS that makes Main Street measurable. Vous avez les incitations OZ. Nous avons le dashboard digital."
       }
     },
     "europe": {
       "badge": "IMPACT EUROPE",
-      "title": "TODO Florent : integrer les données europe depuis Notion ou le cocon SEO",
-      "subtitle": "TODO Florent : sous-titre region",
+      "title": "Barcelona montre la voie. COLHYBRI la rend accessible.",
+      "subtitle": "ECoSR 2026. EUI Call 4 : 60M EUR FEDER. 28 villes candidates.",
       "stats": [
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "Barcelona",
+          "label": "Capitale Europeenne du Petit Commerce 2026"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "60M EUR",
+          "label": "EUI Call 4 FEDER"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "28 villes",
+          "label": "candidates ECoSR dans 13 pays"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "40+",
+          "label": "initiatives digitales a Barcelona"
         }
       ],
       "context": [
-        "TODO Florent : paragraphe contextuel region",
-        "TODO Florent : paragraphe contextuel region",
-        "TODO Florent : paragraphe contextuel region"
+        "L'UE a cree en 2026 le label Capitale Europeenne du Petit Commerce avec 3 laureates : Barcelona, Caldas da Rainha, Silandro.",
+        "Les 4 criteres : durabilite, digitalisation, entrepreneuriat, vitalite urbaine.",
+        "L'EU Agenda for Cities (decembre 2025) structure 3 piliers : dialogue territorial, simplification, investissement strategique."
       ],
       "proposition": {
-        "title": "TODO Florent : titre proposition europe",
-        "body": "TODO Florent : corps de la proposition region"
+        "title": "La proposition COLHYBRI",
+        "body": "COLHYBRI rend le modele Barcelona accessible en SaaS a toute ville UE de 25 000+ habitants. Les 4 criteres ECoSR sont les 4 piliers de COLHYBRI."
       }
     },
     "latam": {
-      "badge": "IMPACT LATAM",
-      "title": "TODO Florent : integrer les données latam depuis Notion ou le cocon SEO",
-      "subtitle": "TODO Florent : sous-titre region",
+      "badge": "IMPACT AMERIQUE LATINE",
+      "title": "Formaliser le commerce informel par la solidarite digitale",
+      "subtitle": "55% d'emploi informel. 2,1% de croissance 2026.",
       "stats": [
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "55%",
+          "label": "d'emploi informel en Amerique Latine"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "2,1%",
+          "label": "croissance 2026 (plus faible au monde)"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "67M",
+          "label": "travailleurs informels"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "$3/mois",
+          "label": "abonnement COLHYBRI"
         }
       ],
       "context": [
-        "TODO Florent : paragraphe contextuel region",
-        "TODO Florent : paragraphe contextuel region",
-        "TODO Florent : paragraphe contextuel region"
+        "L'Amerique Latine a la croissance la plus faible au monde en 2026. 55% des travailleurs sont informels, un taux stable depuis 2018.",
+        "La formalisation du commerce de proximite est la priorite de l'IDB et de la Banque Mondiale pour elargir l'assiette fiscale.",
+        "Le mobile-first est le seul canal d'acces viable pour cette population."
       ],
       "proposition": {
-        "title": "TODO Florent : titre proposition latam",
-        "body": "TODO Florent : corps de la proposition region"
+        "title": "La proposition COLHYBRI",
+        "body": "COLHYBRI formalise le commerce informel par la digitalisation zero-friction. 3 USD/mois. Pas de credit check, pas de banque requise."
       }
     },
     "africa": {
-      "badge": "IMPACT AFRICA",
-      "title": "TODO Florent : integrer les données africa depuis Notion ou le cocon SEO",
-      "subtitle": "TODO Florent : sous-titre region",
+      "badge": "IMPACT AFRIQUE",
+      "title": "La premiere data commerce locale pour l'Afrique",
+      "subtitle": "4,3% de croissance 2026. Zero outil digital dedie.",
       "stats": [
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "4,3%",
+          "label": "croissance 2026"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "4,5%",
+          "label": "croissance 2027"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "0",
+          "label": "outils digitaux commerce informel urbain"
         },
         {
-          "value": "TODO",
-          "label": "TODO"
+          "value": "Mobile-first",
+          "label": "seul canal viable"
         }
       ],
       "context": [
-        "TODO Florent : paragraphe contextuel region",
-        "TODO Florent : paragraphe contextuel region",
-        "TODO Florent : paragraphe contextuel region"
+        "L'Afrique subsaharienne connait la croissance la plus rapide au monde mais insuffisante pour absorber l'expansion de la force de travail.",
+        "Le commerce informel urbain est le premier employeur mais n'a aucun outil digital.",
+        "L'urbanisation rapide cree un besoin immediat de structuration du commerce de proximite."
       ],
       "proposition": {
-        "title": "TODO Florent : titre proposition africa",
-        "body": "TODO Florent : corps de la proposition region"
+        "title": "La proposition COLHYBRI",
+        "body": "COLHYBRI mobile-first pour le commerce informel urbain africain. Premiere data commerce locale. Pilote cible : Dakar, Abidjan, Tunis."
       }
     },
     "espana": {
@@ -2906,8 +2918,6 @@
         "La Catalogne représente 19,5% du commerce espagnol (24,9% pour la Communaute de Madrid, source INE). Le modele Barcelone demontre que le commerce de proximite n'est pas qu'un paysage urbain ni une tradition, mais une structure productive et un moteur de cohesion sociale. COLHYBRI est le support digital natif de ce modele, replicable dans n'importe quelle commune espagnole ou europeenne."
       ],
       "barometer": {
-        "title": "Barometre du commerce espagnol",
-        "subtitle": "Données 2023-2026 INE, UPTA, Ajuntament de Barcelona",
         "0": {
           "value": "1,01 B EUR",
           "label": "chiffre d'affaires du Sector Comercio en Espagne (INE 2023)"
@@ -2920,6 +2930,8 @@
           "value": "6,1%",
           "label": "croissance annuelle du Sector Comercio espagnol (INE 2023)"
         },
+        "title": "Barometre du commerce espagnol",
+        "subtitle": "Données 2023-2026 INE, UPTA, Ajuntament de Barcelona",
         "quote": "Le commerce de proximite n'est pas qu'un paysage urbain ni une tradition, c'est une structure productive. Prosper Puig, president de Barcelona Comerc."
       },
       "proposition": {
@@ -2955,8 +2967,6 @@
         "L'écosystème britannique concentre egalement les partenaires financiers naturels de COLHYBRI : Ebury (Londres, IPO Q2 2026) qui opere les paiements transfrontaliers de Fulham, Aston Villa et d'autres clubs de Premier League ; Hummingbird Ventures (Londres) parfaitement aligne en pre-Series A ; la BID Foundation qui coordonne plus de 340 Business Improvement Districts sur le territoire. Premiers deploiements UK cibles : Manchester (proche du siege de l'IPM) et un Business Improvement District londonien."
       ],
       "barometer": {
-        "title": "Barometre des high streets britanniques",
-        "subtitle": "Données 2024-2025 UK Government, Institute of Place Management, HSTF Legacy Report",
         "0": {
           "value": "1 sur 7",
           "label": "commerces de rue britanniques vides (UK Government)"
@@ -2969,6 +2979,8 @@
           "value": "32",
           "label": "lieux accompagnes par le Placemaking Programme HSTF"
         },
+        "title": "Barometre des high streets britanniques",
+        "subtitle": "Données 2024-2025 UK Government, Institute of Place Management, HSTF Legacy Report",
         "quote": "Le changement reussi est créé par des communautes locales qui ont une vision pour leurs high streets. Sir John Timpson, president du High Streets Expert Panel."
       },
       "proposition": {
@@ -3004,8 +3016,6 @@
         "Les partenaires financiers sont deja mobilises : Attijariwafa Bank et Al Barid Bank proposent des solutions de paiement electronique adaptees aux commerçants de proximite. La convention signee en avril 2025 entre le Ministere de l'Industrie et du Commerce et le Ministere de la Transition Numérique créé les centres regionaux du commerce electronique, infrastructure d'accueil naturelle pour le modele COLHYBRI."
       ],
       "barometer": {
-        "title": "Barometre du commerce marocain",
-        "subtitle": "Données 2023-2025 Ministere de l'Industrie et du Commerce, OMPIC, MRTB",
         "0": {
           "value": "25%",
           "label": "des Marocains achetent deja en ligne (+65% en 5 ans)"
@@ -3018,6 +3028,8 @@
           "value": "35 000+",
           "label": "detaillants dans le réseau d'approvisionnement groupe"
         },
+        "title": "Barometre du commerce marocain",
+        "subtitle": "Données 2023-2025 Ministere de l'Industrie et du Commerce, OMPIC, MRTB",
         "quote": "Le commerce interieur représente un pilier de l'economie nationale et un levier d'equilibre social. Ryad Mezzour, Ministre de l'Industrie et du Commerce, septembre 2025."
       },
       "proposition": {

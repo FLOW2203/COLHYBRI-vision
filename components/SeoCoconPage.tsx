@@ -44,39 +44,17 @@ export async function SeoCoconPage({
   const tCommon = await getTranslations({ locale, namespace: 'cocon.common' });
   const tMeta = await getTranslations({ locale, namespace: 'cocon.meta' });
 
-  // Read raw for list-shaped entries. next-intl v3 t.raw() does NOT throw on
-  // missing keys. Instead it calls onError (logs) and returns a fallback
-  // string (the key name). So we must:
-  //   1. Wrap in try/catch for safety
-  //   2. Validate the runtime shape (array / header-tuple) before use
+  // Read raw for list-shaped entries. next-intl v3 t.raw() does NOT throw
+  // on missing keys — it calls onError and returns a fallback STRING (the
+  // key path). So we must validate the shape (Array.isArray) before use.
   const safeArray = <T,>(key: string): T[] => {
-    try {
-      const v = t.raw(key);
-      return Array.isArray(v) ? (v as T[]) : [];
-    } catch {
-      return [];
-    }
+    try { const v = t.raw(key); return Array.isArray(v) ? (v as T[]) : []; } catch { return []; }
   };
   const safeTuple = (key: string): [string, string] | null => {
-    try {
-      const v = t.raw(key);
-      return Array.isArray(v) && v.length === 2 ? (v as [string, string]) : null;
-    } catch {
-      return null;
-    }
+    try { const v = t.raw(key); return Array.isArray(v) && v.length === 2 ? (v as [string, string]) : null; } catch { return null; }
   };
-  const safeString = (key: string): string | null => {
-    try {
-      const v = t.raw(key);
-      // When the key is missing, next-intl returns a fallback string that
-      // starts with the namespace path. Accept only values that are strings
-      // AND do not look like a MISSING_MESSAGE fallback.
-      if (typeof v !== 'string') return null;
-      if (v.startsWith(`cocon.${slug}.`)) return null;
-      return v;
-    } catch {
-      return null;
-    }
+  const safeStr = (key: string): string | null => {
+    try { const v = t.raw(key); return typeof v === 'string' && !v.startsWith('cocon.') ? v : null; } catch { return null; }
   };
 
   const sections = safeArray<CoconPageShape['sections'][number]>('sections');
@@ -84,7 +62,7 @@ export async function SeoCoconPage({
   const stats = safeArray<CoconPageShape['stats'][number]>('stats');
   const tableRows = safeArray<[string, string]>('tableRows');
   const tableHeader = safeTuple('tableHeader');
-  const tableTitle = safeString('tableTitle');
+  const tableTitle = safeStr('tableTitle');
 
   const articleSchema = {
     '@context': 'https://schema.org',
