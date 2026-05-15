@@ -16,7 +16,7 @@ interface PageProps {
 // Regions covered by static pages at app/[locale]/impact/<region>/page.tsx
 // Those take precedence over this dynamic route in Next.js App Router, so
 // we must exclude them from generateStaticParams to avoid build collisions.
-const STATIC_REGIONS = new Set(['france', 'usa', 'europe', 'latam', 'africa']);
+const STATIC_REGIONS = new Set(['france', 'usa', 'europe', 'latam', 'africa', 'espana', 'uk', 'maroc']);
 
 export function generateStaticParams() {
   const params: Array<{ locale: string; region: string }> = [];

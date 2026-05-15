@@ -10,6 +10,11 @@ import { TrustMapSection } from '@/components/trust/TrustMapSection';
 import { VisionImage } from '@/components/ui/VisionImage';
 import { FadeInOnScroll } from '@/components/ui/FadeInOnScroll';
 import { visionImages } from '@/lib/vision-images';
+import {
+  getRegionsForLocale,
+  getRoadmapPlaceholdersForLocale,
+  getRegionHref,
+} from '@/lib/impact-regions';
 
 interface PageProps {
   params: { locale: string };
@@ -33,7 +38,11 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
   const t = useTranslations('impact');
   const common = useTranslations('common');
   const tImg = useTranslations('images');
+  const tImpact = useTranslations('impactPages');
+  const tHub = useTranslations('impactPages.hub');
   const l = locale as Locale;
+  const regions = getRegionsForLocale(l);
+  const roadmapPlaceholders = getRoadmapPlaceholdersForLocale(l);
 
   const impactJsonLd = {
     '@context': 'https://schema.org',
@@ -162,6 +171,65 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
           </div>
         </div>
       </section>
+
+      {/* Locale-scoped regions menu */}
+      <section className="bg-white">
+        <div className="section-container">
+          <h2 className="section-heading text-center mb-4">{tHub('regionsTitle')}</h2>
+          <p className="font-sans text-colhybri-dark/70 text-center max-w-2xl mx-auto mb-12">
+            {tHub('regionsSubtitle')}
+          </p>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
+            {regions.map((region) => (
+              <Link
+                key={region}
+                href={getRegionHref(region, l)}
+                className="card text-left hover:border-colhybri-teal transition-colors block"
+              >
+                <p className="text-colhybri-teal font-sans font-semibold text-xs tracking-widest uppercase mb-3">
+                  {tImpact(`${region}.badge`)}
+                </p>
+                <h3 className="font-display text-xl font-semibold text-colhybri-dark mb-3 leading-snug">
+                  {tImpact(`${region}.title`)}
+                </h3>
+                <p className="font-sans text-sm text-colhybri-dark/70 leading-relaxed">
+                  {tImpact(`${region}.subtitle`)}
+                </p>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* International roadmap (out-of-sphere pages stay reachable via direct URL) */}
+      {roadmapPlaceholders.length > 0 && (
+        <section className="bg-colhybri-cream">
+          <div className="section-container max-w-4xl mx-auto">
+            <h2 className="font-display text-2xl font-semibold text-colhybri-dark mb-4 text-center">
+              {tHub('roadmapTitle')}
+            </h2>
+            <p className="font-sans text-colhybri-dark/70 text-center mb-6">{tHub('roadmapBody')}</p>
+            <ul className="flex flex-wrap justify-center gap-3 mb-8">
+              {roadmapPlaceholders.map((zone) => (
+                <li
+                  key={zone}
+                  className="px-4 py-2 rounded-full bg-white border border-colhybri-teal/20 text-colhybri-dark/70 font-sans text-sm"
+                >
+                  {zone}
+                </li>
+              ))}
+            </ul>
+            <p className="text-center">
+              <Link
+                href={`/${l}/impact/europe`}
+                className="font-sans text-sm text-colhybri-teal underline hover:text-colhybri-dark transition-colors"
+              >
+                {tHub('roadmapLinkAll')}
+              </Link>
+            </p>
+          </div>
+        </section>
+      )}
 
       {/* Global Loneliness Counter */}
       <GlobalImpactCounter locale={locale} />
