@@ -2932,6 +2932,57 @@
         "title": "La proposition COLHYBRI pour le Royaume-Uni",
         "body": "Une couche digitale cle en main pour les collectivites britanniques, les Business Improvement Districts et les programmes de revitalisation portes par les communautes. Deploiement en 4 semaines. Finance par les habitants a 3 livres par mois. 0% de commission pour les commercants independants. Integration native avec le cadre placemaking de la High Streets Task Force et les besoins d'intelligence locale des High Street Rental Auctions. Premiers deploiements UK cibles : Manchester, des BIDs londoniens et une ville pilote du nord de l'Angleterre alignee sur le Plan for Neighbourhoods."
       }
+    },
+    "maroc": {
+      "badge": "IMPACT MAROC",
+      "title": "300 000 commercants, 22 milliards MAD de e-commerce, 1 Coupe du Monde en 2030.",
+      "subtitle": "La strategie Commerce Maroc 2030 est lancee. COLHYBRI est la couche digitale manquante pour connecter 300 000 commercants de proximite a leurs quartiers.",
+      "stats": [
+        {
+          "value": "300 000",
+          "label": "commercants inscrits a la Contribution Professionnelle Unifiee"
+        },
+        {
+          "value": "22 Md MAD",
+          "label": "volume e-commerce Maroc 2023 (~2 Md EUR)"
+        },
+        {
+          "value": "+30%",
+          "label": "croissance annuelle e-commerce sur 5 ans"
+        },
+        {
+          "value": "39,2%",
+          "label": "creations d'entreprises concentrees a Casablanca-Settat"
+        }
+      ],
+      "context": [
+        "La strategie Commerce Maroc 2030, lancee le 29 septembre 2025 par le Ministre Ryad Mezzour, pose quatre axes : couverture sociale des commercants, integration numerique, inclusion financiere et amelioration de l'approvisionnement. 300 000 commercants ont deja rejoint le systeme de Contribution Professionnelle Unifiee. Le programme Moroccan Retail Tech Builder (MRTB), porte avec l'UM6P et la Fondation OCP, accompagne 161 startups en phase 1 et vise 300 nouvelles startups en phase 2 (2025-2027).",
+        "La Coupe du Monde 2030, organisee conjointement par le Maroc, l'Espagne et le Portugal, est un accelerateur strategique pour la modernisation du commerce local. Les villes hotes marocaines (Casablanca, Rabat, Marrakech, Tanger, Agadir, Fes) vont voir converger flux touristiques, investissements infrastructures et digitalisation accelere des commerces de proximite. COLHYBRI arrive au bon moment.",
+        "Les partenaires financiers sont deja mobilises : Attijariwafa Bank et Al Barid Bank proposent des solutions de paiement electronique adaptees aux commercants de proximite. La convention signee en avril 2025 entre le Ministere de l'Industrie et du Commerce et le Ministere de la Transition Numerique cree les centres regionaux du commerce electronique, infrastructure d'accueil naturelle pour le modele COLHYBRI."
+      ],
+      "barometer": {
+        "title": "Barometre du commerce marocain",
+        "subtitle": "Donnees 2023-2025 Ministere de l'Industrie et du Commerce, OMPIC, MRTB",
+        "items": [
+          {
+            "value": "25%",
+            "label": "des Marocains achetent deja en ligne (+65% en 5 ans)"
+          },
+          {
+            "value": "59%",
+            "label": "des achats en ligne se font sur mobile"
+          },
+          {
+            "value": "35 000+",
+            "label": "detaillants dans le reseau d'approvisionnement groupe"
+          }
+        ],
+        "quote": "Le commerce interieur represente un pilier de l'economie nationale et un levier d'equilibre social. Ryad Mezzour, Ministre de l'Industrie et du Commerce, septembre 2025."
+      },
+      "proposition": {
+        "title": "La proposition COLHYBRI pour le Maroc",
+        "body": "Un outil digital cle en main pour les collectivites marocaines, les chambres de commerce et les associations de commercants. Deploiement en 4 semaines. Finance par les habitants a l'equivalent de 30 MAD par mois. 0% de commission pour les commercants locaux. Integration native avec les centres regionaux du commerce electronique et la strategie Commerce Maroc 2030. Premier deploiement cible : un quartier commercant pilote a Casablanca (region Casablanca-Settat, 39% des creations d'entreprises) avec appui potentiel de la Fondation OCP et d'un acteur bancaire (Attijariwafa Bank ou Al Barid Bank)."
+      }
     }
   }
 }

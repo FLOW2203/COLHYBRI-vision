@@ -2329,6 +2329,57 @@
         "title": "The COLHYBRI proposition for the UK",
         "body": "A turnkey digital layer for UK local authorities, Business Improvement Districts and community-led revitalization programmes. 4-week deployment. Funded by residents at 3 pounds per month. 0% commission for independent shops. Native integration with the High Streets Task Force placemaking framework and with High Street Rental Auctions local intelligence needs. First UK deployment target: Manchester, London BIDs and a pilot northern English town aligned with the Plan for Neighbourhoods."
       }
+    },
+    "maroc": {
+      "badge": "IMPACT MOROCCO",
+      "title": "300,000 merchants, 22 billion MAD in e-commerce, 1 World Cup in 2030.",
+      "subtitle": "The Commerce Maroc 2030 strategy is live. COLHYBRI is the missing digital layer to connect 300,000 local merchants to their neighborhoods.",
+      "stats": [
+        {
+          "value": "300,000",
+          "label": "merchants registered under the Contribution Professionnelle Unifiee"
+        },
+        {
+          "value": "22B MAD",
+          "label": "Moroccan e-commerce volume in 2023 (~2B EUR)"
+        },
+        {
+          "value": "+30%",
+          "label": "annual e-commerce growth over 5 years"
+        },
+        {
+          "value": "39.2%",
+          "label": "of new business creations concentrated in Casablanca-Settat"
+        }
+      ],
+      "context": [
+        "The Commerce Maroc 2030 strategy, launched on September 29, 2025 by Minister Ryad Mezzour, is built on four pillars: social coverage for merchants, digital integration, financial inclusion and supply-chain improvement. 300,000 merchants have already joined the Contribution Professionnelle Unifiee scheme. The Moroccan Retail Tech Builder (MRTB), run with UM6P and the OCP Foundation, supports 161 startups in phase 1 and targets 300 new startups in phase 2 (2025-2027).",
+        "The 2030 World Cup, co-hosted by Morocco, Spain and Portugal, is a strategic accelerator for modernizing local commerce. Moroccan host cities (Casablanca, Rabat, Marrakech, Tangier, Agadir, Fez) will see tourism flows, infrastructure investment and accelerated digitalization of neighborhood retail converge. COLHYBRI arrives at the right moment.",
+        "Financial partners are already mobilized: Attijariwafa Bank and Al Barid Bank offer electronic payment solutions tailored to local merchants. The agreement signed in April 2025 between the Ministry of Industry and Commerce and the Ministry of Digital Transition creates regional e-commerce hubs, a natural deployment ground for the COLHYBRI model."
+      ],
+      "barometer": {
+        "title": "Moroccan retail barometer",
+        "subtitle": "2023-2025 data from Ministry of Industry and Commerce, OMPIC, MRTB",
+        "items": [
+          {
+            "value": "25%",
+            "label": "of Moroccans already shop online (+65% in 5 years)"
+          },
+          {
+            "value": "59%",
+            "label": "of online purchases happen on mobile"
+          },
+          {
+            "value": "35,000+",
+            "label": "retailers in the group-supply network"
+          }
+        ],
+        "quote": "Domestic commerce is a pillar of the national economy and a lever of social balance. Ryad Mezzour, Minister of Industry and Commerce, September 2025."
+      },
+      "proposition": {
+        "title": "The COLHYBRI proposition for Morocco",
+        "body": "A turnkey digital tool for Moroccan municipalities, chambers of commerce and merchant associations. 4-week deployment. Funded by residents at the equivalent of 30 MAD per month. 0% commission for local merchants. Native integration with the regional e-commerce hubs and with the Commerce Maroc 2030 strategy. First deployment target: a pilot shopping district in Casablanca (Casablanca-Settat region, 39% of new business creations) with potential support from the OCP Foundation and a banking partner (Attijariwafa Bank or Al Barid Bank)."
+      }
     }
   }
 }
