@@ -2823,6 +2823,64 @@
         "title": "TODO Florent : titre proposition africa",
         "body": "TODO Florent : corps de la proposition region"
       }
+    },
+    "hub": {
+      "regionsTitle": "Pres de chez vous",
+      "regionsSubtitle": "Nos pages Impact dediees a votre sphere linguistico-culturelle.",
+      "roadmapTitle": "Roadmap internationale",
+      "roadmapBody": "Pour les investisseurs et partenaires internationaux, COLHYBRI publie aussi des analyses dediees a d'autres marches. Zones a venir prochainement :",
+      "roadmapLinkAll": "Voir tous nos deploiements internationaux"
+    },
+    "espana": {
+      "badge": "IMPACT ESPAGNE",
+      "title": "Barcelone, Capitale Europeenne du Commerce de Proximite 2026.",
+      "subtitle": "Le petit commerce espagnol genere 1,01 billion d'euros par an (INE 2023). Barcelone montre que la proximite peut devenir un standard europeen. COLHYBRI accompagne ce mouvement.",
+      "stats": [
+        {
+          "value": "13,2%",
+          "label": "du PIB local de Barcelone provient du commerce de proximite"
+        },
+        {
+          "value": "152 000",
+          "label": "emplois generes par le commerce local a Barcelone"
+        },
+        {
+          "value": "3 M EUR",
+          "label": "budget UE pour la Capitale Europeenne 2026"
+        },
+        {
+          "value": "90,9%",
+          "label": "des locaux commerciaux restent actifs a Barcelone"
+        }
+      ],
+      "context": [
+        "Barcelone a ete designee Capitale Europeenne du Commerce de Proximite 2026 le 28 janvier 2026 a Bruxelles, devant Saragosse et Utrecht. L'initiative a ete portee depuis 2019 par Barcelona Comerc et Vitrines d'Europe, associations privees de commercants, ratifiee par le Parlement europeen en janvier 2023 et co-financee par la Commission europeenne (DG GROW) via EISMEA.",
+        "La crise du petit commerce espagnol est reelle : sur les 300 000 petits commerces que comptait l'Espagne en 2010, entre 30% et 40% ont disparu en 2025. Sur la seule annee 2025, 13 586 commerces ont ferme (en moyenne 1 132 par mois selon UPTA), et les projections evoquent plus de 12 000 fermetures supplementaires en 2026 si les politiques de soutien ne changent pas.",
+        "La Catalogne represente 19,5% du commerce espagnol (24,9% pour la Communaute de Madrid, selon l'INE). Le modele Barcelone demontre que le commerce de proximite n'est pas seulement un paysage urbain ou une tradition, mais une structure productive et un moteur de cohesion sociale. COLHYBRI est le support digital natif de ce modele, replicable dans toute commune espagnole ou europeenne."
+      ],
+      "barometer": {
+        "title": "Barometre du commerce espagnol",
+        "subtitle": "Donnees 2023-2026 INE, UPTA, Ajuntament de Barcelone",
+        "items": [
+          {
+            "value": "1,01 B EUR",
+            "label": "chiffre d'affaires du Secteur Commerce en Espagne (INE 2023)"
+          },
+          {
+            "value": "-13 586",
+            "label": "petits commerces fermes en 2025 (UPTA)"
+          },
+          {
+            "value": "6,1%",
+            "label": "croissance annuelle du Secteur Commerce espagnol (INE 2023)"
+          }
+        ],
+        "quote": "Le commerce de proximite n'est pas seulement un paysage urbain ou une tradition ; c'est une structure productive. Prosper Puig, president de Barcelona Comerc."
+      },
+      "proposition": {
+        "title": "La proposition COLHYBRI pour l'Espagne",
+        "body": "Un outil digital cle en main pour les mairies, associations de commercants et BIDs espagnols. Deploiement en 4 semaines. Finance par les habitants a 3 euros par mois. 0% de commission pour les commercants. Aligne sur le modele Capitale Europeenne du Commerce de Proximite et replicable dans toute commune. Premier deploiement cible : Barcelone (Eix Sarria, Poblenou) et Saragosse, dans la continuite de l'heritage de la capitalite europeenne."
+      }
     }
   }
 }
