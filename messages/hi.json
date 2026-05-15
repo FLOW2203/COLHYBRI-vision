@@ -2278,6 +2278,57 @@
         "title": "The COLHYBRI proposition for Spain",
         "body": "A turnkey digital tool for Spanish town halls, merchant associations and BIDs. 4-week deployment. Funded by residents at 3 euros per month. 0% commission for local shops. Aligned with the European Capital of Neighborhood Commerce model and replicable in any municipality. First deployment target: Barcelona (Eix Sarria, Poblenou) and Zaragoza, building on the legacy of the European capital year."
       }
+    },
+    "uk": {
+      "badge": "IMPACT UK",
+      "title": "1 in 7 UK high street shops are empty. The infrastructure is ready.",
+      "subtitle": "The High Streets Task Force proved that revitalization works when local partnerships get the right tools. The 1.5 billion pound Plan for Neighbourhoods meets its missing digital layer.",
+      "stats": [
+        {
+          "value": "14%",
+          "label": "UK high street shops currently vacant (1 in 7)"
+        },
+        {
+          "value": "138",
+          "label": "High Streets supported by the Task Force 2019-2024"
+        },
+        {
+          "value": "1.5B GBP",
+          "label": "UK Plan for Neighbourhoods + High Street Rental Auctions budget"
+        },
+        {
+          "value": "94%",
+          "label": "satisfaction rate across HSTF Placemaking Programme"
+        }
+      ],
+      "context": [
+        "The UK Government's High Streets Task Force (HSTF) operated from 2019 to 2024 under the leadership of the Institute of Place Management (Manchester Metropolitan University), working with the Royal Town Planning Institute, Design Council, PwC, ATCM and BID Foundation. It directly supported 138 high streets and delivered its Placemaking Programme in 32 places to over 800 stakeholders with a 94% satisfaction rate.",
+        "In 2024 the UK Government introduced High Street Rental Auctions (HSRAs), giving local authorities the power to force landlords to rent out persistently vacant commercial units. The Institute of Place Management publicly stated that these powers will only work if local authorities have the capacity and local intelligence to use them. That capacity gap is exactly where COLHYBRI fits.",
+        "The UK ecosystem is also where COLHYBRI's financial infrastructure partners are concentrated: Ebury (London, IPO Q2 2026) powers cross-border payments for Fulham, Aston Villa and other Premier League clubs; Hummingbird Ventures (London) is a natural fit for pre-Series A; BID Foundation coordinates 340+ Business Improvement Districts across the country. COLHYBRI's first UK deployment targets: Manchester (near IPM HQ) and a London Business Improvement District."
+      ],
+      "barometer": {
+        "title": "UK high street barometer",
+        "subtitle": "2024-2025 data from UK Government, Institute of Place Management, HSTF legacy report",
+        "items": [
+          {
+            "value": "1 in 7",
+            "label": "UK high street shops empty (UK Government)"
+          },
+          {
+            "value": "340+",
+            "label": "Business Improvement Districts active across the UK"
+          },
+          {
+            "value": "32",
+            "label": "HSTF Placemaking Programme places delivered"
+          }
+        ],
+        "quote": "Successful change is created by local communities who have a vision for their high streets. Sir John Timpson, Chair of the High Streets Expert Panel."
+      },
+      "proposition": {
+        "title": "The COLHYBRI proposition for the UK",
+        "body": "A turnkey digital layer for UK local authorities, Business Improvement Districts and community-led revitalization programmes. 4-week deployment. Funded by residents at 3 pounds per month. 0% commission for independent shops. Native integration with the High Streets Task Force placemaking framework and with High Street Rental Auctions local intelligence needs. First UK deployment target: Manchester, London BIDs and a pilot northern English town aligned with the Plan for Neighbourhoods."
+      }
     }
   }
 }

@@ -2884,6 +2884,57 @@
         "title": "La propuesta COLHYBRI para Espana",
         "body": "Una herramienta digital llave en mano para ayuntamientos, asociaciones de comerciantes y BIDs espanoles. Despliegue en 4 semanas. Financiada por los vecinos a 3 euros al mes. 0% de comision para los comerciantes. Alineada con el modelo Capital Europea del Comerc de Proximitat y replicable en cualquier municipio. Primer despliegue objetivo : Barcelona (Eix Sarria, Poblenou) y Zaragoza, siguiendo el legado de la capitalidad europea."
       }
+    },
+    "uk": {
+      "badge": "IMPACTO REINO UNIDO",
+      "title": "1 de cada 7 comercios de high street estan vacios en Reino Unido. La infraestructura ya esta lista.",
+      "subtitle": "La High Streets Task Force demostro que la revitalizacion funciona cuando las alianzas locales reciben las herramientas adecuadas. El Plan for Neighbourhoods de 1.500 millones de libras se encuentra con la capa digital que le faltaba.",
+      "stats": [
+        {
+          "value": "14%",
+          "label": "comercios de high street actualmente vacios (1 de cada 7)"
+        },
+        {
+          "value": "138",
+          "label": "High Streets acompanadas por la Task Force 2019-2024"
+        },
+        {
+          "value": "1,5 mil M GBP",
+          "label": "presupuesto Plan for Neighbourhoods + High Street Rental Auctions"
+        },
+        {
+          "value": "94%",
+          "label": "tasa de satisfaccion del HSTF Placemaking Programme"
+        }
+      ],
+      "context": [
+        "La High Streets Task Force (HSTF), liderada de 2019 a 2024 por el Gobierno britanico bajo la direccion del Institute of Place Management (Manchester Metropolitan University) junto al Royal Town Planning Institute, Design Council, PwC, ATCM y BID Foundation, acompano directamente a 138 high streets. Su Placemaking Programme llego a mas de 800 actores locales en 32 ciudades, con un 94% de satisfaccion.",
+        "En 2024 el Gobierno britanico introdujo las High Street Rental Auctions (HSRAs), dando a las autoridades locales el poder de obligar a los propietarios a alquilar locales comerciales persistentemente vacios. El Institute of Place Management ha senalado publicamente que estas competencias solo funcionaran si las autoridades locales tienen la capacidad y la inteligencia local para usarlas. Esa brecha es exactamente la que COLHYBRI cubre.",
+        "El Reino Unido concentra ademas los socios de infraestructura financiera de COLHYBRI : Ebury (Londres, IPO Q2 2026) opera los pagos transfronterizos de Fulham, Aston Villa y otros clubes de la Premier League ; Hummingbird Ventures (Londres) es un fit natural para la pre-Series A ; la BID Foundation coordina mas de 340 Business Improvement Districts en todo el pais. Primeros despliegues UK objetivo : Manchester (cerca de la sede IPM) y un BID londinense."
+      ],
+      "barometer": {
+        "title": "Barometro de las high streets britanicas",
+        "subtitle": "Datos 2024-2025 UK Government, Institute of Place Management, HSTF legacy report",
+        "items": [
+          {
+            "value": "1 de 7",
+            "label": "comercios de high street vacios (UK Government)"
+          },
+          {
+            "value": "340+",
+            "label": "Business Improvement Districts activos en el Reino Unido"
+          },
+          {
+            "value": "32",
+            "label": "ciudades alcanzadas por el HSTF Placemaking Programme"
+          }
+        ],
+        "quote": "El cambio sostenible lo crean las comunidades locales que tienen una vision para su high street. Sir John Timpson, presidente del High Streets Expert Panel."
+      },
+      "proposition": {
+        "title": "La propuesta COLHYBRI para el Reino Unido",
+        "body": "Una capa digital llave en mano para autoridades locales britanicas, Business Improvement Districts y programas de revitalizacion liderados por la comunidad. Despliegue en 4 semanas. Financiada por los vecinos a 3 libras al mes. 0% de comision para los comercios independientes. Integracion nativa con el marco de placemaking de la High Streets Task Force y con las necesidades de inteligencia local de las High Street Rental Auctions. Primeros despliegues UK objetivo : Manchester, BIDs londinenses y una ciudad piloto del norte de Inglaterra alineada con el Plan for Neighbourhoods."
+      }
     }
   }
 }
