@@ -6,7 +6,7 @@ import { generatePageMetadata, generateOrganizationJsonLd, generateWebSiteJsonLd
 import { getLocalizedPath } from '@/lib/navigation';
 import { JsonLd } from '@/components/JsonLd';
 import { AnimatedCounter } from '@/components/AnimatedCounter';
-import { LocalStats } from '@/components/LocalStats';
+
 import { WorldMap } from '@/components/WorldMap';
 import { VisionImage } from '@/components/ui/VisionImage';
 import { FadeInOnScroll } from '@/components/ui/FadeInOnScroll';
@@ -304,8 +304,6 @@ export default function HomePage({ params: { locale } }: PageProps) {
         </div>
       </section>
 
-      {/* Local impact (kept from existing component) */}
-      <LocalStats locale={l} />
 
       {/* ================= Section 7: FINAL CTA ================= */}
       <section className="bg-colhybri-teal text-white">

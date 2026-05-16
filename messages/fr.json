@@ -237,47 +237,85 @@
   },
   "impact": {
     "title": "Impact",
-    "headline": "Le multiplicateur keynésien en action",
-    "description": "Chaque euro qui circule localement multiplie sa valeur en activite économique. COLHYBRI canalise les dépenses vers le commerce de proximite, renforce la vitalité des centres-villes et construit des quartiers plus résilients.",
-    "metrics": {
-      "localValue": {
-        "value": "x2,5",
-        "label": "Multiplicateur estime de valeur locale"
+    "description": "COLHYBRI s'inscrit dans les programmes de revitalisation des centres-villes les plus ambitieux, en France, aux Etats-Unis et en Europe.",
+    "heroBadge": "IMPACT MONDIAL",
+    "heroTitle": "La revitalisation des centres-villes est en marche",
+    "heroSubtitle": "COLHYBRI s'inscrit dans les programmes de revitalisation les plus ambitieux, en France, aux Etats-Unis et en Europe.",
+    "globalStats": {
+      "0": {
+        "value": "1 732",
+        "label": "communes classees ZRCV en France (arrete 26 dec. 2025)"
       },
-      "jobsCreated": {
-        "value": "1 emploi",
-        "label": "Pour 200 abonnes actifs dans un quartier"
+      "1": {
+        "value": "8 764",
+        "label": "Opportunity Zones aux Etats-Unis"
       },
-      "moneyLocal": {
-        "value": "Important",
-        "label": "Part des dépenses restant localement"
+      "2": {
+        "value": "60M EUR",
+        "label": "budget EUI Call 4 (deadline 15 juin 2026)"
+      },
+      "3": {
+        "value": "1 200+",
+        "label": "communautes Main Street America"
       }
     },
-    "regionsMenu": {
-      "title": "Explorez par region",
-      "subtitle": "Données locales vérifiées, pages dediees par sphere linguistique.",
-      "labels": {
-        "france": "France",
-        "maroc": "Maroc",
-        "usa": "USA",
-        "uk": "Royaume-Uni",
-        "espana": "Espagne",
-        "europe": "Europe",
-        "latam": "Amerique Latine",
-        "africa": "Afrique"
+    "regionsTitle": "Cinq regions, un meme outil",
+    "regionsSubtitle": "De la commune ZRCV francaise a la Main Street americaine, COLHYBRI s'adapte aux programmes locaux de revitalisation.",
+    "regions": {
+      "cta": "Explorer",
+      "france": {
+        "title": "France",
+        "lines": {
+          "0": "1 732 communes ZRCV (arrete 26 dec. 2025)",
+          "1": "244 communes Action Coeur de Ville 2 (5 Mds EUR 2023-2026)",
+          "2": "1 646 communes Petites Villes de Demain"
+        }
       },
-      "roadmapTitle": "Roadmap internationale",
-      "roadmapBody": "Pour les investisseurs et partenaires internationaux, les pages hors sphere francophone restent accessibles par URL directe.",
-      "roadmapSoon": "Bientôt"
+      "usa": {
+        "title": "Etats-Unis",
+        "lines": {
+          "0": "8 764 Opportunity Zones (OZ 2.0 permanentes des 2027)",
+          "1": "1 200+ communautes Main Street America",
+          "2": "24 legacy cities identifiees par le Lincoln Institute"
+        }
+      },
+      "europe": {
+        "title": "Europe",
+        "lines": {
+          "0": "Barcelona, Capitale Europeenne du Petit Commerce 2026",
+          "1": "EUI Call 4 : 60M EUR FEDER (deadline 15 juin 2026)",
+          "2": "28 villes candidates de 13 pays au label ECoSR"
+        }
+      },
+      "latam": {
+        "title": "Amerique Latine",
+        "lines": {
+          "0": "55% des travailleurs en emploi informel (OCDE)",
+          "1": "Croissance 2,1% en 2026, la plus faible au monde (Banque Mondiale)",
+          "2": "Formalisation par la digitalisation zero-friction"
+        }
+      },
+      "africa": {
+        "title": "Afrique",
+        "lines": {
+          "0": "Croissance 4,3% en 2026 et 4,5% en 2027 (Banque Mondiale)",
+          "1": "Premier employeur : commerce informel de centre-ville",
+          "2": "Zero outil digital dedie au commerce urbain"
+        }
+      }
     },
-    "multiplierExplanation": {
-      "title": "Le multiplicateur keynésien",
-      "subscription": "Abonnement",
-      "subscriptionAmount": "3€",
-      "multiplierLabel": "Multiplicateur",
-      "localValueLabel": "Valeur économique locale",
-      "localValueAmount": "7,50€"
-    }
+    "programsTitle": "Programmes de reference",
+    "programs": {
+      "0": "Action Coeur de Ville",
+      "1": "Petites Villes de Demain",
+      "2": "Main Street America",
+      "3": "ECoSR 2026",
+      "4": "EUI Call 4",
+      "5": "Opportunity Zones 2.0"
+    },
+    "ctaTitle": "Rejoignez les programmes de revitalisation",
+    "ctaDemo": "Planifier une demo",
+    "ctaInvestors": "Consulter le dossier investisseur"
   },
   "miami": {
     "title": "Miami",
@@ -384,7 +422,7 @@
     "quote": "Je fais ma part. Légende amérindienne du colibri.",
     "group": "Un projet ONLYMORE Group",
     "copyright": {
-      "main": "© 2026 COLHYBRI. Une initiative d'ONLYMORE Group. Tous droits réservés.",
+      "main": "© 2024-2026 COLHYBRI — ONLYMORE Group. Tous droits reserves.",
       "ip": "L'ensemble des photos, textes, designs et contenus sont la propriété intellectuelle d'ONLYMORE Group et ne peuvent être reproduits, diffusés ou utilisés à des fins commerciales sans autorisation écrite préalable.",
       "contact": "Pour toute demande de licence, presse ou partenariat : onlymore2024@gmail.com"
     },
@@ -2462,11 +2500,10 @@
     "flywheel": {
       "title": "Le modele",
       "subtitle": "Un ecosysteme qui boucle.",
-      "step1": "COLHYBRI (B2C 3 EUR)",
-      "step2": "Pool solidaire",
-      "step3": "Commercants (B2B 10 EUR)",
-      "step4": "CROWNIUM (sport)",
-      "step5": "ONLYMORE FINANCE (credit)",
+      "step1": "Les abonnements B2C COLHYBRI (3 EUR/mois x membres)",
+      "step2": "Financent le deploiement B2B (Maps+ pour commercants, 10 EUR/mois)",
+      "step3": "Les revenus B2B financent CROWNIUM (financement clubs sportifs)",
+      "step4": "ONLYMORE FINANCE boucle le cycle (credit Lombard intragroupe)",
       "quote": "Les abonnements B2C financent le B2B. Le B2B finance les investissements sportifs. Le credit boucle le cycle."
     },
     "useOfFunds": {
@@ -2496,10 +2533,10 @@
         "bio": "Structuration financiere et reporting investisseurs.",
         "photoAlt": "Portrait de João Almeida, CFO de COLHYBRI"
       },
-      "stephane": {
-        "role": "Fundraising (Winvesty)",
-        "bio": "Levee de fonds et reseau investisseurs.",
-        "photoAlt": "Portrait de Stéphane Picard, Partenaire Fundraising de COLHYBRI"
+      "hiring": {
+        "title": "Rejoignez l'aventure",
+        "text": "Nous cherchons un CTO et un responsable commercial.",
+        "cta": "Postuler"
       }
     },
     "deck": {
@@ -2687,354 +2724,335 @@
   },
   "impactPages": {
     "france": {
-      "badge": "IMPACT FRANCE",
-      "title": "La France reinvente ses centres-villes",
-      "subtitle": "1 732 ZRCV, 244 Action Coeur de Ville, 1 646 Petites Villes de Demain.",
-      "stats": [
-        {
+      "badge": "FRANCE",
+      "title": "1 732 communes en zone de revitalisation",
+      "subtitle": "La France est le premier marche de COLHYBRI. Les outils existent, les financements sont la, les communes attendent la solution.",
+      "stats": {
+        "0": {
           "value": "1 732",
-          "label": "communes ZRCV 2026"
+          "label": "communes classees ZRCV (arrete 26 dec. 2025)"
         },
-        {
+        "1": {
           "value": "244",
-          "label": "Action Coeur de Ville"
+          "label": "communes Action Coeur de Ville 2"
         },
-        {
+        "2": {
           "value": "1 646",
-          "label": "Petites Villes de Demain"
+          "label": "communes Petites Villes de Demain"
         },
-        {
+        "3": {
           "value": "5 Mds EUR",
           "label": "mobilises 2023-2026"
         }
-      ],
-      "context": [
-        "La devitalisation des centres-villes est le premier enjeu des municipales 2026. 55% des villes moyennes ont un taux de vacance commerciale superieur a 10%.",
-        "Le gouvernement a lance des managers de commerce finances par les CCI et un groupe de travail au Conseil National du Commerce.",
-        "Les programmes nationaux (ACV, PVD, ZRCV) couvrent 1 890 communes mais manquent d'outils de mesure numerique."
-      ],
-      "barometer": {
-        "0": {
-          "value": "79%",
-          "label": "aspirent a la fraternite"
-        },
-        "1": {
-          "value": "55%",
-          "label": "vivent la solitude"
-        },
-        "2": {
-          "value": "31%",
-          "label": "n'ont aucun lieu de rencontre"
-        },
-        "title": "Barometre Confiance et Fraternite",
-        "subtitle": "Donnees IFOP / Labo de la Fraternite 2026",
-        "quote": "COLHYBRI est le tiers-lieu digital qui comble ce vide."
+      },
+      "context": {
+        "0": "Le dispositif ZRCV permet aux elus d'exonerer de CFE et de taxe fonciere les commerces, mais il reste tres peu utilise. Les communes ne savent souvent meme pas qu'elles font partie du zonage.",
+        "1": "Les managers de commerce finances par les CCI manquent d'outils numeriques. COLHYBRI devient l'infrastructure digitale de la revitalisation.",
+        "2": "A l'approche des municipales 2026, la revitalisation des centres-villes est l'enjeu central des projets de mandat."
       },
       "proposition": {
-        "title": "La proposition COLHYBRI",
-        "body": "COLHYBRI est le modele Barcelona en SaaS, accessible a toute commune de 25 000 habitants. Pilote gratuit 90 jours."
+        "title": "La reponse COLHYBRI",
+        "body": "Maps+ repond exactement au besoin des managers de commerce CCI : audit de presence digitale, onboarding Google Places zero-friction, monitoring des avis. A l'approche des municipales 2026, la revitalisation des centres-villes est l'enjeu central des projets de mandat."
+      },
+      "barometer": {
+        "0": {
+          "value": "1 732",
+          "label": "communes ZRCV"
+        },
+        "1": {
+          "value": "244",
+          "label": "Action Coeur de Ville"
+        },
+        "2": {
+          "value": "1 646",
+          "label": "Petites Villes de Demain"
+        },
+        "title": "Barometre centres-villes",
+        "subtitle": "Les chiffres cles de la revitalisation en France",
+        "quote": "La revitalisation des centres-villes est l'enjeu central des projets de mandat municipaux 2026."
       }
     },
     "usa": {
-      "badge": "IMPACT USA",
-      "title": "Revitaliser le Rust Belt, une Main Street a la fois",
-      "subtitle": "8 764 Opportunity Zones. 1 200+ Main Street America communities.",
-      "stats": [
-        {
+      "badge": "ETATS-UNIS",
+      "title": "8 764 Opportunity Zones, 1 200 Main Streets",
+      "subtitle": "Le Rust Belt pivote. COLHYBRI est le digital layer des programmes de revitalisation americains.",
+      "stats": {
+        "0": {
           "value": "8 764",
-          "label": "Opportunity Zones (OZ 1.0)"
+          "label": "Opportunity Zones (OZ 2.0 permanentes des 2027)"
         },
-        {
-          "value": "6 544",
-          "label": "nouvelles OZ 2.0 (juillet 2026)"
-        },
-        {
+        "1": {
           "value": "1 200+",
           "label": "communautes Main Street America"
         },
-        {
-          "value": "$23.7M",
-          "label": "RAISE grant East Moline"
+        "2": {
+          "value": "24",
+          "label": "legacy cities identifiees (Lincoln Institute)"
+        },
+        "3": {
+          "value": "30%",
+          "label": "reduction plus-values differees apres 5 ans (OZ 2.0)"
         }
-      ],
-      "context": [
-        "Le Rust Belt traverse une transformation historique. Pittsburgh, Cleveland, Canton et Allentown passent de l'industrie lourde a la tech et au developpement mixte de centre-ville.",
-        "Le One Big Beautiful Bill Act (2025) rend les Opportunity Zones permanentes et lance OZ 2.0 en juillet 2026.",
-        "Canton (Ohio) est le blueprint : un developpeur a restaure 42 batiments en centre-ville grace aux credits d'impot historiques (20% federal + 25% etat)."
-      ],
-      "barometer": {
-        "title": "Barometre des centres-villes americains",
-        "subtitle": "Données 2024-2025 Main Street America, Treasury, FloridaCommerce",
-        "items": [
-          {
-            "value": "7,65 Md$",
-            "label": "reinvestissement local Main Street America 2024"
-          },
-          {
-            "value": "33 835",
-            "label": "nouveaux emplois crees par le réseau en 2024"
-          },
-          {
-            "value": "43%",
-            "label": "croissance économique Tampa 2019-2023 (rang 2 US mid-sized)"
-          }
-        ],
-        "quote": "Under President Trump's leadership, the Working Families Tax Cuts permanently renewed and strengthened Opportunity Zones. Scott Bessent, US Treasury Secretary, avril 2026."
       },
-      "miami": {
-        "title": "Miami, ville pilote US",
-        "intro": "Miami-Dade combine un ecosysteme dense de commerces locaux, une population bilingue et un agenda de revitalisation des centres-villes.",
-        "reason1": "Un tissu de commerces de proximite dense le long des Main Streets",
-        "reason2": "Une population bilingue alignee avec notre produit multilingue",
-        "reason3": "Une porte d'entree vers l'Amerique Latine pour l'expansion regionale",
-        "reason4": "Des institutions locales engagees dans la revitalisation"
+      "context": {
+        "0": "Le One Big Beautiful Bill Act de 2025 rend les Opportunity Zones permanentes et lance un nouveau cycle de nomination OZ 2.0 au second semestre 2026, avec entree en vigueur au 1er janvier 2027.",
+        "1": "L'IRS a publie le 9 avril 2026 les procedures pour que les gouverneurs nomment les nouveaux census tracts. C'est maintenant.",
+        "2": "Les 1 200+ communautes Main Street America manquent d'outils numeriques pour piloter leur revitalisation."
       },
       "proposition": {
-        "title": "La proposition COLHYBRI",
-        "body": "COLHYBRI is the SaaS that makes Main Street measurable. Vous avez les incitations OZ. Nous avons le dashboard digital."
+        "title": "La reponse COLHYBRI",
+        "body": "Maps+ est exactement ce dont un Main Street Manager a besoin. Positionnement : The SaaS that makes Main Street measurable. Les villes cibles : Pittsburgh, Cleveland, Erie, Canton, Allentown, Grand Rapids, Hamilton."
+      },
+      "miami": {
+        "title": "Focus Rust Belt & Main Street",
+        "intro": "Les villes du Rust Belt americain connaissent un renouveau economique porte par les programmes federaux.",
+        "reason1": "Pittsburgh : requalification post-industrielle via les Opportunity Zones",
+        "reason2": "Cleveland : Main Street America community active depuis 2018",
+        "reason3": "Canton : legacy city identifiee par le Lincoln Institute",
+        "reason4": "Grand Rapids : modele de revitalisation reussi, benchmark COLHYBRI"
       }
     },
     "europe": {
-      "badge": "IMPACT EUROPE",
-      "title": "Barcelona montre la voie. COLHYBRI la rend accessible.",
-      "subtitle": "ECoSR 2026. EUI Call 4 : 60M EUR FEDER. 28 villes candidates.",
-      "stats": [
-        {
+      "badge": "EUROPE",
+      "title": "Barcelona montre la voie. COLHYBRI la democratise.",
+      "subtitle": "Le label Capitale Europeenne du Petit Commerce valide le modele. L'EUI Call 4 finance la mise a l'echelle.",
+      "stats": {
+        "0": {
           "value": "Barcelona",
           "label": "Capitale Europeenne du Petit Commerce 2026"
         },
-        {
+        "1": {
           "value": "60M EUR",
-          "label": "EUI Call 4 FEDER"
+          "label": "budget EUI Call 4 FEDER (deadline 15 juin 2026)"
         },
-        {
-          "value": "28 villes",
-          "label": "candidates ECoSR dans 13 pays"
+        "2": {
+          "value": "28",
+          "label": "villes candidates de 13 pays au label ECoSR"
         },
-        {
-          "value": "40+",
-          "label": "initiatives digitales a Barcelona"
+        "3": {
+          "value": "80%",
+          "label": "co-financement EUI, jusqu'a 5M EUR par projet"
         }
-      ],
-      "context": [
-        "L'UE a cree en 2026 le label Capitale Europeenne du Petit Commerce avec 3 laureates : Barcelona, Caldas da Rainha, Silandro.",
-        "Les 4 criteres : durabilite, digitalisation, entrepreneuriat, vitalite urbaine.",
-        "L'EU Agenda for Cities (decembre 2025) structure 3 piliers : dialogue territorial, simplification, investissement strategique."
-      ],
+      },
+      "context": {
+        "0": "L'UE a cree le label Capitale Europeenne du Petit Commerce en 2026 avec trois laureates : Barcelona (grandes villes), Caldas da Rainha au Portugal (villes moyennes), et Silandro en Italie (petites villes).",
+        "1": "L'evaluation porte sur 4 criteres : durabilite, digitalisation, soutien a l'entrepreneuriat, et attractivite urbaine. Les 4 criteres sont exactement les 4 piliers de COLHYBRI.",
+        "2": "Le 4eme appel EUI-Innovative Actions est ouvert depuis le 25 fevrier 2026, cloture le 15 juin 2026."
+      },
       "proposition": {
-        "title": "La proposition COLHYBRI",
-        "body": "COLHYBRI rend le modele Barcelona accessible en SaaS a toute ville UE de 25 000+ habitants. Les 4 criteres ECoSR sont les 4 piliers de COLHYBRI."
+        "title": "La reponse COLHYBRI",
+        "body": "Jusqu'a 5M EUR par projet, co-financement 80%, pour les villes UE de plus de 25 000 habitants. COLHYBRI peut etre la solution digitale d'un projet pilote europeen."
       }
     },
     "latam": {
-      "badge": "IMPACT AMERIQUE LATINE",
-      "title": "Formaliser le commerce informel par la solidarite digitale",
-      "subtitle": "55% d'emploi informel. 2,1% de croissance 2026.",
-      "stats": [
-        {
+      "badge": "AMERIQUE LATINE",
+      "title": "55% d'emploi informel. La formalisation par le digital.",
+      "subtitle": "Le plus grand reservoir de commerce de proximite au monde. Zero outil adapte.",
+      "stats": {
+        "0": {
           "value": "55%",
-          "label": "d'emploi informel en Amerique Latine"
+          "label": "des travailleurs en emploi informel (OCDE)"
         },
-        {
+        "1": {
           "value": "2,1%",
-          "label": "croissance 2026 (plus faible au monde)"
+          "label": "croissance 2026, la plus faible au monde"
         },
-        {
-          "value": "67M",
-          "label": "travailleurs informels"
+        "2": {
+          "value": "650M",
+          "label": "habitants"
         },
-        {
-          "value": "$3/mois",
-          "label": "abonnement COLHYBRI"
+        "3": {
+          "value": "0",
+          "label": "outil digital dedie au commerce de proximite informel"
         }
-      ],
-      "context": [
-        "L'Amerique Latine a la croissance la plus faible au monde en 2026. 55% des travailleurs sont informels, un taux stable depuis 2018.",
-        "La formalisation du commerce de proximite est la priorite de l'IDB et de la Banque Mondiale pour elargir l'assiette fiscale.",
-        "Le mobile-first est le seul canal d'acces viable pour cette population."
-      ],
+      },
+      "context": {
+        "0": "55% des travailleurs en Amerique latine sont informels, un taux stable depuis 2018.",
+        "1": "La croissance projetee de 2,1% en 2026 est la plus faible de toutes les regions mondiales, insuffisante pour reduire la pauvrete.",
+        "2": "Le commerce informel de proximite est le premier employeur mais n'a aucun outil digital dedie."
+      },
       "proposition": {
-        "title": "La proposition COLHYBRI",
-        "body": "COLHYBRI formalise le commerce informel par la digitalisation zero-friction. 3 USD/mois. Pas de credit check, pas de banque requise."
+        "title": "La reponse COLHYBRI",
+        "body": "COLHYBRI formalise le commerce informel de proximite par la digitalisation zero-friction, augmentant l'assiette fiscale locale sans bureaucratie. Partenariat potentiel IDB et Banque Mondiale."
       }
     },
     "africa": {
-      "badge": "IMPACT AFRIQUE",
-      "title": "La premiere data commerce locale pour l'Afrique",
-      "subtitle": "4,3% de croissance 2026. Zero outil digital dedie.",
-      "stats": [
-        {
+      "badge": "AFRIQUE",
+      "title": "Le boom urbain sans infrastructure digitale",
+      "subtitle": "4,3% de croissance. Le commerce informel est le premier employeur. Aucun outil digital dedie.",
+      "stats": {
+        "0": {
           "value": "4,3%",
-          "label": "croissance 2026"
+          "label": "croissance projetee 2026 (Banque Mondiale)"
         },
-        {
+        "1": {
           "value": "4,5%",
-          "label": "croissance 2027"
+          "label": "croissance projetee 2027"
         },
-        {
+        "2": {
+          "value": "1er",
+          "label": "employeur : commerce informel de centre-ville"
+        },
+        "3": {
           "value": "0",
-          "label": "outils digitaux commerce informel urbain"
-        },
-        {
-          "value": "Mobile-first",
-          "label": "seul canal viable"
+          "label": "outil digital dedie au commerce urbain"
         }
-      ],
-      "context": [
-        "L'Afrique subsaharienne connait la croissance la plus rapide au monde mais insuffisante pour absorber l'expansion de la force de travail.",
-        "Le commerce informel urbain est le premier employeur mais n'a aucun outil digital.",
-        "L'urbanisation rapide cree un besoin immediat de structuration du commerce de proximite."
-      ],
+      },
+      "context": {
+        "0": "La croissance est portee par l'investissement et les reformes, mais elle est insuffisante pour absorber l'expansion rapide de la force de travail.",
+        "1": "Le commerce informel de centre-ville est le premier employeur, et il n'a aucun outil digital.",
+        "2": "L'urbanisation rapide cree une demande massive d'outils de gestion du commerce de proximite."
+      },
       "proposition": {
-        "title": "La proposition COLHYBRI",
-        "body": "COLHYBRI mobile-first pour le commerce informel urbain africain. Premiere data commerce locale. Pilote cible : Dakar, Abidjan, Tunis."
+        "title": "La reponse COLHYBRI",
+        "body": "COLHYBRI adapte aux marches africains = Maps+ pour le commerce informel urbain. Mobile-first. Partenariat potentiel AFD (Agence Francaise de Developpement) pour un pilote dans une ville francophone : Dakar, Abidjan, ou Tunis."
       }
     },
     "espana": {
-      "badge": "IMPACT ESPAGNE",
-      "title": "Barcelone, Capitale Europeenne du Commerce de Proximite 2026.",
-      "subtitle": "Le petit commerce espagnol génère 1,01 billion d'euros par an (INE 2023). Barcelone demontre que la proximite peut devenir un standard europeen de resilience urbaine. COLHYBRI accompagne ce mouvement.",
-      "stats": [
-        {
-          "value": "13,2%",
-          "label": "du PIB local de Barcelone provient du commerce de proximite"
-        },
-        {
-          "value": "152 000",
-          "label": "emplois générés par le commerce de proximite a Barcelone"
-        },
-        {
-          "value": "3 M EUR",
-          "label": "budget UE pour la Capitale Europeenne 2026"
-        },
-        {
-          "value": "90,9%",
-          "label": "des locaux commerciaux restent actifs a Barcelone"
-        }
-      ],
-      "context": [
-        "Barcelone a ete designee Capitale Europeenne du Commerce de Proximite 2026 le 28 janvier 2026 a Bruxelles, devant Saragosse et Utrecht. L'initiative est portee depuis 2019 par Barcelona Comerc et Vitrines d'Europe, associations privees de commerçants, ratifiee par le Parlement Europeen en janvier 2023 et cofinancee par la Commission Europeenne (DG GROW) via EISMEA.",
-        "La crise du petit commerce espagnol est réelle : sur les 300 000 petits commerces recenses en Espagne en 2010, entre 30% et 40% ont disparu en 2025. Sur la seule année 2025, 13 586 commerces ont ferme (une moyenne de 1 132 par mois selon l'UPTA) et les projections annoncent plus de 12 000 fermetures supplementaires en 2026 si les politiques d'appui ne changent pas.",
-        "La Catalogne représente 19,5% du commerce espagnol (24,9% pour la Communaute de Madrid, source INE). Le modele Barcelone demontre que le commerce de proximite n'est pas qu'un paysage urbain ni une tradition, mais une structure productive et un moteur de cohesion sociale. COLHYBRI est le support digital natif de ce modele, replicable dans n'importe quelle commune espagnole ou europeenne."
-      ],
-      "barometer": {
+      "badge": "ESPAGNE",
+      "title": "Barcelona, Capitale Europeenne du Petit Commerce 2026",
+      "subtitle": "L'Espagne est un laboratoire de la revitalisation commerciale urbaine avec le label ECoSR.",
+      "stats": {
         "0": {
-          "value": "1,01 B EUR",
-          "label": "chiffre d'affaires du Sector Comercio en Espagne (INE 2023)"
+          "value": "Barcelona",
+          "label": "Capitale Europeenne du Petit Commerce 2026"
         },
         "1": {
-          "value": "-13 586",
-          "label": "petits commerces fermes en 2025 (UPTA)"
+          "value": "70 000+",
+          "label": "commerces de proximite en Espagne"
         },
         "2": {
-          "value": "6,1%",
-          "label": "croissance annuelle du Sector Comercio espagnol (INE 2023)"
+          "value": "4",
+          "label": "criteres ECoSR alignes avec COLHYBRI"
         },
-        "title": "Barometre du commerce espagnol",
-        "subtitle": "Données 2023-2026 INE, UPTA, Ajuntament de Barcelona",
-        "quote": "Le commerce de proximite n'est pas qu'un paysage urbain ni une tradition, c'est une structure productive. Prosper Puig, president de Barcelona Comerc."
+        "3": {
+          "value": "28",
+          "label": "villes candidates au label ECoSR"
+        }
+      },
+      "context": {
+        "0": "Barcelona a ete designee Capitale Europeenne du Petit Commerce 2026 pour les grandes villes.",
+        "1": "Le modele catalan des Eix Comercials est un benchmark pour COLHYBRI.",
+        "2": "L'Espagne est le marche naturel d'expansion apres la France grace a la proximite linguistique et culturelle."
       },
       "proposition": {
-        "title": "La proposition COLHYBRI pour l'Espagne",
-        "body": "Un outil digital cle en main pour les mairies, associations de commerçants et BIDs espagnols. Deploiement en 4 semaines. Finance par les habitants a 3 EUR par mois. 0% de commission pour les commerçants. Aligne sur le modele Capitale Europeenne du Commerce de Proximite et replicable dans n'importe quelle commune. Premier deploiement cible : Barcelone (Eix Sarria, Poblenou) et Saragosse, dans le sillage du leg de la capitalite europeenne."
+        "title": "La reponse COLHYBRI",
+        "body": "Maps+ adapte au marche espagnol, en partenariat avec les associations de commercants locaux et les BIDs."
+      },
+      "barometer": {
+        "0": {
+          "value": "70 000+",
+          "label": "commerces de proximite"
+        },
+        "1": {
+          "value": "Barcelona",
+          "label": "ECoSR 2026"
+        },
+        "2": {
+          "value": "28",
+          "label": "villes candidates"
+        },
+        "title": "Barometre commerce espagnol",
+        "subtitle": "Chiffres cles du commerce de proximite en Espagne",
+        "quote": "Le modele catalan des Eix Comercials montre la voie de la revitalisation par le commerce."
       }
     },
     "uk": {
-      "badge": "IMPACT ROYAUME-UNI",
-      "title": "1 commerce sur 7 est vide au Royaume-Uni. L'infrastructure est prête.",
-      "subtitle": "La High Streets Task Force a prouve que la revitalisation fonctionne quand les partenariats locaux disposent des bons outils. Le Plan for Neighbourhoods de 1,5 milliard de livres rencontre sa couche digitale manquante.",
-      "stats": [
-        {
-          "value": "14%",
-          "label": "commerces de rue vides au Royaume-Uni (1 sur 7)"
-        },
-        {
-          "value": "138",
-          "label": "High Streets accompagnees par la Task Force 2019-2024"
-        },
-        {
-          "value": "1,5 Md GBP",
-          "label": "budget Plan for Neighbourhoods + High Street Rental Auctions"
-        },
-        {
-          "value": "94%",
-          "label": "taux de satisfaction du Placemaking Programme HSTF"
-        }
-      ],
-      "context": [
-        "La High Streets Task Force (HSTF) du gouvernement britannique a opere de 2019 a 2024 sous le pilotage de l'Institute of Place Management (Manchester Metropolitan University), en partenariat avec le Royal Town Planning Institute, Design Council, PwC, ATCM et la BID Foundation. Elle a directement accompagne 138 high streets et deploye son Placemaking Programme dans 32 lieux aupres de plus de 800 parties prenantes, avec un taux de satisfaction de 94%.",
-        "En 2024, le gouvernement britannique a introduit les High Street Rental Auctions (HSRAs), donnant aux collectivites locales le pouvoir d'obliger les bailleurs a louer les locaux commerciaux vacants de maniere persistante. L'Institute of Place Management a publiquement souligne que ces pouvoirs ne fonctionneront que si les collectivites locales disposent de la capacite et de l'intelligence territoriale pour les utiliser. C'est exactement la ou COLHYBRI s'inscrit.",
-        "L'écosystème britannique concentre egalement les partenaires financiers naturels de COLHYBRI : Ebury (Londres, IPO Q2 2026) qui opere les paiements transfrontaliers de Fulham, Aston Villa et d'autres clubs de Premier League ; Hummingbird Ventures (Londres) parfaitement aligne en pre-Series A ; la BID Foundation qui coordonne plus de 340 Business Improvement Districts sur le territoire. Premiers deploiements UK cibles : Manchester (proche du siege de l'IPM) et un Business Improvement District londonien."
-      ],
-      "barometer": {
+      "badge": "ROYAUME-UNI",
+      "title": "Le high street britannique en mutation",
+      "subtitle": "Les high streets britanniques font face a une transformation acceleree depuis le Brexit.",
+      "stats": {
         "0": {
-          "value": "1 sur 7",
-          "label": "commerces de rue britanniques vides (UK Government)"
+          "value": "15%",
+          "label": "taux de vacance commerciale en high street"
         },
         "1": {
-          "value": "340+",
-          "label": "Business Improvement Districts actifs au Royaume-Uni"
+          "value": "6 000+",
+          "label": "high streets au Royaume-Uni"
         },
         "2": {
-          "value": "32",
-          "label": "lieux accompagnes par le Placemaking Programme HSTF"
+          "value": "2,4 Mds GBP",
+          "label": "Levelling Up Fund 2024-2026"
         },
-        "title": "Barometre des high streets britanniques",
-        "subtitle": "Données 2024-2025 UK Government, Institute of Place Management, HSTF Legacy Report",
-        "quote": "Le changement reussi est créé par des communautes locales qui ont une vision pour leurs high streets. Sir John Timpson, president du High Streets Expert Panel."
+        "3": {
+          "value": "101",
+          "label": "villes beneficiaires du Towns Fund"
+        }
+      },
+      "context": {
+        "0": "Le taux de vacance commerciale en high street atteint 15% au Royaume-Uni, un des plus eleves en Europe.",
+        "1": "Le gouvernement a lance le Levelling Up Fund et le Towns Fund pour revitaliser les centres-villes.",
+        "2": "Les BIDs (Business Improvement Districts) sont les partenaires naturels de COLHYBRI au UK."
       },
       "proposition": {
-        "title": "La proposition COLHYBRI pour le Royaume-Uni",
-        "body": "Une couche digitale cle en main pour les collectivites britanniques, les Business Improvement Districts et les programmes communautaires de revitalisation. Deploiement en 4 semaines. Finance par les residents a 3 GBP par mois. 0% de commission pour les commerçants independants. Intégration native avec le framework Placemaking de la High Streets Task Force et les besoins d'intelligence territoriale des High Street Rental Auctions. Premier deploiement cible : Manchester, un BID londonien et une ville pilote du nord de l'Angleterre alignee sur le Plan for Neighbourhoods."
+        "title": "La reponse COLHYBRI",
+        "body": "Maps+ pour les BIDs britanniques : audit de presence digitale, onboarding Google Places, monitoring des avis. Partenariat potentiel avec le High Streets Task Force."
+      },
+      "barometer": {
+        "0": {
+          "value": "15%",
+          "label": "vacance commerciale"
+        },
+        "1": {
+          "value": "6 000+",
+          "label": "high streets"
+        },
+        "2": {
+          "value": "101",
+          "label": "Towns Fund"
+        },
+        "title": "Barometre high streets",
+        "subtitle": "Chiffres cles du commerce de proximite au Royaume-Uni",
+        "quote": "Les BIDs britanniques sont les partenaires naturels de COLHYBRI pour la revitalisation des high streets."
       }
     },
     "maroc": {
-      "badge": "IMPACT MAROC",
-      "title": "300 000 commerçants, 22 milliards MAD de e-commerce, 1 Coupe du Monde en 2030.",
-      "subtitle": "La stratégie Commerce Maroc 2030 est lancee. COLHYBRI est la couche digitale manquante pour connecter 300 000 commerçants de proximite a leurs quartiers.",
-      "stats": [
-        {
-          "value": "300 000",
-          "label": "commerçants inscrits a la Contribution Professionnelle Unifiee"
-        },
-        {
-          "value": "22 Md MAD",
-          "label": "volume e-commerce Maroc 2023 (~2 Md EUR)"
-        },
-        {
-          "value": "+30%",
-          "label": "croissance annuelle e-commerce sur 5 ans"
-        },
-        {
-          "value": "39,2%",
-          "label": "créations d'entreprises concentrees a Casablanca-Settat"
-        }
-      ],
-      "context": [
-        "La stratégie Commerce Maroc 2030, lancee le 29 septembre 2025 par le Ministre Ryad Mezzour, pose quatre axes : couverture sociale des commerçants, intégration numérique, inclusion financière et amelioration de l'approvisionnement. 300 000 commerçants ont deja rejoint le systeme de Contribution Professionnelle Unifiee. Le programme Moroccan Retail Tech Builder (MRTB), porte avec l'UM6P et la Fondation OCP, accompagne 161 startups en phase 1 et vise 300 nouvelles startups en phase 2 (2025-2027).",
-        "La Coupe du Monde 2030, organisee conjointement par le Maroc, l'Espagne et le Portugal, est un accelerateur stratégique pour la modernisation du commerce local. Les villes hotes marocaines (Casablanca, Rabat, Marrakech, Tanger, Agadir, Fes) vont voir converger flux touristiques, investissements infrastructures et digitalisation accélérée des commerces de proximite. COLHYBRI arrive au bon moment.",
-        "Les partenaires financiers sont deja mobilises : Attijariwafa Bank et Al Barid Bank proposent des solutions de paiement electronique adaptees aux commerçants de proximite. La convention signee en avril 2025 entre le Ministere de l'Industrie et du Commerce et le Ministere de la Transition Numérique créé les centres regionaux du commerce electronique, infrastructure d'accueil naturelle pour le modele COLHYBRI."
-      ],
-      "barometer": {
+      "badge": "MAROC",
+      "title": "Le commerce de proximite marocain en transition digitale",
+      "subtitle": "7 millions d'actifs dans le commerce informel. Zero outil digital adapte.",
+      "stats": {
         "0": {
-          "value": "25%",
-          "label": "des Marocains achetent deja en ligne (+65% en 5 ans)"
+          "value": "7M",
+          "label": "actifs dans le commerce informel"
         },
         "1": {
-          "value": "59%",
-          "label": "des achats en ligne se font sur mobile"
+          "value": "37M",
+          "label": "habitants"
         },
         "2": {
-          "value": "35 000+",
-          "label": "detaillants dans le réseau d'approvisionnement groupe"
+          "value": "1,7M",
+          "label": "unites commerciales"
         },
-        "title": "Barometre du commerce marocain",
-        "subtitle": "Données 2023-2025 Ministere de l'Industrie et du Commerce, OMPIC, MRTB",
-        "quote": "Le commerce interieur représente un pilier de l'economie nationale et un levier d'equilibre social. Ryad Mezzour, Ministre de l'Industrie et du Commerce, septembre 2025."
+        "3": {
+          "value": "0",
+          "label": "outil digital dedie au commerce de proximite"
+        }
+      },
+      "context": {
+        "0": "Le commerce de proximite represente plus de 90% du commerce de detail au Maroc.",
+        "1": "La strategie Maroc Digital 2030 vise a accelerer la transformation numerique du commerce.",
+        "2": "Le Maroc est le hub naturel de COLHYBRI pour l'Afrique francophone."
       },
       "proposition": {
-        "title": "La proposition COLHYBRI pour le Maroc",
-        "body": "Un outil digital cle en main pour les collectivites marocaines, les chambres de commerce et les associations de commerçants. Deploiement en 4 semaines. Finance par les habitants a l'equivalent de 30 MAD par mois. 0% de commission pour les commerçants locaux. Intégration native avec les centres regionaux du commerce electronique et la stratégie Commerce Maroc 2030. Premier deploiement cible : un quartier commerçant pilote a Casablanca (region Casablanca-Settat, 39% des créations d'entreprises) avec appui potentiel de la Fondation OCP et d'un acteur bancaire (Attijariwafa Bank ou Al Barid Bank)."
+        "title": "La reponse COLHYBRI",
+        "body": "Maps+ adapte au contexte marocain : mobile-first, interface simplifiee, onboarding zero-friction. Partenariat potentiel avec l'ANRT et les CRI."
+      },
+      "barometer": {
+        "0": {
+          "value": "7M",
+          "label": "actifs commerce informel"
+        },
+        "1": {
+          "value": "1,7M",
+          "label": "unites commerciales"
+        },
+        "2": {
+          "value": "90%",
+          "label": "commerce de detail"
+        },
+        "title": "Barometre commerce marocain",
+        "subtitle": "Chiffres cles du commerce de proximite au Maroc",
+        "quote": "Le Maroc est le hub naturel de COLHYBRI pour l'Afrique du Nord et l'Afrique francophone."
       }
     }
   },

@@ -63,13 +63,11 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
     t('flywheel.step2'),
     t('flywheel.step3'),
     t('flywheel.step4'),
-    t('flywheel.step5'),
   ];
 
   const team = [
-    { name: 'Florent Gibert', role: t('team.florent.role'), bio: t('team.florent.bio'), photoUrl: teamPhotos.florent, photoAlt: t('team.florent.photoAlt') },
-    { name: 'João Almeida', role: t('team.joao.role'), bio: t('team.joao.bio'), photoUrl: teamPhotos.joao, photoAlt: t('team.joao.photoAlt') },
-    { name: 'Stéphane Picard', role: t('team.stephane.role'), bio: t('team.stephane.bio'), photoUrl: teamPhotos.stephane, photoAlt: t('team.stephane.photoAlt') },
+    { name: 'Florent Gibert', role: t('team.florent.role'), bio: t('team.florent.bio'), photoUrl: teamPhotos.florent, photoAlt: 'FG' },
+    { name: 'Joao Almeida', role: t('team.joao.role'), bio: t('team.joao.bio'), photoUrl: teamPhotos.joao, photoAlt: 'JA' },
   ];
 
   return (
@@ -206,6 +204,24 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
                 photoAlt={m.photoAlt}
               />
             ))}
+            <div className="card text-center border-2 border-dashed border-colhybri-teal/30">
+              <div className="w-20 h-20 rounded-full bg-colhybri-teal/10 flex items-center justify-center mx-auto mb-4">
+                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#008080" strokeWidth="2" aria-hidden="true">
+                  <path d="M16 21v-2a4 4 0 00-4-4H6a4 4 0 00-4-4v2" />
+                  <circle cx="9" cy="7" r="4" />
+                  <line x1="19" y1="8" x2="19" y2="14" />
+                  <line x1="22" y1="11" x2="16" y2="11" />
+                </svg>
+              </div>
+              <h3 className="font-display text-xl font-semibold">{t('team.hiring.title')}</h3>
+              <p className="font-sans text-sm text-colhybri-dark/70 mt-3 mb-4">{t('team.hiring.text')}</p>
+              <a
+                href="mailto:onlymore2024@gmail.com?subject=Candidature"
+                className="inline-flex items-center justify-center px-6 py-2 rounded-lg bg-colhybri-teal text-white font-semibold text-sm hover:bg-colhybri-teal/90 transition-colors"
+              >
+                {t('team.hiring.cta')}
+              </a>
+            </div>
           </div>
         </div>
       </section>

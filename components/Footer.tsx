@@ -90,7 +90,14 @@ export function Footer({ locale }: FooterProps) {
             >
               {nav('faq')}
             </a>
-            <p className="text-sm text-white/40">{t('group')}</p>
+            <a
+              href="https://onlymore.group"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-white/40 hover:text-colhybri-teal transition-colors"
+            >
+              {t('group')}
+            </a>
           </div>
         </div>
 
@@ -99,10 +106,10 @@ export function Footer({ locale }: FooterProps) {
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
             <p className="text-sm text-white/60 font-medium">{t('copyright.main')}</p>
             <div className="flex gap-6">
-              <Link href="#" className="text-sm text-white/40 hover:text-white/60 transition-colors">
+              <Link href={`/${locale}/privacy`} className="text-sm text-white/40 hover:text-white/60 transition-colors">
                 {t('links.privacy')}
               </Link>
-              <Link href="#" className="text-sm text-white/40 hover:text-white/60 transition-colors">
+              <Link href={`/${locale}/legal`} className="text-sm text-white/40 hover:text-white/60 transition-colors">
                 {t('links.terms')}
               </Link>
             </div>
