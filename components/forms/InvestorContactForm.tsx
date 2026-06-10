@@ -2,7 +2,7 @@
 
 import { useState, FormEvent } from 'react';
 import { useTranslations } from 'next-intl';
-import { supabase, SUPABASE_CONFIGURED, openMailtoFallback } from '@/lib/supabase';
+import { supabase, SUPABASE_CONFIGURED, openMailtoFallback, INVESTOR_EMAIL } from '@/lib/supabase';
 
 type SubmitStatus = 'idle' | 'loading' | 'success' | 'error';
 
@@ -47,7 +47,7 @@ export function InvestorContactForm() {
       `Message:`,
       form.message,
     ].join('\n');
-    openMailtoFallback(subject, body);
+    openMailtoFallback(subject, body, INVESTOR_EMAIL);
     setStatus('success');
   };
 

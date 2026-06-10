@@ -375,7 +375,7 @@
     "title": "Contact",
     "headline": "Contactez-Nous",
     "description": "Intéressé par COLHYBRI ? Que vous soyez un particulier, un commerçant, un élu local ou un investisseur, nous serions ravis d'échanger avec vous.",
-    "email": "onlymore2024@gmail.com",
+    "email": "contact@colhybri.com",
     "cta": "Envoyer un Message",
     "headquarters": "Siège"
   },
@@ -386,7 +386,7 @@
     "copyright": {
       "main": "© 2026 COLHYBRI. Une initiative d'ONLYMORE Group. Tous droits réservés.",
       "ip": "L'ensemble des photos, textes, designs et contenus sont la propriété intellectuelle d'ONLYMORE Group et ne peuvent être reproduits, diffusés ou utilisés à des fins commerciales sans autorisation écrite préalable.",
-      "contact": "Pour toute demande de licence, presse ou partenariat : onlymore2024@gmail.com"
+      "contact": "Pour toute demande de licence, presse ou partenariat : contact@colhybri.com"
     },
     "links": {
       "about": "A propos",
@@ -2515,7 +2515,7 @@
   "pressePage": {
     "meta": {
       "title": "Presse COLHYBRI",
-      "description": "Kit presse, chiffres cles, bio fondateur. Contact : onlymore2024@gmail.com"
+      "description": "Kit presse, chiffres cles, bio fondateur. Contact : contact@colhybri.com"
     },
     "hero": {
       "badge": "PRESSE",
@@ -2594,7 +2594,7 @@
       "successTitle": "Merci !",
       "successBody": "Nous vous recontactons sous 48h.",
       "errorTitle": "Erreur",
-      "errorBody": "Erreur. Veuillez envoyer un email a onlymore2024@gmail.com"
+      "errorBody": "Erreur. Veuillez envoyer un email a contact@colhybri.com"
     },
     "investor": {
       "name": "Nom",
@@ -2607,7 +2607,7 @@
       "successTitle": "Merci !",
       "successBody": "L'equipe fondatrice vous recontacte sous 48h.",
       "errorTitle": "Erreur",
-      "errorBody": "Erreur lors de l'envoi. Envoyez un email a onlymore2024@gmail.com"
+      "errorBody": "Erreur lors de l'envoi. Envoyez un email a florent@onlymore.group"
     },
     "general": {
       "name": "Nom",
@@ -2627,7 +2627,7 @@
       "successTitle": "Merci !",
       "successBody": "Nous repondons sous 48h.",
       "errorTitle": "Erreur",
-      "errorBody": "Erreur lors de l'envoi. Envoyez un email a onlymore2024@gmail.com"
+      "errorBody": "Erreur lors de l'envoi. Envoyez un email a contact@colhybri.com"
     }
   },
   "images": {

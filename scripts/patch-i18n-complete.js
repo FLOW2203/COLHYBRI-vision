@@ -255,7 +255,7 @@ NS.investorsPage = {
 // ── pressePage ──
 NS.pressePage = {
   fr: {
-    meta: { title: "Presse COLHYBRI", description: "Kit presse, chiffres cles, bio fondateur. Contact : onlymore2024@gmail.com" },
+    meta: { title: "Presse COLHYBRI", description: "Kit presse, chiffres cles, bio fondateur. Contact : contact@colhybri.com" },
     hero: { badge: "PRESSE", title: "Kit presse COLHYBRI", subtitle: "Logos, chiffres, bio fondateur et contact presse." },
     logo: { title: "Logo COLHYBRI", body: "Telechargez le logo SVG haute resolution.", download: "Telecharger le SVG" },
     figures: { title: "Chiffres cles", items: ["3 EUR/mois pour les particuliers, 10 EUR/mois pour les commercants","0% de commission (vs 30% UberEats, 25% JustEat)","75% des abonnements redistribues via le pool solidaire","1 732 communes ZRCV en France en 2026","Expansion prevue dans 25+ pays d'ici 2031"] },
@@ -264,7 +264,7 @@ NS.pressePage = {
     contact: { title: "Contact presse" },
   },
   en: {
-    meta: { title: "COLHYBRI Press", description: "Press kit, key figures, founder bio. Contact: onlymore2024@gmail.com" },
+    meta: { title: "COLHYBRI Press", description: "Press kit, key figures, founder bio. Contact: contact@colhybri.com" },
     hero: { badge: "PRESS", title: "COLHYBRI Press Kit", subtitle: "Logos, key figures, founder bio and press contact." },
     logo: { title: "COLHYBRI Logo", body: "Download the high-resolution SVG logo.", download: "Download SVG" },
     figures: { title: "Key figures", items: ["3 EUR/month for individuals, 10 EUR/month for merchants","0% commission (vs 30% UberEats, 25% JustEat)","75% of subscriptions redistributed via the community pool","1,732 ZRCV towns in France in 2026","Expansion planned in 25+ countries by 2031"] },
@@ -273,7 +273,7 @@ NS.pressePage = {
     contact: { title: "Press contact" },
   },
   es: {
-    meta: { title: "Prensa COLHYBRI", description: "Kit de prensa, cifras clave, bio fundador. Contacto: onlymore2024@gmail.com" },
+    meta: { title: "Prensa COLHYBRI", description: "Kit de prensa, cifras clave, bio fundador. Contacto: contact@colhybri.com" },
     hero: { badge: "PRENSA", title: "Kit de prensa COLHYBRI", subtitle: "Logos, cifras clave, bio fundador y contacto de prensa." },
     logo: { title: "Logo COLHYBRI", body: "Descarga el logo SVG en alta resolucion.", download: "Descargar SVG" },
     figures: { title: "Cifras clave", items: ["3 EUR/mes para particulares, 10 EUR/mes para comerciantes","0% comision (vs 30% UberEats, 25% JustEat)","75% de las suscripciones redistribuidas via el pool solidario","1.732 municipios ZRCV en Francia en 2026","Expansion prevista en 25+ paises hasta 2031"] },
@@ -286,17 +286,17 @@ NS.pressePage = {
 // ── forms (city, investor, general) ──
 NS.forms = {
   fr: {
-    city: { firstName:"Prenom", lastName:"Nom", role:"Fonction", rolePlaceholder:"Selectionnez votre fonction", roles: {mayor:"Maire",deputy:"Adjoint.e",dgs:"DGS",manager:"Manager de commerce",cci:"CCI",intercom:"Intercommunalite",other:"Autre"}, city:"Commune", postcode:"Code postal", email:"Email professionnel", phone:"Telephone", message:"Message", submit:"Envoyer la demande", sending:"Envoi en cours...", successTitle:"Merci !", successBody:"Nous vous recontactons sous 48h.", errorBody:"Erreur. Veuillez envoyer un email a onlymore2024@gmail.com" },
+    city: { firstName:"Prenom", lastName:"Nom", role:"Fonction", rolePlaceholder:"Selectionnez votre fonction", roles: {mayor:"Maire",deputy:"Adjoint.e",dgs:"DGS",manager:"Manager de commerce",cci:"CCI",intercom:"Intercommunalite",other:"Autre"}, city:"Commune", postcode:"Code postal", email:"Email professionnel", phone:"Telephone", message:"Message", submit:"Envoyer la demande", sending:"Envoi en cours...", successTitle:"Merci !", successBody:"Nous vous recontactons sous 48h.", errorBody:"Erreur. Veuillez envoyer un email a contact@colhybri.com" },
     investor: { name:"Nom", organization:"Organisation", email:"Email", phone:"Telephone", message:"Message", submit:"Prendre rendez-vous", sending:"Envoi en cours...", successTitle:"Merci !", successBody:"L'equipe fondatrice vous recontacte sous 48h." },
     general: { name:"Nom", email:"Email", subject:"Sujet", subjectPlaceholder:"Selectionnez un sujet", subjects: {partnership:"Partenariat",press:"Presse",investment:"Investissement",question:"Question generale",other:"Autre"}, message:"Message", submit:"Envoyer", sending:"Envoi en cours...", successTitle:"Merci !", successBody:"Nous repondons sous 48h." },
   },
   en: {
-    city: { firstName:"First name", lastName:"Last name", role:"Role", rolePlaceholder:"Select your role", roles: {mayor:"Mayor",deputy:"Deputy Mayor",dgs:"City Manager",manager:"Commerce Manager",cci:"Chamber of Commerce",intercom:"Inter-municipal body",other:"Other"}, city:"City", postcode:"Postal code", email:"Professional email", phone:"Phone", message:"Message", submit:"Submit request", sending:"Sending...", successTitle:"Thank you!", successBody:"We will get back to you within 48h.", errorBody:"Error. Please send an email to onlymore2024@gmail.com" },
+    city: { firstName:"First name", lastName:"Last name", role:"Role", rolePlaceholder:"Select your role", roles: {mayor:"Mayor",deputy:"Deputy Mayor",dgs:"City Manager",manager:"Commerce Manager",cci:"Chamber of Commerce",intercom:"Inter-municipal body",other:"Other"}, city:"City", postcode:"Postal code", email:"Professional email", phone:"Phone", message:"Message", submit:"Submit request", sending:"Sending...", successTitle:"Thank you!", successBody:"We will get back to you within 48h.", errorBody:"Error. Please send an email to contact@colhybri.com" },
     investor: { name:"Name", organization:"Organization", email:"Email", phone:"Phone", message:"Message", submit:"Book a meeting", sending:"Sending...", successTitle:"Thank you!", successBody:"The founding team will contact you within 48h." },
     general: { name:"Name", email:"Email", subject:"Subject", subjectPlaceholder:"Select a subject", subjects: {partnership:"Partnership",press:"Press",investment:"Investment",question:"General question",other:"Other"}, message:"Message", submit:"Send", sending:"Sending...", successTitle:"Thank you!", successBody:"We respond within 48h." },
   },
   es: {
-    city: { firstName:"Nombre", lastName:"Apellido", role:"Cargo", rolePlaceholder:"Selecciona tu cargo", roles: {mayor:"Alcalde",deputy:"Teniente de Alcalde",dgs:"Director General",manager:"Gerente de comercio",cci:"Camara de Comercio",intercom:"Intermunicipalidad",other:"Otro"}, city:"Municipio", postcode:"Codigo postal", email:"Email profesional", phone:"Telefono", message:"Mensaje", submit:"Enviar solicitud", sending:"Enviando...", successTitle:"Gracias!", successBody:"Te contactamos en 48h.", errorBody:"Error. Envie un email a onlymore2024@gmail.com" },
+    city: { firstName:"Nombre", lastName:"Apellido", role:"Cargo", rolePlaceholder:"Selecciona tu cargo", roles: {mayor:"Alcalde",deputy:"Teniente de Alcalde",dgs:"Director General",manager:"Gerente de comercio",cci:"Camara de Comercio",intercom:"Intermunicipalidad",other:"Otro"}, city:"Municipio", postcode:"Codigo postal", email:"Email profesional", phone:"Telefono", message:"Mensaje", submit:"Enviar solicitud", sending:"Enviando...", successTitle:"Gracias!", successBody:"Te contactamos en 48h.", errorBody:"Error. Envie un email a contact@colhybri.com" },
     investor: { name:"Nombre", organization:"Organizacion", email:"Email", phone:"Telefono", message:"Mensaje", submit:"Reservar una reunion", sending:"Enviando...", successTitle:"Gracias!", successBody:"El equipo fundador te contactara en 48h." },
     general: { name:"Nombre", email:"Email", subject:"Asunto", subjectPlaceholder:"Selecciona un asunto", subjects: {partnership:"Asociacion",press:"Prensa",investment:"Inversion",question:"Pregunta general",other:"Otro"}, message:"Mensaje", submit:"Enviar", sending:"Enviando...", successTitle:"Gracias!", successBody:"Respondemos en 48h." },
   },

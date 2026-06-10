@@ -11,14 +11,16 @@ export const supabase: SupabaseClient | null = SUPABASE_CONFIGURED
   ? createClient(supabaseUrl!, supabaseKey!)
   : null;
 
-export const CONTACT_EMAIL = 'onlymore2024@gmail.com';
+export const CONTACT_EMAIL = 'contact@colhybri.com';
+export const INVESTOR_EMAIL = 'florent@onlymore.group';
 
 /**
  * Open a pre-filled email in the user's mail client as a graceful fallback
- * when Supabase is unavailable or the insert fails.
+ * when Supabase is unavailable or the insert fails. Defaults to the general
+ * contact inbox; pass `to` to route to a specific recipient (e.g. investors).
  */
-export function openMailtoFallback(subject: string, body: string) {
-  const url = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+export function openMailtoFallback(subject: string, body: string, to: string = CONTACT_EMAIL) {
+  const url = `mailto:${to}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   if (typeof window !== 'undefined') {
     window.location.href = url;
   }

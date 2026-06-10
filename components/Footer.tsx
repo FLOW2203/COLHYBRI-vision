@@ -65,10 +65,10 @@ export function Footer({ locale }: FooterProps) {
           <div>
             <h3 className="font-semibold mb-4 text-white/80">{nav('contact')}</h3>
             <a
-              href="mailto:onlymore2024@gmail.com"
+              href="mailto:contact@colhybri.com"
               className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block mb-2"
             >
-              onlymore2024@gmail.com
+              contact@colhybri.com
             </a>
             <a
               href="https://www.colhybri.com"
