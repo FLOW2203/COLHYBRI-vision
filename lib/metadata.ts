@@ -148,7 +148,7 @@ export function generateOrganizationJsonLd(locale: Locale) {
     priceRange: 'Affordable',
     contactPoint: {
       '@type': 'ContactPoint',
-      email: 'onlymore2024@gmail.com',
+      email: 'contact@colhybri.com',
       contactType: 'customer service',
       availableLanguage: ['English', 'French', 'Spanish', 'Portuguese', 'German', 'Italian', 'Chinese', 'Japanese', 'Hindi', 'Polish'],
     },
@@ -294,7 +294,7 @@ export function generateLocalBusinessJsonLd() {
     },
     url: `${BASE_URL}/en/miami`,
     telephone: '',
-    email: 'onlymore2024@gmail.com',
+    email: 'contact@colhybri.com',
     priceRange: 'Affordable',
   };
 }

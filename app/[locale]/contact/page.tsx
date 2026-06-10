@@ -65,10 +65,10 @@ export default function ContactPage({ params: { locale } }: PageProps) {
               <div className="p-6 rounded-2xl bg-colhybri-cream border border-colhybri-teal/10">
                 <p className="font-sans text-sm text-colhybri-dark/60 uppercase tracking-wide mb-1">Email</p>
                 <a
-                  href="mailto:onlymore2024@gmail.com"
+                  href="mailto:contact@colhybri.com"
                   className="font-mono text-lg text-colhybri-teal hover:underline"
                 >
-                  onlymore2024@gmail.com
+                  contact@colhybri.com
                 </a>
               </div>
               <div className="p-6 rounded-2xl bg-colhybri-cream border border-colhybri-teal/10">

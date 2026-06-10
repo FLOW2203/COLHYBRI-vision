@@ -69,7 +69,6 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
   const team = [
     { name: 'Florent Gibert', role: t('team.florent.role'), bio: t('team.florent.bio'), photoUrl: teamPhotos.florent, photoAlt: t('team.florent.photoAlt') },
     { name: 'João Almeida', role: t('team.joao.role'), bio: t('team.joao.bio'), photoUrl: teamPhotos.joao, photoAlt: t('team.joao.photoAlt') },
-    { name: 'Stéphane Picard', role: t('team.stephane.role'), bio: t('team.stephane.bio'), photoUrl: teamPhotos.stephane, photoAlt: t('team.stephane.photoAlt') },
   ];
 
   return (
@@ -195,7 +194,7 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
       <section className="bg-colhybri-cream">
         <div className="section-container">
           <h2 className="section-heading text-center mb-12">{t('team.title')}</h2>
-          <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+          <div className="grid sm:grid-cols-2 gap-8 max-w-3xl mx-auto">
             {team.map((m) => (
               <TeamMember
                 key={m.name}
@@ -216,7 +215,7 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
           <h2 className="font-display text-3xl font-semibold mb-4">{t('deck.title')}</h2>
           <p className="font-sans text-colhybri-dark/70 mb-8">{t('deck.body')}</p>
           <a
-            href="mailto:onlymore2024@gmail.com?subject=Demande%20dossier%20investisseur%20COLHYBRI"
+            href="mailto:florent@onlymore.group?subject=Demande%20dossier%20investisseur%20COLHYBRI"
             className="btn-primary text-lg px-8 py-4"
           >
             {t('deck.cta')}

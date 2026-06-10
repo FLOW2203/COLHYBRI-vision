@@ -80,9 +80,14 @@ export default function PricingPage({ params: { locale } }: PageProps) {
                     </li>
                   ))}
                 </ul>
-                <Link href={contactHref} className="btn-primary w-full">
+                <a
+                  href="https://www.colhybri.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn-primary w-full"
+                >
                   {t('individuals.cta')}
-                </Link>
+                </a>
               </div>
             </div>
 
@@ -110,9 +115,14 @@ export default function PricingPage({ params: { locale } }: PageProps) {
                     </li>
                   ))}
                 </ul>
-                <Link href={contactHref} className="btn-accent w-full">
+                <a
+                  href="https://www.colhybri.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn-accent w-full"
+                >
                   {t('shops.cta')}
-                </Link>
+                </a>
               </div>
             </div>
 

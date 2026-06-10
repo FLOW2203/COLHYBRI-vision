@@ -82,10 +82,10 @@ export default function PressePage({ params: { locale } }: PageProps) {
           <p className="font-sans text-colhybri-dark/70 mb-6">{t('releases.body')}</p>
           <h3 className="font-display text-xl font-semibold mb-2">{t('contact.title')}</h3>
           <a
-            href="mailto:onlymore2024@gmail.com?subject=Demande%20presse%20COLHYBRI"
+            href="mailto:contact@colhybri.com?subject=Demande%20presse%20COLHYBRI"
             className="font-mono text-lg text-colhybri-teal hover:underline"
           >
-            onlymore2024@gmail.com
+            contact@colhybri.com
           </a>
         </div>
       </section>
