@@ -399,7 +399,8 @@
     "title": "Impact Local en France",
     "subtitle": "Des données économiques réelles montrant comment COLHYBRI peut transformer votre communauté.",
     "inhabitants": "habitants",
-    "subscription": "Abonnement COLHYBRI"
+    "subscription": "Abonnement COLHYBRI",
+    "multiplierLabel": "multiplicateur keynésien local"
   },
   "thirdPlace": {
     "label": "Barometre Confiance & Solitude",
@@ -2550,7 +2551,7 @@
     }
   },
   "worldMap": {
-    "hint": "Cliquez sur un marqueur pour explorer l'impact regional.",
+    "hint": "Sélectionnez une région pour explorer son impact local.",
     "markers": {
       "paris": {
         "label": "1 732 ZRCV"
@@ -3066,5 +3067,85 @@
     "close": "Fermer",
     "hint": "Cliquez sur un marqueur pour explorer les données locales",
     "sources": "Sources : IFOP 2026, OMS 2025, JAMA Network Open 2025, OCDE 2025, Banque Mondiale Findex 2025"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Politique de confidentialité",
+      "updated": "Dernière mise à jour : juin 2026",
+      "intro": "COLHYBRI est un service édité par ONLYMORE Group. Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos données personnelles lorsque vous visitez colhybri.vision ou utilisez l'application COLHYBRI.",
+      "sections": [
+        {
+          "h": "Qui sommes-nous",
+          "p": "COLHYBRI est édité par ONLYMORE Group, basé à Rodilhan (30230), Occitanie, France. Pour toute question relative à cette politique, contactez-nous à onlymore2024@gmail.com."
+        },
+        {
+          "h": "Données que nous collectons",
+          "p": "Nous collectons les données que vous fournissez directement, comme votre adresse e-mail lorsque vous nous contactez, ainsi que des données techniques limitées (type de navigateur, pages visitées) via une mesure d'audience respectueuse de la vie privée. Nous ne vendons jamais vos données personnelles."
+        },
+        {
+          "h": "Utilisation de vos données",
+          "p": "Nous utilisons vos données pour répondre à vos demandes, améliorer le site et le service COLHYBRI, et respecter nos obligations légales. Le traitement repose sur votre consentement ou notre intérêt légitime."
+        },
+        {
+          "h": "Cookies et mesure d'audience",
+          "p": "Nous utilisons des cookies essentiels au fonctionnement du site ainsi qu'une mesure d'audience agrégée pour comprendre le trafic. Vous pouvez gérer les cookies depuis les réglages de votre navigateur."
+        },
+        {
+          "h": "Partage des données",
+          "p": "Nous partageons vos données uniquement avec les prestataires qui nous aident à exploiter la plateforme (hébergement, mesure d'audience), dans un cadre contractuel de confidentialité. Nous ne vendons jamais vos données à des tiers."
+        },
+        {
+          "h": "Vos droits",
+          "p": "Conformément au RGPD, vous disposez d'un droit d'accès, de rectification, d'effacement et de portabilité de vos données, ainsi que d'un droit d'opposition et de limitation. Pour les exercer, écrivez à onlymore2024@gmail.com."
+        },
+        {
+          "h": "Conservation des données",
+          "p": "Nous conservons vos données personnelles uniquement pendant la durée nécessaire aux finalités décrites ci-dessus, ou selon les exigences légales."
+        },
+        {
+          "h": "Contact",
+          "p": "Pour toute question concernant vos données personnelles, contactez ONLYMORE Group à onlymore2024@gmail.com."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Conditions d'utilisation",
+      "updated": "Dernière mise à jour : juin 2026",
+      "intro": "Les présentes conditions d'utilisation régissent votre accès au site COLHYBRI (colhybri.vision) et à l'application COLHYBRI, tous deux édités par ONLYMORE Group.",
+      "sections": [
+        {
+          "h": "Acceptation des conditions",
+          "p": "En accédant à colhybri.vision ou en utilisant le service COLHYBRI, vous acceptez les présentes conditions d'utilisation. Si vous ne les acceptez pas, veuillez ne pas utiliser le service."
+        },
+        {
+          "h": "Le service",
+          "p": "COLHYBRI est une plateforme par abonnement qui relie les habitants aux commerçants de proximité afin de renforcer les économies de quartier. Le site colhybri.vision présente le projet ; l'application COLHYBRI est l'espace où les abonnements sont gérés."
+        },
+        {
+          "h": "Abonnements et tarifs",
+          "p": "Les offres sont proposées en libre-service par abonnement à partir de 3 EUR / 3 USD par mois. Les tarifs et le détail des offres sont présentés dans l'application et peuvent évoluer. Toute modification est communiquée à l'avance."
+        },
+        {
+          "h": "Usage acceptable",
+          "p": "Vous vous engagez à utiliser le service de manière licite, sans en perturber le fonctionnement, tenter un accès non autorisé ou porter atteinte aux droits d'autrui."
+        },
+        {
+          "h": "Propriété intellectuelle",
+          "p": "Le nom COLHYBRI, l'identité du colibri, les contenus et les logiciels sont la propriété d'ONLYMORE Group. Vous ne pouvez pas les reproduire sans autorisation écrite préalable."
+        },
+        {
+          "h": "Responsabilité",
+          "p": "Le service est fourni en l'état. Dans la limite autorisée par la loi, ONLYMORE Group ne saurait être tenu responsable des dommages indirects résultant de l'utilisation du service."
+        },
+        {
+          "h": "Droit applicable",
+          "p": "Les présentes conditions sont régies par le droit français. Tout litige relève de la compétence des tribunaux français, sous réserve des règles impératives de protection des consommateurs."
+        },
+        {
+          "h": "Contact",
+          "p": "Pour toute question concernant ces conditions, contactez ONLYMORE Group à onlymore2024@gmail.com."
+        }
+      ]
+    }
   }
 }

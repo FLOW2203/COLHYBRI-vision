@@ -36,7 +36,7 @@ export function LanguageSwitcher() {
     <div className="relative" ref={ref}>
       <button
         onClick={() => setOpen(!open)}
-        className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-medium
+        className="flex items-center gap-1.5 px-3 min-h-[44px] rounded-lg text-sm font-medium
                    hover:bg-gray-100 transition-colors border border-gray-200"
         aria-label="Switch language"
         aria-expanded={open}
@@ -52,14 +52,14 @@ export function LanguageSwitcher() {
       </button>
 
       {open && (
-        <div className="absolute right-0 mt-2 w-40 bg-white rounded-xl shadow-lg border border-gray-100 py-1 z-50">
+        <div className="absolute right-0 mt-2 w-40 max-h-[70vh] overflow-y-auto bg-white rounded-xl shadow-lg border border-gray-100 py-1 z-50">
           {locales.map((locale) => {
             const label = localeLabels[locale];
             return (
               <button
                 key={locale}
                 onClick={() => switchLocale(locale)}
-                className={`w-full text-left px-4 py-2 text-sm flex items-center gap-2 hover:bg-colhybri-primary/5 transition-colors ${
+                className={`w-full text-left px-4 min-h-[44px] text-sm flex items-center gap-2 hover:bg-colhybri-primary/5 transition-colors ${
                   locale === currentLocale ? 'text-colhybri-primary font-semibold' : 'text-colhybri-dark/70'
                 }`}
               >

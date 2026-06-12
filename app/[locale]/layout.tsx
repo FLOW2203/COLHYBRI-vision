@@ -66,7 +66,7 @@ export default async function LocaleLayout({ children, params: { locale } }: Loc
         <JsonLd data={generateWebSiteJsonLd(locale as Locale)} />
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Header />
-          <main className="flex-1">
+          <main className="flex-1 overflow-x-clip">
             {children}
           </main>
           <Footer locale={locale as Locale} />

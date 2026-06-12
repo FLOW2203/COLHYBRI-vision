@@ -96,6 +96,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
           aspectRatio="16:9"
           priority={true}
           overlay="gradient-dark"
+          sizes="100vw"
           className="absolute inset-0 w-full h-full !rounded-none"
         />
         <HummingbirdBackdrop />
@@ -132,7 +133,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
           </div>
 
           {/* Three hero stats (no pre-seed, no pricing) */}
-          <div className="grid grid-cols-3 gap-6 sm:gap-8 max-w-3xl mx-auto">
+          <div className="grid grid-cols-1 gap-6 md:grid-cols-3 md:gap-8 max-w-3xl mx-auto">
             <AnimatedCounter
               value={t('hero.stats.stage')}
               label={t('hero.stats.stageLabel')}
@@ -332,7 +333,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
               className="block p-8 rounded-2xl bg-colhybri-gold text-colhybri-dark hover:bg-colhybri-gold/90 transition-colors"
             >
               <div className="font-display text-2xl font-semibold mb-2">{t('finalCta.cta2.title')}</div>
-              <div className="font-sans text-sm text-colhybri-dark/70">{t('finalCta.cta2.sub')}</div>
+              <div className="font-sans text-sm text-colhybri-dark/90">{t('finalCta.cta2.sub')}</div>
             </Link>
 
             {/* CTA 3: Investors */}
@@ -341,7 +342,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
               className="block p-8 rounded-2xl border-2 border-white text-white hover:bg-white/10 transition-colors"
             >
               <div className="font-display text-2xl font-semibold mb-2">{t('finalCta.cta3.title')}</div>
-              <div className="font-sans text-sm text-white/70">{t('finalCta.cta3.sub')}</div>
+              <div className="font-sans text-sm text-white">{t('finalCta.cta3.sub')}</div>
             </Link>
           </div>
         </div>
