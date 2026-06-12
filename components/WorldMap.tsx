@@ -104,7 +104,9 @@ export function WorldMap({ locale }: WorldMapProps) {
               onMouseEnter={() => setHovered(m.key)}
               onMouseLeave={() => setHovered(null)}
             >
-              <g style={{ cursor: 'pointer' }}>
+              <g style={{ cursor: 'pointer' }} role="button" aria-label={t(`markers.${m.key}.label`)} tabIndex={0}>
+                {/* transparent hit area for a >=44px tap target */}
+                <circle r={22} fill="transparent" />
                 {/* outer pulse */}
                 <circle r={10} fill="#008080" fillOpacity={0.25} className="animate-pulse-slow" />
                 {/* core marker */}
@@ -138,7 +140,7 @@ export function WorldMap({ locale }: WorldMapProps) {
         </ZoomableGroup>
       </ComposableMap>
 
-      <p className="text-center text-xs text-colhybri-dark/50 mt-4 font-sans">
+      <p className="text-center text-xs text-colhybri-dark/70 mt-4 font-sans">
         {t('hint')}
       </p>
     </div>

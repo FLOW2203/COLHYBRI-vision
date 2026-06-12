@@ -12,6 +12,8 @@ const config: Config = {
           // New brand palette (revitalization positioning)
           teal: '#008080',
           gold: '#D4A843',
+          // Darker gold for text on light backgrounds (WCAG AA contrast)
+          'gold-deep': '#9C741F',
           cream: '#FAFAF8',
           dark: '#1A1A2E',
           success: '#2D8C4E',

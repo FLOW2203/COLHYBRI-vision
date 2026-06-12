@@ -36,10 +36,10 @@ export function AnimatedCounter({ value, label }: AnimatedCounterProps) {
         isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'
       }`}
     >
-      <div className="text-3xl sm:text-4xl font-bold text-colhybri-primary">
+      <div className="text-3xl sm:text-4xl font-bold text-colhybri-primary break-words">
         <span data-fact="true">{value}</span>
       </div>
-      <div className="text-sm text-colhybri-dark/60 mt-1">{label}</div>
+      <div className="text-sm text-colhybri-dark/60 mt-1 break-words">{label}</div>
     </div>
   );
 }

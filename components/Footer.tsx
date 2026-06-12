@@ -48,12 +48,12 @@ export function Footer({ locale }: FooterProps) {
           {/* Navigation Links */}
           <div className="md:col-span-2">
             <h3 className="font-semibold mb-4 text-white/80">Navigation</h3>
-            <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-x-2 gap-y-1">
               {footerLinks.map(({ key, label }) => (
                 <Link
                   key={key}
                   href={getLocalizedPath(key, locale)}
-                  className="text-sm text-white/60 hover:text-colhybri-teal transition-colors py-1"
+                  className="text-sm text-white/60 hover:text-colhybri-teal transition-colors py-2"
                 >
                   {label}
                 </Link>
@@ -66,7 +66,7 @@ export function Footer({ locale }: FooterProps) {
             <h3 className="font-semibold mb-4 text-white/80">{nav('contact')}</h3>
             <a
               href="mailto:contact@colhybri.com"
-              className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block mb-2"
+              className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block py-1.5"
             >
               contact@colhybri.com
             </a>
@@ -74,23 +74,23 @@ export function Footer({ locale }: FooterProps) {
               href="https://www.colhybri.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block mb-2"
+              className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block py-1.5"
             >
               {t('accessApp')}
             </a>
-            <a
-              href="https://www.colhybri.vision/fr/mission"
-              className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block mb-2"
+            <Link
+              href={getLocalizedPath('mission', locale)}
+              className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block py-1.5"
             >
               {nav('mission')}
-            </a>
-            <a
-              href="https://www.colhybri.vision/fr/faq"
-              className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block mb-4"
+            </Link>
+            <Link
+              href={getLocalizedPath('faq', locale)}
+              className="text-sm text-white/60 hover:text-colhybri-teal transition-colors block py-1.5 mb-2"
             >
               {nav('faq')}
-            </a>
-            <p className="text-sm text-white/40">{t('group')}</p>
+            </Link>
+            <p className="text-sm text-white/60">{t('group')}</p>
           </div>
         </div>
 
@@ -99,18 +99,24 @@ export function Footer({ locale }: FooterProps) {
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
             <p className="text-sm text-white/60 font-medium">{t('copyright.main')}</p>
             <div className="flex gap-6">
-              <Link href="#" className="text-sm text-white/40 hover:text-white/60 transition-colors">
+              <Link
+                href={getLocalizedPath('privacy', locale)}
+                className="text-sm text-white/60 hover:text-white/90 transition-colors"
+              >
                 {t('links.privacy')}
               </Link>
-              <Link href="#" className="text-sm text-white/40 hover:text-white/60 transition-colors">
+              <Link
+                href={getLocalizedPath('terms', locale)}
+                className="text-sm text-white/60 hover:text-white/90 transition-colors"
+              >
                 {t('links.terms')}
               </Link>
             </div>
           </div>
-          <p className="text-xs text-white/35 leading-relaxed max-w-4xl">
+          <p className="text-xs text-white/60 leading-relaxed max-w-4xl">
             {t('copyright.ip')}
           </p>
-          <p className="text-xs text-white/35">
+          <p className="text-xs text-white/60">
             {t('copyright.contact')}
           </p>
         </div>

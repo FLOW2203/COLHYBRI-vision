@@ -407,7 +407,8 @@
     "title": "Impacto Local en España",
     "subtitle": "Datos económicos reales que muestran cómo COLHYBRI puede transformar tu comunidad.",
     "inhabitants": "habitantes",
-    "subscription": "Suscripción COLHYBRI"
+    "subscription": "Suscripción COLHYBRI",
+    "multiplierLabel": "multiplicador keynesiano local"
   },
   "thirdPlace": {
     "label": "Barometro de Confianza y Soledad",
@@ -2558,7 +2559,7 @@
     }
   },
   "worldMap": {
-    "hint": "Haz clic en un marcador para explorar el impacto regional.",
+    "hint": "Selecciona una región para explorar su impacto local.",
     "markers": {
       "paris": {
         "label": "1.732 ZRCV"
@@ -3074,5 +3075,85 @@
     "close": "Cerrar",
     "hint": "Haz clic en un marcador para explorar los datos locales",
     "sources": "Fuentes: IFOP 2026, OMS 2025, JAMA Network Open 2025, OCDE 2025, Banco Mundial Findex 2025"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "updated": "Last updated: June 2026",
+      "intro": "COLHYBRI is a service operated by ONLYMORE Group. This Privacy Policy explains how we collect, use, and protect your personal data when you visit colhybri.vision or use the COLHYBRI application.",
+      "sections": [
+        {
+          "h": "Who we are",
+          "p": "COLHYBRI is published by ONLYMORE Group, based in Rodilhan (30230), Occitanie, France. For any question about this policy, contact us at onlymore2024@gmail.com."
+        },
+        {
+          "h": "Data we collect",
+          "p": "We collect the data you provide directly, such as your email address when you contact us, and limited technical data (browser type, pages visited) through privacy-respecting analytics. We do not sell your personal data."
+        },
+        {
+          "h": "How we use your data",
+          "p": "We use your data to respond to your requests, improve the website and the COLHYBRI service, and meet our legal obligations. Processing is based on your consent or our legitimate interest."
+        },
+        {
+          "h": "Cookies and analytics",
+          "p": "We use essential cookies required for the site to function and aggregated analytics to understand traffic. You can control cookies through your browser settings."
+        },
+        {
+          "h": "Data sharing",
+          "p": "We share data only with service providers that help us operate the platform (hosting, analytics), under contractual confidentiality. We never sell your data to third parties."
+        },
+        {
+          "h": "Your rights",
+          "p": "Under the GDPR, you have the right to access, correct, delete, and port your data, and to object to or restrict its processing. To exercise these rights, write to onlymore2024@gmail.com."
+        },
+        {
+          "h": "Data retention",
+          "p": "We keep personal data only for as long as necessary for the purposes described above, or as required by law."
+        },
+        {
+          "h": "Contact",
+          "p": "For any question regarding your personal data, contact ONLYMORE Group at onlymore2024@gmail.com."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "updated": "Last updated: June 2026",
+      "intro": "These Terms of Service govern your access to and use of the COLHYBRI website (colhybri.vision) and the COLHYBRI application, both operated by ONLYMORE Group.",
+      "sections": [
+        {
+          "h": "Acceptance of terms",
+          "p": "By accessing colhybri.vision or using the COLHYBRI service, you agree to these Terms of Service. If you do not agree, please do not use the service."
+        },
+        {
+          "h": "The service",
+          "p": "COLHYBRI is a subscription platform that connects residents with local merchants to strengthen neighborhood economies. The colhybri.vision website presents the project; the COLHYBRI application is where subscriptions are managed."
+        },
+        {
+          "h": "Subscriptions and pricing",
+          "p": "Plans are offered on a self-serve subscription basis starting at 3 EUR / 3 USD per month. Pricing and plan details are presented in the application and may evolve. Any change is communicated in advance."
+        },
+        {
+          "h": "Acceptable use",
+          "p": "You agree to use the service lawfully and not to disrupt its operation, attempt unauthorized access, or infringe the rights of others."
+        },
+        {
+          "h": "Intellectual property",
+          "p": "The COLHYBRI name, the hummingbird identity, content, and software are the property of ONLYMORE Group. You may not reproduce them without prior written authorization."
+        },
+        {
+          "h": "Liability",
+          "p": "The service is provided on an as-is basis. To the extent permitted by law, ONLYMORE Group is not liable for indirect damages arising from the use of the service."
+        },
+        {
+          "h": "Governing law",
+          "p": "These terms are governed by French law. Any dispute falls under the jurisdiction of the competent courts of France, subject to mandatory consumer protection rules."
+        },
+        {
+          "h": "Contact",
+          "p": "For any question about these terms, contact ONLYMORE Group at onlymore2024@gmail.com."
+        }
+      ]
+    }
   }
 }

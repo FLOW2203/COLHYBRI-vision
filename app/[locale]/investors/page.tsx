@@ -133,10 +133,10 @@ export default function InvestorsPage({ params: { locale } }: PageProps) {
 
           <div className="flex flex-col md:flex-row items-stretch gap-4 justify-between">
             {flywheel.map((step, i) => (
-              <div key={i} className="flex-1 flex items-center gap-4">
-                <div className="flex-1 p-5 rounded-2xl bg-white border border-colhybri-teal/10 text-center">
+              <div key={i} className="flex-1 min-w-0 flex items-center gap-4">
+                <div className="flex-1 min-w-0 p-5 rounded-2xl bg-white border border-colhybri-teal/10 text-center">
                   <div className="font-mono text-xs text-colhybri-teal mb-1">0{i + 1}</div>
-                  <p className="font-sans text-sm text-colhybri-dark/80">{step}</p>
+                  <p className="font-sans text-sm text-colhybri-dark/80 break-words">{step}</p>
                 </div>
                 {i < flywheel.length - 1 && (
                   <svg className="hidden md:block w-6 h-6 text-colhybri-teal flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">

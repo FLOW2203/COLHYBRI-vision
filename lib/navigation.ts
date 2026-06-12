@@ -236,6 +236,16 @@ export const routeMap: Record<string, Record<string, string>> = {
     pt: 'presse', de: 'presse', it: 'presse', zh: 'presse',
     ja: 'presse', hi: 'presse', pl: 'presse',
   },
+  privacy: {
+    en: 'privacy', 'en-gb': 'privacy', fr: 'privacy', es: 'privacy',
+    pt: 'privacy', de: 'privacy', it: 'privacy', zh: 'privacy',
+    ja: 'privacy', hi: 'privacy', pl: 'privacy',
+  },
+  terms: {
+    en: 'terms', 'en-gb': 'terms', fr: 'terms', es: 'terms',
+    pt: 'terms', de: 'terms', it: 'terms', zh: 'terms',
+    ja: 'terms', hi: 'terms', pl: 'terms',
+  },
 };
 
 export function getLocalizedPath(routeKey: string, locale: Locale): string {

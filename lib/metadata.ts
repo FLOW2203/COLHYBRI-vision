@@ -20,7 +20,7 @@ const localeCountryMap: Record<string, string> = {
 const taglines: Record<string, string> = {
   en: 'Own Your Neighborhood. Own Your Future.',
   'en-gb': 'Own Your Neighborhood. Own Your Future.',
-  fr: 'Chaque geste compte. Le votre aussi.',
+  fr: 'Chaque geste compte. Le vôtre aussi.',
   es: 'Cada gesto cuenta. El tuyo tambien.',
   pt: 'Cada gesto conta. O teu tambem.',
   de: 'Jede Geste zahlt. Auch deine.',
@@ -52,7 +52,12 @@ export function generatePageMetadata({
   chunkType = 'page',
   audience = 'general',
 }: PageMetadataOptions): Metadata {
-  const fullTitle = `${title} | COLHYBRI — ${taglines[locale]}`;
+  // Avoid duplicating the brand when a page already passes "COLHYBRI" as its title
+  // (e.g. the home page). Otherwise prefix the page title before the brand + tagline.
+  const brandSuffix = `COLHYBRI — ${taglines[locale]}`;
+  const fullTitle = title.trim().toUpperCase() === 'COLHYBRI'
+    ? brandSuffix
+    : `${title} | ${brandSuffix}`;
   const alternates = getHreflangAlternates(routeKey);
   const canonicalUrl = `${BASE_URL}${getLocalizedPath(routeKey, locale)}`;
   const ogLocale = localeCountryMap[locale] || 'en_US';

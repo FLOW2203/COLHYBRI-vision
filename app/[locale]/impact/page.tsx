@@ -79,7 +79,7 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
           <div className="grid sm:grid-cols-3 gap-8 max-w-4xl mx-auto">
             {/* Local Value */}
             <div className="card bg-white/5 border border-white/10 text-center">
-              <div className="text-4xl sm:text-5xl font-bold text-colhybri-primary mb-3">
+              <div className="text-3xl lg:text-4xl font-bold text-colhybri-primary mb-3 break-words">
                 <span data-fact="true" data-value="7.50" data-unit="USD">
                   {t('metrics.localValue.value')}
                 </span>
@@ -89,7 +89,7 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
 
             {/* Jobs Created */}
             <div className="card bg-white/5 border border-white/10 text-center">
-              <div className="text-4xl sm:text-5xl font-bold text-colhybri-secondary mb-3">
+              <div className="text-3xl lg:text-4xl font-bold text-colhybri-secondary mb-3 break-words">
                 {t('metrics.jobsCreated.value')}
               </div>
               <p className="text-white/60">{t('metrics.jobsCreated.label')}</p>
@@ -97,7 +97,7 @@ export default function ImpactPage({ params: { locale } }: PageProps) {
 
             {/* Money Stays Local */}
             <div className="card bg-white/5 border border-white/10 text-center">
-              <div className="text-4xl sm:text-5xl font-bold text-colhybri-primary mb-3">
+              <div className="text-3xl lg:text-4xl font-bold text-colhybri-primary mb-3 break-words">
                 <span data-fact="true" data-value="68" data-unit="percent">
                   {t('metrics.moneyLocal.value')}
                 </span>

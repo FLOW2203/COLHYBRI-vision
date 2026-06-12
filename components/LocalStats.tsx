@@ -26,23 +26,30 @@ interface CountryData {
 
 const countries = countriesData as Record<string, CountryData>;
 
+const intlLocaleMap: Record<string, string> = {
+  en: 'en-US',
+  'en-gb': 'en-GB',
+  fr: 'fr-FR',
+  de: 'de-DE',
+  es: 'es-ES',
+  it: 'it-IT',
+  pt: 'pt-BR',
+  ja: 'ja-JP',
+  zh: 'zh-CN',
+  hi: 'hi-IN',
+  pl: 'pl-PL',
+};
+
 function formatNumber(num: number, locale: string): string {
-  const localeMap: Record<string, string> = {
-    en: 'en-US',
-    'en-gb': 'en-GB',
-    fr: 'fr-FR',
-    de: 'de-DE',
-    es: 'es-ES',
-    it: 'it-IT',
-    pt: 'pt-BR',
-    ja: 'ja-JP',
-    zh: 'zh-CN',
-    hi: 'hi-IN',
-    pl: 'pl-PL',
-  };
-  return new Intl.NumberFormat(localeMap[locale] || 'en-US', {
+  return new Intl.NumberFormat(intlLocaleMap[locale] || 'en-US', {
     maximumFractionDigits: 0,
   }).format(num);
+}
+
+function formatMultiplier(mult: number, locale: string): string {
+  return new Intl.NumberFormat(intlLocaleMap[locale] || 'en-US', {
+    maximumFractionDigits: 2,
+  }).format(mult);
 }
 
 function calculateImpact(country: CountryData): string {
@@ -67,6 +74,7 @@ export function LocalStats({ locale }: LocalStatsProps) {
   const country = countries[locale] || countries['en'];
 
   const impact = calculateImpact(country);
+  const multiplierText = formatMultiplier(country.multiplier, country.locale);
   const reconnectText = country.reconnectLabel
     .replace('{price}', country.price)
     .replace('{period}', country.period);
@@ -88,21 +96,21 @@ export function LocalStats({ locale }: LocalStatsProps) {
             <div className="text-3xl sm:text-4xl font-extrabold text-colhybri-primary mb-2">
               {country.population}
             </div>
-            <p className="text-colhybri-dark/60 text-sm">{t('inhabitants')}</p>
+            <p className="text-colhybri-dark/70 text-sm">{t('inhabitants')}</p>
           </div>
 
           <div className="card text-center">
-            <div className="text-3xl sm:text-4xl font-extrabold text-colhybri-secondary mb-2">
+            <div className="text-3xl sm:text-4xl font-extrabold text-colhybri-gold-deep mb-2">
               {country.unbanked}
             </div>
-            <p className="text-colhybri-dark/60 text-sm">{country.unbankedLabel}</p>
+            <p className="text-colhybri-dark/70 text-sm">{country.unbankedLabel}</p>
           </div>
 
           <div className="card text-center">
             <div className="text-3xl sm:text-4xl font-extrabold text-colhybri-primary mb-2">
-              {country.price}<span className="text-lg font-normal text-colhybri-dark/50">/{country.period}</span>
+              {country.price}<span className="text-lg font-normal text-colhybri-dark/70">/{country.period}</span>
             </div>
-            <p className="text-colhybri-dark/60 text-sm">{t('subscription')}</p>
+            <p className="text-colhybri-dark/70 text-sm">{t('subscription')}</p>
           </div>
         </div>
 
@@ -111,17 +119,20 @@ export function LocalStats({ locale }: LocalStatsProps) {
           <div className="card bg-colhybri-dark text-white border-none">
             <div className="text-center">
               <h3 className="text-lg font-bold mb-4 text-white/80">{country.potentialLabel}</h3>
-              <div className="flex flex-wrap items-center justify-center gap-2 text-sm sm:text-base text-white/70 mb-6">
-                <span className="bg-white/10 px-3 py-1 rounded-full">{country.unbanked}</span>
-                <span>&times;</span>
-                <span className="bg-white/10 px-3 py-1 rounded-full">{country.price}</span>
-                <span>&times;</span>
-                <span className="bg-colhybri-primary/30 px-3 py-1 rounded-full">×K</span>
-                <span>=</span>
-                <span className="bg-colhybri-primary text-white font-bold px-4 py-1 rounded-full text-lg">
+              <div className="flex flex-wrap items-center justify-center gap-x-2 gap-y-3 text-sm sm:text-base text-white/70 mb-3">
+                <span className="bg-white/10 px-3 py-1.5 rounded-full whitespace-nowrap">{country.unbanked}</span>
+                <span aria-hidden="true">&times;</span>
+                <span className="bg-white/10 px-3 py-1.5 rounded-full whitespace-nowrap">{country.price}</span>
+                <span aria-hidden="true">&times;</span>
+                <span className="bg-colhybri-primary/30 px-3 py-1.5 rounded-full whitespace-nowrap">{multiplierText}&times;</span>
+                <span aria-hidden="true">=</span>
+                <span className="bg-colhybri-primary text-white font-bold px-4 py-1.5 rounded-full text-lg whitespace-nowrap">
                   {impact}
                 </span>
               </div>
+              <p className="text-white/60 text-xs mb-5">
+                <span aria-hidden="true">&times;</span> {t('multiplierLabel')}
+              </p>
               <p className="text-white/60 text-sm">
                 {impact} / {country.period} {country.impactLabel}
               </p>

@@ -10,6 +10,7 @@ interface VisionImageProps {
   priority?: boolean;
   className?: string;
   overlay?: 'gradient-dark' | 'gradient-light' | 'none';
+  sizes?: string;
 }
 
 export function VisionImage({
@@ -19,6 +20,7 @@ export function VisionImage({
   priority = false,
   className = '',
   overlay = 'none',
+  sizes = '(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px',
 }: VisionImageProps) {
   const [isLoaded, setIsLoaded] = useState(false);
 
@@ -43,7 +45,7 @@ export function VisionImage({
         src={src}
         alt={alt}
         fill
-        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"
+        sizes={sizes}
         className={`object-cover transition-opacity duration-700 ${isLoaded ? 'opacity-100' : 'opacity-0'}`}
         onLoad={() => setIsLoaded(true)}
         priority={priority}
