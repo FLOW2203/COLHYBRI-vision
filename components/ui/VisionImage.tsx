@@ -11,6 +11,12 @@ interface VisionImageProps {
   className?: string;
   overlay?: 'gradient-dark' | 'gradient-light' | 'none';
   sizes?: string;
+  /**
+   * Full-bleed background mode: the wrapper fills its (positioned) parent via
+   * `absolute inset-0` instead of using `position: relative` + aspect ratio.
+   * Avoids the relative/absolute class conflict when used as a hero backdrop.
+   */
+  fill?: boolean;
 }
 
 export function VisionImage({
@@ -21,6 +27,7 @@ export function VisionImage({
   className = '',
   overlay = 'none',
   sizes = '(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px',
+  fill = false,
 }: VisionImageProps) {
   const [isLoaded, setIsLoaded] = useState(false);
 
@@ -36,9 +43,13 @@ export function VisionImage({
     none: '',
   }[overlay];
 
+  const wrapperClass = fill
+    ? `absolute inset-0 w-full h-full overflow-hidden ${className}`
+    : `relative overflow-hidden rounded-2xl ${ratioClass} ${className}`;
+
   return (
-    <div className={`relative overflow-hidden rounded-2xl ${ratioClass} ${className}`}>
-      {!isLoaded && (
+    <div className={wrapperClass}>
+      {!isLoaded && !fill && (
         <div className="absolute inset-0 bg-gradient-to-br from-emerald-50 to-orange-50 animate-pulse" />
       )}
       <Image

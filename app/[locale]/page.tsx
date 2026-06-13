@@ -97,7 +97,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
           priority={true}
           overlay="gradient-dark"
           sizes="100vw"
-          className="absolute inset-0 w-full h-full !rounded-none"
+          fill
         />
         <HummingbirdBackdrop />
         <div className="section-container text-center relative z-10">
@@ -126,7 +126,7 @@ export default function HomePage({ params: { locale } }: PageProps) {
             </a>
             <Link
               href={getLocalizedPath('impact', l)}
-              className="btn-secondary text-lg px-8 py-4"
+              className="inline-flex items-center justify-center text-lg px-8 py-4 rounded-lg border-2 border-colhybri-gold text-white font-semibold hover:bg-colhybri-gold hover:text-colhybri-dark transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-colhybri-gold focus:ring-offset-2 focus:ring-offset-colhybri-dark"
             >
               {t('hero.ctaSecondary')}
             </Link>
