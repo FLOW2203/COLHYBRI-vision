@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "COLHYBRI — Inkluzja finansowa poprzez lokalny handel",
+    "title": "COLHYBRI: Inkluzja finansowa poprzez lokalny handel",
     "description": "COLHYBRI łączy osoby wykluczone finansowo z lokalnymi sklepami, tworząc społecznościowy ekosystem finansowy."
   },
   "nav": {
@@ -27,22 +27,22 @@
     "cta": "Dołącz do ruchu",
     "ctaSecondary": "Zobacz, jak to działa",
     "stats": {
-      "price": "—",
-      "priceLabel": "Wkrótce",
-      "stage": "Pre-seed",
-      "stageLabel": "Obecna faza",
-      "mission": "Inkluzja finansowa",
-      "missionLabel": "Nasza misja"
+      "price": "0%",
+      "priceLabel": "Prowizja COLHYBRI",
+      "stage": "55%",
+      "stageLabel": "Miasta z pustostanami handlowymi",
+      "mission": "Od lokalnego do globalnego",
+      "missionLabel": "Nasza wizja"
     }
   },
   "mission": {
     "title": "Nasza misja",
-    "headline": "Robimy swoją część — jak koliber",
-    "description": "W indiańskiej legendzie, gdy las płonie, koliber nosi wodę kropla po kropli. Zapytany dlaczego, odpowiada: 'Robię swoją część.' COLHYBRI ucieleśnia tego ducha — małe działania wielu osób tworzą ogromny zbiorowy wpływ.",
+    "headline": "Robimy swoją część, jak koliber",
+    "description": "W indiańskiej legendzie, gdy las płonie, koliber nosi wodę kropla po kropli. Zapytany dlaczego, odpowiada: 'Robię swoją część.' COLHYBRI ucieleśnia tego ducha, małe działania wielu osób tworzą ogromny zbiorowy wpływ.",
     "pillars": {
       "inclusion": {
         "title": "Inkluzja finansowa",
-        "description": "W Polsce wiele osób jest wykluczonych lub częściowo wykluczonych z systemu bankowego. COLHYBRI zapewnia przystępny dostęp do podstawowych usług finansowych — bez sprawdzania zdolności kredytowej, bez minimalnego salda."
+        "description": "W Polsce wiele osób jest wykluczonych lub częściowo wykluczonych z systemu bankowego. COLHYBRI zapewnia przystępny dostęp do podstawowych usług finansowych, bez sprawdzania zdolności kredytowej, bez minimalnego salda."
       },
       "commerce": {
         "title": "Lokalny handel",
@@ -172,7 +172,7 @@
   },
   "miami": {
     "title": "Premiera w Polsce 2026",
-    "headline": "COLHYBRI startuje w Polsce — brama do inkluzji finansowej w Europie Środkowej",
+    "headline": "COLHYBRI startuje w Polsce: brama do inkluzji finansowej w Europie Środkowej",
     "description": "W Polsce wiele osób nie ma pełnego dostępu do usług bankowych. Dzięki tradycji spółdzielczości i dynamicznie rosnącej gospodarce, Polska jest idealnym miejscem startu misji COLHYBRI.",
     "whyMiami": {
       "title": "Dlaczego Polska?",
@@ -187,7 +187,7 @@
   "forIndividuals": {
     "title": "Dla osób prywatnych",
     "headline": "Wolność finansowa zaczyna się tutaj",
-    "description": "Nie masz konta bankowego? Żaden problem. COLHYBRI daje ci dostęp do podstawowych usług finansowych przez lokalne sklepy w twojej okolicy. Oszczędzaj, wydawaj i buduj swoją finansową przyszłość — w przystępnej cenie."
+    "description": "Nie masz konta bankowego? Żaden problem. COLHYBRI daje ci dostęp do podstawowych usług finansowych przez lokalne sklepy w twojej okolicy. Oszczędzaj, wydawaj i buduj swoją finansową przyszłość, w przystępnej cenie."
   },
   "forShops": {
     "title": "Dla lokalnych sklepów",
@@ -265,15 +265,15 @@
   "contact": {
     "title": "Kontakt",
     "headline": "Skontaktuj się z nami",
-    "description": "Zainteresowany COLHYBRI? Niezależnie od tego, czy jesteś osobą prywatną, właścicielem lokalnego sklepu, urzędnikiem miejskim czy inwestorem — chętnie cię wysłuchamy.",
+    "description": "Zainteresowany COLHYBRI? Niezależnie od tego, czy jesteś osobą prywatną, właścicielem lokalnego sklepu, urzędnikiem miejskim czy inwestorem, chętnie cię wysłuchamy.",
     "email": "contact@colhybri.com",
     "cta": "Wyślij wiadomość",
     "headquarters": "Siedziba"
   },
   "footer": {
     "tagline": "Inkluzja finansowa poprzez lokalny handel",
-    "quote": "'Robię swoją część.' — Indiańska legenda (Koliber)",
-    "group": "COLHYBRI — Uruchomiony 26/02/2026",
+    "quote": "'Robię swoją część.' Indiańska legenda (Koliber)",
+    "group": "COLHYBRI, Uruchomiony 26/02/2026",
     "copyright": {
       "main": "© 2026 COLHYBRI. Część ONLYMORE Group. Wszelkie prawa zastrzeżone.",
       "ip": "Wszystkie zdjęcia, teksty, projekty i treści są własnością intelektualną ONLYMORE Group i nie mogą być powielane, rozpowszechniane ani wykorzystywane komercyjnie bez uprzedniej pisemnej zgody.",
@@ -337,7 +337,7 @@
     "discoverSolution": "Poznaj rozwiązanie"
   },
   "city": {
-    "metaTitle": "COLHYBRI w {city} — Lokalny handel i inkluzja finansowa",
+    "metaTitle": "COLHYBRI w {city}: Lokalny handel i inkluzja finansowa",
     "metaDescription": "COLHYBRI wzmacnia lokalny handel w {city}, {region}. Dolacz do ruchu inkluzji finansowej w Twojej okolicy.",
     "heroTitle": "COLHYBRI w {city}",
     "heroDescription": "{city} i jego {population} mieszkancow zasluguje na dostepne uslugi finansowe. COLHYBRI laczy osoby bez dostepu do bankow z lokalnymi sklepami, budujac gospodarke spolecznosci.",
@@ -355,7 +355,7 @@
     "benefit2Title": "Mnoznik keynesowski",
     "benefit2Description": "Kazde euro wydane lokalnie w {city} mnozy swoj wplyw ekonomiczny w spolecznosci.",
     "benefit3Title": "Centrum spolecznosci",
-    "benefit3Description": "Lokalne sklepy w {city} staja sie cyfrowymi trzecimi miejscami — gdzie finanse spotykaja sie ze spolecznoscia.",
+    "benefit3Description": "Lokalne sklepy w {city} staja sie cyfrowymi trzecimi miejscami, gdzie finanse spotykaja sie ze spolecznoscia.",
     "benefit4Title": "Panel wplywu",
     "benefit4Description": "Sledz wplyw ekonomiczny w czasie rzeczywistym: miejsca pracy, pieniadze krazace lokalnie w {city}.",
     "ctaTitle": "Gotowy na transformacje {city}?",

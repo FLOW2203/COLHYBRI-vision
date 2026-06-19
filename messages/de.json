@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "COLHYBRI — Finanzielle Inklusion durch lokalen Handel",
+    "title": "COLHYBRI: Finanzielle Inklusion durch lokalen Handel",
     "description": "COLHYBRI verbindet unterversorgte Personen mit lokalen Geschäften durch ein erschwingliches monatliches Abonnement und schafft ein gemeinschaftsgetriebenes Finanzökosystem."
   },
   "nav": {
@@ -27,22 +27,22 @@
     "cta": "Werden Sie Teil der Bewegung",
     "ctaSecondary": "So funktioniert's",
     "stats": {
-      "price": "—",
-      "priceLabel": "Bald verfügbar",
-      "stage": "Pre-seed",
-      "stageLabel": "Aktuelle Phase",
-      "mission": "Finanzielle Inklusion",
-      "missionLabel": "Unsere Mission"
+      "price": "0%",
+      "priceLabel": "COLHYBRI Provision",
+      "stage": "55%",
+      "stageLabel": "Städte mit Ladenleerstand",
+      "mission": "Vom Lokalen zum Globalen",
+      "missionLabel": "Unsere Vision"
     }
   },
   "mission": {
     "title": "Unsere Mission",
-    "headline": "Unseren Teil tun — Wie der Kolibri",
-    "description": "In einer Legende der amerikanischen Ureinwohner trägt der Kolibri, während der Wald brennt, Tropfen für Tropfen Wasser. Als er gefragt wird warum, antwortet er: \"Ich tue meinen Teil.\" COLHYBRI verkörpert diesen Geist — kleine Handlungen vieler erzeugen eine massive kollektive Wirkung.",
+    "headline": "Unseren Teil tun, wie der Kolibri",
+    "description": "In einer Legende der amerikanischen Ureinwohner trägt der Kolibri, während der Wald brennt, Tropfen für Tropfen Wasser. Als er gefragt wird warum, antwortet er: \"Ich tue meinen Teil.\" COLHYBRI verkörpert diesen Geist, kleine Handlungen vieler erzeugen eine massive kollektive Wirkung.",
     "pillars": {
       "inclusion": {
         "title": "Finanzielle Inklusion",
-        "description": "Viele Menschen in Deutschland haben keinen ausreichenden Zugang zu Bankdienstleistungen. COLHYBRI bietet erschwinglichen Zugang zu wesentlichen Finanzdienstleistungen — keine Bonitätsprüfung, kein Mindestguthaben."
+        "description": "Viele Menschen in Deutschland haben keinen ausreichenden Zugang zu Bankdienstleistungen. COLHYBRI bietet erschwinglichen Zugang zu wesentlichen Finanzdienstleistungen, keine Bonitätsprüfung, kein Mindestguthaben."
       },
       "commerce": {
         "title": "Lokaler Handel",
@@ -172,7 +172,7 @@
   },
   "miami": {
     "title": "Deutschland-Start 2026",
-    "headline": "COLHYBRI startet in Deutschland — Europas Tor zur finanziellen Inklusion",
+    "headline": "COLHYBRI startet in Deutschland: Europas Tor zur finanziellen Inklusion",
     "description": "Viele Menschen in Deutschland haben keinen ausreichenden Zugang zu Bankdienstleistungen. Mit seiner starken Sparkassen-Tradition und dem florierenden lokalen Einzelhandel ist Deutschland die perfekte Startrampe für die Mission von COLHYBRI in Europa.",
     "whyMiami": {
       "title": "Warum Deutschland?",
@@ -187,7 +187,7 @@
   "forIndividuals": {
     "title": "Für Privatpersonen",
     "headline": "Finanzielle Freiheit beginnt hier",
-    "description": "Kein Bankkonto? Kein Problem. COLHYBRI gibt Ihnen Zugang zu wesentlichen Finanzdienstleistungen über Ihre Geschäfte in der Nachbarschaft. Sparen, ausgeben und Ihre finanzielle Zukunft aufbauen — alles für ein erschwingliches monatliches Abonnement."
+    "description": "Kein Bankkonto? Kein Problem. COLHYBRI gibt Ihnen Zugang zu wesentlichen Finanzdienstleistungen über Ihre Geschäfte in der Nachbarschaft. Sparen, ausgeben und Ihre finanzielle Zukunft aufbauen, alles für ein erschwingliches monatliches Abonnement."
   },
   "forShops": {
     "title": "Für lokale Geschäfte",
@@ -265,15 +265,15 @@
   "contact": {
     "title": "Kontaktieren Sie uns",
     "headline": "Nehmen Sie Kontakt auf",
-    "description": "Interessiert an COLHYBRI? Ob Sie eine Privatperson, ein lokaler Geschäftsinhaber, ein Stadtbeamter oder ein Investor sind — wir freuen uns, von Ihnen zu hören.",
+    "description": "Interessiert an COLHYBRI? Ob Sie eine Privatperson, ein lokaler Geschäftsinhaber, ein Stadtbeamter oder ein Investor sind, wir freuen uns, von Ihnen zu hören.",
     "email": "contact@colhybri.com",
     "cta": "Nachricht senden",
     "headquarters": "Hauptsitz"
   },
   "footer": {
     "tagline": "Finanzielle Inklusion durch lokalen Handel",
-    "quote": "\"Ich tue meinen Teil.\" — Legende der amerikanischen Ureinwohner (Der Kolibri)",
-    "group": "COLHYBRI — Gestartet am 26/02/2026",
+    "quote": "\"Ich tue meinen Teil.\" Legende der amerikanischen Ureinwohner (Der Kolibri)",
+    "group": "COLHYBRI, Gestartet am 26/02/2026",
     "copyright": {
       "main": "© 2026 COLHYBRI. Teil der ONLYMORE Group. Alle Rechte vorbehalten.",
       "ip": "Alle Fotos, Texte, Designs und Inhalte sind geistiges Eigentum der ONLYMORE Group und dürfen ohne vorherige schriftliche Genehmigung nicht vervielfältigt, verbreitet oder kommerziell genutzt werden.",
@@ -337,7 +337,7 @@
     "discoverSolution": "Lösung entdecken"
   },
   "city": {
-    "metaTitle": "COLHYBRI in {city} — Lokaler Handel & finanzielle Inklusion",
+    "metaTitle": "COLHYBRI in {city}: Lokaler Handel & finanzielle Inklusion",
     "metaDescription": "COLHYBRI starkt den lokalen Handel in {city}, {region}. Schliessen Sie sich der Bewegung fur finanzielle Inklusion in Ihrer Nachbarschaft an.",
     "heroTitle": "COLHYBRI in {city}",
     "heroDescription": "{city} und seine {population} Einwohner verdienen zugangliche Finanzdienstleistungen. COLHYBRI verbindet unterversorgte Bewohner mit lokalen Geschaften fur eine gemeinschaftliche Wirtschaft.",
@@ -355,7 +355,7 @@
     "benefit2Title": "Keynesianischer Multiplikator",
     "benefit2Description": "Jeder Euro, der lokal in {city} ausgegeben wird, vervielfacht seine wirtschaftliche Wirkung in der Gemeinschaft.",
     "benefit3Title": "Gemeinschafts-Hub",
-    "benefit3Description": "Lokale Geschafte in {city} werden zu digitalen dritten Orten — wo Finanzen auf Gemeinschaft treffen.",
+    "benefit3Description": "Lokale Geschafte in {city} werden zu digitalen dritten Orten, wo Finanzen auf Gemeinschaft treffen.",
     "benefit4Title": "Impact-Dashboard",
     "benefit4Description": "Verfolgen Sie die wirtschaftliche Wirkung in Echtzeit: geschaffene Arbeitsplatze, lokal zirkulierendes Geld in {city}.",
     "ctaTitle": "Bereit, {city} zu transformieren?",

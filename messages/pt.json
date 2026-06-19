@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "COLHYBRI — Inclusao Financeira Atraves do Comercio Local",
+    "title": "COLHYBRI: Inclusao Financeira Atraves do Comercio Local",
     "description": "COLHYBRI conecta pessoas desbancarizadas com comercios locais, criando um ecossistema financeiro comunitario."
   },
   "nav": {
@@ -27,22 +27,22 @@
     "cta": "Junte-se ao Movimento",
     "ctaSecondary": "Veja Como Funciona",
     "stats": {
-      "price": "—",
-      "priceLabel": "Em breve",
-      "stage": "Pre-seed",
-      "stageLabel": "Fase atual",
-      "mission": "Inclusão financeira",
-      "missionLabel": "Nossa missão"
+      "price": "0%",
+      "priceLabel": "Comissão COLHYBRI",
+      "stage": "55%",
+      "stageLabel": "Cidades com vacância comercial",
+      "mission": "Do local ao global",
+      "missionLabel": "Nossa visão"
     }
   },
   "mission": {
     "title": "Nossa Missao",
-    "headline": "Fazendo Nossa Parte — Como o Beija-flor",
-    "description": "Em uma lenda indigena, enquanto a floresta queima, o beija-flor carrega agua gota a gota. Quando perguntado por que, ele responde: \"Estou fazendo minha parte.\" COLHYBRI incorpora esse espirito — pequenas acoes de muitos criam um impacto coletivo enorme.",
+    "headline": "Fazendo Nossa Parte, Como o Beija-flor",
+    "description": "Em uma lenda indigena, enquanto a floresta queima, o beija-flor carrega agua gota a gota. Quando perguntado por que, ele responde: \"Estou fazendo minha parte.\" COLHYBRI incorpora esse espirito, pequenas acoes de muitos criam um impacto coletivo enorme.",
     "pillars": {
       "inclusion": {
         "title": "Inclusao Financeira",
-        "description": "No Brasil, milhões de pessoas nao tem acesso bancario adequado. COLHYBRI oferece acesso acessivel a servicos financeiros essenciais — sem consulta de credito, sem saldo minimo."
+        "description": "No Brasil, milhões de pessoas nao tem acesso bancario adequado. COLHYBRI oferece acesso acessivel a servicos financeiros essenciais, sem consulta de credito, sem saldo minimo."
       },
       "commerce": {
         "title": "Comercio Local",
@@ -172,7 +172,7 @@
   },
   "miami": {
     "title": "Lançamento Brasil 2026",
-    "headline": "COLHYBRI Lanca no Brasil — A Porta de Entrada da America Latina para a Inclusao Financeira",
+    "headline": "COLHYBRI Lanca no Brasil: A Porta de Entrada da America Latina para a Inclusao Financeira",
     "description": "No Brasil, milhões de pessoas nao tem acesso bancario adequado. Com seu ecossistema PIX, tradicao de cooperativas de credito e comercio local vibrante, o Brasil e a plataforma de lancamento perfeita para a missao do COLHYBRI na America Latina.",
     "whyMiami": {
       "title": "Por que o Brasil?",
@@ -272,8 +272,8 @@
   },
   "footer": {
     "tagline": "Inclusao Financeira Atraves do Comercio Local",
-    "quote": "\"Estou fazendo minha parte.\" — Lenda Indigena (O Beija-flor)",
-    "group": "COLHYBRI — Lançado em 26/02/2026",
+    "quote": "\"Estou fazendo minha parte.\" Lenda Indigena (O Beija-flor)",
+    "group": "COLHYBRI, Lançado em 26/02/2026",
     "copyright": {
       "main": "© 2026 COLHYBRI. Parte do ONLYMORE Group. Todos os direitos reservados.",
       "ip": "Todas as fotos, textos, designs e conteúdos são propriedade intelectual do ONLYMORE Group e não podem ser reproduzidos, distribuídos ou usados para fins comerciais sem autorização prévia por escrito.",
@@ -337,7 +337,7 @@
     "discoverSolution": "Descobrir a solução"
   },
   "city": {
-    "metaTitle": "COLHYBRI em {city} — Comercio local e inclusao financeira",
+    "metaTitle": "COLHYBRI em {city}: Comercio local e inclusao financeira",
     "metaDescription": "COLHYBRI fortalece o comercio local em {city}, {region}. Junte-se ao movimento de inclusao financeira no seu bairro.",
     "heroTitle": "COLHYBRI em {city}",
     "heroDescription": "{city} e seus {population} habitantes merecem servicos financeiros acessiveis. COLHYBRI conecta residentes nao-bancarizados a comercios locais para construir uma economia comunitaria.",
@@ -355,7 +355,7 @@
     "benefit2Title": "Multiplicador keynesiano",
     "benefit2Description": "Cada euro gasto localmente em {city} multiplica seu impacto economico na comunidade.",
     "benefit3Title": "Hub comunitario",
-    "benefit3Description": "Os comercios locais de {city} se tornam terceiros lugares digitais — onde financas e comunidade se encontram.",
+    "benefit3Description": "Os comercios locais de {city} se tornam terceiros lugares digitais, onde financas e comunidade se encontram.",
     "benefit4Title": "Painel de impacto",
     "benefit4Description": "Acompanhe o impacto economico em tempo real: empregos criados, dinheiro circulando localmente em {city}.",
     "ctaTitle": "Pronto para transformar {city}?",

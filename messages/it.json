@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "COLHYBRI — Inclusione Finanziaria Attraverso il Commercio Locale",
+    "title": "COLHYBRI: Inclusione Finanziaria Attraverso il Commercio Locale",
     "description": "COLHYBRI collega le persone non bancarizzate alle botteghe locali, creando un ecosistema finanziario comunitario."
   },
   "nav": {
@@ -27,22 +27,22 @@
     "cta": "Unisciti al Movimento",
     "ctaSecondary": "Scopri Come Funziona",
     "stats": {
-      "price": "—",
-      "priceLabel": "Al Mese",
-      "stage": "Pre-seed",
-      "stageLabel": "Fase attuale",
-      "mission": "Inclusione finanziaria",
-      "missionLabel": "La nostra missione"
+      "price": "0%",
+      "priceLabel": "Commissione COLHYBRI",
+      "stage": "55%",
+      "stageLabel": "Città con vacanza commerciale",
+      "mission": "Dal locale al globale",
+      "missionLabel": "La nostra visione"
     }
   },
   "mission": {
     "title": "La Nostra Missione",
-    "headline": "Fare la Nostra Parte — Come il Colibrì",
-    "description": "In una leggenda dei nativi americani, mentre la foresta brucia, il colibrì trasporta acqua goccia dopo goccia. Quando gli chiedono perché, risponde: «Sto facendo la mia parte.» COLHYBRI incarna questo spirito — piccole azioni di molti creano un enorme impatto collettivo.",
+    "headline": "Fare la Nostra Parte, Come il Colibrì",
+    "description": "In una leggenda dei nativi americani, mentre la foresta brucia, il colibrì trasporta acqua goccia dopo goccia. Quando gli chiedono perché, risponde: «Sto facendo la mia parte.» COLHYBRI incarna questo spirito, piccole azioni di molti creano un enorme impatto collettivo.",
     "pillars": {
       "inclusion": {
         "title": "Inclusione Finanziaria",
-        "description": "In Italia molte persone sono non bancarizzate. COLHYBRI offre accesso conveniente ai servizi finanziari essenziali — senza controllo del credito, senza saldo minimo."
+        "description": "In Italia molte persone sono non bancarizzate. COLHYBRI offre accesso conveniente ai servizi finanziari essenziali, senza controllo del credito, senza saldo minimo."
       },
       "commerce": {
         "title": "Commercio Locale",
@@ -172,7 +172,7 @@
   },
   "miami": {
     "title": "Lancio Miami 2026",
-    "headline": "COLHYBRI si Lancia a Miami — La Porta dell'America verso l'Inclusione Finanziaria",
+    "headline": "COLHYBRI si Lancia a Miami: La Porta dell'America verso l'Inclusione Finanziaria",
     "description": "La contea di Miami-Dade ha uno dei tassi più alti di residenti non bancarizzati negli Stati Uniti. Con la sua vivace comunità latina e il fiorente commercio locale, Miami è la rampa di lancio perfetta per la missione di COLHYBRI.",
     "whyMiami": {
       "title": "Perché Miami?",
@@ -272,8 +272,8 @@
   },
   "footer": {
     "tagline": "Inclusione Finanziaria Attraverso il Commercio Locale",
-    "quote": "«Sto facendo la mia parte.» — Leggenda dei Nativi Americani (Il Colibrì)",
-    "group": "COLHYBRI — Lanciato il 26/02/2026",
+    "quote": "«Sto facendo la mia parte.» Leggenda dei Nativi Americani (Il Colibrì)",
+    "group": "COLHYBRI, Lanciato il 26/02/2026",
     "copyright": {
       "main": "© 2026 COLHYBRI. Parte di ONLYMORE Group. Tutti i diritti riservati.",
       "ip": "Tutte le foto, i testi, i design e i contenuti sono di proprietà intellettuale di ONLYMORE Group e non possono essere riprodotti, distribuiti o utilizzati a scopi commerciali senza previa autorizzazione scritta.",
@@ -337,7 +337,7 @@
     "discoverSolution": "Scopri la soluzione"
   },
   "city": {
-    "metaTitle": "COLHYBRI a {city} — Commercio locale e inclusione finanziaria",
+    "metaTitle": "COLHYBRI a {city}: Commercio locale e inclusione finanziaria",
     "metaDescription": "COLHYBRI rafforza il commercio locale a {city}, {region}. Unisciti al movimento per l'inclusione finanziaria nel tuo quartiere.",
     "heroTitle": "COLHYBRI a {city}",
     "heroDescription": "{city} e i suoi {population} abitanti meritano servizi finanziari accessibili. COLHYBRI connette i residenti non bancarizzati ai commerci locali per costruire un'economia comunitaria.",
@@ -355,7 +355,7 @@
     "benefit2Title": "Moltiplicatore keynesiano",
     "benefit2Description": "Ogni euro speso localmente a {city} moltiplica il suo impatto economico nella comunita.",
     "benefit3Title": "Hub comunitario",
-    "benefit3Description": "I commerci locali di {city} diventano terzi luoghi digitali — dove la finanza incontra la comunita.",
+    "benefit3Description": "I commerci locali di {city} diventano terzi luoghi digitali, dove la finanza incontra la comunita.",
     "benefit4Title": "Dashboard d'impatto",
     "benefit4Description": "Monitora l'impatto economico in tempo reale: posti di lavoro creati, denaro che circola localmente a {city}.",
     "ctaTitle": "Pronto a trasformare {city}?",

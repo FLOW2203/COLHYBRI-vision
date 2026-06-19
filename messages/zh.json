@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "COLHYBRI — 通过本地商业实现金融普惠",
+    "title": "COLHYBRI：通过本地商业实现金融普惠",
     "description": "COLHYBRI 通过实惠的订阅服务，将金融服务不足的个人与本地商店连接起来，打造社区驱动的金融生态系统。"
   },
   "nav": {
@@ -27,22 +27,22 @@
     "cta": "加入我们",
     "ctaSecondary": "了解运作方式",
     "stats": {
-      "price": "—",
-      "priceLabel": "即将公布",
-      "stage": "Pre-seed",
-      "stageLabel": "当前阶段",
-      "mission": "金融普惠",
-      "missionLabel": "我们的使命"
+      "price": "0%",
+      "priceLabel": "COLHYBRI 佣金",
+      "stage": "55%",
+      "stageLabel": "存在商业空置的城镇",
+      "mission": "从本地到全球",
+      "missionLabel": "我们的愿景"
     }
   },
   "mission": {
     "title": "我们的使命",
-    "headline": "尽自己的一份力 — 如蜂鸟一般",
-    "description": "在一个美洲原住民传说中，当森林燃烧时，蜂鸟一滴一滴地衔水灭火。当被问及为什么时，它回答道：“我在尽自己的一份力。” COLHYBRI 秉承这一精神 — 众人的微小行动汇聚成巨大的集体影响力。",
+    "headline": "尽自己的一份力，如蜂鸟一般",
+    "description": "在一个美洲原住民传说中，当森林燃烧时，蜂鸟一滴一滴地衔水灭火。当被问及为什么时，它回答道：“我在尽自己的一份力。” COLHYBRI 秉承这一精神，众人的微小行动汇聚成巨大的集体影响力。",
     "pillars": {
       "inclusion": {
         "title": "金融普惠",
-        "description": "在中国，许多人属于金融服务不足群体。COLHYBRI 以实惠的月费提供基本金融服务 — 无需信用审查，无最低余额要求。"
+        "description": "在中国，许多人属于金融服务不足群体。COLHYBRI 以实惠的月费提供基本金融服务，无需信用审查，无最低余额要求。"
       },
       "commerce": {
         "title": "本地商业",
@@ -172,7 +172,7 @@
   },
   "miami": {
     "title": "2026年中国启动",
-    "headline": "COLHYBRI 在中国启动 — 亚洲金融普惠的引擎",
+    "headline": "COLHYBRI 在中国启动：亚洲金融普惠的引擎",
     "description": "在中国，许多人金融服务不足。凭借成熟的数字支付生态系统和蓬勃发展的社区商业，中国是 COLHYBRI 使命的理想起点。",
     "whyMiami": {
       "title": "为什么选择中国？",
@@ -187,7 +187,7 @@
   "forIndividuals": {
     "title": "个人用户",
     "headline": "财务自由从这里开始",
-    "description": "没有银行账户？没问题。COLHYBRI 通过您社区的商店为您提供基本金融服务。储蓄、消费、构建您的财务未来 — 以实惠的月费。"
+    "description": "没有银行账户？没问题。COLHYBRI 通过您社区的商店为您提供基本金融服务。储蓄、消费、构建您的财务未来，以实惠的月费。"
   },
   "forShops": {
     "title": "本地商店",
@@ -272,8 +272,8 @@
   },
   "footer": {
     "tagline": "通过本地商业实现金融普惠",
-    "quote": "“我在尽自己的一份力。” — 美洲原住民传说（蜂鸟）",
-    "group": "COLHYBRI — 于2026年2月26日上线",
+    "quote": "“我在尽自己的一份力。”美洲原住民传说（蜂鸟）",
+    "group": "COLHYBRI，于2026年2月26日上线",
     "copyright": {
       "main": "© 2026 COLHYBRI。ONLYMORE Group 旗下。保留所有权利。",
       "ip": "所有照片、文字、设计和内容均为 ONLYMORE Group 的知识产权,未经事先书面授权不得复制、分发或用于商业用途。",
@@ -337,7 +337,7 @@
     "discoverSolution": "了解解决方案"
   },
   "city": {
-    "metaTitle": "COLHYBRI在{city} — 本地商业与金融普惠",
+    "metaTitle": "COLHYBRI在{city}：本地商业与金融普惠",
     "metaDescription": "COLHYBRI加强{city}{region}的本地商业。加入您社区的金融普惠运动。",
     "heroTitle": "COLHYBRI在{city}",
     "heroDescription": "{city}及其{population}居民值得拥有便捷的金融服务。COLHYBRI将欠银行服务居民与本地商店连接，共建社区经济。",
@@ -355,7 +355,7 @@
     "benefit2Title": "凯恩斯乘数",
     "benefit2Description": "在{city}本地花费的每一元都会在社区中倍增其经济影响。",
     "benefit3Title": "社区中心",
-    "benefit3Description": "{city}的本地商店成为数字第三空间——金融与社区相遇的地方。",
+    "benefit3Description": "{city}的本地商店成为数字第三空间，金融与社区相遇的地方。",
     "benefit4Title": "影响力仪表板",
     "benefit4Description": "实时跟踪经济影响：在{city}创造的就业岗位和本地流通的资金。",
     "ctaTitle": "准备好改变{city}了吗？",
