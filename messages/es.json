@@ -107,7 +107,7 @@
         "detail": "55% de empleo informal. Crecimiento 2.1% en 2026. Formalizacion mediante digitalizacion."
       },
       "africa": {
-        "title": "Africa",
+        "title": "África",
         "detail": "Crecimiento 4.3% en 2026. Urbanizacion rapida. Sin herramienta digital dedicada."
       }
     }
@@ -264,7 +264,7 @@
         "espana": "Espana",
         "europe": "Europa",
         "latam": "America Latina",
-        "africa": "Africa"
+        "africa": "África"
       },
       "roadmapTitle": "Roadmap internacional",
       "roadmapBody": "Para inversores y partenariados internacionales, las paginas fuera de la esfera hispana siguen accesibles por URL directa.",
@@ -2216,7 +2216,7 @@
       "body": "El compromiso comunitario pasa por el juego. 26 mini-juegos anclados en el territorio transforman cada gesto solidario en una experiencia ludica.",
       "tags": {
         "challenges": "Desafios de barrio",
-        "rankings": "Rankings",
+        "rankings": "Clasificaciones",
         "minigames": "26 mini-juegos",
         "streetRankings": "Rankings por calle"
       }
@@ -3078,9 +3078,9 @@
   },
   "legal": {
     "privacy": {
-      "title": "Privacy Policy",
-      "updated": "Last updated: June 2026",
-      "intro": "COLHYBRI is a service operated by ONLYMORE Group. This Privacy Policy explains how we collect, use, and protect your personal data when you visit colhybri.vision or use the COLHYBRI application.",
+      "title": "Política de privacidad",
+      "updated": "Última actualización: junio de 2026",
+      "intro": "COLHYBRI es un servicio editado por ONLYMORE Group. Esta política de privacidad explica cómo recopilamos, utilizamos y protegemos tus datos personales cuando visitas colhybri.vision o utilizas la aplicación COLHYBRI.",
       "sections": [
         {
           "h": "Who we are",
@@ -3117,9 +3117,9 @@
       ]
     },
     "terms": {
-      "title": "Terms of Service",
-      "updated": "Last updated: June 2026",
-      "intro": "These Terms of Service govern your access to and use of the COLHYBRI website (colhybri.vision) and the COLHYBRI application, both operated by ONLYMORE Group.",
+      "title": "Condiciones de uso",
+      "updated": "Última actualización: junio de 2026",
+      "intro": "Estas condiciones de uso rigen tu acceso al sitio COLHYBRI (colhybri.vision) y a la aplicación COLHYBRI, ambos editados por ONLYMORE Group.",
       "sections": [
         {
           "h": "Acceptance of terms",

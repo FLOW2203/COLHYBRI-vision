@@ -54,7 +54,7 @@ export function generatePageMetadata({
 }: PageMetadataOptions): Metadata {
   // Avoid duplicating the brand when a page already passes "COLHYBRI" as its title
   // (e.g. the home page). Otherwise prefix the page title before the brand + tagline.
-  const brandSuffix = `COLHYBRI — ${taglines[locale]}`;
+  const brandSuffix = `COLHYBRI. ${taglines[locale]}`;
   const fullTitle = title.trim().toUpperCase() === 'COLHYBRI'
     ? brandSuffix
     : `${title} | ${brandSuffix}`;
@@ -85,7 +85,7 @@ export function generatePageMetadata({
           url: `${BASE_URL}/og-image-${locale}.png`,
           width: 1200,
           height: 630,
-          alt: `COLHYBRI — ${taglines[locale]}`,
+          alt: `COLHYBRI. ${taglines[locale]}`,
         },
       ],
     },

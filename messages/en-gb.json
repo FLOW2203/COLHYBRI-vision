@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "COLHYBRI — Financial Inclusion Through Local Commerce",
+    "title": "COLHYBRI: Financial Inclusion Through Local Commerce",
     "description": "COLHYBRI connects financially excluded individuals with local shops through an affordable subscription, creating a community-powered financial ecosystem."
   },
   "nav": {
@@ -27,22 +27,22 @@
     "cta": "Open the app",
     "ctaSecondary": "See How It Works",
     "stats": {
-      "price": "—",
-      "priceLabel": "Coming Soon",
-      "stage": "Pre-seed",
-      "stageLabel": "Current Stage",
-      "mission": "Financial Inclusion",
-      "missionLabel": "Our Mission"
+      "price": "0%",
+      "priceLabel": "COLHYBRI commission",
+      "stage": "55%",
+      "stageLabel": "Towns with commercial vacancy",
+      "mission": "From local to global",
+      "missionLabel": "Our vision"
     }
   },
   "mission": {
     "title": "Our Mission",
-    "headline": "Doing Our Part — Like the Hummingbird",
-    "description": "In a Native American legend, while the forest burns, the hummingbird carries water drop by drop. When asked why, it replies: \"I am doing my part.\" COLHYBRI embodies this spirit — small actions by many create massive collective impact.",
+    "headline": "Doing Our Part, Like the Hummingbird",
+    "description": "In a Native American legend, while the forest burns, the hummingbird carries water drop by drop. When asked why, it replies: \"I am doing my part.\" COLHYBRI embodies this spirit, small actions by many create massive collective impact.",
     "pillars": {
       "inclusion": {
         "title": "Financial Inclusion",
-        "description": "Many adults in the UK lack access to basic banking services, and millions more are financially excluded. COLHYBRI provides affordable access to essential financial services — no credit check, no minimum balance."
+        "description": "Many adults in the UK lack access to basic banking services, and millions more are financially excluded. COLHYBRI provides affordable access to essential financial services, no credit check, no minimum balance."
       },
       "commerce": {
         "title": "Local Commerce",
@@ -172,7 +172,7 @@
   },
   "miami": {
     "title": "UK Launch 2026",
-    "headline": "COLHYBRI Launches in the UK — Revitalising the High Street",
+    "headline": "COLHYBRI Launches in the UK: Revitalising the High Street",
     "description": "The United Kingdom faces a growing cost of living crisis and many adults remain without access to a basic bank account. With its proud tradition of high street commerce and community-minded credit unions, the UK is an ideal launchpad for COLHYBRI's mission.",
     "whyMiami": {
       "title": "Why the UK?",
@@ -187,7 +187,7 @@
   "forIndividuals": {
     "title": "For Individuals",
     "headline": "Financial Freedom Starts Here",
-    "description": "No bank account? No problem. COLHYBRI gives you access to essential financial services through your neighbourhood shops. Save, spend, and build your financial future — all for an affordable monthly subscription."
+    "description": "No bank account? No problem. COLHYBRI gives you access to essential financial services through your neighbourhood shops. Save, spend, and build your financial future, all for an affordable monthly subscription."
   },
   "forShops": {
     "title": "For Local Shops",
@@ -272,8 +272,8 @@
   },
   "footer": {
     "tagline": "Financial Inclusion Through Local Commerce",
-    "quote": "\"I am doing my part.\" — Native American Legend (The Hummingbird)",
-    "group": "COLHYBRI — Launched 26/02/2026",
+    "quote": "\"I am doing my part.\" Native American Legend (The Hummingbird)",
+    "group": "COLHYBRI, Launched 26/02/2026",
     "copyright": {
       "main": "© 2026 COLHYBRI. Part of ONLYMORE Group. All rights reserved.",
       "ip": "All photos, texts, designs and content are the intellectual property of ONLYMORE Group and may not be reproduced, distributed or used for commercial purposes without prior written permission.",
@@ -337,7 +337,7 @@
     "discoverSolution": "Discover the solution"
   },
   "city": {
-    "metaTitle": "COLHYBRI in {city} — Local Commerce & Financial Inclusion",
+    "metaTitle": "COLHYBRI in {city}: Local Commerce & Financial Inclusion",
     "metaDescription": "COLHYBRI strengthens local commerce in {city}, {region}. Join the financial inclusion movement in your neighbourhood.",
     "heroTitle": "COLHYBRI in {city}",
     "heroDescription": "{city} and its {population} inhabitants deserve accessible financial services. COLHYBRI connects underbanked residents with local shops to build a community-powered economy.",
@@ -355,7 +355,7 @@
     "benefit2Title": "Keynesian Multiplier",
     "benefit2Description": "Every pound spent locally in {city} multiplies its economic impact through the community.",
     "benefit3Title": "Community Hub",
-    "benefit3Description": "Local shops in {city} become digital third places — where finance meets community.",
+    "benefit3Description": "Local shops in {city} become digital third places, where finance meets community.",
     "benefit4Title": "Impact Dashboard",
     "benefit4Description": "Track real-time economic impact: jobs created, money circulating locally in {city}.",
     "ctaTitle": "Ready to transform {city}?",
