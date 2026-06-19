@@ -145,21 +145,21 @@
       }
     },
     "regionsMenu": {
-      "title": "Browse by region",
-      "subtitle": "Verified local data, dedicated pages per linguistic sphere.",
+      "title": "Przeglądaj według regionu",
+      "subtitle": "Zweryfikowane dane lokalne, dedykowane strony dla każdego obszaru językowego.",
       "labels": {
         "france": "France",
-        "maroc": "Morocco",
+        "maroc": "Maroko",
         "usa": "USA",
-        "uk": "United Kingdom",
-        "espana": "Spain",
+        "uk": "Wielka Brytania",
+        "espana": "Hiszpania",
         "europe": "Europe",
-        "latam": "Latin America",
-        "africa": "Africa"
+        "latam": "Ameryka Łacińska",
+        "africa": "Afryka"
       },
-      "roadmapTitle": "International roadmap",
-      "roadmapBody": "For international investors and partners, pages outside the English sphere remain accessible via direct URL.",
-      "roadmapSoon": "Coming soon"
+      "roadmapTitle": "Mapa drogowa międzynarodowa",
+      "roadmapBody": "Dla inwestorów i partnerów międzynarodowych strony spoza obszaru francuskojęzycznego pozostają dostępne pod bezpośrednim adresem URL.",
+      "roadmapSoon": "Wkrótce"
     },
     "multiplierExplanation": {
       "title": "Mnożnik keynesowski",
@@ -330,11 +330,11 @@
     "getStarted": "Rozpocznij",
     "contactUs": "Skontaktuj się z nami",
     "backToHome": "Powrót na stronę główną",
-    "bookDemo": "Book a demo",
-    "applyWithColhybri": "Apply with COLHYBRI",
-    "institutionalPartnership": "Institutional partnership",
-    "proposePilot": "Propose a pilot",
-    "discoverSolution": "Discover the solution"
+    "bookDemo": "Zarezerwuj demo",
+    "applyWithColhybri": "Aplikuj z COLHYBRI",
+    "institutionalPartnership": "Partnerstwo instytucjonalne",
+    "proposePilot": "Zaproponuj pilotaż",
+    "discoverSolution": "Poznaj rozwiązanie"
   },
   "city": {
     "metaTitle": "COLHYBRI w {city} — Lokalny handel i inkluzja finansowa",
@@ -373,19 +373,19 @@
   },
   "cocon": {
     "common": {
-      "home": "Home",
-      "faqTitle": "Frequently asked questions",
-      "relatedTitle": "Go further",
-      "pillarBadge": "Main topic",
-      "relatedBadge": "Related",
-      "crossBadge": "Cross-topic",
-      "ctaTitle": "Ready to revitalize your downtown?",
-      "ctaApp": "Open the app",
-      "ctaDemo": "Book a demo"
+      "home": "Strona główna",
+      "faqTitle": "Najczęściej zadawane pytania",
+      "relatedTitle": "Aby dowiedzieć się więcej",
+      "pillarBadge": "Dossier główne",
+      "relatedBadge": "Na ten sam temat",
+      "crossBadge": "Przekrojowe",
+      "ctaTitle": "Gotowy ożywić swoje centrum miasta?",
+      "ctaApp": "Otwórz aplikację",
+      "ctaDemo": "Zaplanuj demo"
     },
     "meta": {
       "revitalisation-centres-villes": {
-        "title": "Downtown revitalization in France"
+        "title": "Rewitalizacja centrów miast"
       },
       "action-coeur-de-ville": {
         "title": "Action Coeur de Ville"
@@ -394,22 +394,22 @@
         "title": "Petites Villes de Demain"
       },
       "zrcv-zones-revitalisation": {
-        "title": "ZRCV downtown revitalization zones"
+        "title": "ZRCV strefy rewitalizacji"
       },
       "manager-commerce-cci": {
-        "title": "Commerce manager (CCI)"
+        "title": "Menedżer handlu CCI"
       },
       "vacance-commerciale-france": {
-        "title": "Commercial vacancy in France"
+        "title": "Pustostany handlowe we Francji"
       },
       "municipales-2026-commerce": {
-        "title": "2026 French municipal elections"
+        "title": "Wybory samorządowe 2026 a handel"
       },
       "commerce-proximite-digital": {
-        "title": "Local commerce digitalization"
+        "title": "Cyfryzacja handlu lokalnego"
       },
       "downtown-revitalization": {
-        "title": "Downtown revitalization in the USA"
+        "title": "Rewitalizacja centrów miast w USA"
       },
       "opportunity-zones": {
         "title": "Opportunity Zones 2.0"
@@ -418,63 +418,63 @@
         "title": "Main Street America"
       },
       "rust-belt-revitalization": {
-        "title": "Rust Belt revitalization"
+        "title": "Rewitalizacja Rust Belt"
       },
       "small-business-digital": {
-        "title": "Digital tools for US small business"
+        "title": "Cyfryzacja amerykańskich małych firm"
       },
       "community-development": {
-        "title": "Community Development through local commerce"
+        "title": "Rozwój społeczności poprzez handel lokalny"
       },
       "mutualisme-digital": {
-        "title": "Digital mutualism"
+        "title": "Cyfrowy mutualizm"
       },
       "caffe-sospeso": {
         "title": "Caffe sospeso"
       },
       "economie-solidaire": {
-        "title": "Neighborhood community economy"
+        "title": "Gospodarka solidarna dzielnicy"
       },
       "pool-solidaire-quartier": {
-        "title": "Neighborhood community pool"
+        "title": "Fundusz solidarnościowy dzielnicy"
       },
       "commerce-equitable-local": {
-        "title": "Fair local commerce"
+        "title": "Sprawiedliwy handel lokalny"
       },
       "cooperative-quartier": {
-        "title": "Digital neighborhood cooperative"
+        "title": "Cyfrowa spółdzielnia dzielnicowa"
       },
       "fidelisation-communautaire": {
-        "title": "Community-driven loyalty"
+        "title": "Lojalność społecznościowa"
       },
       "google-maps-commerce": {
-        "title": "Google Maps for merchants"
+        "title": "Google Maps dla sprzedawców"
       },
       "visibilite-google-pme": {
-        "title": "Google visibility for SMBs"
+        "title": "Widoczność w Google dla MŚP"
       },
       "seo-local-commerce": {
-        "title": "Local SEO for shops"
+        "title": "SEO lokalne dla handlu"
       },
       "avis-google-commercants": {
-        "title": "Google reviews for merchants"
+        "title": "Opinie Google dla sprzedawców"
       },
       "onboarding-digital-commerce": {
-        "title": "Zero-friction merchant onboarding"
+        "title": "Cyfrowe wdrożenie sprzedawcy"
       },
       "score-maps-audit": {
         "title": "Score Maps audit"
       },
       "maps-plus-outil": {
-        "title": "Maps+ COLHYBRI tool"
+        "title": "Maps+ narzędzie COLHYBRI"
       }
     },
     "revitalisation-centres-villes": {
-      "title": "Downtown revitalization in France",
-      "h1": "Downtown revitalization in France: 2026 programs",
-      "metaTitle": "Downtown revitalization in France: 2026 programs",
-      "metaDescription": "9B EUR mobilized by Action Coeur de Ville and Petites Villes de Demain for 1,890 towns. Complete guide to commercial revitalization in France.",
-      "snippet": "France mobilizes 9 billion EUR for downtown revitalization through Action Coeur de Ville (244 midsize towns, 5B EUR) and Petites Villes de Demain (1,646 small towns, 4B EUR). In 2026, 1,732 towns are classified as downtown revitalization zones (ZRCV) per the December 26, 2025 decree (ANCT).",
+      "title": "Rewitalizacja centrów miast",
+      "h1": "Rewitalizacja centrów miast we Francji: programy 2026",
+      "metaTitle": "Rewitalizacja centrów miast: programy 2026",
+      "metaDescription": "9 mld EUR zmobilizowanych przez Action Coeur de Ville i Petites Villes de Demain dla 1 890 gmin. Kompletny przewodnik po rewitalizacji handlowej we Francji.",
+      "snippet": "Rewitalizacja francuskich centrów miast mobilizuje 9 miliardów euro poprzez Action Coeur de Ville (244 gminy, 5 mld EUR) i Petites Villes de Demain (1 646 gmin, 4 mld EUR). W 2026 roku 1 732 gminy są sklasyfikowane jako strefa rewitalizacji (ZRCV) zgodnie z dekretem z 26 grudnia 2025 (ANCT).",
       "sections": [
         {
           "h2": "What is downtown revitalization?",
@@ -521,7 +521,7 @@
           "label": "mobilized 2023-2026"
         }
       ],
-      "tableTitle": "Revitalization programs at a glance",
+      "tableTitle": "Programy rewitalizacji w liczbach",
       "tableHeader": [
         "Program",
         "Budget and scope"
@@ -543,10 +543,10 @@
     },
     "action-coeur-de-ville": {
       "title": "Action Coeur de Ville",
-      "h1": "Action Coeur de Ville: revitalizing French midsize towns",
-      "metaTitle": "Action Coeur de Ville: 244 towns, 5B EUR, 2023-2026",
-      "metaDescription": "France's Action Coeur de Ville program mobilizes 5B EUR to revitalize 244 midsize towns. Led by ANCT with Banque des Territoires, Action Logement and Anah.",
-      "snippet": "Action Coeur de Ville is a national program launched in 2018 mobilizing 5 billion EUR over 2023-2026 to revitalize 244 French midsize towns. Led by ANCT with Banque des Territoires (2.5B EUR), Action Logement (1.7B EUR) and Anah (1B EUR), it covers housing renovation, commercial return and digital transition.",
+      "h1": "Action Coeur de Ville: program rewitalizacji średnich miast",
+      "metaTitle": "Action Coeur de Ville: 244 miasta, 5 mld EUR, 2023-2026",
+      "metaDescription": "Action Coeur de Ville mobilizuje 5 mld EUR na rewitalizację 244 średnich miast. Prowadzony przez ANCT, Banque des Territoires, Action Logement i Anah.",
+      "snippet": "Action Coeur de Ville to program krajowy uruchomiony w 2018 roku, który mobilizuje 5 miliardów euro w latach 2023-2026 na rewitalizację 244 średnich miast francuskich. Prowadzony przez ANCT wraz z Banque des Territoires (2,5 mld EUR), Action Logement (1,7 mld EUR) i Anah (1 mld EUR), obejmuje renowację mieszkań, powrót handlu i transformację cyfrową.",
       "sections": [
         {
           "h2": "What is the Action Coeur de Ville program?",
@@ -596,10 +596,10 @@
     },
     "petites-villes-de-demain": {
       "title": "Petites Villes de Demain",
-      "h1": "Petites Villes de Demain: revitalizing French small towns",
-      "metaTitle": "Petites Villes de Demain: 1,646 towns, 4B EUR",
-      "metaDescription": "The Petites Villes de Demain program supports 1,646 small towns with 4B EUR. Led by ANCT, covering housing, commerce and services.",
-      "snippet": "The Petites Villes de Demain program (PVD), led by ANCT, supports 1,646 French towns under 20,000 inhabitants in their revitalization. With 4 billion EUR committed through 2026, it funds infrastructure, services and quality of life projects reaching over 7 million inhabitants (ANCT, 2026).",
+      "h1": "Petites Villes de Demain: rewitalizacja gmin poniżej 20 000 mieszkańców",
+      "metaTitle": "Petites Villes de Demain: 1 646 gmin, 4 mld EUR",
+      "metaDescription": "Program Petites Villes de Demain wspiera 1 646 gmin kwotą 4 mld EUR. Prowadzony przez ANCT, obejmuje mieszkalnictwo, handel i usługi.",
+      "snippet": "Program Petites Villes de Demain (PVD), prowadzony przez ANCT, wspiera 1 646 gmin poniżej 20 000 mieszkańców w ich rewitalizacji. Przy 4 miliardach euro zaangażowanych do 2026 roku wspiera projekty infrastruktury, usług i jakości życia dla ponad 7 milionów mieszkańców (źródło: ANCT, 2026).",
       "sections": [
         {
           "h2": "What is the Petites Villes de Demain program?",
@@ -648,11 +648,11 @@
       ]
     },
     "zrcv-zones-revitalisation": {
-      "title": "ZRCV downtown revitalization zones",
-      "h1": "ZRCV: French downtown revitalization tax zones explained",
-      "metaTitle": "ZRCV 2026: 1,732 towns with tax exemption",
-      "metaDescription": "France's ZRCV tax zones exempt downtown shops from local business tax and property tax. 1,732 towns classified in 2026.",
-      "snippet": "Downtown revitalization zones (ZRCV) let French municipalities exempt their downtown shops from local business tax (CFE) and property tax. In 2026, 1,732 towns are classified ZRCV under the December 26, 2025 decree. The tool remains underused: many towns are unaware they are eligible.",
+      "title": "ZRCV strefy rewitalizacji",
+      "h1": "ZRCV: strefy rewitalizacji centrów miast wyjaśnione",
+      "metaTitle": "ZRCV 2026: 1 732 gminy sklasyfikowane, zwolnienie podatkowe",
+      "metaDescription": "Strefy rewitalizacji centrów miast (ZRCV) pozwalają zwolnić z CFE i podatku od nieruchomości handel w centrum. 1 732 gminy sklasyfikowane w 2026.",
+      "snippet": "Strefy rewitalizacji centrów miast (ZRCV) pozwalają samorządom zwolnić z CFE i podatku od nieruchomości handel w ich centrum. W 2026 roku 1 732 gminy są sklasyfikowane jako ZRCV zgodnie z dekretem z 26 grudnia 2025. Mechanizm pozostaje niedostatecznie wykorzystany: wiele gmin nie wie, że się kwalifikuje.",
       "sections": [
         {
           "h2": "What is a ZRCV?",
@@ -701,11 +701,11 @@
       ]
     },
     "manager-commerce-cci": {
-      "title": "Commerce manager (CCI)",
-      "h1": "Commerce manager: the job that revitalizes French downtowns",
-      "metaTitle": "Commerce manager CCI: mission and tools 2026",
-      "metaDescription": "Commerce managers funded by French Chambers of Commerce are the operational backbone of downtown revitalization. The government co-funds the role since 2025.",
-      "snippet": "Commerce managers, funded by French Chambers of Commerce and Industry (CCI), are the operational backbone of downtown revitalization. In 2025, the French government announced co-funding for commerce manager positions as part of the national commerce plan.",
+      "title": "Menedżer handlu CCI",
+      "h1": "Menedżer handlu: zawód, który ożywia centra miast",
+      "metaTitle": "Menedżer handlu CCI: misja i narzędzia 2026",
+      "metaDescription": "Menedżerowie handlu, finansowani przez CCI, są filarem rewitalizacji handlowej. Rząd ogłosił ich współfinansowanie w 2025 roku.",
+      "snippet": "Menedżerowie handlu, finansowani przez Izby Handlowo-Przemysłowe (CCI), są filarem rewitalizacji handlowej francuskich centrów miast. W 2025 roku rząd ogłosił współfinansowanie stanowisk menedżerów handlu w ramach walki z pustostanami handlowymi.",
       "sections": [
         {
           "h2": "What is a commerce manager?",
@@ -754,11 +754,11 @@
       ]
     },
     "vacance-commerciale-france": {
-      "title": "Commercial vacancy in France",
-      "h1": "Commercial vacancy in France: figures, causes and solutions 2026",
-      "metaTitle": "Commercial vacancy in France 2026: 55% of midsize towns",
-      "metaDescription": "55% of French midsize towns have commercial vacancy rates above 10%, up 4 points in 15 years (CCI France). Analysis and solutions.",
-      "snippet": "Commercial vacancy affects 55% of French midsize towns with a rate above 10%, up 4 points in 15 years (CCI France, 2024). Main causes are online platform competition, commercial rent pressure, administrative constraints and evolving consumer habits toward peripheral retail.",
+      "title": "Pustostany handlowe we Francji",
+      "h1": "Pustostany handlowe we Francji: liczby, przyczyny i rozwiązania 2026",
+      "metaTitle": "Pustostany handlowe Francja 2026: 55% średnich miast",
+      "metaDescription": "55% francuskich średnich miast ma wskaźnik pustostanów handlowych powyżej 10%, wzrost o 4 punkty w ciągu 15 lat (CCI France). Analiza i rozwiązania.",
+      "snippet": "Pustostany handlowe dotykają 55% francuskich średnich miast ze wskaźnikiem powyżej 10%, wzrost o 4 punkty w ciągu 15 lat (CCI France, 2024). Główne przyczyny to konkurencja platform internetowych, presja na czynsze handlowe, ograniczenia administracyjne i zmiana nawyków konsumenckich.",
       "sections": [
         {
           "h2": "What is the commercial vacancy rate in France?",
@@ -807,11 +807,11 @@
       ]
     },
     "municipales-2026-commerce": {
-      "title": "2026 French municipal elections",
-      "h1": "2026 French municipal elections: downtown as the top issue",
-      "metaTitle": "2026 French municipal elections: downtown, issue number 1",
-      "metaDescription": "The 2026 French municipal elections put downtown revitalization at the top of the agenda. The Confederation of French Merchants published a White Paper.",
-      "snippet": "Ahead of the 2026 French municipal elections, downtown revitalization has become the central issue for mandate programs. The Confederation of French Merchants (CDF) published a White Paper proposing solutions around four axes: vacant shops, soft mobility, commercial animation and security.",
+      "title": "Wybory samorządowe 2026 a handel",
+      "h1": "Wybory samorządowe 2026: rewitalizacja handlowa jako temat wyborczy",
+      "metaTitle": "Wybory samorządowe 2026: handel i centrum miasta, temat numer 1",
+      "metaDescription": "Wybory samorządowe 2026 stawiają rewitalizację handlową na pierwszym miejscu. Confederation des Commerçants de France opublikowała Białą Księgę.",
+      "snippet": "W obliczu wyborów samorządowych 2026 rewitalizacja centrów miast staje się centralnym tematem programów kadencji. Confederation des Commerçants de France (CDF) opublikowała Białą Księgę proponującą rozwiązania w czterech osiach: puste lokale, mobilność miękka, animacja handlowa i bezpieczeństwo.",
       "sections": [
         {
           "h2": "Why is commerce the top issue for the 2026 municipals?",
@@ -860,11 +860,11 @@
       ]
     },
     "commerce-proximite-digital": {
-      "title": "Local commerce digitalization",
-      "h1": "Digitalizing local commerce: issues and solutions 2026",
-      "metaTitle": "Local commerce digitalization 2026: the COLHYBRI guide",
-      "metaDescription": "75% of small retail businesses are invisible on Google in 2026. Complete guide to digitalization: audit, onboarding, monitoring.",
-      "snippet": "75% of small retail businesses are invisible on Google in 2026. Digitalizing local commerce follows three steps: digital presence audit (Score Maps), Google Business Profile optimization (zero-friction onboarding) and continuous review monitoring. COLHYBRI delivers all three for 10 EUR/month with 0% commission.",
+      "title": "Cyfryzacja handlu lokalnego",
+      "h1": "Cyfryzacja handlu lokalnego: wyzwania i rozwiązania 2026",
+      "metaTitle": "Cyfryzacja handlu lokalnego 2026: przewodnik COLHYBRI",
+      "metaDescription": "75% handlowych MŚP jest niewidocznych w Google w 2026. Kompletny przewodnik po cyfryzacji: audyt, wdrożenie, monitoring.",
+      "snippet": "75% handlowych MŚP jest niewidocznych w Google w 2026. Cyfryzacja handlu lokalnego przebiega w trzech etapach: audyt obecności cyfrowej (Score Maps), optymalizacja wizytówki Google Business (wdrożenie bez tarć) oraz ciągły monitoring opinii klientów. COLHYBRI oferuje te trzy usługi za 10 EUR/miesiąc z 0% prowizji.",
       "sections": [
         {
           "h2": "Why digitalize local commerce?",
@@ -913,11 +913,11 @@
       ]
     },
     "downtown-revitalization": {
-      "title": "Downtown revitalization in the USA",
-      "h1": "Downtown Revitalization in the USA: Programs, Grants and Digital Tools (2026)",
-      "metaTitle": "Downtown Revitalization USA: programs and tools 2026",
-      "metaDescription": "American downtowns are powered by Opportunity Zones (8,764 tracts), Main Street America (1,200+ communities) and federal RAISE grants totaling hundreds of millions.",
-      "snippet": "Downtown revitalization in the United States is powered by Opportunity Zones (8,764 designated tracts), Main Street America (1,200+ communities) and federal RAISE grants totaling hundreds of millions of dollars. The One Big Beautiful Bill Act of 2025 makes Opportunity Zones permanent and launches OZ 2.0 nominations in July 2026.",
+      "title": "Rewitalizacja centrów miast w USA",
+      "h1": "Rewitalizacja centrów miast w USA: programy i narzędzia 2026",
+      "metaTitle": "Downtown Revitalization USA: programy, dotacje, narzędzia 2026",
+      "metaDescription": "Amerykańskie centra miast korzystają z Opportunity Zones (8 764 strefy), Main Street America (1 200+ społeczności) i federalnych dotacji RAISE.",
+      "snippet": "Rewitalizacja centrów miast w Stanach Zjednoczonych opiera się na Opportunity Zones (8 764 wyznaczone strefy), Main Street America (1 200+ społeczności) i federalnych dotacjach RAISE, które łącznie sięgają setek milionów dolarów. One Big Beautiful Bill Act (2025) czyni Opportunity Zones trwałymi i uruchamia OZ 2.0 w lipcu 2026.",
       "sections": [
         {
           "h2": "What programs drive downtown revitalization in the USA?",
@@ -967,10 +967,10 @@
     },
     "opportunity-zones": {
       "title": "Opportunity Zones 2.0",
-      "h1": "Opportunity Zones 2.0: What Changes in 2026",
-      "metaTitle": "Opportunity Zones 2.0: new threshold, OBBBA 2025",
-      "metaDescription": "Opportunity Zones 2.0, established by OBBBA 2025, redesignate census tracts starting July 2026. New 70% threshold, 20% fewer eligible tracts.",
-      "snippet": "Opportunity Zones 2.0, established by the One Big Beautiful Bill Act of 2025, redesignate all census tracts starting July 2026 with new eligibility criteria. The income threshold drops from 80% to 70% of median family income, reducing eligible tracts by approximately 20%. Rural OZ investments qualify for up to 30% capital gains reduction.",
+      "h1": "Opportunity Zones 2.0: co się zmienia w 2026",
+      "metaTitle": "Opportunity Zones 2.0: nowy próg, OBBBA 2025",
+      "metaDescription": "Opportunity Zones 2.0, ustanowione przez OBBBA 2025, ponownie wyznaczają census tracts w lipcu 2026. Nowy próg 70%, redukcja o 20% kwalifikujących się stref.",
+      "snippet": "Opportunity Zones 2.0, ustanowione przez One Big Beautiful Bill Act z 2025, ponownie wyznaczają wszystkie census tracts w lipcu 2026 z nowymi kryteriami kwalifikacji. Próg dochodu spada z 80% do 70% mediany dochodu rodziny, zmniejszając o około 20% liczbę kwalifikujących się stref. Inwestycje wiejskie korzystają z redukcji nawet 30% od zysków kapitałowych.",
       "sections": [
         {
           "h2": "What is an Opportunity Zone?",
@@ -1020,10 +1020,10 @@
     },
     "main-street-america": {
       "title": "Main Street America",
-      "h1": "Main Street America: How 1,200+ Communities Are Revitalizing Their Downtowns",
-      "metaTitle": "Main Street America: 1,200+ communities, 4-Point Approach",
-      "metaDescription": "Main Street America is a nationwide network of 1,200+ communities using preservation-based economic development to revitalize historic commercial districts.",
-      "snippet": "Main Street America is a nationwide network of over 1,200 communities using a preservation-based economic development approach to revitalize historic commercial districts. The Four-Point Approach covers organization, promotion, design, and economic restructuring. COLHYBRI integrates as the digital measurement layer for Main Street programs.",
+      "h1": "Main Street America: 1 200+ społeczności, które rewitalizują swoje centra miast",
+      "metaTitle": "Main Street America: 1 200+ społeczności, 4 osie",
+      "metaDescription": "Main Street America to krajowa sieć 1 200+ społeczności, które stosują podejście oparte na ochronie zabytków do rewitalizacji swoich historycznych dzielnic.",
+      "snippet": "Main Street America to krajowa sieć ponad 1 200 amerykańskich społeczności, które stosują podejście preservation-based economic development do rewitalizacji swoich historycznych dzielnic handlowych. Four-Point Approach obejmuje organizację, promocję, design i restrukturyzację gospodarczą. COLHYBRI integruje się jako warstwa pomiaru cyfrowego programów Main Street.",
       "sections": [
         {
           "h2": "What is Main Street America?",
@@ -1072,11 +1072,11 @@
       ]
     },
     "rust-belt-revitalization": {
-      "title": "Rust Belt revitalization",
-      "h1": "Rust Belt Revitalization: How Post-Industrial Cities Are Reinventing Their Downtowns",
-      "metaTitle": "Rust Belt revitalization: Canton, Allentown, Pittsburgh",
-      "metaDescription": "Pittsburgh, Cleveland, Canton, Allentown: Rust Belt cities reinvent their downtowns using Opportunity Zones, historic tax credits and federal grants.",
-      "snippet": "Rust Belt cities like Pittsburgh, Cleveland, Canton and Allentown are transforming from heavy manufacturing to tech, healthcare and mixed-use downtown development. Canton, Ohio serves as a blueprint: one developer restored 42 buildings using historic tax credits (20% federal + 25% state). Allentown received a $20 million EDA grant for small-scale manufacturing on brownfield sites.",
+      "title": "Rewitalizacja Rust Belt",
+      "h1": "Rewitalizacja Rust Belt: jak miasta postindustrialne wymyślają się na nowo",
+      "metaTitle": "Rewitalizacja Rust Belt: Canton, Allentown, Pittsburgh",
+      "metaDescription": "Pittsburgh, Cleveland, Canton, Allentown: miasta Rust Belt przekształcają swoje centra dzięki Opportunity Zones i historycznym ulgom podatkowym.",
+      "snippet": "Miasta Rust Belt, takie jak Pittsburgh, Cleveland, Canton i Allentown, przekształcają się: przechodzą od ciężkiego przemysłu do technologii, ochrony zdrowia i mieszanego rozwoju centrum miasta. Canton (Ohio) jest wzorcem: deweloper odrestaurował 42 budynki w centrum dzięki historycznym ulgom podatkowym (20% federalne + 25% stanowe).",
       "sections": [
         {
           "h2": "What is the Rust Belt?",
@@ -1125,11 +1125,11 @@
       ]
     },
     "small-business-digital": {
-      "title": "Digital tools for US small business",
-      "h1": "Digital Tools for Small Business Downtown Revitalization",
-      "metaTitle": "Small business digital: tools for Main Streets",
-      "metaDescription": "75% of small businesses are invisible on Google. COLHYBRI Maps+ audits in 48h, zero-friction onboarding, $10/month, 0% commission.",
-      "snippet": "75% of small businesses are invisible on Google. Digital tools like COLHYBRI Maps+ audit Google presence in 48 hours, onboard merchants to Google Places with zero friction, generate customer reviews via post-visit QR codes, and provide continuous monitoring with negative review alerts. All for $10/month with 0% commission.",
+      "title": "Cyfryzacja amerykańskich małych firm",
+      "h1": "Narzędzia cyfrowe do rewitalizacji amerykańskich centrów miast",
+      "metaTitle": "Small business digital: narzędzia dla Main Streets",
+      "metaDescription": "75% amerykańskich małych firm jest niewidocznych w Google. COLHYBRI Maps+ audytuje w 48h, wdrożenie bez tarć, 10 USD/miesiąc, 0% prowizji.",
+      "snippet": "75% amerykańskich małych firm jest niewidocznych w Google. Narzędzia cyfrowe takie jak COLHYBRI Maps+ audytują obecność w Google w 48 godzin, wdrażają sprzedawców na Google Places bez tarć, generują opinie klientów przez kod QR po wizycie i zapewniają ciągły monitoring z alertami. Cena: 10 USD/miesiąc z 0% prowizji.",
       "sections": [
         {
           "h2": "Why digitalize American small businesses?",
@@ -1178,11 +1178,11 @@
       ]
     },
     "community-development": {
-      "title": "Community Development through local commerce",
-      "h1": "Community Development Through Local Commerce: The COLHYBRI Model",
-      "metaTitle": "Community development: x2.5 Keynesian multiplier",
-      "metaDescription": "Community development through local commerce applies the Keynesian multiplier: every dollar spent locally generates $2.50 in local economic activity.",
-      "snippet": "Community development through local commerce follows the Keynesian multiplier principle: every dollar spent locally generates $2.50 in local economic activity. COLHYBRI community pool channels 75% of subscriber fees into services gifted at partner shops, creating a virtuous cycle of local spending, job creation and neighborhood vitality.",
+      "title": "Rozwój społeczności poprzez handel lokalny",
+      "h1": "Rozwój społeczności poprzez handel lokalny: model COLHYBRI",
+      "metaTitle": "Rozwój społeczności: mnożnik keynesowski x2,5",
+      "metaDescription": "Rozwój społeczności poprzez handel lokalny stosuje mnożnik keynesowski: każdy dolar wydany lokalnie generuje 2,50 USD aktywności gospodarczej.",
+      "snippet": "Rozwój społeczności poprzez handel lokalny opiera się na zasadzie mnożnika keynesowskiego: każdy dolar wydany lokalnie generuje 2,50 USD lokalnej aktywności gospodarczej. Model funduszu solidarnościowego COLHYBRI kieruje 75% składek na usługi oferowane u partnerskich sprzedawców, tworząc cnotliwy cykl lokalnych wydatków, tworzenia miejsc pracy i witalności dzielnicy.",
       "sections": [
         {
           "h2": "What is community development?",
@@ -1231,11 +1231,11 @@
       ]
     },
     "mutualisme-digital": {
-      "title": "Digital mutualism",
-      "h1": "Digital mutualism: when 220 years of tradition meet tech",
-      "metaTitle": "Digital mutualism: COLHYBRI in the French tradition",
-      "metaDescription": "Digital mutualism transposes French cooperative principles (1806) into the digital economy. COLHYBRI applies this model to local commerce.",
-      "snippet": "Digital mutualism is the transposition of French cooperative principles (born in 1806 with the first mutuelles) into the digital economy. COLHYBRI applies this model to local commerce: each subscriber contributes to a community pool that funds services gifted at partner shops, creating a digital community safety net.",
+      "title": "Cyfrowy mutualizm",
+      "h1": "Cyfrowy mutualizm: gdy 220 lat tradycji spotyka technologię",
+      "metaTitle": "Cyfrowy mutualizm: COLHYBRI w tradycji francuskiej",
+      "metaDescription": "Cyfrowy mutualizm to przeniesienie francuskich zasad spółdzielczych (1806) do gospodarki cyfrowej. COLHYBRI stosuje ten model do handlu lokalnego.",
+      "snippet": "Cyfrowy mutualizm to przeniesienie francuskich zasad spółdzielczych (narodzonych w 1806 wraz z pierwszymi towarzystwami ubezpieczeń wzajemnych) do gospodarki cyfrowej. COLHYBRI stosuje ten model do handlu lokalnego: każdy abonent wpłaca do funduszu solidarnościowego, który finansuje usługi oferowane u partnerskich sprzedawców, tworząc cyfrową sieć bezpieczeństwa społeczności.",
       "sections": [
         {
           "h2": "What is French mutualism?",
@@ -1285,10 +1285,10 @@
     },
     "caffe-sospeso": {
       "title": "Caffe sospeso",
-      "h1": "Caffe sospeso: the Neapolitan tradition that inspires COLHYBRI",
-      "metaTitle": "Caffe sospeso: digital Neapolitan tradition",
-      "metaDescription": "Caffe sospeso (suspended coffee) is a Neapolitan tradition from 1900 where a customer pays for two coffees. COLHYBRI digitalizes this principle.",
-      "snippet": "Caffe sospeso (suspended coffee) is a Neapolitan tradition dating from 1900 where a customer pays for two coffees: one for themselves and one for a stranger in need. COLHYBRI digitalizes this anonymous community support principle by applying it to all neighborhood commerce: hairdresser, dry cleaner, bakery and every daily service.",
+      "h1": "Caffe sospeso: neapolitańska tradycja, która inspiruje COLHYBRI",
+      "metaTitle": "Caffe sospeso: cyfrowa tradycja neapolitańska",
+      "metaDescription": "Caffe sospeso (kawa zawieszona) to neapolitańska tradycja z 1900 roku, gdzie klient płaci za dwie kawy. COLHYBRI cyfryzuje tę zasadę.",
+      "snippet": "Caffe sospeso (kawa zawieszona) to neapolitańska tradycja z 1900 roku, gdzie klient płaci za dwie kawy: jedną dla siebie i jedną dla nieznajomego w potrzebie. COLHYBRI cyfryzuje tę zasadę anonimowej solidarności, stosując ją do całego handlu lokalnego: fryzjer, pralnia, piekarnia i wszystkie codzienne usługi.",
       "sections": [
         {
           "h2": "What is caffe sospeso?",
@@ -1337,11 +1337,11 @@
       ]
     },
     "economie-solidaire": {
-      "title": "Neighborhood community economy",
-      "h1": "Neighborhood community economy: how COLHYBRI reinvents local ties",
-      "metaTitle": "Neighborhood community economy: the COLHYBRI model",
-      "metaDescription": "Neighborhood community economy combines mutualization, digitalization and engagement. COLHYBRI activates all three for 3 EUR/month.",
-      "snippet": "Neighborhood community economy combines three mechanisms: resource pooling (community pool), shop digitalization (Maps+) and community engagement (gamification). For 3 EUR/month per resident and 10 EUR/month per merchant, COLHYBRI creates an ecosystem where community support generates revenue for merchants.",
+      "title": "Gospodarka solidarna dzielnicy",
+      "h1": "Gospodarka solidarna dzielnicy: jak COLHYBRI na nowo tworzy lokalną więź",
+      "metaTitle": "Gospodarka solidarna dzielnicy: model COLHYBRI",
+      "metaDescription": "Gospodarka solidarna dzielnicy łączy uwspólnotowienie, cyfryzację i zaangażowanie. COLHYBRI uruchamia trzy mechanizmy za 3 EUR/miesiąc.",
+      "snippet": "Gospodarka solidarna dzielnicy łączy trzy mechanizmy: uwspólnotowienie zasobów (fundusz solidarnościowy), cyfryzację handlu (Maps+) i zaangażowanie społeczności (grywalizacja). Za 3 EUR/miesiąc od mieszkańca i 10 EUR/miesiąc od sprzedawcy COLHYBRI tworzy ekosystem, w którym solidarność generuje obroty dla sprzedawców.",
       "sections": [
         {
           "h2": "What is the community economy?",
@@ -1390,11 +1390,11 @@
       ]
     },
     "pool-solidaire-quartier": {
-      "title": "Neighborhood community pool",
-      "h1": "COLHYBRI community pool: how it works in practice",
-      "metaTitle": "COLHYBRI community pool: 4 simple steps",
-      "metaDescription": "The COLHYBRI community pool works in 4 steps: contribution, mutualization, random distribution, gifted service. 3 EUR/month, 75% redistributed.",
-      "snippet": "The COLHYBRI community pool works in 4 steps. Step 1: each subscriber pays 3 EUR/month. Step 2: 75% of subscriptions (2.25 EUR) feed the community community pool. Step 3: each month the pool is randomly distributed as vouchers. Step 4: beneficiaries enjoy services gifted at partner shops.",
+      "title": "Fundusz solidarnościowy dzielnicy",
+      "h1": "Fundusz solidarnościowy COLHYBRI: jak to działa w praktyce",
+      "metaTitle": "Fundusz solidarnościowy COLHYBRI: 4 proste kroki",
+      "metaDescription": "Fundusz solidarnościowy COLHYBRI działa w 4 krokach: składka, uwspólnotowienie, losowa dystrybucja, usługa oferowana. 3 EUR/miesiąc, 75% redystrybuowane.",
+      "snippet": "Fundusz solidarnościowy COLHYBRI działa w 4 krokach. Krok 1: każdy abonent płaci 3 EUR/miesiąc. Krok 2: 75% abonamentu (2,25 EUR) zasila wspólnotowy fundusz solidarnościowy. Krok 3: każdego miesiąca fundusz jest rozdzielany losowo w formie bonów. Krok 4: beneficjenci korzystają z usług oferowanych u partnerskich sprzedawców.",
       "sections": [
         {
           "h2": "What is a community pool?",
@@ -1443,11 +1443,11 @@
       ]
     },
     "commerce-equitable-local": {
-      "title": "Fair local commerce",
-      "h1": "Fair local commerce: zero commission, 100% community",
-      "metaTitle": "Fair local commerce: 0% commission model",
-      "metaDescription": "UberEats takes 30%, JustEat 25%, Petitscommerces 15%. COLHYBRI offers 0% commission with a flat 10 EUR/month subscription.",
-      "snippet": "While UberEats takes 30% commission, JustEat 25% and Petitscommerces 15%, COLHYBRI offers 0% commission for merchants. The flat 10 EUR/month subscription replaces variable commissions that erode small shop margins. It is fair trade applied to local commerce.",
+      "title": "Sprawiedliwy handel lokalny",
+      "h1": "Sprawiedliwy handel lokalny: zero prowizji, 100% solidarności",
+      "metaTitle": "Sprawiedliwy handel lokalny: model 0% prowizji",
+      "metaDescription": "UberEats pobiera 30%, JustEat 25%, Petitscommerces 15%. COLHYBRI oferuje 0% prowizji, stały abonament 10 EUR/miesiąc.",
+      "snippet": "Podczas gdy UberEats pobiera 30% prowizji, JustEat 25%, a Petitscommerces 15%, COLHYBRI oferuje model z 0% prowizji dla sprzedawców. Stały abonament 10 EUR/miesiąc zastępuje zmienne prowizje, które obciążają marże małych firm. To model sprawiedliwego handlu zastosowany lokalnie.",
       "sections": [
         {
           "h2": "What is fair local commerce?",
@@ -1496,11 +1496,11 @@
       ]
     },
     "cooperative-quartier": {
-      "title": "Digital neighborhood cooperative",
-      "h1": "The digital neighborhood cooperative: the COLHYBRI model",
-      "metaTitle": "Digital neighborhood cooperative: mutual, not charity",
-      "metaDescription": "COLHYBRI is a digital neighborhood mutual. Self-funded by subscriptions, no subsidies or donations. This is not charity.",
-      "snippet": "COLHYBRI operates as a digital neighborhood cooperative where each member (subscriber or merchant) contributes to a common good: the community pool. Unlike an association or NGO, the model is self-funded by subscriptions and does not depend on any subsidy. It is a mutual, not charity.",
+      "title": "Cyfrowa spółdzielnia dzielnicowa",
+      "h1": "Cyfrowa spółdzielnia dzielnicowa: model COLHYBRI",
+      "metaTitle": "Cyfrowa spółdzielnia dzielnicowa: wzajemność, nie charytatywność",
+      "metaDescription": "COLHYBRI to cyfrowe towarzystwo wzajemne dzielnicy. Samofinansujące się z abonamentów, bez dotacji i darowizn. To nie charytatywność.",
+      "snippet": "COLHYBRI działa jak cyfrowa spółdzielnia dzielnicowa, w której każdy członek (abonent lub sprzedawca) wnosi wkład do dobra wspólnego: funduszu solidarnościowego. W przeciwieństwie do stowarzyszenia czy organizacji pozarządowej, model jest samofinansujący się z abonamentów i nie zależy od żadnej dotacji. To towarzystwo wzajemne, a nie charytatywność.",
       "sections": [
         {
           "h2": "What is a neighborhood cooperative?",
@@ -1549,11 +1549,11 @@
       ]
     },
     "fidelisation-communautaire": {
-      "title": "Community-driven loyalty",
-      "h1": "Community-driven loyalty: how COLHYBRI retains local customers",
-      "metaTitle": "Community loyalty: pool, gamification, network effect",
-      "metaDescription": "COLHYBRI combines the community pool, gamification (26 mini-games) and network effect to reach over 60% retention.",
-      "snippet": "COLHYBRI community-driven loyalty relies on three levers: the community pool (subscribers receive gifted services), gamification (26 mini-games, neighborhood challenges, rankings) and network effect (more subscribers = more services available). Expected retention exceeds 60%, versus less than 30% for standard loyalty programs.",
+      "title": "Lojalność społecznościowa",
+      "h1": "Lojalność społecznościowa: jak COLHYBRI zatrzymuje lokalnych klientów",
+      "metaTitle": "Lojalność społecznościowa: fundusz, grywalizacja, sieć",
+      "metaDescription": "COLHYBRI łączy fundusz solidarnościowy, grywalizację (26 mini-gier) i efekt sieci, aby osiągnąć ponad 60% retencji klientów.",
+      "snippet": "Lojalność społecznościowa COLHYBRI opiera się na trzech dźwigniach: funduszu solidarnościowym (abonenci otrzymują oferowane usługi), grywalizacji (26 mini-gier, wyzwania sąsiedzkie, rankingi) i efekcie sieci (im więcej abonentów, tym więcej dostępnych usług). Oczekiwany wskaźnik retencji przekracza 60%, wobec mniej niż 30% dla klasycznych programów lojalnościowych.",
       "sections": [
         {
           "h2": "What is community-driven loyalty?",
@@ -1602,11 +1602,11 @@
       ]
     },
     "google-maps-commerce": {
-      "title": "Google Maps for merchants",
-      "h1": "Optimizing your Google Maps listing as a merchant: the 2026 guide",
-      "metaTitle": "Google Maps merchants: 2026 optimization guide",
-      "metaDescription": "75% of small businesses have an incomplete Google listing. Complete guide to optimizing your Business Profile and dominating local search.",
-      "snippet": "The Google Business Profile listing is the first point of contact between a local shop and its potential customers. Yet 75% of small businesses have incomplete or missing listings. Essential elements: precise category, up-to-date hours, minimum 10 quality photos, responses to every review and optimized local-keyword description.",
+      "title": "Google Maps dla sprzedawców",
+      "h1": "Jak zoptymalizować wizytówkę Google Maps jako sprzedawca: kompletny przewodnik 2026",
+      "metaTitle": "Google Maps dla sprzedawców: przewodnik optymalizacji 2026",
+      "metaDescription": "75% MŚP ma niekompletną wizytówkę Google. Kompletny przewodnik, jak zoptymalizować Profil Firmy i dominować w wyszukiwaniach lokalnych.",
+      "snippet": "Wizytówka Profilu Firmy w Google to pierwszy punkt kontaktu między handlem lokalnym a jego potencjalnymi klientami. Mimo to 75% MŚP ma wizytówkę niekompletną lub nieistniejącą. Kluczowe elementy to: precyzyjna kategoria, aktualne godziny, minimum 10 zdjęć dobrej jakości, odpowiedź na wszystkie opinie oraz opis zoptymalizowany pod lokalne słowa kluczowe.",
       "sections": [
         {
           "h2": "How to optimize your Google Business Profile?",
@@ -1655,11 +1655,11 @@
       ]
     },
     "visibilite-google-pme": {
-      "title": "Google visibility for SMBs",
-      "h1": "Google visibility for SMBs: why 75% of shops are invisible",
-      "metaTitle": "Google visibility SMBs 2026: causes and solutions",
-      "metaDescription": "75% of small businesses are invisible on Google. Analysis of causes and COLHYBRI solutions for 10 EUR/month.",
-      "snippet": "75% of small businesses are invisible on Google in 2026. The three main causes: no Google Business Profile listing (40% of SMBs), outdated or incomplete information (25%) and lack of recent customer reviews (35% have none). COLHYBRI Maps+ fixes all three in 48 hours for 10 EUR/month.",
+      "title": "Widoczność w Google dla MŚP",
+      "h1": "Widoczność w Google dla MŚP: dlaczego 75% firm jest niewidocznych",
+      "metaTitle": "Widoczność w Google dla MŚP 2026: przyczyny i rozwiązania",
+      "metaDescription": "75% małych firm jest niewidocznych w Google. Analiza przyczyn i rozwiązania COLHYBRI za 10 EUR/miesiąc.",
+      "snippet": "75% małych firm jest niewidocznych w Google w 2026. Trzy główne przyczyny to: brak wizytówki Profilu Firmy w Google (40% MŚP), nieaktualne lub niekompletne informacje (25%) oraz brak świeżych opinii klientów (35% nie ma żadnej opinii). COLHYBRI Maps+ rozwiązuje te trzy problemy w 48 godzin za 10 EUR/miesiąc.",
       "sections": [
         {
           "h2": "Why are 75% of SMBs invisible on Google?",
@@ -1708,11 +1708,11 @@
       ]
     },
     "seo-local-commerce": {
-      "title": "Local SEO for shops",
-      "h1": "Local SEO for neighborhood shops: 2026 basics",
-      "metaTitle": "Local SEO for shops: 2026 guide",
-      "metaDescription": "Local SEO relies on 3 pillars: optimized Google Business listing, recent positive reviews and NAP consistency. Complete 2026 guide.",
-      "snippet": "Local SEO is the search strategy that lets neighborhood shops appear in geolocated search results (Google Maps, \"near me\" searches). The three pillars of local SEO are: optimized Google Business listing, recent positive customer reviews, and NAP consistency (Name, Address, Phone) across all directories.",
+      "title": "SEO lokalne dla handlu",
+      "h1": "SEO lokalne dla handlu lokalnego: podstawy w 2026",
+      "metaTitle": "SEO lokalne handel lokalny: przewodnik 2026",
+      "metaDescription": "SEO lokalne opiera się na 3 filarach: zoptymalizowana wizytówka Google Business, świeże pozytywne opinie i spójność NAP. Kompletny przewodnik 2026.",
+      "snippet": "SEO lokalne to strategia pozycjonowania, która pozwala handlowi lokalnemu pojawiać się w wynikach wyszukiwania geolokalizowanych (Google Maps, wyszukiwania 'w pobliżu'). Trzy filary SEO lokalnego to: zoptymalizowana wizytówka Google Business, pozytywne i świeże opinie klientów oraz spójność informacji NAP (Nazwa, Adres, Telefon) we wszystkich katalogach.",
       "sections": [
         {
           "h2": "What is local SEO?",
@@ -1761,11 +1761,11 @@
       ]
     },
     "avis-google-commercants": {
-      "title": "Google reviews for merchants",
-      "h1": "How to get more Google reviews: the COLHYBRI method",
-      "metaTitle": "Getting more Google reviews: the COLHYBRI QR code method",
-      "metaDescription": "A shop with 10+ recent reviews gets 50% more clicks. COLHYBRI method: post-visit QR code to generate authentic reviews.",
-      "snippet": "Google reviews are the top selection criterion for consumers choosing a local shop. The COLHYBRI method uses a post-visit QR code that simplifies review submission: the customer scans the code on their way out, rates in 1 click, and the shop accumulates authentic reviews effortlessly. A shop with 10+ recent reviews gets 50% more clicks.",
+      "title": "Opinie Google dla sprzedawców",
+      "h1": "Jak zdobyć więcej opinii Google dla swojego sklepu: metoda COLHYBRI",
+      "metaTitle": "Zdobądź więcej opinii Google: metoda COLHYBRI kod QR",
+      "metaDescription": "Sklep z 10+ świeżymi opiniami otrzymuje 50% więcej kliknięć. Metoda COLHYBRI: kod QR po wizycie do generowania autentycznych opinii.",
+      "snippet": "Opinie Google to pierwsze kryterium wyboru konsumentów dla handlu lokalnego. Metoda COLHYBRI wykorzystuje kod QR po wizycie, który upraszcza wystawienie opinii: klient skanuje kod wychodząc ze sklepu, ocenia jednym kliknięciem, a sklep gromadzi autentyczne opinie bez wysiłku. Sklep z 10+ świeżymi opiniami otrzymuje 50% więcej kliknięć.",
       "sections": [
         {
           "h2": "Why are Google reviews so important?",
@@ -1814,11 +1814,11 @@
       ]
     },
     "onboarding-digital-commerce": {
-      "title": "Zero-friction merchant onboarding",
-      "h1": "Zero-friction digital onboarding for merchants: the COLHYBRI method",
-      "metaTitle": "Zero-friction merchant onboarding: 30 seconds, QR code",
-      "metaDescription": "COLHYBRI lets a merchant become visible on Google in 30 seconds. QR code, no account, no technical skills required.",
-      "snippet": "COLHYBRI zero-friction digital onboarding lets any merchant become visible on Google in under 30 seconds. The process: scan a QR code, confirm pre-filled information (name, address, phone), and accept creation or optimization of the Google Business listing. No technical skills required.",
+      "title": "Cyfrowe wdrożenie sprzedawcy",
+      "h1": "Cyfrowe wdrożenie bez tarć dla sprzedawców: metoda COLHYBRI",
+      "metaTitle": "Cyfrowe wdrożenie sprzedawcy: 30 sekund, kod QR",
+      "metaDescription": "COLHYBRI pozwala sprzedawcy stać się widocznym w Google w 30 sekund. Kod QR, bez konta, bez wymaganych umiejętności technicznych.",
+      "snippet": "Cyfrowe wdrożenie bez tarć COLHYBRI pozwala dowolnemu sprzedawcy stać się widocznym w Google w mniej niż 30 sekund. Proces: zeskanuj kod QR, potwierdź wstępnie wypełnione informacje (nazwa, adres, telefon) i zaakceptuj utworzenie lub optymalizację wizytówki Google Business. Bez wymaganych umiejętności technicznych.",
       "sections": [
         {
           "h2": "Why zero-friction onboarding?",
@@ -1868,10 +1868,10 @@
     },
     "score-maps-audit": {
       "title": "Score Maps audit",
-      "h1": "Score Maps: Google presence audit for local shops",
-      "metaTitle": "COLHYBRI Score Maps: 0-100 Google presence audit",
-      "metaDescription": "Score Maps measures Google presence quality on a 0-100 scale. 4 criteria: listing, reviews, photos, NAP consistency.",
-      "snippet": "Score Maps is an indicator developed by COLHYBRI that measures the quality of a shop Google presence on a 0 to 100 scale. It evaluates four criteria: listing completeness (30%), review quantity and quality (30%), number of photos (20%), and NAP consistency (20%). A score below 50 means the shop is nearly invisible online.",
+      "h1": "Score Maps: audyt obecności w Google dla handlu lokalnego",
+      "metaTitle": "Score Maps COLHYBRI: audyt obecności w Google 0-100",
+      "metaDescription": "Score Maps mierzy jakość obecności w Google sklepu w skali od 0 do 100. 4 kryteria: wizytówka, opinie, zdjęcia, spójność.",
+      "snippet": "Score Maps to wskaźnik opracowany przez COLHYBRI, który mierzy jakość obecności w Google sklepu w skali od 0 do 100. Ocenia cztery kryteria: kompletność wizytówki (30%), liczbę i jakość opinii (30%), liczbę zdjęć (20%) oraz spójność informacji (20%). Wynik poniżej 50 oznacza, że sklep jest niemal niewidoczny w sieci.",
       "sections": [
         {
           "h2": "How is Score Maps calculated?",
@@ -1920,11 +1920,11 @@
       ]
     },
     "maps-plus-outil": {
-      "title": "Maps+ COLHYBRI tool",
-      "h1": "Maps+ by COLHYBRI: the digitalization tool for local shops",
-      "metaTitle": "Maps+ COLHYBRI: audit, onboarding, reviews, monitoring",
-      "metaDescription": "Maps+ is the COLHYBRI digitalization module. 4 pillars: 48h Score Maps audit, zero-friction onboarding, QR review generation, monitoring.",
-      "snippet": "Maps+ is the COLHYBRI digitalization module that covers the 4 pillars of online shop visibility: automated audit (48-hour Score Maps), zero-friction Google Places onboarding, review generation via post-visit QR code, and continuous monitoring with negative review alerts. Included in the 10 EUR/month merchant subscription.",
+      "title": "Maps+ narzędzie COLHYBRI",
+      "h1": "Maps+ by COLHYBRI: narzędzie cyfryzacji dla handlu lokalnego",
+      "metaTitle": "Maps+ COLHYBRI: audyt, wdrożenie, opinie, monitoring",
+      "metaDescription": "Maps+ to moduł cyfryzacji COLHYBRI. 4 filary: audyt Score Maps 48h, wdrożenie bez tarć, generowanie opinii QR, monitoring.",
+      "snippet": "Maps+ to moduł cyfryzacji COLHYBRI obejmujący 4 filary widoczności online sklepów: zautomatyzowany audyt (Score Maps w 48h), wdrożenie Google Places bez tarć, generowanie opinii przez kod QR po wizycie oraz ciągły monitoring z alertami o negatywnych opiniach. Wliczone w abonament sprzedawcy za 10 EUR/miesiąc.",
       "sections": [
         {
           "h2": "What does Maps+ do in practice?",
@@ -1973,131 +1973,131 @@
       ]
     },
     "cta": {
-      "title": "Ready to revitalize your downtown?",
-      "app": "Open the app",
-      "demo": "Book a demo"
+      "title": "Gotowy ożywić swoje centrum miasta?",
+      "app": "Otwórz aplikację",
+      "demo": "Zaplanuj demo"
     },
     "commerce-informel": {
-      "title": "Formalizing Informal Commerce Through Digitalization",
-      "desc": "Informal commerce represents 55% of employment in Latin America. COLHYBRI offers formalization through zero-friction digitalization at $3/month."
+      "title": "Formalizacja handlu nieformalnego poprzez cyfryzację",
+      "desc": "Handel nieformalny stanowi 55% zatrudnienia w Ameryce Łacińskiej. COLHYBRI proponuje formalizację poprzez cyfryzację bez tarć za 3 EUR/miesiąc."
     },
     "revitalisation-quartier": {
-      "title": "Neighborhood Revitalization Through Commerce and Community",
-      "desc": "Neighborhood revitalization requires 3 levers: commerce, community and sport."
+      "title": "Rewitalizacja dzielnicy poprzez handel i solidarność",
+      "desc": "Rewitalizacja dzielnicy opiera się na 3 dźwigniach: handlu, solidarności i sporcie. COLHYBRI, CROWNIUM i ONLYMORE FINANCE tworzą triple-play."
     },
     "tiers-lieu-digital": {
-      "title": "The Digital Third Place: COLHYBRI as a Virtual Meeting Space",
-      "desc": "31% of French people have no meeting place. COLHYBRI creates a digital third place for 3 EUR/month."
+      "title": "Trzecie miejsce cyfrowe: COLHYBRI jako wirtualna przestrzeń spotkań",
+      "desc": "31% Francuzów nie ma żadnego miejsca spotkań. COLHYBRI tworzy dostępne trzecie miejsce cyfrowe za 3 EUR/miesiąc."
     },
     "impact-social-commerce": {
-      "title": "Social Impact of Local Commerce: 2026 Facts and Figures",
-      "desc": "Local commerce generates 13.2% of GDP in Barcelona, 152,000 jobs, and 90.9% active premises."
+      "title": "Społeczny wpływ handlu lokalnego: liczby 2026",
+      "desc": "Handel lokalny generuje 13,2% PKB w Barcelonie, 152 000 miejsc pracy i 90,9% aktywnych lokali."
     },
     "keynesian-multiplier-local": {
-      "title": "The Keynesian Multiplier Applied to Local Economy",
-      "desc": "Every euro spent locally generates 2.50 EUR of activity. COLHYBRI channels 75% to local businesses."
+      "title": "Mnożnik keynesowski zastosowany do gospodarki lokalnej",
+      "desc": "Każde euro wydane lokalnie generuje 2,50 EUR aktywności. COLHYBRI kieruje 75% abonamentów do lokalnych firm."
     },
     "comment-ca-marche": {
-      "title": "COLHYBRI: How It Works in 3 Steps",
-      "desc": "COLHYBRI in 3 steps: 3 EUR subscription, 75% community pool, gifted services. 0% commission."
+      "title": "COLHYBRI: jak to działa w 3 krokach",
+      "desc": "COLHYBRI w 3 krokach: abonament 3 EUR, fundusz solidarnościowy 75%, oferowane usługi. 0% prowizji."
     },
     "tarifs-colhybri": {
-      "title": "COLHYBRI Pricing: 3 EUR Individuals, 10 EUR Merchants",
-      "desc": "3 EUR/month individuals, 10 EUR/month merchants with 0% commission."
+      "title": "Cennik COLHYBRI: 3 EUR osoby prywatne, 10 EUR sprzedawcy",
+      "desc": "3 EUR/miesiąc osoby prywatne, 10 EUR/miesiąc sprzedawcy z 0% prowizji. Porównanie UberEats, JustEat."
     },
     "pour-les-commercants": {
-      "title": "COLHYBRI for Merchants: 0% Commission",
-      "desc": "10 EUR/month, 0% commission. Maps+ included. New customers via community pool."
+      "title": "COLHYBRI dla sprzedawców: 0% prowizji",
+      "desc": "10 EUR/miesiąc, 0% prowizji. Maps+ w cenie. Nowi klienci dzięki funduszowi solidarnościowemu."
     },
     "pour-les-particuliers": {
-      "title": "COLHYBRI for Individuals: 3 EUR/Month",
-      "desc": "For 3 EUR/month, contribute to the community pool and receive gifted services."
+      "title": "COLHYBRI dla osób prywatnych: 3 EUR/miesiąc",
+      "desc": "Za 3 EUR/miesiąc wesprzyj fundusz solidarnościowy i otrzymuj oferowane usługi."
     },
     "pour-les-collectivites": {
-      "title": "COLHYBRI for Cities: Vitality Dashboard",
-      "desc": "Turnkey rollout for 50 businesses. Score Maps, dashboard, impact report."
+      "title": "COLHYBRI dla samorządów: dashboard witalności",
+      "desc": "Wdrożenie pod klucz w 50 sklepach. Score Maps, dashboard, raport wpływu. Finansowane przez mieszkańców za 3€/miesiąc."
     },
     "ecosr-european-capital-small-retail": {
-      "title": "European Capitals of Small Retail 2026",
-      "desc": "The EU designated 3 Capitals of Small Retail in 2026."
+      "title": "Europejskie Stolice Małego Handlu 2026",
+      "desc": "UE wyznaczyła 3 Stolice Małego Handlu w 2026. Barcelona, Caldas da Rainha, Silandro."
     },
     "eui-european-urban-initiative": {
-      "title": "European Urban Initiative Call 4: 60M EUR (June 2026)",
-      "desc": "EUI Call 4: 60M EUR ERDF for EU cities 25,000+. Deadline June 15, 2026."
+      "title": "European Urban Initiative Call 4: 60 mln EUR (czerwiec 2026)",
+      "desc": "EUI Call 4: 60 mln EUR z EFRR dla miast UE 25 000+ mieszk. Termin 15 czerwca 2026."
     },
     "idb-latin-america": {
-      "title": "IDB and Local Commerce in Latin America",
-      "desc": "Latin America: 2.1% growth, 55% informal. IDB + COLHYBRI = digital formalization."
+      "title": "IDB a handel lokalny w Ameryce Łacińskiej",
+      "desc": "Ameryka Łacińska: 2,1% wzrostu, 55% nieformalności. IDB + COLHYBRI = formalizacja cyfrowa."
     },
     "afd-afrique": {
-      "title": "AFD and Digital Commerce in Africa",
-      "desc": "Sub-Saharan Africa: 4.3% growth, zero digital tools. Pilot in Dakar/Abidjan/Tunis."
+      "title": "AFD a handel cyfrowy w Afryce",
+      "desc": "Afryka subsaharyjska: 4,3% wzrostu, zero narzędzi cyfrowych dla handlu miejskiego. Pilotaż Dakar/Abidżan/Tunis."
     },
     "fifa-innovation-sport": {
-      "title": "FIFA Innovation Programme and Sport-Commerce Connection",
-      "desc": "FIFA Innovation supports sport-community connection. ONLYMORE triple-play."
+      "title": "FIFA Innovation Programme i połączenie sport-handel",
+      "desc": "FIFA Innovation wspiera połączenie sport-społeczność. Triple-play ONLYMORE."
     }
   },
   "images": {
     "hero": {
-      "alt": "Vibrant main street at golden hour with emerald hummingbird"
+      "alt": "Tętniąca życiem handlowa ulica o zachodzie słońca ze szmaragdowym kolibrem"
     },
     "mission": {
       "colibriFire": {
-        "alt": "Emerald hummingbird carrying a golden drop toward a forest fire"
+        "alt": "Szmaragdowy koliber niosący złotą kroplę ku pożarowi lasu"
       },
       "colibriHope": {
-        "alt": "Radiant hummingbird releasing golden rain over a village square"
+        "alt": "Promienny koliber uwalniający złoty deszcz nad wiejskim placem"
       }
     },
     "heritage": {
       "caffe": {
-        "alt": "Warm Neapolitan cafe with the caffe sospeso tradition"
+        "alt": "Przytulna neapolitańska kawiarnia z rytuałem caffe sospeso"
       },
       "mutualisme": {
-        "alt": "Diverse hands circle supporting an emerald mutualism tree"
+        "alt": "Krąg różnorodnych dłoni podtrzymujących szmaragdowe drzewo mutualizmu"
       }
     },
     "solution": {
       "pool": {
-        "alt": "Heart-shaped emerald community pool connecting five neighborhood shops"
+        "alt": "Szmaragdowy fundusz solidarnościowy w kształcie serca łączący pięć lokalnych sklepów"
       },
       "maps": {
-        "alt": "Shop transformed from darkness to light through Google Maps visibility"
+        "alt": "Sklep przemieniony z ciemności w światło dzięki Google Maps"
       },
       "gamification": {
-        "alt": "Neighborhood street turned into colorful game board with community challenges"
+        "alt": "Ulica dzielnicy zamieniona w planszę do gry z wyzwaniami społecznościowymi"
       }
     },
     "impact": {
       "france": {
-        "alt": "Revitalized French town center under a protective emerald dome"
+        "alt": "Zrewitalizowane francuskie centrum miasta pod ochronną szmaragdową kopułą"
       },
       "usa": {
-        "alt": "American main street transforming from past to future with golden hummingbird"
+        "alt": "Amerykańska main street w transformacji od przeszłości do przyszłości"
       }
     },
     "triplePlay": {
-      "alt": "Three interconnected spheres: COLHYBRI, CROWNIUM, ONLYMORE FINANCE"
+      "alt": "Trzy połączone sfery COLHYBRI CROWNIUM ONLYMORE FINANCE"
     },
     "forCities": {
-      "alt": "City hall meeting room with holographic downtown map"
+      "alt": "Spotkanie samorządowe z holograficzną mapą centrum miasta"
     },
     "investors": {
-      "alt": "Emerald growth vine rising from urban sidewalk to the globe"
+      "alt": "Szmaragdowa winorośl wzrostu od miejskiego chodnika do globu"
     },
     "founder": {
-      "alt": "Determined founder at dawn on a French main street"
+      "alt": "Zdeterminowany założyciel o świcie na francuskiej handlowej ulicy"
     },
     "mascot": {
-      "alt": "COLHYBRI emerald hummingbird mascot"
+      "alt": "Szmaragdowa maskotka koliber COLHYBRI"
     }
   },
   "impactPages": {
     "france": {
-      "badge": "FRANCE IMPACT",
-      "title": "France is reinventing its downtowns",
-      "subtitle": "1,732 ZRCV, 244 Action Coeur de Ville, 1,646 Petites Villes de Demain.",
+      "badge": "WPŁYW FRANCJA",
+      "title": "Francja na nowo tworzy swoje centra miast",
+      "subtitle": "1 732 ZRCV, 244 Action Coeur de Ville, 1 646 Petites Villes de Demain.",
       "stats": [
         {
           "value": "1,732",
@@ -2124,29 +2124,29 @@
       "barometer": {
         "0": {
           "value": "79%",
-          "label": "aspire to fraternity"
+          "label": "pragną braterstwa"
         },
         "1": {
           "value": "55%",
-          "label": "experience loneliness"
+          "label": "doświadczają samotności"
         },
         "2": {
           "value": "31%",
-          "label": "have no meeting place"
+          "label": "nie ma żadnego miejsca spotkań"
         },
-        "title": "Trust and Fraternity Barometer",
-        "subtitle": "IFOP / Fraternity Lab 2026 data",
-        "quote": "COLHYBRI is the digital third place that fills this void."
+        "title": "Barometr Zaufania i Braterstwa",
+        "subtitle": "Dane IFOP / Labo de la Fraternite 2026",
+        "quote": "COLHYBRI to cyfrowe trzecie miejsce, które wypełnia tę pustkę."
       },
       "proposition": {
-        "title": "The COLHYBRI proposition",
-        "body": "COLHYBRI is the Barcelona model as SaaS, accessible to any town of 25,000 inhabitants. Free 90-day pilot."
+        "title": "Propozycja COLHYBRI",
+        "body": "COLHYBRI to model Barcelona w modelu SaaS, dostępny dla każdej gminy liczącej 25 000 mieszkańców. Bezpłatny pilotaż 90 dni."
       }
     },
     "usa": {
-      "badge": "USA IMPACT",
-      "title": "Revitalizing the Rust Belt, one Main Street at a time",
-      "subtitle": "8,764 Opportunity Zones. 1,200+ Main Street America communities.",
+      "badge": "WPŁYW USA",
+      "title": "Rewitalizacja Rust Belt, jedna Main Street na raz",
+      "subtitle": "8 764 Opportunity Zones. 1 200+ społeczności Main Street America.",
       "stats": [
         {
           "value": "8,764",
@@ -2171,20 +2171,20 @@
         "Canton (Ohio) is the blueprint: one developer restored 42 buildings using historic tax credits (20% federal + 25% state)."
       ],
       "miami": {
-        "title": "Miami, US pilot city",
-        "intro": "Miami-Dade combines a dense local commerce ecosystem, a bilingual population and a downtown revitalization agenda.",
-        "reason1": "A dense network of neighborhood shops along Main Streets",
-        "reason2": "A bilingual population aligned with our multilingual product",
-        "reason3": "A gateway to Latin America for regional expansion",
-        "reason4": "Local institutions engaged in downtown revitalization"
+        "title": "Miami, pilotażowe miasto w USA",
+        "intro": "Miami-Dade łączy gęsty ekosystem lokalnych sklepów, dwujęzyczną populację i agendę rewitalizacji centrów miast.",
+        "reason1": "Gęsta tkanka handlu lokalnego wzdłuż Main Streets",
+        "reason2": "Dwujęzyczna populacja zgodna z naszym wielojęzycznym produktem",
+        "reason3": "Brama do Ameryki Łacińskiej dla ekspansji regionalnej",
+        "reason4": "Lokalne instytucje zaangażowane w rewitalizację"
       },
       "proposition": {
-        "title": "The COLHYBRI proposition",
-        "body": "COLHYBRI is the SaaS that makes Main Street measurable. You have the OZ incentives. We have the digital dashboard."
+        "title": "Propozycja COLHYBRI",
+        "body": "COLHYBRI is the SaaS that makes Main Street measurable. Macie zachęty OZ. My mamy cyfrowy dashboard."
       },
       "barometer": {
-        "title": "American downtown barometer",
-        "subtitle": "2024-2025 data from Main Street America, Treasury, FloridaCommerce",
+        "title": "Barometr amerykańskich centrów miast",
+        "subtitle": "Dane 2024-2025 Main Street America, Treasury, FloridaCommerce",
         "items": [
           {
             "value": "$7.65B",
@@ -2199,13 +2199,13 @@
             "label": "Tampa economic growth 2019-2023 (ranked 2nd among US mid-sized cities)"
           }
         ],
-        "quote": "Under President Trump's leadership, the Working Families Tax Cuts permanently renewed and strengthened Opportunity Zones. Scott Bessent, US Treasury Secretary, April 2026."
+        "quote": "Under President Trump's leadership, the Working Families Tax Cuts permanently renewed and strengthened Opportunity Zones. Scott Bessent, US Treasury Secretary, kwiecień 2026."
       }
     },
     "europe": {
-      "badge": "EUROPE IMPACT",
-      "title": "Barcelona leads the way. COLHYBRI makes it accessible.",
-      "subtitle": "ECoSR 2026. EUI Call 4: 60M EUR ERDF. 28 candidate cities.",
+      "badge": "WPŁYW EUROPA",
+      "title": "Barcelona wskazuje drogę. COLHYBRI czyni ją dostępną.",
+      "subtitle": "ECoSR 2026. EUI Call 4: 60 mln EUR z EFRR. 28 miast kandydujących.",
       "stats": [
         {
           "value": "Barcelona",
@@ -2230,14 +2230,14 @@
         "The EU Agenda for Cities (December 2025) structures 3 pillars: territorial dialogue, simplification, strategic investment."
       ],
       "proposition": {
-        "title": "The COLHYBRI proposition",
-        "body": "COLHYBRI makes the Barcelona model accessible as SaaS to any EU city of 25,000+ inhabitants. The 4 ECoSR criteria are the 4 pillars of COLHYBRI."
+        "title": "Propozycja COLHYBRI",
+        "body": "COLHYBRI czyni model Barcelona dostępnym w modelu SaaS dla każdego miasta UE liczącego 25 000+ mieszkańców. 4 kryteria ECoSR to 4 filary COLHYBRI."
       }
     },
     "latam": {
-      "badge": "LATIN AMERICA IMPACT",
-      "title": "Formalizing informal commerce through digital community support",
-      "subtitle": "55% informal employment. 2.1% growth 2026.",
+      "badge": "WPŁYW AMERYKA ŁACIŃSKA",
+      "title": "Formalizacja handlu nieformalnego poprzez cyfrową solidarność",
+      "subtitle": "55% zatrudnienia nieformalnego. 2,1% wzrostu w 2026.",
       "stats": [
         {
           "value": "55%",
@@ -2262,14 +2262,14 @@
         "Mobile-first is the only viable access channel for this population."
       ],
       "proposition": {
-        "title": "The COLHYBRI proposition",
-        "body": "COLHYBRI formalizes informal commerce through zero-friction digitalization. $3/month. No credit check, no bank account required."
+        "title": "Propozycja COLHYBRI",
+        "body": "COLHYBRI formalizuje handel nieformalny poprzez cyfryzację bez tarć. 3 USD/miesiąc. Bez sprawdzania zdolności kredytowej, bez wymaganego banku."
       }
     },
     "africa": {
-      "badge": "AFRICA IMPACT",
-      "title": "The first local commerce data for Africa",
-      "subtitle": "4.3% growth 2026. Zero dedicated digital tool.",
+      "badge": "WPŁYW AFRYKA",
+      "title": "Pierwsze dane o handlu lokalnym dla Afryki",
+      "subtitle": "4,3% wzrostu w 2026. Zero dedykowanych narzędzi cyfrowych.",
       "stats": [
         {
           "value": "4.3%",
@@ -2294,8 +2294,8 @@
         "Rapid urbanization creates an immediate need for local commerce structuring."
       ],
       "proposition": {
-        "title": "The COLHYBRI proposition",
-        "body": "COLHYBRI mobile-first for African urban informal commerce. First local commerce data. Target pilot: Dakar, Abidjan, Tunis."
+        "title": "Propozycja COLHYBRI",
+        "body": "COLHYBRI mobile-first dla afrykańskiego miejskiego handlu nieformalnego. Pierwsze dane o handlu lokalnym. Cel pilotażu: Dakar, Abidżan, Tunis."
       }
     },
     "espana": {
@@ -2348,9 +2348,9 @@
       }
     },
     "uk": {
-      "badge": "IMPACT UK",
-      "title": "1 in 7 UK high street shops are empty. The infrastructure is ready.",
-      "subtitle": "The High Streets Task Force proved that revitalization works when local partnerships get the right tools. The 1.5 billion pound Plan for Neighbourhoods meets its missing digital layer.",
+      "badge": "WPŁYW WIELKA BRYTANIA",
+      "title": "1 na 7 sklepów stoi pusty w Wielkiej Brytanii. Infrastruktura jest gotowa.",
+      "subtitle": "High Streets Task Force udowodniło, że rewitalizacja działa, gdy lokalne partnerstwa dysponują właściwymi narzędziami. Plan for Neighbourhoods o wartości 1,5 miliarda funtów spotyka swoją brakującą warstwę cyfrową.",
       "stats": [
         {
           "value": "14%",
@@ -2376,24 +2376,24 @@
       ],
       "barometer": {
         "0": {
-          "value": "1 in 7",
-          "label": "UK high street shops empty (UK Government)"
+          "value": "1 na 7",
+          "label": "brytyjskich sklepów przy ulicach handlowych stoi pustych (UK Government)"
         },
         "1": {
           "value": "340+",
-          "label": "Business Improvement Districts active across the UK"
+          "label": "aktywnych Business Improvement Districts w Wielkiej Brytanii"
         },
         "2": {
           "value": "32",
-          "label": "HSTF Placemaking Programme places delivered"
+          "label": "miejsc wspieranych przez Placemaking Programme HSTF"
         },
-        "title": "UK high street barometer",
-        "subtitle": "2024-2025 data from UK Government, Institute of Place Management, HSTF Legacy Report",
-        "quote": "Successful change is created by local communities who have a vision for their high streets. Sir John Timpson, Chair of the High Streets Expert Panel."
+        "title": "Barometr brytyjskich high streets",
+        "subtitle": "Dane 2024-2025 UK Government, Institute of Place Management, HSTF Legacy Report",
+        "quote": "Udana zmiana jest tworzona przez lokalne społeczności, które mają wizję dla swoich high streets. Sir John Timpson, przewodniczący High Streets Expert Panel."
       },
       "proposition": {
-        "title": "The COLHYBRI proposition for the UK",
-        "body": "A turnkey digital layer for UK local authorities, Business Improvement Districts and community-led revitalization programmes. 4-week deployment. Funded by residents at 3 GBP per month. 0% commission for independent shops. Native integration with the High Streets Task Force placemaking framework and with High Street Rental Auctions local intelligence needs. First UK deployment targets: Manchester, London BIDs and a pilot northern English town aligned with the Plan for Neighbourhoods."
+        "title": "Propozycja COLHYBRI dla Wielkiej Brytanii",
+        "body": "Cyfrowa warstwa pod klucz dla brytyjskich samorządów, Business Improvement Districts i społecznościowych programów rewitalizacji. Wdrożenie w 4 tygodnie. Finansowane przez mieszkańców za 3 GBP miesięcznie. 0% prowizji dla niezależnych sprzedawców. Natywna integracja z frameworkiem Placemaking High Streets Task Force i potrzebami inteligencji terytorialnej High Street Rental Auctions. Pierwsze cele wdrożenia: Manchester, londyński BID i pilotażowe miasto z północnej Anglii zgodne z Plan for Neighbourhoods."
       }
     },
     "maroc": {
@@ -2447,48 +2447,48 @@
     }
   },
   "problem": {
-    "headline": "The problem is measurable",
-    "subheadline": "Downtown commercial vitality is collapsing. The programs exist. The tools are missing.",
+    "headline": "Problem jest mierzalny",
+    "subheadline": "Witalność handlowa centrów miast się załamuje. Programy istnieją. Brakuje narzędzi.",
     "stats": {
       "vacancy": {
         "value": "55",
         "unit": "%",
-        "label": "of midsize downtowns facing commercial vacancy"
+        "label": "średnich miast z pustostanami handlowymi"
       },
       "invisible": {
         "value": "75",
         "unit": "%",
-        "label": "of small businesses invisible on Google"
+        "label": "MŚP niewidocznych w Google"
       },
       "commission": {
         "value": "0",
         "unit": "%",
-        "label": "COLHYBRI commission (vs 30% on platforms)"
+        "label": "prowizji COLHYBRI (wobec 30% na platformach)"
       }
     }
   },
   "solution": {
-    "headline": "How COLHYBRI revitalizes your downtown",
-    "subheadline": "Three pillars, one goal: bring your main street back to life.",
+    "headline": "Jak COLHYBRI ożywia Twoje centrum miasta",
+    "subheadline": "Trzy filary, jeden wspólny cel: przywrócić życie handlowej ulicy.",
     "pillar1": {
-      "title": "Neighborhood community support",
-      "description": "Three dollars a month. 75% goes to the pool. Services gifted at random to a neighbor, a shop, a local cause.",
-      "linkLabel": "Explore the pool"
+      "title": "Solidarność sąsiedzka",
+      "description": "3€ miesięcznie. 75% trafia do funduszu. Usługi przekazywane losowo sąsiadowi, sprzedawcy lub lokalnej inicjatywie.",
+      "linkLabel": "Zobacz fundusz solidarnościowy"
     },
     "pillar2": {
-      "title": "Digital visibility",
-      "description": "Automated Google audit. Zero-friction onboarding for merchants. Continuous monitoring of online presence.",
-      "linkLabel": "See Maps+"
+      "title": "Widoczność cyfrowa",
+      "description": "Zautomatyzowany audyt Google. Wdrożenie bez tarć dla sprzedawców. Ciągłe monitorowanie obecności online.",
+      "linkLabel": "Zobacz Maps+"
     },
     "pillar3": {
-      "title": "Community engagement",
-      "description": "26 hyperlocal mini-games. Neighborhood challenges. Rankings by main street. The street becomes a collective playground.",
-      "linkLabel": "See gamification"
+      "title": "Zaangażowanie społeczności",
+      "description": "26 lokalnych mini-gier. Wyzwania sąsiedzkie. Rankingi handlowych ulic. Ulica staje się wspólnym placem zabaw.",
+      "linkLabel": "Zobacz grywalizację"
     }
   },
   "institutional": {
-    "headline": "Inside the global revitalization ecosystem",
-    "subheadline": "COLHYBRI fits into the downtown revitalization programs of France, the United States and Europe.",
+    "headline": "W globalnym ekosystemie rewitalizacji",
+    "subheadline": "COLHYBRI wpisuje się w programy rewitalizacji centrów miast we Francji, USA i Europie.",
     "badges": [
       "Action Coeur de Ville",
       "Petites Villes de Demain",
@@ -2498,7 +2498,7 @@
     ]
   },
   "worldImpact": {
-    "headline": "Our impact, from local to global",
+    "headline": "Nasz wpływ, od lokalnego do globalnego",
     "subheadline": "One tool, adapted to every territory. From a French ZRCV town to an American Main Street.",
     "regions": {
       "france": {
@@ -2506,97 +2506,97 @@
         "detail": "1,732 ZRCV towns. 244 Action Coeur de Ville. 1,646 Petites Villes de Demain."
       },
       "usa": {
-        "title": "United States",
-        "detail": "8,764 Opportunity Zones. 6,544 OZ 2.0 in 2026. 1,200 Main Street communities."
+        "title": "Stany Zjednoczone",
+        "detail": "8 764 Opportunity Zones. 6 544 OZ 2.0 w 2026. 1 200 społeczności Main Street."
       },
       "europe": {
         "title": "Europe",
-        "detail": "Barcelona, European Capital of Small Commerce 2026. EUI Call 4: 60M EUR ERDF."
+        "detail": "Barcelona, Europejska Stolica Małego Handlu 2026. EUI Call 4: 60 mln EUR z EFRR."
       },
       "latam": {
-        "title": "Latin America",
-        "detail": "55% informal employment. 2.1% growth in 2026. Formalization through digitalization."
+        "title": "Ameryka Łacińska",
+        "detail": "55% zatrudnienia nieformalnego. Wzrost 2,1% w 2026. Formalizacja poprzez cyfryzację."
       },
       "africa": {
-        "title": "Africa",
-        "detail": "4.3% growth in 2026. Rapid urbanization. No digital tool dedicated to urban commerce."
+        "title": "Afryka",
+        "detail": "Wzrost 4,3% w 2026. Szybka urbanizacja. Zero dedykowanych narzędzi cyfrowych dla handlu miejskiego."
       }
     }
   },
   "triplePlay": {
-    "headline": "The ONLYMORE triple-play",
-    "subheadline": "Three pillars, one ecosystem. Downtown revitalization through commerce, sport and credit.",
+    "headline": "Triple-play ONLYMORE",
+    "subheadline": "Trzy filary, jeden wspólny ekosystem. Rewitalizacja centrum miasta poprzez handel, sport i kredyt.",
     "col1": {
       "brand": "COLHYBRI",
-      "tag": "Local commerce"
+      "tag": "Handel lokalny"
     },
     "col2": {
       "brand": "CROWNIUM",
-      "tag": "Local sports club"
+      "tag": "Lokalny klub sportowy"
     },
     "col3": {
       "brand": "ONLYMORE FINANCE",
-      "tag": "Community credit"
+      "tag": "Kredyt solidarnościowy"
     },
-    "quote": "A sports club that fills the downtown. Merchants who keep the neighborhood alive. A credit line that finances growth."
+    "quote": "Klub sportowy, który zapełnia centrum. Sprzedawcy, którzy ożywiają dzielnicę. Kredyt, który finansuje wzrost."
   },
   "finalCta": {
-    "headline": "Ready to revitalize your downtown?",
+    "headline": "Gotowy ożywić swoje centrum miasta?",
     "cta1": {
-      "title": "Open App",
-      "sub": "Individuals and merchants"
+      "title": "Otwórz aplikację",
+      "sub": "Osoby prywatne i sprzedawcy"
     },
     "cta2": {
-      "title": "Book a demo",
-      "sub": "Cities and institutions"
+      "title": "Zaplanuj demo",
+      "sub": "Samorządy i instytucje"
     },
     "cta3": {
-      "title": "See the deck",
-      "sub": "Investors and accelerators"
+      "title": "Zapoznaj się z materiałami",
+      "sub": "Inwestorzy i akceleratory"
     }
   },
   "missionPage": {
     "meta": {
-      "title": "COLHYBRI Mission",
-      "description": "That everyone can live and thrive where they grew up. 220 years of French mutualism digitized for the 21st century."
+      "title": "Misja COLHYBRI",
+      "description": "Aby każdy mógł żyć i prosperować tam, gdzie dorastał. 220 lat francuskiego mutualizmu scyfryzowanych na XXI wiek."
     },
     "hero": {
-      "badge": "OUR MISSION",
-      "why": "That everyone can live and thrive where they grew up."
+      "badge": "NASZA MISJA",
+      "why": "Aby każdy mógł żyć i prosperować tam, gdzie dorastał."
     },
     "legend": {
-      "title": "The hummingbird legend",
-      "para1": "One day, a massive fire ravages the forest. All animals flee in terror. Only the tiny hummingbird stays, carrying a few drops of water in its beak to throw on the flames.",
-      "para2": "The armadillo, annoyed, says: Hummingbird, you are crazy! Do you really think those few drops will put out the fire?",
-      "quote": "I know, but I am doing my part."
+      "title": "Legenda o kolibrze",
+      "para1": "Pewnego dnia ogromny pożar pustoszy las. Wszystkie zwierzęta uciekają przerażone. Tylko mały koliber działa, nosząc kilka kropel wody w dziobie, by zrzucać je na płomienie.",
+      "para2": "Pancernik, zniecierpliwiony, mówi mu: Kolibrze, oszalałeś! Myślisz, że tymi kilkoma kroplami ugasisz ogień?",
+      "quote": "Wiem o tym, ale robię swoje."
     },
     "heritage": {
-      "title": "The heritage",
-      "mutualism": "French mutualism was born in 1806 with the first mutual aid societies. 220 years later, Social Security and the large mutuelles shape the French social landscape. COLHYBRI extends this tradition into the digital economy.",
-      "sospeso": "The caffe sospeso is a Neapolitan tradition from the early 20th century: a customer pays for two coffees, one for themselves and one suspended at the bar for a stranger. COLHYBRI extends this principle to every neighborhood service.",
-      "synthesis": "COLHYBRI digitizes these traditions for the 21st century: mutualization, anonymous solidarity, no intermediary."
+      "title": "Dziedzictwo",
+      "mutualism": "Francuski mutualizm narodził się w 1806 roku wraz z pierwszymi towarzystwami pomocy wzajemnej. 220 lat później Securite sociale i wielkie towarzystwa wzajemne kształtują francuski krajobraz społeczny. COLHYBRI kontynuuje tę tradycję w gospodarce cyfrowej.",
+      "sospeso": "Caffe sospeso to neapolitańska tradycja z początku XX wieku: klient płaci za dwie kawy, jedną dla siebie i jedną zawieszoną przy barze dla nieznajomego. COLHYBRI rozszerza tę zasadę na wszystkie usługi dzielnicy.",
+      "synthesis": "COLHYBRI cyfryzuje te tradycje na XXI wiek: uwspólnotowienie, anonimowa solidarność, bez pośrednika."
     },
     "founder": {
-      "title": "The founder",
-      "body": "Florent Gibert. Self-taught. From construction and delivery to fintech. From Marseille to Occitanie. The vision was born from a simple observation: downtowns are emptying while their residents aspire to more community. COLHYBRI is the answer."
+      "title": "Założyciel",
+      "body": "Florent Gibert. Samouk. Od budownictwa i dostaw do fintechu. Od Marsylii do Oksytanii. Wizja zrodziła się z prostej obserwacji: centra miast pustoszeją, podczas gdy ich mieszkańcy pragną więcej braterstwa. COLHYBRI jest odpowiedzią."
     },
     "cta": {
-      "title": "Discover the solution"
+      "title": "Poznaj rozwiązanie"
     }
   },
   "forCitiesPage": {
     "meta": {
-      "title": "COLHYBRI for Cities",
-      "description": "The downtown vitality dashboard your city needs. Free 90-day pilot on 50 businesses."
+      "title": "COLHYBRI dla samorządów",
+      "description": "Dashboard witalności handlowej, którego potrzebuje Twoje centrum miasta. Bezpłatny pilotaż 90 dni na 50 sklepach."
     },
     "hero": {
-      "badge": "FOR CITIES",
-      "title": "The downtown vitality dashboard your city needs",
-      "subtitle": "Free 90-day pilot on 50 businesses in your city",
-      "imageAlt": "City hall meeting with interactive town map and local business partners"
+      "badge": "SAMORZĄDY",
+      "title": "Dashboard witalności handlowej, którego potrzebuje Twoje centrum miasta",
+      "subtitle": "Bezpłatny pilotaż 90 dni na 50 sklepach Twojej gminy",
+      "imageAlt": "Spotkanie w ratuszu z interaktywną mapą gminy i partnerskimi sprzedawcami"
     },
     "context": {
-      "title": "Context",
+      "title": "Kontekst",
       "stats": [
         {
           "value": "1,732",
@@ -2617,36 +2617,36 @@
       ]
     },
     "features": {
-      "title": "What you receive",
+      "title": "Co otrzymujesz",
       "feature1": {
-        "title": "Score Maps in 48h",
-        "body": "Automated audit of Google presence for every business in your zone."
+        "title": "Score Maps w 48h",
+        "body": "Zautomatyzowany audyt obecności w Google wszystkich sklepów w Twojej strefie."
       },
       "feature2": {
-        "title": "Monthly dashboard",
-        "body": "Visualize the evolution of your downtown commercial vitality in real time."
+        "title": "Dashboard miesięczny",
+        "body": "Wizualizuj ewolucję witalności handlowej Twojego centrum miasta w czasie rzeczywistym."
       },
       "feature3": {
-        "title": "Municipal impact report",
-        "body": "Document ready for city council with metrics, trends and recommendations."
+        "title": "Raport wpływu gminnego",
+        "body": "Dokument gotowy dla rady gminy z metrykami, trendami i rekomendacjami."
       },
       "feature4": {
-        "title": "Field support",
-        "body": "Assisted deployment, commerce manager training, merchant onboarding."
+        "title": "Wsparcie w terenie",
+        "body": "Wspomagane wdrożenie, szkolenie menedżerów handlu, onboarding sprzedawców."
       }
     },
     "pilot": {
-      "title": "90 days free. Zero risk.",
-      "bullet1": "50 businesses audited and digitized",
-      "bullet2": "Operational dashboard from month one",
-      "bullet3": "Zero commitment, zero cost during the pilot",
-      "price": "After the pilot: 500 EUR/month (10 EUR x 50 businesses)",
-      "note": "Less than half an intern's salary."
+      "title": "90 dni za darmo. Zero ryzyka.",
+      "bullet1": "50 sklepów zaudytowanych i scyfryzowanych",
+      "bullet2": "Dashboard operacyjny już od pierwszego miesiąca",
+      "bullet3": "Zero zobowiązań, zero kosztów podczas pilotażu",
+      "price": "Po pilotażu: 500 EUR/miesiąc (10 EUR x 50 sklepów)",
+      "note": "Mniej niż pół etatu stażysty."
     },
     "barcelona": {
       "badge": "ECOSR 2026",
-      "title": "The Barcelona model",
-      "body": "In 2026, Barcelona was named European Capital of Small Retail. 40+ digitalization, sustainability and entrepreneurship initiatives. COLHYBRI makes this model accessible to any city of 25,000 inhabitants, as SaaS.",
+      "title": "Model Barcelona",
+      "body": "W 2026 roku Barcelona została mianowana Europejską Stolicą Małego Handlu. 40+ inicjatyw cyfryzacji, zrównoważonego rozwoju i przedsiębiorczości. COLHYBRI udostępnia ten model każdemu miastu liczącemu 25 000 mieszkańców, w modelu SaaS.",
       "stats": [
         {
           "value": "13.2%",
@@ -2663,11 +2663,11 @@
       ]
     },
     "form": {
-      "title": "Book a demo for your city",
-      "subtitle": "We get back to you within 48 hours."
+      "title": "Zaplanuj demo dla swojej gminy",
+      "subtitle": "Wracamy do Ciebie w ciągu 48 godzin."
     },
     "proposition": {
-      "title": "The COLHYBRI offer for your city",
+      "title": "Oferta COLHYBRI dla Twojej gminy",
       "items": [
         "Turnkey deployment in 4 weeks",
         "0% commission for your local businesses",
@@ -2678,11 +2678,11 @@
       ]
     },
     "programs": {
-      "title": "Inside the revitalization ecosystem",
-      "subtitle": "COLHYBRI integrates with existing programs, never replaces them"
+      "title": "W ekosystemie programów rewitalizacji",
+      "subtitle": "COLHYBRI integruje się z istniejącymi mechanizmami, nie zastępując ich"
     },
     "stats": {
-      "title": "Key figures",
+      "title": "Kluczowe liczby",
       "items": [
         {
           "value": "1,732",
@@ -2703,123 +2703,123 @@
       ]
     },
     "cta": {
-      "title": "Ready to revitalize your downtown?",
-      "subtitle": "Let's schedule a meeting tailored to your city",
-      "button": "Book a meeting"
+      "title": "Gotowy ożywić swoje centrum miasta?",
+      "subtitle": "Zaplanujmy spotkanie dostosowane do Twojej gminy",
+      "button": "Umów spotkanie"
     }
   },
   "solutionHub": {
     "meta": {
-      "title": "COLHYBRI Solution",
-      "description": "Community pool, Maps+ and gamification: the 3 pillars revitalizing your downtown."
+      "title": "Rozwiązanie COLHYBRI",
+      "description": "Fundusz solidarnościowy, Maps+ i grywalizacja: 3 filary, które ożywiają Twoje centrum miasta."
     },
     "hero": {
       "badge": "SOLUTION",
-      "title": "How COLHYBRI revitalizes your downtown",
-      "subtitle": "Three pillars, one goal: bring your main street back to life."
+      "title": "Jak COLHYBRI ożywia Twoje centrum miasta",
+      "subtitle": "Trzy filary, jeden wspólny cel: przywrócić życie handlowej ulicy."
     },
     "pillars": {
       "pool": {
-        "title": "Neighborhood community support",
-        "body": "3 EUR per month. 75% to the community pool. Services gifted at random to a neighbor, a merchant, a local cause. A digital neighborhood mutual.",
-        "cta": "Discover"
+        "title": "Solidarność sąsiedzka",
+        "body": "3 EUR miesięcznie. 75% do funduszu solidarnościowego. Usługi przekazywane losowo sąsiadowi, sprzedawcy, lokalnej inicjatywie. To cyfrowe towarzystwo wzajemne dzielnicy.",
+        "cta": "Poznaj"
       },
       "maps": {
-        "title": "Digital visibility",
-        "body": "Automated Google audit in 48 hours. Zero-friction onboarding for merchants. Continuous online monitoring. 10 EUR/month, 0% commission.",
-        "cta": "Discover"
+        "title": "Widoczność cyfrowa",
+        "body": "Zautomatyzowany audyt Google w 48 godzin. Wdrożenie bez tarć dla sprzedawców. Ciągły monitoring obecności online. 10 EUR/miesiąc, 0% prowizji.",
+        "cta": "Poznaj"
       },
       "gamification": {
-        "title": "Community engagement",
-        "body": "26 hyperlocal mini-games. Neighborhood challenges. Rankings by main street. The street becomes a collective playground.",
-        "cta": "Coming soon"
+        "title": "Zaangażowanie społeczności",
+        "body": "26 lokalnych mini-gier. Wyzwania sąsiedzkie. Rankingi handlowych ulic. Ulica staje się wspólnym placem zabaw.",
+        "cta": "Wkrótce"
       }
     },
     "gamification": {
-      "title": "Neighborhood gamification",
-      "body": "Community engagement through play. 26 territory-anchored mini-games turn every solidarity gesture into a fun collective experience.",
+      "title": "Grywalizacja dzielnicy",
+      "body": "Zaangażowanie społeczności przebiega przez grę. 26 mini-gier zakorzenionych w terytorium przekształca każdy solidarny gest w zabawne i wspólne doświadczenie.",
       "tags": {
-        "challenges": "Neighborhood challenges",
-        "rankings": "Rankings",
-        "minigames": "26 mini-games",
-        "streetRankings": "Street rankings"
+        "challenges": "Wyzwania sąsiedzkie",
+        "rankings": "Rankingi",
+        "minigames": "26 mini-gier",
+        "streetRankings": "Rankingi ulic"
       }
     }
   },
   "poolSolidaire": {
     "meta": {
-      "title": "COLHYBRI Community Pool",
-      "description": "The neighborhood mutual of the 21st century. 3 EUR/month, 75% redistributed as gifted services at local shops."
+      "title": "Fundusz solidarnościowy COLHYBRI",
+      "description": "Towarzystwo wzajemne dzielnicy XXI wieku. 3 EUR/miesiąc, 75% redystrybuowane w postaci usług oferowanych u sprzedawców."
     },
     "hero": {
-      "badge": "COMMUNITY POOL",
-      "title": "The neighborhood mutual of the 21st century",
-      "subtitle": "3 EUR per month, 75% redistributed as services randomly gifted at your neighborhood shops."
+      "badge": "FUNDUSZ SOLIDARNOŚCIOWY",
+      "title": "Towarzystwo wzajemne dzielnicy XXI wieku",
+      "subtitle": "3 EUR miesięcznie, 75% redystrybuowane w postaci usług oferowanych losowo u sprzedawców z Twojej dzielnicy."
     },
     "steps": {
       "step1": {
-        "title": "Subscribe (3 EUR)",
-        "body": "Signup takes 30 seconds. Scan a QR code or download the app at colhybri.com. No commitment."
+        "title": "Zapisz się (3 EUR)",
+        "body": "Rejestracja zajmuje 30 sekund. Zeskanuj kod QR lub pobierz aplikację na colhybri.com. Bez zobowiązań."
       },
       "step2": {
-        "title": "75% goes to the community pool",
-        "body": "Each month, 2.25 EUR of your fee feeds your neighborhood community pool."
+        "title": "75% trafia do funduszu solidarnościowego",
+        "body": "Każdego miesiąca 2,25 EUR z Twojej składki zasila wspólnotowy fundusz solidarnościowy Twojej dzielnicy."
       },
       "step3": {
-        "title": "Random distribution",
-        "body": "The pool is redistributed as vouchers. Beneficiaries are drawn at random by a transparent, verifiable algorithm."
+        "title": "Losowa dystrybucja",
+        "body": "Fundusz jest redystrybuowany w formie bonów. Beneficjenci są losowani przez przejrzysty i weryfikowalny algorytm."
       },
       "step4": {
-        "title": "A neighbor enjoys a gifted service",
-        "body": "Beneficiaries enjoy a free service at a partner shop: coffee, hairdresser, dry cleaning, bakery."
+        "title": "Sąsiad korzysta z oferowanej usługi",
+        "body": "Beneficjenci korzystają z bezpłatnej usługi u partnerskiego sprzedawcy: kawa, fryzjer, pralnia, piekarnia."
       }
     },
     "notCharity": {
-      "title": "This is NOT charity",
-      "body": "COLHYBRI is a digital neighborhood mutual. Just as Social Security was born from mutualism, COLHYBRI creates local community support. Every subscriber pays the same fee and has equal chances to receive. Nobody is humiliated. It is symmetric."
+      "title": "To NIE jest charytatywność",
+      "body": "COLHYBRI to cyfrowe towarzystwo wzajemne dzielnicy. Tak jak Securite sociale narodziła się z mutualizmu, COLHYBRI tworzy solidarność lokalną. Każdy abonent płaci tę samą składkę i ma takie same szanse na otrzymanie. Nikt nie jest poniżany. To symetryczne."
     },
     "cta": {
-      "title": "Join the mutual",
-      "button": "Sign up on colhybri.com"
+      "title": "Dołącz do towarzystwa wzajemnego",
+      "button": "Zarejestruj się na colhybri.com"
     }
   },
   "worldMap": {
     "hint": "Wybierz region, aby poznać jego lokalny wpływ.",
     "markers": {
       "paris": {
-        "label": "1,732 ZRCV"
+        "label": "1 732 ZRCV"
       },
       "pittsburgh": {
-        "label": "8,764 Opportunity Zones"
+        "label": "8 764 Opportunity Zones"
       },
       "barcelona": {
-        "label": "EU Capital Small Retail 2026"
+        "label": "Stolica EU Małego Handlu 2026"
       },
       "dakar": {
-        "label": "Africa Expansion"
+        "label": "Ekspansja Afryka"
       },
       "saopaulo": {
-        "label": "55% informal employment"
+        "label": "55% zatrudnienia nieformalnego"
       }
     }
   },
   "pressePage": {
     "meta": {
-      "title": "COLHYBRI Press",
-      "description": "Press kit, key figures, founder bio. Contact: contact@colhybri.com"
+      "title": "Prasa COLHYBRI",
+      "description": "Pakiet prasowy, kluczowe liczby, bio założyciela. Kontakt: contact@colhybri.com"
     },
     "hero": {
-      "badge": "PRESS",
-      "title": "COLHYBRI Press Kit",
-      "subtitle": "Logos, key figures, founder bio and press contact."
+      "badge": "PRASA",
+      "title": "Pakiet prasowy COLHYBRI",
+      "subtitle": "Logo, liczby, bio założyciela i kontakt dla prasy."
     },
     "logo": {
-      "title": "COLHYBRI Logo",
-      "body": "Download the high-resolution SVG logo.",
-      "download": "Download SVG"
+      "title": "Logo COLHYBRI",
+      "body": "Pobierz logo SVG w wysokiej rozdzielczości.",
+      "download": "Pobierz SVG"
     },
     "figures": {
-      "title": "Key figures",
+      "title": "Kluczowe liczby",
       "items": [
         "3 EUR/month for individuals, 10 EUR/month for merchants",
         "0% commission (vs 30% UberEats, 25% JustEat)",
@@ -2829,214 +2829,214 @@
       ]
     },
     "founder": {
-      "title": "The founder",
-      "bio": "Florent Gibert, founder and CEO of ONLYMORE Group, is a self-taught entrepreneur who went from construction and delivery to fintech. Based in Rodilhan, Occitanie, he designed COLHYBRI to digitize 220 years of French mutualism and revitalize downtowns."
+      "title": "Założyciel",
+      "bio": "Florent Gibert, założyciel i CEO ONLYMORE Group, jest samoukiem, który przeszedł od budownictwa i dostaw do fintechu. Z siedzibą w Rodilhan w Oksytanii, stworzył COLHYBRI, aby scyfryzować 220 lat francuskiego mutualizmu i ożywić centra miast."
     },
     "releases": {
-      "title": "Press releases",
-      "body": "Press releases coming soon. Sign up to be notified."
+      "title": "Komunikaty prasowe",
+      "body": "Komunikaty wkrótce. Zapisz się, aby otrzymać powiadomienie."
     },
     "contact": {
-      "title": "Press contact"
+      "title": "Kontakt dla prasy"
     }
   },
   "investorsPage": {
     "meta": {
-      "title": "Invest in COLHYBRI",
-      "description": "Pre-seed 200K-350K EUR. Valuation 500K-800K EUR. Projected ARR Y3: 2.31M EUR."
+      "title": "Zainwestuj w COLHYBRI",
+      "description": "Pre-seed 200K-350K EUR. Wycena 500K-800K EUR. Prognozowany ARR w Y3: 2,31 mln EUR."
     },
     "hero": {
-      "badge": "INVESTORS",
-      "title": "Invest in downtown revitalization",
+      "badge": "INWESTORZY",
+      "title": "Zainwestuj w rewitalizację centrów miast",
       "subtitle": "Pre-seed | 200K - 350K EUR"
     },
     "keyNumbers": {
       "0": {
         "value": "500K-800K EUR",
-        "label": "Pre-money valuation (3 methods)"
+        "label": "Wycena pre-money (3 metody)"
       },
       "1": {
-        "value": "2.31M EUR",
-        "label": "Projected ARR Y3"
+        "value": "2,31 mln EUR",
+        "label": "Prognozowany ARR w Y3"
       },
       "2": {
-        "value": "450,000",
-        "label": "local businesses in France (TAM)"
+        "value": "450 000",
+        "label": "lokalnych sklepów we Francji (TAM)"
       },
       "3": {
-        "value": "25+ countries",
-        "label": "international expansion Y5"
+        "value": "25+ krajów",
+        "label": "ekspansja międzynarodowa Y5"
       },
       "4": {
-        "value": "1.3M-2.15M EUR",
-        "label": "ONLYMORE Group consolidated"
+        "value": "1,3 mln-2,15 mln EUR",
+        "label": "ONLYMORE Group skonsolidowane"
       },
       "5": {
         "value": "211K EUR",
-        "label": "technical assets developed"
+        "label": "opracowane aktywa techniczne"
       },
-      "title": "Key numbers"
+      "title": "Kluczowe liczby"
     },
     "flywheel": {
-      "title": "The model",
-      "subtitle": "A self-closing ecosystem.",
+      "title": "Model",
+      "subtitle": "Ekosystem, który się zapętla.",
       "step1": "COLHYBRI (B2C 3 EUR)",
-      "step2": "Community pool",
-      "step3": "Merchants (B2B 10 EUR)",
+      "step2": "Fundusz solidarnościowy",
+      "step3": "Sprzedawcy (B2B 10 EUR)",
       "step4": "CROWNIUM (sport)",
       "step5": "ONLYMORE FINANCE (credit)",
-      "quote": "B2C subscriptions fund B2B. B2B funds sports investments. Credit closes the loop."
+      "quote": "Abonamenty B2C finansują B2B. B2B finansuje inwestycje sportowe. Kredyt zamyka cykl."
     },
     "useOfFunds": {
       "title": "Use of funds",
       "product": {
-        "title": "Product",
-        "desc": "Platform development, Maps+, gamification"
+        "title": "Produkt",
+        "desc": "Rozwój platformy, Maps+, grywalizacja"
       },
       "gtm": {
         "title": "Go-to-market",
-        "desc": "France launch, first city pilots"
+        "desc": "Start we Francji, pierwsze pilotaże w miastach"
       },
       "ops": {
         "title": "Operations",
-        "desc": "Team, legal, accounting"
+        "desc": "Zespół, sprawy prawne, księgowość"
       }
     },
     "team": {
-      "title": "The team",
+      "title": "Zespół",
       "florent": {
-        "role": "Founder and CEO",
-        "bio": "Self-taught. From construction to fintech. 220 years of mutualism in the DNA.",
+        "role": "Założyciel i CEO",
+        "bio": "Samouk. Od budownictwa do fintechu. 220 lat mutualizmu w DNA.",
         "photoAlt": "Portret Florenta Giberta, założyciela i CEO COLHYBRI"
       },
       "joao": {
         "role": "CFO",
-        "bio": "Financial structuring and investor reporting.",
+        "bio": "Strukturyzacja finansowa i raportowanie dla inwestorów.",
         "photoAlt": "Portret João Almeidy, CFO COLHYBRI"
       },
       "stephane": {
         "role": "Fundraising (Winvesty)",
-        "bio": "Capital raise and investor network.",
+        "bio": "Pozyskiwanie funduszy i sieć inwestorów.",
         "photoAlt": "Portret Stéphane'a Picarda, Fundraising Partner COLHYBRI"
       }
     },
     "deck": {
-      "title": "Investor deck",
-      "body": "Receive the full deck by email.",
-      "cta": "Request the deck"
+      "title": "Dossier inwestorskie",
+      "body": "Otrzymaj pełne dossier e-mailem.",
+      "cta": "Poproś o dossier"
     },
     "form": {
-      "title": "Book a meeting",
-      "subtitle": "Schedule a call with the founding team."
+      "title": "Umów spotkanie",
+      "subtitle": "Zaplanuj rozmowę z zespołem założycielskim."
     }
   },
   "mapsPlus": {
     "meta": {
-      "title": "Maps+ by COLHYBRI",
-      "description": "75% of small businesses are invisible on Google. Maps+ audits, onboards and monitors in 48h for 10 EUR/month."
+      "title": "Maps+ od COLHYBRI",
+      "description": "75% MŚP jest niewidocznych w Google. Maps+ audytuje, wdraża i monitoruje w 48h za 10 EUR/miesiąc."
     },
     "hero": {
-      "title": "75% of small businesses are invisible on Google. Not yours.",
-      "subtitle": "Maps+ digitizes each business in 48 hours with zero-friction onboarding."
+      "title": "75% MŚP jest niewidocznych w Google. Ale nie Twoja firma.",
+      "subtitle": "Maps+ cyfryzuje każdy sklep w 48 godzin dzięki wdrożeniu bez tarć."
     },
     "features": {
       "audit": {
-        "title": "Automated audit",
-        "body": "Score Maps evaluates every shop Google presence on a 0-100 scale in 48 hours. 4 criteria: listing, reviews, photos, NAP consistency."
+        "title": "Zautomatyzowany audyt",
+        "body": "Score Maps ocenia obecność w Google każdego sklepu w skali 0-100 w 48 godzin. 4 kryteria: wizytówka, opinie, zdjęcia, spójność NAP."
       },
       "onboarding": {
-        "title": "Zero-friction onboarding",
-        "body": "The merchant scans a QR code, confirms pre-filled information and validates in 1 click. 30 seconds, no technical skills required."
+        "title": "Wdrożenie bez tarć",
+        "body": "Sprzedawca skanuje kod QR, potwierdza wstępnie wypełnione informacje i zatwierdza jednym kliknięciem. 30 sekund, bez wymaganych umiejętności technicznych."
       },
       "reviews": {
-        "title": "Review generation",
-        "body": "A post-visit QR code simplifies review submission: the customer scans on the way out, rates in 1 click. A shop with 10+ recent reviews gets 50% more clicks."
+        "title": "Generowanie opinii",
+        "body": "Kod QR po wizycie upraszcza wystawienie opinii: klient skanuje wychodząc, ocenia jednym kliknięciem. Sklep z 10+ świeżymi opiniami otrzymuje 50% więcej kliknięć."
       },
       "monitoring": {
-        "title": "Continuous monitoring",
-        "body": "SMS or email alerts on negative reviews or ranking drops. Reaction time: under 2 hours."
+        "title": "Ciągły monitoring",
+        "body": "Alerty SMS lub e-mail o negatywnych opiniach lub spadkach pozycji. Czas reakcji: poniżej 2 godzin."
       }
     },
     "demo": {
-      "title": "Test your Score Maps",
-      "subtitle": "Enter your business name and discover your Google visibility score.",
-      "placeholder": "Your business name",
-      "audit": "Audit",
-      "scoreLabel": "Score Maps out of 100",
-      "profile": "Google listing",
-      "reviews": "Google reviews",
+      "title": "Sprawdź swój Score Maps",
+      "subtitle": "Wpisz nazwę swojego sklepu i poznaj swój wynik widoczności w Google.",
+      "placeholder": "Nazwa Twojego sklepu",
+      "audit": "Audytuj",
+      "scoreLabel": "Score Maps na 100",
+      "profile": "Wizytówka Google",
+      "reviews": "Opinie Google",
       "photos": "Photos",
-      "hours": "Hours",
-      "improvement": "Improvement potential: {value}%",
+      "hours": "Godziny otwarcia",
+      "improvement": "Potencjał poprawy: {value}%",
       "status": {
         "incomplete": "Incomplete",
-        "missing": "Not listed"
+        "missing": "Brak danych"
       }
     },
     "cta": {
-      "title": "Optimize your business",
-      "button": "Sign up on colhybri.com"
+      "title": "Zoptymalizuj swój sklep",
+      "button": "Zarejestruj się na colhybri.com"
     }
   },
   "forms": {
     "city": {
-      "firstName": "First name",
-      "lastName": "Last name",
-      "role": "Role",
-      "rolePlaceholder": "Select your role",
+      "firstName": "Imię",
+      "lastName": "Nazwisko",
+      "role": "Funkcja",
+      "rolePlaceholder": "Wybierz swoją funkcję",
       "roles": {
-        "mayor": "Mayor",
-        "deputy": "Deputy Mayor",
-        "dgs": "City Manager",
-        "manager": "Commerce Manager",
-        "cci": "Chamber of Commerce",
-        "intercom": "Inter-municipal body",
-        "other": "Other"
+        "mayor": "Burmistrz",
+        "deputy": "Zastępca",
+        "dgs": "Dyrektor generalny urzędu",
+        "manager": "Menedżer handlu",
+        "cci": "CCI",
+        "intercom": "Związek międzygminny",
+        "other": "Inne"
       },
-      "city": "City",
-      "postcode": "Postal code",
-      "email": "Professional email",
-      "phone": "Phone",
+      "city": "Gmina",
+      "postcode": "Kod pocztowy",
+      "email": "Służbowy e-mail",
+      "phone": "Telefon",
       "message": "Message",
-      "submit": "Submit request",
-      "sending": "Sending...",
-      "successTitle": "Thank you!",
-      "successBody": "We will get back to you within 48h.",
-      "errorTitle": "Error",
-      "errorBody": "Error. Please send an email to contact@colhybri.com"
+      "submit": "Wyślij zgłoszenie",
+      "sending": "Wysyłanie...",
+      "successTitle": "Dziękujemy!",
+      "successBody": "Skontaktujemy się z Tobą w ciągu 48h.",
+      "errorTitle": "Błąd",
+      "errorBody": "Błąd. Prosimy o wysłanie e-maila na adres contact@colhybri.com"
     },
     "investor": {
-      "name": "Name",
-      "organization": "Organization",
+      "name": "Nazwisko",
+      "organization": "Organizacja",
       "email": "Email",
-      "phone": "Phone",
+      "phone": "Telefon",
       "message": "Message",
-      "submit": "Book a meeting",
-      "sending": "Sending...",
-      "successTitle": "Thank you!",
-      "successBody": "The founding team will contact you within 48h.",
-      "errorTitle": "Error",
-      "errorBody": "Error sending. Please email florent@onlymore.group"
+      "submit": "Umów spotkanie",
+      "sending": "Wysyłanie...",
+      "successTitle": "Dziękujemy!",
+      "successBody": "Zespół założycielski skontaktuje się z Tobą w ciągu 48h.",
+      "errorTitle": "Błąd",
+      "errorBody": "Błąd podczas wysyłania. Wyślij e-mail na adres florent@onlymore.group"
     },
     "general": {
-      "name": "Name",
+      "name": "Nazwisko",
       "email": "Email",
-      "subject": "Subject",
-      "subjectPlaceholder": "Select a subject",
+      "subject": "Temat",
+      "subjectPlaceholder": "Wybierz temat",
       "subjects": {
-        "partnership": "Partnership",
-        "press": "Press",
-        "investment": "Investment",
-        "question": "General question",
-        "other": "Other"
+        "partnership": "Partnerstwo",
+        "press": "Prasa",
+        "investment": "Inwestycja",
+        "question": "Pytanie ogólne",
+        "other": "Inne"
       },
       "message": "Message",
-      "submit": "Send",
-      "sending": "Sending...",
-      "successTitle": "Thank you!",
-      "successBody": "We respond within 48h.",
-      "errorTitle": "Error",
-      "errorBody": "Error sending. Please email contact@colhybri.com"
+      "submit": "Wyślij",
+      "sending": "Wysyłanie...",
+      "successTitle": "Dziękujemy!",
+      "successBody": "Odpowiadamy w ciągu 48h.",
+      "errorTitle": "Błąd",
+      "errorBody": "Błąd podczas wysyłania. Wyślij e-mail na adres contact@colhybri.com"
     }
   },
   "trustMap": {
@@ -3070,9 +3070,9 @@
   },
   "legal": {
     "privacy": {
-      "title": "Privacy Policy",
-      "updated": "Last updated: June 2026",
-      "intro": "COLHYBRI is a service operated by ONLYMORE Group. This Privacy Policy explains how we collect, use, and protect your personal data when you visit colhybri.vision or use the COLHYBRI application.",
+      "title": "Polityka prywatności",
+      "updated": "Ostatnia aktualizacja: czerwiec 2026",
+      "intro": "COLHYBRI to usługa wydawana przez ONLYMORE Group. Niniejsza polityka prywatności wyjaśnia, w jaki sposób zbieramy, wykorzystujemy i chronimy Twoje dane osobowe, gdy odwiedzasz colhybri.vision lub korzystasz z aplikacji COLHYBRI.",
       "sections": [
         {
           "h": "Who we are",
@@ -3109,9 +3109,9 @@
       ]
     },
     "terms": {
-      "title": "Terms of Service",
-      "updated": "Last updated: June 2026",
-      "intro": "These Terms of Service govern your access to and use of the COLHYBRI website (colhybri.vision) and the COLHYBRI application, both operated by ONLYMORE Group.",
+      "title": "Warunki korzystania",
+      "updated": "Ostatnia aktualizacja: czerwiec 2026",
+      "intro": "Niniejsze warunki korzystania regulują Twój dostęp do strony COLHYBRI (colhybri.vision) i aplikacji COLHYBRI, obu wydawanych przez ONLYMORE Group.",
       "sections": [
         {
           "h": "Acceptance of terms",
