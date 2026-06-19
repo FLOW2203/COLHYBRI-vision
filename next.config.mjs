@@ -114,6 +114,21 @@ const nextConfig = {
       { source: '/pl/ekosystem', destination: '/pl/ecosystem' },
       { source: '/pl/inwestorzy', destination: '/pl/investors' },
       { source: '/pl/wplyw', destination: '/pl/impact' },
+      // ZH — impact + investors localized slugs had no rewrites (404 in prod)
+      { source: '/zh/%E5%BD%B1%E5%93%8D', destination: '/zh/impact' },
+      { source: '/zh/%E6%8A%95%E8%B5%84%E8%80%85', destination: '/zh/investors' },
+      // JA — impact + investors localized slugs had no rewrites (404 in prod)
+      { source: '/ja/%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88', destination: '/ja/impact' },
+      { source: '/ja/%E6%8A%95%E8%B3%87%E5%AE%B6%E5%90%91%E3%81%91', destination: '/ja/investors' },
+      // HI — localized nav slugs had no rewrites (prabhav + niveshak 404 in prod)
+      { source: '/hi/mulya', destination: '/hi/pricing' },
+      { source: '/hi/prabhav', destination: '/hi/impact' },
+      { source: '/hi/vyaktiyon-ke-liye', destination: '/hi/for-individuals' },
+      { source: '/hi/dukano-ke-liye', destination: '/hi/for-shops' },
+      { source: '/hi/shaharon-ke-liye', destination: '/hi/for-cities' },
+      { source: '/hi/paristhitiki-tantra', destination: '/hi/ecosystem' },
+      { source: '/hi/niveshak', destination: '/hi/investors' },
+      { source: '/hi/sampark', destination: '/hi/contact' },
     ];
     return localizedRoutes;
   },
