@@ -51,7 +51,7 @@ const PRELOADED_ISSUES = [
     agent: "auditor",
     severity: "CRITIQUE",
     page: "Toutes pages EN/FR/ES/GB",
-    title: "🚨 Clés i18n non résolues — système de traduction cassé",
+    title: "🚨 Clés i18n non résolues : système de traduction cassé",
     detail:
       "La page /en affiche hero.tagline, hero.headline, mission.headline, pricing.individuals.features.0, nav.mission, footer.tagline etc. au lieu du vrai texte. Le système i18n (probablement next-intl, react-i18next, ou i18next) ne charge pas les fichiers de traduction.",
     fix: `// Vérifier dans next.config.js ou i18n config :
@@ -75,11 +75,11 @@ export default async function LocaleLayout({ children, params: { locale } }) {
     id: 2,
     agent: "css",
     severity: "MAJEUR",
-    page: "Toutes pages — desktop",
+    page: "Toutes pages, desktop",
     title: "📐 Site décalé à droite sur ordinateur",
     detail:
       "Le contenu principal est centré à droite. Cause probable: margin-left auto sans margin-right auto, ou un flex/grid mal configuré, ou un overflow-x caché qui décale le scroll.",
-    fix: `/* Fix CSS global — dans globals.css ou layout principal */
+    fix: `/* Fix CSS global, dans globals.css ou layout principal */
 /* Option 1: Container centré */
 .container, main, [class*='container'] {
   max-width: 1280px;
@@ -103,7 +103,7 @@ body {
     agent: "auditor",
     severity: "CRITIQUE",
     page: "/fr/pour-les-villes + /fr/pour-les-commerces",
-    title: "🔴 Pages 404 — routes manquantes après remaniement",
+    title: "🔴 Pages 404 : routes manquantes après remaniement",
     detail:
       "Les pages /fr/pour-les-villes et /fr/pour-les-commerces retournent 404. Ces routes n'existent plus dans la structure de fichiers après le remaniement du site.",
     fix: `// Structure de fichiers à créer (Next.js App Router):
@@ -112,7 +112,7 @@ body {
 // app/[locale]/para-las-ciudades/page.tsx (ES)
 // OU si route unique avec locale param:
 // app/[locale]/cities/page.tsx
-// next.config.js — redirects pour anciens URLs:
+// next.config.js, redirects pour anciens URLs:
 module.exports = {
   async redirects() {
     return [
@@ -129,7 +129,7 @@ module.exports = {
     page: "/en (homepage)",
     title: "📝 Footer et pricing entièrement en clés brutes",
     detail:
-      "footer.tagline, footer.quote, footer.group, footer.copyright, footer.links.privacy, footer.links.terms, pricing.individuals.title, pricing.shops.title — tout le footer et la section pricing affichent des clés JSON brutes.",
+      "footer.tagline, footer.quote, footer.group, footer.copyright, footer.links.privacy, footer.links.terms, pricing.individuals.title, pricing.shops.title : tout le footer et la section pricing affichent des clés JSON brutes.",
     fix: `// Dans /public/locales/en/common.json, vérifier et compléter:
 {
   "footer": {
@@ -235,58 +235,58 @@ const LOCALE_PAGES = [
 
 const CITY_CONTENT = {
   fr: {
-    title: "COLHYBRI & Les Villes — Revitalisation des Centres",
+    title: "COLHYBRI & Les Villes : Revitalisation des Centres",
     sections: [
       {
         h2: "Chaque abonnement crée du trafic en cœur de ville",
         body: "Quand un habitant souscrit à COLHYBRI, il s'engage à dépenser dans les commerces locaux partenaires. Chaque euro circulant localement génère jusqu'à 2,5x de valeur économique pour la ville grâce à l'effet multiplicateur keynésien. Pour une ville de 50 000 habitants avec 10% d'adhésion : 5 000 × €3 × 2,5 = 37 500€/mois injectés en centre-ville.",
-        source: "Programme Cœurs de Ville — ANCT / Ministère de la Cohésion des Territoires",
+        source: "Programme Cœurs de Ville, ANCT / Ministère de la Cohésion des Territoires",
         sourceUrl: "https://www.cohesion-territoires.gouv.fr/programme-action-coeur-de-ville",
       },
       {
         h2: "La désertification commerciale : un problème national",
         body: "Le taux de vacance commerciale en centre-ville français atteignait 13,4% en 2023 (BnpRE). Certaines villes moyennes dépassent 25%. Le programme Action Cœur de Ville, lancé en 2018, cible 245 villes moyennes. COLHYBRI est l'outil numérique complémentaire qui pérennise l'engagement des habitants vers leur centre.",
-        source: "BnpRE Observatoire — Vacance commerciale 2023",
+        source: "BnpRE Observatoire, Vacance commerciale 2023",
         sourceUrl: "https://www.bnpre.fr/nos-etudes/",
       },
       {
         h2: "Le cas Detroit : leçon mondiale de revitalisation par l'économie locale",
         body: "Detroit a perdu 60% de sa population en 50 ans (1,8M en 1950 → 600k en 2020). Sa renaissance passe par des initiatives hyperlocales : Detroit Food Hub, Eastern Market, Rock Ventures reinvestissant dans le tissu commercial local. L'outil numérique manquait : COLHYBRI est ce chaînon. Une plateforme qui transforme chaque habitant en acteur économique de sa ville.",
-        source: "Detroit Future City — Strategic Framework / Brookings Institution",
+        source: "Detroit Future City, Strategic Framework / Brookings Institution",
         sourceUrl: "https://detroitfuturecity.com/",
       },
       {
         h2: "Augmentation mesurable du flux piéton",
         body: "Les villes partenaires de programmes d'inclusion financière locale constatent +15 à +30% de fréquentation des commerces adhérents dans les 6 premiers mois. COLHYBRI transforme les bénéficiaires en ambassadeurs actifs : chaque utilisateur recommande en moyenne 3,2 commerces locaux à son réseau (données pilote ONLYMORE 2024).",
-        source: "ONLYMORE Group — Rapport d'impact pilote 2024",
+        source: "ONLYMORE Group, Rapport d'impact pilote 2024",
         sourceUrl: "https://colhybri.vision",
       },
       {
         h2: "Repopulation : attirer de nouveaux résidents par la qualité de vie économique",
         body: "Les villes qui démontrent un tissu commercial vivant et accessible attirent de nouveaux résidents. L'indicateur 'diversité commerciale' est dans le Top 3 des critères de choix de résidence (sondage IFOP 2023). COLHYBRI donne aux villes un argument concret : ici, votre argent reste ici.",
-        source: "IFOP — Enquête mobilité résidentielle 2023",
+        source: "IFOP, Enquête mobilité résidentielle 2023",
         sourceUrl: "https://www.ifop.com/",
       },
     ],
   },
   en: {
-    title: "COLHYBRI & Cities — Revitalizing Downtown Cores",
+    title: "COLHYBRI & Cities : Revitalizing Downtown Cores",
     sections: [
       {
         h2: "Every subscription drives foot traffic downtown",
         body: "When a resident subscribes to COLHYBRI, they commit to spending at local partner merchants. Each locally-circulating dollar generates up to 2.5x economic value for the city through the Keynesian multiplier effect. For a city of 100,000 residents with 10% adoption: 10,000 × $3 × 2.5 = $75,000/month injected into downtown.",
-        source: "Brookings Institution — Local Economic Multipliers",
+        source: "Brookings Institution, Local Economic Multipliers",
         sourceUrl: "https://www.brookings.edu/",
       },
       {
         h2: "The Detroit Case: Global Lesson in Local Economy Revival",
-        body: "Detroit lost 60% of its population over 50 years (1.8M in 1950 → 600k in 2020). Its renaissance comes through hyperlocal initiatives — Detroit Food Hub, Eastern Market, community reinvestment. The digital engagement tool was missing. COLHYBRI is that missing link: transforming every resident into an active economic participant in their city.",
-        source: "Detroit Future City — Strategic Framework / Brookings Institution",
+        body: "Detroit lost 60% of its population over 50 years (1.8M in 1950 → 600k in 2020). Its renaissance comes through hyperlocal initiatives: Detroit Food Hub, Eastern Market, community reinvestment. The digital engagement tool was missing. COLHYBRI is that missing link: transforming every resident into an active economic participant in their city.",
+        source: "Detroit Future City, Strategic Framework / Brookings Institution",
         sourceUrl: "https://detroitfuturecity.com/",
       },
       {
         h2: "Rust Belt communities: a $473M market opportunity",
-        body: "~63 million Americans are unbanked or underbanked (FDIC 2023). COLHYBRI at $3/month, with the 2.5x local Keynesian multiplier, represents a $473M/month addressable local value opportunity. Cities in the Rust Belt — Cleveland, Pittsburgh, Gary, Flint — are primary targets. Financial inclusion IS urban revitalization.",
+        body: "~63 million Americans are unbanked or underbanked (FDIC 2023). COLHYBRI at $3/month, with the 2.5x local Keynesian multiplier, represents a $473M/month addressable local value opportunity. Cities in the Rust Belt, namely Cleveland, Pittsburgh, Gary and Flint, are primary targets. Financial inclusion IS urban revitalization.",
         source: "FDIC National Survey of Unbanked and Underbanked Households 2023",
         sourceUrl: "https://www.fdic.gov/analysis/household-survey/",
       },
@@ -296,11 +296,11 @@ const CITY_CONTENT = {
 
 const COMMERCE_CONTENT = {
   fr: {
-    title: "COLHYBRI pour les commerces — Vecteur d'engagement ESS",
+    title: "COLHYBRI pour les commerces : Vecteur d'engagement ESS",
     sections: [
       {
         h2: "Chaque commerce devient un hub ESS de quartier",
-        body: "En rejoignant COLHYBRI, un commerce ne vend plus seulement des produits — il devient un point d'ancrage économique et social. Il incarne les valeurs de l'Économie Sociale et Solidaire (ESS) : solidarité, utilité sociale, gouvernance participative. C'est un avantage concurrentiel réel face aux grandes surfaces et au e-commerce.",
+        body: "En rejoignant COLHYBRI, un commerce ne vend plus seulement des produits, il devient un point d'ancrage économique et social. Il incarne les valeurs de l'Économie Sociale et Solidaire (ESS) : solidarité, utilité sociale, gouvernance participative. C'est un avantage concurrentiel réel face aux grandes surfaces et au e-commerce.",
         kpi: "+23% de fidélisation client selon les pilotes ONLYMORE 2024",
       },
       {
@@ -310,12 +310,12 @@ const COMMERCE_CONTENT = {
       },
       {
         h2: "Acteur de la santé économique collective",
-        body: "Un commerce COLHYBRI n'est plus une entité isolée — il devient co-garant de la santé économique du territoire. Son abonnement contribue à maintenir des emplois locaux, à financer des services de proximité, et à renforcer la résilience économique de toute la communauté. C'est la traduction concrète du principe mutualiste : 'La santé de chacun dépend de la santé de tous'.",
+        body: "Un commerce COLHYBRI n'est plus une entité isolée, il devient co-garant de la santé économique du territoire. Son abonnement contribue à maintenir des emplois locaux, à financer des services de proximité, et à renforcer la résilience économique de toute la communauté. C'est la traduction concrète du principe mutualiste : 'La santé de chacun dépend de la santé de tous'.",
         kpi: "Chaque €3 abonné génère €7.50 de valeur locale redistribuée",
       },
       {
-        h2: "Outils digitaux inclus — sans surcoût",
-        body: "L'adhésion au réseau COLHYBRI inclut : tableau de bord analytics, module de fidélité numérique, visibilité sur l'application, intégration paiement simplifié, et accès aux campagnes de communication collective. Des outils que les grandes chaînes ont — maintenant accessibles aux indépendants pour €0 de plus.",
+        h2: "Outils digitaux inclus, sans surcoût",
+        body: "L'adhésion au réseau COLHYBRI inclut : tableau de bord analytics, module de fidélité numérique, visibilité sur l'application, intégration paiement simplifié, et accès aux campagnes de communication collective. Des outils que les grandes chaînes ont, maintenant accessibles aux indépendants pour €0 de plus.",
         kpi: "Valeur des outils inclus estimée à €89/mois sur le marché",
       },
     ],
@@ -579,7 +579,7 @@ export default function ColhybriAgentTeam() {
     const q = query.toLowerCase();
     const responses: Record<string, Record<string, string>> = {
       auditor: {
-        i18n: `🔍 AGENT AUDIT — Plan de correction i18n
+        i18n: `🔍 AGENT AUDIT : Plan de correction i18n
 
 🚨 DIAGNOSTIC
 Le système next-intl ne résout pas les clés de traduction. Les pages affichent hero.tagline, nav.mission, footer.tagline en brut.
@@ -607,7 +607,7 @@ Le système next-intl ne résout pas les clés de traduction. Les pages affichen
 
 ⏱️ Temps estimé : 30-45 min pour un dev Next.js expérimenté.`,
 
-        "404": `🔍 AGENT AUDIT — Routes 404 détectées
+        "404": `🔍 AGENT AUDIT : Routes 404 détectées
 
 🔴 PAGES MANQUANTES
 - /fr/pour-les-villes → 404
@@ -619,18 +619,18 @@ Ces routes ont été supprimées ou renommées lors du remaniement. Les pages ex
 - app/[locale]/for-shops/page.tsx (EN)
 
 ✅ SOLUTIONS
-Option A — Redirects dans next.config.mjs :
+Option A, Redirects dans next.config.mjs :
   redirects() { return [
     { source: '/fr/pour-les-villes', destination: '/fr/for-cities', permanent: true },
     { source: '/fr/pour-les-commerces', destination: '/fr/for-shops', permanent: true },
   ]}
 
-Option B — Créer des routes localisées avec next-intl pathnames :
+Option B, Créer des routes localisées avec next-intl pathnames :
   Dans navigation.ts, ajouter les mappings par locale.
 
 🎯 Recommandation : Option A en urgence + Option B en v2.`,
 
-        default: `🔍 AGENT AUDIT — Analyse générale
+        default: `🔍 AGENT AUDIT : Analyse générale
 
 📊 ÉTAT DU SITE colhybri.vision
 
@@ -649,11 +649,11 @@ ${PRELOADED_ISSUES.filter(i => i.severity === "MINEUR").map(i => `  → ${i.titl
 3. Créer les redirects pour les routes 404
 4. Compléter les fichiers de traduction manquants
 
-⚡ Le bug i18n est le plus impactant — il affecte 100% des pages.`,
+⚡ Le bug i18n est le plus impactant, il affecte 100% des pages.`,
       },
 
       css: {
-        default: `🎨 AGENT CSS — Correction du décalage desktop
+        default: `🎨 AGENT CSS : Correction du décalage desktop
 
 📐 DIAGNOSTIC
 Le site est décalé à droite sur desktop. Causes probables :
@@ -682,7 +682,7 @@ Dans Tailwind : className="mx-auto max-w-7xl px-6"`,
       },
 
       cities: {
-        detroit: `🏙️ AGENT VILLES — Le cas Detroit appliqué à COLHYBRI
+        detroit: `🏙️ AGENT VILLES : Le cas Detroit appliqué à COLHYBRI
 
 📊 DETROIT : LES CHIFFRES
 - Population : 1,8M (1950) → 639k (2020) = -65%
@@ -699,10 +699,10 @@ Detroit prouve que la revitalisation passe par l'économie LOCALE :
 
 📄 SOURCES
 - Detroit Future City Strategic Framework
-- Brookings Institution — Local Economic Multipliers
-- Programme Action Cœur de Ville — ANCT`,
+- Brookings Institution, Local Economic Multipliers
+- Programme Action Cœur de Ville, ANCT`,
 
-        default: `🏙️ AGENT VILLES — Argumentaire revitalisation urbaine
+        default: `🏙️ AGENT VILLES : Argumentaire revitalisation urbaine
 
 🎯 PROPOSITION DE VALEUR POUR LES VILLES
 
@@ -729,7 +729,7 @@ Detroit prouve que la revitalisation passe par l'économie LOCALE :
       },
 
       commerce: {
-        boulanger: `🏪 AGENT COMMERCE — Pitch boulangerie locale
+        boulanger: `🏪 AGENT COMMERCE : Pitch boulangerie locale
 
 🥖 "Bonjour ! Je suis venu vous parler de COLHYBRI."
 
@@ -753,9 +753,9 @@ CE QUE ÇA VOUS COÛTE :
 → Vous recevez : dashboard analytics, visibilité app, campagnes collectives
 
 🎯 EN UNE PHRASE :
-"Vos clients reviennent, de nouveaux arrivent, et vous avez les mêmes outils digitaux que Carrefour — gratuitement."`,
+"Vos clients reviennent, de nouveaux arrivent, et vous avez les mêmes outils digitaux que Carrefour, gratuitement."`,
 
-        default: `🏪 AGENT COMMERCE — Impact commerce local
+        default: `🏪 AGENT COMMERCE : Impact commerce local
 
 📊 BÉNÉFICES MESURÉS POUR LES COMMERCES
 
@@ -780,11 +780,11 @@ CE QUE ÇA VOUS COÛTE :
 
 🎯 MULTIPLICATEUR
 Chaque €3 abonné génère €7,50 de valeur locale redistribuée.
-Le commerce n'est plus isolé — il fait partie d'un écosystème solidaire.`,
+Le commerce n'est plus isolé, il fait partie d'un écosystème solidaire.`,
       },
 
       corrector: {
-        es: `✍️ AGENT COPY — Traductions ES/España manquantes
+        es: `✍️ AGENT COPY : Traductions ES/España manquantes
 
 📋 CLÉS À COMPLÉTER DANS messages/es.json
 
@@ -817,23 +817,23 @@ Le commerce n'est plus isolé — il fait partie d'un écosystème solidaire.`,
 ⚠️ Vérifier aussi : mission, impact, faq, contact sections.
 → Comparer avec : diff messages/en.json messages/es.json`,
 
-        default: `✍️ AGENT COPY — État des traductions
+        default: `✍️ AGENT COPY : État des traductions
 
 📊 COUVERTURE PAR LOCALE
 
-🇺🇸 EN/USA — Clés i18n non résolues sur homepage
+🇺🇸 EN/USA : Clés i18n non résolues sur homepage
   → hero.*, nav.*, footer.*, pricing.* affichent en brut
   → Fichier messages/en.json existe mais vérifier le provider
 
-🇫🇷 FR/France — Pages 404 + clés manquantes
+🇫🇷 FR/France : Pages 404 + clés manquantes
   → /fr/pour-les-villes et /fr/pour-les-commerces = 404
   → Redirects nécessaires vers /fr/for-cities et /fr/for-shops
 
-🇪🇸 ES/España — Traduction incomplète
+🇪🇸 ES/España : Traduction incomplète
   → Plusieurs sections non traduites
   → Priorité : nav, hero, footer, pricing
 
-🇬🇧 EN/GB — Statut inconnu
+🇬🇧 EN/GB : Statut inconnu
   → À auditer complètement
 
 📋 ACTIONS PRIORITAIRES
@@ -885,7 +885,7 @@ Le commerce n'est plus isolé — il fait partie d'un écosystème solidaire.`,
         return;
       }
     } catch {
-      // API unavailable — fall through to local
+      // API unavailable, fall through to local
     }
 
     // Local agent fallback
@@ -942,7 +942,7 @@ Le commerce n'est plus isolé — il fait partie d'un écosystème solidaire.`,
             </span>
           </div>
           <div style={{ color: "#555", fontSize: 11, marginTop: 2 }}>
-            colhybri.vision — Audit & Correction Multi-Agent
+            colhybri.vision : Audit & Correction Multi-Agent
           </div>
         </div>
         <div style={{ display: "flex", gap: 16 }}>
@@ -1067,7 +1067,7 @@ Le commerce n'est plus isolé — il fait partie d'un écosystème solidaire.`,
           {activeTab === "pages" && (
             <div>
               <div style={{ color: "#555", fontSize: 12, marginBottom: 20 }}>
-                État des pages par locale — EN/USA · FR/France · ES/España · EN/GB
+                État des pages par locale : EN/USA · FR/France · ES/España · EN/GB
               </div>
               <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 20 }}>
                 {LOCALE_PAGES.map((locale) => (
@@ -1089,9 +1089,9 @@ Le commerce n'est plus isolé — il fait partie d'un écosystème solidaire.`,
                   LÉGENDE DES STATUTS
                 </div>
                 {[
-                  { code: "404", color: "#ff4444", desc: "Page manquante — route non créée ou supprimée" },
+                  { code: "404", color: "#ff4444", desc: "Page manquante : route non créée ou supprimée" },
                   { code: "I18N", color: "#ffaa00", desc: "Page existante mais clés de traduction non résolues" },
-                  { code: "?", color: "#555", desc: "Statut inconnu — audit en attente" },
+                  { code: "?", color: "#555", desc: "Statut inconnu : audit en attente" },
                   { code: "OK", color: "#00ff88", desc: "Page fonctionnelle et traduite" },
                 ].map((l) => (
                   <div key={l.code} style={{ display: "flex", gap: 12, marginBottom: 6, alignItems: "center" }}>
@@ -1165,7 +1165,7 @@ Le commerce n'est plus isolé — il fait partie d'un écosystème solidaire.`,
                   textAlign: "center",
                 }}
               >
-                🇺🇸 EN · 🇪🇸 ES · 🇬🇧 GB — Versions disponibles via AGENT COPY ↗
+                🇺🇸 EN · 🇪🇸 ES · 🇬🇧 GB : Versions disponibles via AGENT COPY ↗
               </div>
             </div>
           )}
@@ -1261,7 +1261,7 @@ Le commerce n'est plus isolé — il fait partie d'un écosystème solidaire.`,
                     }}
                   >
                     {AGENTS.find((a) => a.id === activeAgent)?.icon}{" "}
-                    {AGENTS.find((a) => a.id === activeAgent)?.name} — RÉPONSE
+                    {AGENTS.find((a) => a.id === activeAgent)?.name} : RÉPONSE
                   </div>
                   <div
                     style={{

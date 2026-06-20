@@ -3147,5 +3147,29 @@
         }
       ]
     }
+  },
+  "globalImpact": {
+    "eyebrow": "Globalny kryzys",
+    "heading": "Samotność to kolejna pandemia",
+    "subheading": "Światowe dane ukazują skalę kryzysu więzi społecznych.",
+    "ariaLabel": "Światowe statystyki dotyczące samotności",
+    "sourcesLabel": "Źródła",
+    "stats": {
+      "0": {
+        "label": "samotni dorośli na świecie",
+        "suffix": " mld",
+        "source": "Komisja WHO ds. Więzi Społecznych, 2025"
+      },
+      "1": {
+        "label": "wzrost izolacji od 2019 roku",
+        "suffix": "%",
+        "source": "JAMA Network Open, 2025"
+      },
+      "2": {
+        "label": "dorośli na świecie czują się samotni",
+        "suffix": " na 6",
+        "source": "Komisja WHO ds. Więzi Społecznych, 2025"
+      }
+    }
   }
 }

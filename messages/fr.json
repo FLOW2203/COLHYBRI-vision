@@ -3147,5 +3147,29 @@
         }
       ]
     }
+  },
+  "globalImpact": {
+    "eyebrow": "Crise mondiale",
+    "heading": "La solitude est la prochaine pandémie",
+    "subheading": "Les chiffres mondiaux révèlent l'ampleur de la crise du lien social.",
+    "ariaLabel": "Statistiques mondiales sur la solitude",
+    "sourcesLabel": "Sources",
+    "stats": {
+      "0": {
+        "label": "adultes seuls dans le monde",
+        "suffix": "Md",
+        "source": "OMS Commission sur le lien social, 2025"
+      },
+      "1": {
+        "label": "hausse de l'isolement depuis 2019",
+        "suffix": "%",
+        "source": "JAMA Network Open, 2025"
+      },
+      "2": {
+        "label": "adultes dans le monde se sentent seuls",
+        "suffix": " sur 6",
+        "source": "OMS Commission sur le lien social, 2025"
+      }
+    }
   }
 }

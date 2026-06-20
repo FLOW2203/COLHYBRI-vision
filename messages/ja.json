@@ -3147,5 +3147,29 @@
         }
       ]
     }
+  },
+  "globalImpact": {
+    "eyebrow": "世界的な危機",
+    "heading": "孤独は次のパンデミックである",
+    "subheading": "世界のデータは、社会的つながりの危機の規模を明らかにしています。",
+    "ariaLabel": "世界の孤独に関する統計",
+    "sourcesLabel": "出典",
+    "stats": {
+      "0": {
+        "label": "世界の孤独な大人",
+        "suffix": "十億",
+        "source": "WHO社会的つながり委員会、2025"
+      },
+      "1": {
+        "label": "2019年以降の孤立の増加",
+        "suffix": "%",
+        "source": "JAMA Network Open, 2025"
+      },
+      "2": {
+        "label": "世界の大人が孤独を感じている",
+        "suffix": "/6",
+        "source": "WHO社会的つながり委員会、2025"
+      }
+    }
   }
 }

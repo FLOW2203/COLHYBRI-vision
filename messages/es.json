@@ -3155,5 +3155,29 @@
         }
       ]
     }
+  },
+  "globalImpact": {
+    "eyebrow": "Crisis mundial",
+    "heading": "La soledad es la próxima pandemia",
+    "subheading": "Las cifras mundiales revelan la magnitud de la crisis del vínculo social.",
+    "ariaLabel": "Estadísticas mundiales sobre la soledad",
+    "sourcesLabel": "Fuentes",
+    "stats": {
+      "0": {
+        "label": "adultos solos en el mundo",
+        "suffix": " mil M",
+        "source": "Comisión de la OMS sobre la Conexión Social, 2025"
+      },
+      "1": {
+        "label": "aumento del aislamiento desde 2019",
+        "suffix": "%",
+        "source": "JAMA Network Open, 2025"
+      },
+      "2": {
+        "label": "adultos en el mundo se sienten solos",
+        "suffix": " de cada 6",
+        "source": "Comisión de la OMS sobre la Conexión Social, 2025"
+      }
+    }
   }
 }

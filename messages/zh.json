@@ -3147,5 +3147,29 @@
         }
       ]
     }
+  },
+  "globalImpact": {
+    "eyebrow": "全球危机",
+    "heading": "孤独是下一场流行病",
+    "subheading": "全球数据揭示了社会联系危机的规模。",
+    "ariaLabel": "全球孤独统计数据",
+    "sourcesLabel": "来源",
+    "stats": {
+      "0": {
+        "label": "全球孤独的成年人",
+        "suffix": "十亿",
+        "source": "世卫组织社会联系委员会，2025"
+      },
+      "1": {
+        "label": "2019年以来孤立感的上升",
+        "suffix": "%",
+        "source": "JAMA Network Open, 2025"
+      },
+      "2": {
+        "label": "全球成年人感到孤独",
+        "suffix": "/6",
+        "source": "世卫组织社会联系委员会，2025"
+      }
+    }
   }
 }
