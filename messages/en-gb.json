@@ -3147,5 +3147,29 @@
         }
       ]
     }
+  },
+  "globalImpact": {
+    "eyebrow": "Global crisis",
+    "heading": "Loneliness is the next pandemic",
+    "subheading": "Global data reveals the scale of the social connection crisis.",
+    "ariaLabel": "Global loneliness statistics",
+    "sourcesLabel": "Sources",
+    "stats": {
+      "0": {
+        "label": "lonely adults worldwide",
+        "suffix": "B",
+        "source": "WHO Commission on Social Connection, 2025"
+      },
+      "1": {
+        "label": "isolation increase post-2019",
+        "suffix": "%",
+        "source": "JAMA Network Open, 2025"
+      },
+      "2": {
+        "label": "adults worldwide feel lonely",
+        "suffix": " in 6",
+        "source": "WHO Commission on Social Connection, 2025"
+      }
+    }
   }
 }

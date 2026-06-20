@@ -3147,5 +3147,29 @@
         }
       ]
     }
+  },
+  "globalImpact": {
+    "eyebrow": "Globale Krise",
+    "heading": "Einsamkeit ist die nächste Pandemie",
+    "subheading": "Die weltweiten Zahlen zeigen das Ausmaß der Krise der sozialen Verbundenheit.",
+    "ariaLabel": "Weltweite Statistiken zur Einsamkeit",
+    "sourcesLabel": "Quellen",
+    "stats": {
+      "0": {
+        "label": "einsame Erwachsene weltweit",
+        "suffix": " Mrd.",
+        "source": "WHO-Kommission für soziale Verbundenheit, 2025"
+      },
+      "1": {
+        "label": "Anstieg der Isolation seit 2019",
+        "suffix": "%",
+        "source": "JAMA Network Open, 2025"
+      },
+      "2": {
+        "label": "Erwachsene weltweit fühlen sich einsam",
+        "suffix": " von 6",
+        "source": "WHO-Kommission für soziale Verbundenheit, 2025"
+      }
+    }
   }
 }

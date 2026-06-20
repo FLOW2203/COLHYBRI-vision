@@ -3147,5 +3147,29 @@
         }
       ]
     }
+  },
+  "globalImpact": {
+    "eyebrow": "Crisi mondiale",
+    "heading": "La solitudine è la prossima pandemia",
+    "subheading": "I dati mondiali rivelano la portata della crisi del legame sociale.",
+    "ariaLabel": "Statistiche mondiali sulla solitudine",
+    "sourcesLabel": "Fonti",
+    "stats": {
+      "0": {
+        "label": "adulti soli nel mondo",
+        "suffix": " Mld",
+        "source": "Commissione OMS sulla connessione sociale, 2025"
+      },
+      "1": {
+        "label": "aumento dell'isolamento dal 2019",
+        "suffix": "%",
+        "source": "JAMA Network Open, 2025"
+      },
+      "2": {
+        "label": "adulti nel mondo si sentono soli",
+        "suffix": " su 6",
+        "source": "Commissione OMS sulla connessione sociale, 2025"
+      }
+    }
   }
 }

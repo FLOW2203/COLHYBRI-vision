@@ -3147,5 +3147,29 @@
         }
       ]
     }
+  },
+  "globalImpact": {
+    "eyebrow": "Crise mundial",
+    "heading": "A solidão é a próxima pandemia",
+    "subheading": "Os números mundiais revelam a dimensão da crise do vínculo social.",
+    "ariaLabel": "Estatísticas mundiais sobre a solidão",
+    "sourcesLabel": "Fontes",
+    "stats": {
+      "0": {
+        "label": "adultos solitários no mundo",
+        "suffix": " bi",
+        "source": "Comissão da OMS sobre Conexão Social, 2025"
+      },
+      "1": {
+        "label": "aumento do isolamento desde 2019",
+        "suffix": "%",
+        "source": "JAMA Network Open, 2025"
+      },
+      "2": {
+        "label": "adultos no mundo se sentem sozinhos",
+        "suffix": " em cada 6",
+        "source": "Comissão da OMS sobre Conexão Social, 2025"
+      }
+    }
   }
 }
