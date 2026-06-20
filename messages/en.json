@@ -3179,5 +3179,9 @@
         "source": "WHO Commission on Social Connection, 2025"
       }
     }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "subtitle": "The page you are looking for does not exist or has moved."
   }
 }

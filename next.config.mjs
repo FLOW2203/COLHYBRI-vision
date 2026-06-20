@@ -1,6 +1,87 @@
 import createNextIntlPlugin from 'next-intl/plugin';
+import { routeMap } from './lib/route-map.mjs';
 
 const withNextIntl = createNextIntlPlugin('./i18n.ts');
+
+// Locales come straight from routeMap (the `home` entry carries every locale
+// key), so the config never imports the TS i18n module and never drifts from it.
+const locales = Object.keys(routeMap.home);
+
+// ---------------------------------------------------------------------------
+// Localized-slug routing is generated from routeMap (the SAME source the
+// sitemap and hreflang use in lib/navigation.ts), so the router and the
+// sitemap can never drift. The pages physically live under the English slug
+// (routeMap[key].en); for every locale whose slug differs we emit a rewrite
+// localizedSlug -> englishSlug. Non-ASCII slugs (zh/ja/hi) are percent-encoded
+// because Next.js matches `source` against the encoded pathname.
+// ---------------------------------------------------------------------------
+
+// Route keys handled specially elsewhere, excluded from the generic rewrites:
+//  - home: empty slug
+//  - how-it-works: consolidated into /solution via redirects (below)
+//  - solution-pool-solidaire: every localized slug is itself a real file path
+const REWRITE_EXCLUDE = new Set(['home', 'how-it-works', 'solution-pool-solidaire']);
+
+function encodeSlug(slug) {
+  // encodeURI leaves ASCII slugs untouched and percent-encodes CJK/Devanagari,
+  // preserving any '/' inside multi-segment slugs.
+  return slug.split('/').map(encodeURIComponent).join('/');
+}
+
+function buildLocalizedRewrites() {
+  const rewrites = [];
+  for (const [routeKey, slugs] of Object.entries(routeMap)) {
+    if (REWRITE_EXCLUDE.has(routeKey)) continue;
+    const fileSlug = slugs.en; // pages live under the English slug
+    if (!fileSlug) continue;
+    for (const locale of locales) {
+      const slug = slugs[locale];
+      if (!slug || slug === fileSlug) continue; // identical -> served directly
+      rewrites.push({
+        source: `/${locale}/${encodeSlug(slug)}`,
+        destination: `/${locale}/${fileSlug}`,
+      });
+    }
+  }
+
+  // Sub-routes of localized hubs must resolve to their canonical English
+  // parent just like the base slug does:
+  //   /{locale}/{impactSlug}/:rest*  ->  /{locale}/impact/:rest*   (regions)
+  //   /{locale}/{blogSlug}/:rest*     ->  /{locale}/blog/:rest*     (articles)
+  const parentRoutes = ['impact', 'blog'];
+  for (const routeKey of parentRoutes) {
+    const slugs = routeMap[routeKey];
+    const fileSlug = slugs.en;
+    for (const locale of locales) {
+      const slug = slugs[locale];
+      if (!slug || slug === fileSlug) continue;
+      rewrites.push({
+        source: `/${locale}/${encodeSlug(slug)}/:rest*`,
+        destination: `/${locale}/${fileSlug}/:rest*`,
+      });
+    }
+  }
+  return rewrites;
+}
+
+function buildHowItWorksRedirects() {
+  // /how-it-works (English alias) AND each localized slug consolidate into /solution.
+  const hiw = routeMap['how-it-works'];
+  const redirects = [];
+  for (const locale of locales) {
+    const localized = hiw[locale];
+    const sources = new Set(['how-it-works']);
+    if (localized) sources.add(localized);
+    for (const slug of sources) {
+      redirects.push({
+        source: `/${locale}/${encodeSlug(slug)}`,
+        destination: `/${locale}/solution`,
+        permanent: true,
+      });
+    }
+  }
+  return redirects;
+}
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -22,115 +103,17 @@ const nextConfig = {
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
   },
   async redirects() {
-    // /how-it-works (and localized equivalents) are consolidated into /solution
-    const howItWorksSlugs = [
-      { locale: 'en', slug: 'how-it-works' },
-      { locale: 'en-gb', slug: 'how-it-works' },
-      { locale: 'fr', slug: 'comment-ca-marche' },
-      { locale: 'fr', slug: 'how-it-works' },
-      { locale: 'es', slug: 'como-funciona' },
-      { locale: 'es', slug: 'how-it-works' },
-      { locale: 'pt', slug: 'como-funciona' },
-      { locale: 'pt', slug: 'how-it-works' },
-      { locale: 'de', slug: 'so-funktioniert-es' },
-      { locale: 'de', slug: 'how-it-works' },
-      { locale: 'it', slug: 'come-funziona' },
-      { locale: 'it', slug: 'how-it-works' },
-      { locale: 'pl', slug: 'jak-to-dziala' },
-      { locale: 'pl', slug: 'how-it-works' },
-      { locale: 'zh', slug: 'how-it-works' },
-      { locale: 'ja', slug: 'how-it-works' },
-      { locale: 'hi', slug: 'how-it-works' },
-    ];
-    const howItWorksRedirects = howItWorksSlugs.map(({ locale, slug }) => ({
-      source: `/${locale}/${slug}`,
-      destination: `/${locale}/solution`,
-      permanent: true,
-    }));
     // EN / en-gb: rename /solution/pool-solidaire → /solution/community-pool
     // (FR keeps pool-solidaire since it is the locale term)
     const communityPoolRedirects = [
       { source: '/en/solution/pool-solidaire', destination: '/en/solution/community-pool', permanent: true },
       { source: '/en-gb/solution/pool-solidaire', destination: '/en-gb/solution/community-pool', permanent: true },
     ];
-    return [...howItWorksRedirects, ...communityPoolRedirects];
+    return [...buildHowItWorksRedirects(), ...communityPoolRedirects];
   },
   async rewrites() {
-    // Localized slugs → actual file-based routes
-    // navigation.ts generates localized URLs but pages live under English slugs
-    const localizedRoutes = [
-      // FR
-      { source: '/fr/pour-les-commerces', destination: '/fr/for-shops' },
-      { source: '/fr/pour-les-villes', destination: '/fr/for-cities' },
-      { source: '/fr/pour-les-particuliers', destination: '/fr/for-individuals' },
-      { source: '/fr/tarifs', destination: '/fr/pricing' },
-      { source: '/fr/ecosysteme', destination: '/fr/ecosystem' },
-      { source: '/fr/investisseurs', destination: '/fr/investors' },
-      // ES
-      { source: '/es/para-comercios', destination: '/es/for-shops' },
-      { source: '/es/para-ciudades', destination: '/es/for-cities' },
-      { source: '/es/para-individuos', destination: '/es/for-individuals' },
-      { source: '/es/precios', destination: '/es/pricing' },
-      { source: '/es/mision', destination: '/es/mission' },
-      { source: '/es/ecosistema', destination: '/es/ecosystem' },
-      { source: '/es/inversores', destination: '/es/investors' },
-      { source: '/es/contacto', destination: '/es/contact' },
-      { source: '/es/impacto', destination: '/es/impact' },
-      // PT
-      { source: '/pt/para-comercios', destination: '/pt/for-shops' },
-      { source: '/pt/para-cidades', destination: '/pt/for-cities' },
-      { source: '/pt/para-individuos', destination: '/pt/for-individuals' },
-      { source: '/pt/precos', destination: '/pt/pricing' },
-      { source: '/pt/missao', destination: '/pt/mission' },
-      { source: '/pt/ecossistema', destination: '/pt/ecosystem' },
-      { source: '/pt/investidores', destination: '/pt/investors' },
-      { source: '/pt/contato', destination: '/pt/contact' },
-      { source: '/pt/impacto', destination: '/pt/impact' },
-      // DE
-      { source: '/de/fuer-geschaefte', destination: '/de/for-shops' },
-      { source: '/de/fuer-staedte', destination: '/de/for-cities' },
-      { source: '/de/fuer-einzelpersonen', destination: '/de/for-individuals' },
-      { source: '/de/preise', destination: '/de/pricing' },
-      { source: '/de/oekosystem', destination: '/de/ecosystem' },
-      { source: '/de/investoren', destination: '/de/investors' },
-      { source: '/de/kontakt', destination: '/de/contact' },
-      { source: '/de/wirkung', destination: '/de/impact' },
-      // IT
-      { source: '/it/per-le-botteghe', destination: '/it/for-shops' },
-      { source: '/it/per-i-comuni', destination: '/it/for-cities' },
-      { source: '/it/per-i-cittadini', destination: '/it/for-individuals' },
-      { source: '/it/prezzi', destination: '/it/pricing' },
-      { source: '/it/missione', destination: '/it/mission' },
-      { source: '/it/ecosistema', destination: '/it/ecosystem' },
-      { source: '/it/investitori', destination: '/it/investors' },
-      { source: '/it/contatti', destination: '/it/contact' },
-      { source: '/it/impatto', destination: '/it/impact' },
-      // PL
-      { source: '/pl/dla-sklepow', destination: '/pl/for-shops' },
-      { source: '/pl/dla-miast', destination: '/pl/for-cities' },
-      { source: '/pl/dla-osob-prywatnych', destination: '/pl/for-individuals' },
-      { source: '/pl/cennik', destination: '/pl/pricing' },
-      { source: '/pl/misja', destination: '/pl/mission' },
-      { source: '/pl/ekosystem', destination: '/pl/ecosystem' },
-      { source: '/pl/inwestorzy', destination: '/pl/investors' },
-      { source: '/pl/wplyw', destination: '/pl/impact' },
-      // ZH — impact + investors localized slugs had no rewrites (404 in prod)
-      { source: '/zh/%E5%BD%B1%E5%93%8D', destination: '/zh/impact' },
-      { source: '/zh/%E6%8A%95%E8%B5%84%E8%80%85', destination: '/zh/investors' },
-      // JA — impact + investors localized slugs had no rewrites (404 in prod)
-      { source: '/ja/%E3%82%A4%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88', destination: '/ja/impact' },
-      { source: '/ja/%E6%8A%95%E8%B3%87%E5%AE%B6%E5%90%91%E3%81%91', destination: '/ja/investors' },
-      // HI — localized nav slugs had no rewrites (prabhav + niveshak 404 in prod)
-      { source: '/hi/mulya', destination: '/hi/pricing' },
-      { source: '/hi/prabhav', destination: '/hi/impact' },
-      { source: '/hi/vyaktiyon-ke-liye', destination: '/hi/for-individuals' },
-      { source: '/hi/dukano-ke-liye', destination: '/hi/for-shops' },
-      { source: '/hi/shaharon-ke-liye', destination: '/hi/for-cities' },
-      { source: '/hi/paristhitiki-tantra', destination: '/hi/ecosystem' },
-      { source: '/hi/niveshak', destination: '/hi/investors' },
-      { source: '/hi/sampark', destination: '/hi/contact' },
-    ];
-    return localizedRoutes;
+    // Localized slugs → actual file-based routes, generated from routeMap.
+    return buildLocalizedRewrites();
   },
   async headers() {
     const csp = [

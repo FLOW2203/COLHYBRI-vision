@@ -3171,5 +3171,9 @@
         "source": "OMS Commission sur le lien social, 2025"
       }
     }
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "subtitle": "La page que vous cherchez n'existe pas ou a été déplacée."
   }
 }

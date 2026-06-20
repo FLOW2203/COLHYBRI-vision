@@ -3171,5 +3171,9 @@
         "source": "Komisja WHO ds. Więzi Społecznych, 2025"
       }
     }
+  },
+  "notFound": {
+    "title": "Nie znaleziono strony",
+    "subtitle": "Strona, której szukasz, nie istnieje lub została przeniesiona."
   }
 }

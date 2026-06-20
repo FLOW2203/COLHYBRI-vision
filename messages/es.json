@@ -3179,5 +3179,9 @@
         "source": "Comisión de la OMS sobre la Conexión Social, 2025"
       }
     }
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "subtitle": "La página que buscas no existe o ha sido movida."
   }
 }

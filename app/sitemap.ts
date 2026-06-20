@@ -7,8 +7,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const entries: MetadataRoute.Sitemap = [];
   const now = new Date().toISOString();
 
-  // All route keys
-  const routeKeys = Object.keys(routeMap);
+  // All route keys, minus those that are not canonical 200 destinations.
+  // `how-it-works` (and its localized slugs) permanently redirect to /solution
+  // in next.config.mjs, so the sitemap lists /solution instead, never the
+  // redirecting URL. This keeps the sitemap and the router on one source.
+  const routeKeys = Object.keys(routeMap).filter((key) => key !== 'how-it-works');
 
   for (const locale of locales) {
     for (const routeKey of routeKeys) {

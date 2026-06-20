@@ -3171,5 +3171,9 @@
         "source": "WHO-Kommission für soziale Verbundenheit, 2025"
       }
     }
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "subtitle": "Die gesuchte Seite existiert nicht oder wurde verschoben."
   }
 }
