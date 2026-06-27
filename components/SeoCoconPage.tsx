@@ -64,6 +64,17 @@ export async function SeoCoconPage({
   const tableHeader = safeTuple('tableHeader');
   const tableTitle = safeStr('tableTitle');
 
+  // Optional N-column comparison matrix (e.g. COLHYBRI vs competitors).
+  // Shape: { title?: string; columns: string[]; rows: string[][] }.
+  // Absent on every existing cocon page, so this block is purely additive.
+  const comparisonColumns = (() => {
+    try { const v = t.raw('comparison.columns'); return Array.isArray(v) ? (v as string[]) : []; } catch { return []; }
+  })();
+  const comparisonRows = (() => {
+    try { const v = t.raw('comparison.rows'); return Array.isArray(v) ? (v as string[][]) : []; } catch { return []; }
+  })();
+  const comparisonTitle = safeStr('comparison.title');
+
   const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -199,6 +210,54 @@ export async function SeoCoconPage({
                             {row[0]}
                           </td>
                           <td className="py-3 px-4 font-sans text-colhybri-dark/80">{row[1]}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </section>
+            )}
+
+            {comparisonColumns.length > 0 && comparisonRows.length > 0 && (
+              <section>
+                {comparisonTitle && (
+                  <h2 className="font-display text-2xl font-semibold text-colhybri-dark mb-4">
+                    {comparisonTitle}
+                  </h2>
+                )}
+                <div className="overflow-x-auto -mx-4 sm:mx-0 px-4 sm:px-0">
+                  <table className="w-full border-collapse text-sm">
+                    <thead>
+                      <tr className="border-b-2 border-colhybri-teal/20">
+                        {comparisonColumns.map((col, i) => (
+                          <th
+                            key={i}
+                            className={`text-left py-3 px-3 font-sans font-semibold align-bottom ${
+                              i === 1 ? 'text-colhybri-teal' : 'text-colhybri-dark'
+                            }`}
+                          >
+                            {col}
+                          </th>
+                        ))}
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {comparisonRows.map((row, ri) => (
+                        <tr key={ri} className="border-b border-colhybri-dark/10 align-top">
+                          {row.map((cell, ci) => (
+                            <td
+                              key={ci}
+                              className={`py-3 px-3 ${
+                                ci === 0
+                                  ? 'font-sans font-semibold text-colhybri-dark whitespace-nowrap'
+                                  : ci === 1
+                                    ? 'font-sans text-colhybri-dark bg-colhybri-teal/5'
+                                    : 'font-sans text-colhybri-dark/70'
+                              }`}
+                            >
+                              {cell}
+                            </td>
+                          ))}
                         </tr>
                       ))}
                     </tbody>

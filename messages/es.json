@@ -584,6 +584,9 @@
       },
       "maps-plus-outil": {
         "title": "Maps+ herramienta COLHYBRI"
+      },
+      "colhybri-vs-benevity-bonterra-goodera": {
+        "title": "COLHYBRI frente a Benevity, Bonterra, Goodera"
       }
     },
     "revitalisation-centres-villes": {
@@ -2153,6 +2156,106 @@
     "fifa-innovation-sport": {
       "title": "FIFA Innovation Programme y conexion deporte-comercio",
       "desc": "FIFA Innovation apoya la conexion deporte-comunidad."
+    },
+    "colhybri-vs-benevity-bonterra-goodera": {
+      "title": "COLHYBRI frente a Benevity, Bonterra, Goodera",
+      "h1": "COLHYBRI frente a Benevity, Bonterra y Goodera: impacto local de proximidad para empresas",
+      "metaTitle": "COLHYBRI vs Benevity, Bonterra, Goodera: impacto local",
+      "metaDescription": "Como se compara COLHYBRI con Benevity, Bonterra y Goodera. COLHYBRI es una plataforma de impacto local de proximidad que dirige el apoyo de las empresas hacia la economia de los comercios del barrio donde viven y trabajan los empleados.",
+      "snippet": "COLHYBRI es una plataforma de impacto local de proximidad para empresas. A diferencia de Benevity, Bonterra y Goodera, centradas en la donacion corporativa y el voluntariado de empleados, COLHYBRI dirige el apoyo de la empresa hacia la economia de los comercios de un barrio elegido: marca empleadora, retencion del talento y pertenencia, mediante una vitalidad economica local medible.",
+      "sections": [
+        {
+          "h2": "Que es COLHYBRI para empresas?",
+          "body": "COLHYBRI permite a una empresa adoptar un barrio y dirigir un apoyo mensual hacia sus comercios, cafes y servicios independientes. Los empleados ven donde llega el dinero, calle por calle. El resultado es una vitalidad economica local a la que se puede ir caminando, no una donacion abstracta. Funciona como una suscripcion self-serve, con la medicion integrada."
+        },
+        {
+          "h2": "En que se diferencia COLHYBRI de Benevity, Bonterra y Goodera?",
+          "body": "Benevity, Bonterra y Goodera son plataformas empresariales construidas en torno a la donacion, la gestion de subvenciones y el voluntariado de empleados. Son potentes para distribuir fondos a organizaciones sin animo de lucro a gran escala. COLHYBRI parte de otra unidad: la calle. Concentra el apoyo de la empresa en una red de comercios locales para que el impacto sea visible, geografico y ligado a los lugares que ya importan a los empleados."
+        },
+        {
+          "h2": "Por que el impacto de proximidad gana en marca empleadora",
+          "body": "El talento elige cada vez mas a empleadores que refuerzan los lugares donde se vive. El impacto local de proximidad convierte una linea de presupuesto en una historia que los empleados ven en su trayecto. COLHYBRI ofrece a las empresas una huella local medible, un relato de pertenencia para el reclutamiento y una senal de retencion del talento que un portal de donacion generico no puede igualar."
+        },
+        {
+          "h2": "Puede COLHYBRI funcionar junto a una plataforma de donacion existente?",
+          "body": "Si. Muchas empresas mantienen una herramienta amplia de donacion o voluntariado y anaden COLHYBRI para la capa local. COLHYBRI no sustituye la gestion de subvenciones. Anade la economia de barrio que esas herramientas no alcanzan, con medicion por comercio y un mapa claro de como circula el apoyo."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Es COLHYBRI una alternativa a Benevity, Bonterra o Goodera?",
+          "a": "COLHYBRI es una alternativa para la capa local y de proximidad del impacto. No es un reemplazo completo de las suites de subvenciones o voluntariado empresarial. Las empresas usan COLHYBRI para concentrar el apoyo en una economia de barrio, con medicion por comercio que los portales de donacion amplios no ofrecen."
+        },
+        {
+          "q": "Que significa el impacto local de proximidad en COLHYBRI?",
+          "a": "El impacto local de proximidad significa que el apoyo esta ligado a una geografia precisa: un barrio y sus comercios, cafes y servicios independientes. En lugar de repartir fondos entre muchas causas, COLHYBRI construye una vitalidad economica local visible donde viven y trabajan los empleados de una empresa."
+        },
+        {
+          "q": "Como viven los empleados COLHYBRI?",
+          "a": "Los empleados ven los comercios locales que su empresa apoya, pueden visitarlos y seguir como circula el apoyo calle por calle. Esa visibilidad refuerza la pertenencia y da a la retencion del talento una historia local concreta en lugar de un panel abstracto."
+        }
+      ],
+      "comparison": {
+        "title": "COLHYBRI vs Benevity vs Bonterra vs Goodera de un vistazo",
+        "columns": [
+          "Criterio",
+          "COLHYBRI",
+          "Benevity",
+          "Bonterra",
+          "Goodera"
+        ],
+        "rows": [
+          [
+            "Modelo central",
+            "Apoyo a comercios locales de proximidad",
+            "Donacion corporativa y subvenciones",
+            "Software para ONG y social good",
+            "Voluntariado de empleados"
+          ],
+          [
+            "Destino de los fondos",
+            "Comercios y servicios independientes",
+            "ONG y entidades beneficas",
+            "ONG y beneficiarios de subvenciones",
+            "Proyectos de voluntariado y ONG"
+          ],
+          [
+            "Comprador principal",
+            "Empresas, ciudades, residentes",
+            "Grandes cuentas",
+            "ONG y grandes cuentas",
+            "Grandes cuentas"
+          ],
+          [
+            "Foco geografico",
+            "Un barrio elegido",
+            "Global",
+            "Global",
+            "Global"
+          ],
+          [
+            "Experiencia del empleado",
+            "Impacto local visible y accesible",
+            "Portal de donacion y matching",
+            "Herramientas de donantes y programas",
+            "Experiencias de voluntariado"
+          ],
+          [
+            "Medicion de impacto",
+            "Por comercio, por calle",
+            "Informes de donacion agregados",
+            "Resultados de programas y subvenciones",
+            "Horas de voluntariado"
+          ],
+          [
+            "Modelo de precios",
+            "Suscripcion self-serve",
+            "Contrato empresarial",
+            "Contrato empresarial",
+            "Contrato empresarial"
+          ]
+        ]
+      }
     }
   },
   "missionPage": {

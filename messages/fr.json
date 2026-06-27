@@ -576,6 +576,9 @@
       },
       "maps-plus-outil": {
         "title": "Maps+ outil COLHYBRI"
+      },
+      "colhybri-vs-benevity-bonterra-goodera": {
+        "title": "COLHYBRI face à Benevity, Bonterra, Goodera"
       }
     },
     "revitalisation-centres-villes": {
@@ -2145,6 +2148,106 @@
     "fifa-innovation-sport": {
       "title": "FIFA Innovation Programme et connexion sport-commerce",
       "desc": "FIFA Innovation soutient la connexion sport-communaute. Triple-play ONLYMORE."
+    },
+    "colhybri-vs-benevity-bonterra-goodera": {
+      "title": "COLHYBRI face à Benevity, Bonterra, Goodera",
+      "h1": "COLHYBRI face à Benevity, Bonterra et Goodera : l'impact local de proximité pour les entreprises",
+      "metaTitle": "COLHYBRI vs Benevity, Bonterra, Goodera : impact local",
+      "metaDescription": "Comment COLHYBRI se compare à Benevity, Bonterra et Goodera. COLHYBRI est une plateforme d'impact local de proximité qui dirige le soutien des entreprises vers l'économie des commerces du quartier où vivent et travaillent les salariés.",
+      "snippet": "COLHYBRI est une plateforme d'impact local de proximité pour les entreprises. Contrairement à Benevity, Bonterra et Goodera, centrées sur le don d'entreprise et le bénévolat des salariés, COLHYBRI dirige le soutien de l'entreprise vers l'économie des commerces d'un quartier choisi : marque employeur, rétention des talents et appartenance, par une vitalité économique locale mesurable.",
+      "sections": [
+        {
+          "h2": "Qu'est-ce que COLHYBRI pour les entreprises ?",
+          "body": "COLHYBRI permet à une entreprise d'adopter un quartier et d'y diriger un soutien mensuel vers ses commerces, cafés et services indépendants. Les salariés voient où l'argent arrive, rue par rue. Le résultat est une vitalité économique locale accessible à pied, pas un don abstrait. Le service fonctionne en abonnement self-serve, avec la mesure intégrée."
+        },
+        {
+          "h2": "En quoi COLHYBRI diffère de Benevity, Bonterra et Goodera ?",
+          "body": "Benevity, Bonterra et Goodera sont des plateformes d'entreprise construites autour du don, de la gestion de subventions et du bénévolat des salariés. Elles sont puissantes pour distribuer des fonds à des associations à grande échelle. COLHYBRI part d'une autre unité : la rue. Elle concentre le soutien de l'entreprise dans un réseau de commerces locaux pour rendre l'impact visible, géographique et lié aux lieux qui comptent déjà pour les salariés."
+        },
+        {
+          "h2": "Pourquoi l'impact de proximité renforce la marque employeur",
+          "body": "Les talents choisissent de plus en plus des employeurs qui renforcent les lieux où l'on vit. L'impact local de proximité transforme une ligne budgétaire en une histoire que les salariés voient sur leur trajet. COLHYBRI donne aux entreprises une empreinte locale mesurable, un récit d'appartenance pour le recrutement et un signal de rétention des talents qu'un portail de don générique ne peut pas offrir."
+        },
+        {
+          "h2": "COLHYBRI peut-il fonctionner avec une plateforme de don existante ?",
+          "body": "Oui. Beaucoup d'entreprises gardent un outil de don ou de bénévolat large et ajoutent COLHYBRI pour la couche locale. COLHYBRI ne remplace pas la gestion de subventions. Il ajoute l'économie de quartier que ces outils n'atteignent pas, avec une mesure par commerce et une carte claire de la circulation du soutien."
+        }
+      ],
+      "faq": [
+        {
+          "q": "COLHYBRI est-il une alternative à Benevity, Bonterra ou Goodera ?",
+          "a": "COLHYBRI est une alternative pour la couche locale et de proximité de l'impact. Ce n'est pas un remplacement complet des suites de subventions ou de bénévolat d'entreprise. Les entreprises utilisent COLHYBRI pour concentrer le soutien dans une économie de quartier, avec une mesure par commerce que les portails de don larges n'offrent pas."
+        },
+        {
+          "q": "Que signifie l'impact local de proximité chez COLHYBRI ?",
+          "a": "L'impact local de proximité signifie que le soutien est lié à une géographie précise : un quartier et ses commerces, cafés et services indépendants. Au lieu de répartir des fonds sur de nombreuses causes, COLHYBRI bâtit une vitalité économique locale visible là où vivent et travaillent les salariés d'une entreprise."
+        },
+        {
+          "q": "Comment les salariés vivent-ils COLHYBRI ?",
+          "a": "Les salariés voient les commerces locaux que leur entreprise soutient, peuvent s'y rendre et suivre la circulation du soutien rue par rue. Cette visibilité renforce l'appartenance et donne à la rétention des talents une histoire locale concrète plutôt qu'un tableau de bord abstrait."
+        }
+      ],
+      "comparison": {
+        "title": "COLHYBRI vs Benevity vs Bonterra vs Goodera en un coup d'oeil",
+        "columns": [
+          "Critère",
+          "COLHYBRI",
+          "Benevity",
+          "Bonterra",
+          "Goodera"
+        ],
+        "rows": [
+          [
+            "Modèle central",
+            "Soutien aux commerces locaux de proximité",
+            "Don d'entreprise et subventions",
+            "Logiciel pour associations et social good",
+            "Bénévolat des salariés"
+          ],
+          [
+            "Destination des fonds",
+            "Commerces et services indépendants",
+            "Associations et organisations caritatives",
+            "Associations et bénéficiaires de subventions",
+            "Projets de bénévolat et associations"
+          ],
+          [
+            "Acheteur principal",
+            "Entreprises, villes, résidents",
+            "Grands comptes",
+            "Associations et grands comptes",
+            "Grands comptes"
+          ],
+          [
+            "Focus géographique",
+            "Un quartier choisi",
+            "Mondial",
+            "Mondial",
+            "Mondial"
+          ],
+          [
+            "Expérience salarié",
+            "Impact local visible et accessible",
+            "Portail de don et d'abondement",
+            "Outils donateurs et programmes",
+            "Expériences de bénévolat"
+          ],
+          [
+            "Mesure d'impact",
+            "Par commerce, par rue",
+            "Rapports de don agrégés",
+            "Résultats de programmes et subventions",
+            "Heures de bénévolat"
+          ],
+          [
+            "Modèle tarifaire",
+            "Abonnement self-serve",
+            "Contrat entreprise",
+            "Contrat entreprise",
+            "Contrat entreprise"
+          ]
+        ]
+      }
     }
   },
   "missionPage": {

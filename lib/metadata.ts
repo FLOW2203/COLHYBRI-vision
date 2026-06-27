@@ -31,6 +31,20 @@ const taglines: Record<string, string> = {
   pl: 'Kazdy gest sie liczy',
 };
 
+/**
+ * Entity disambiguation (GEO priority #1). COLHYBRI is frequently confused by
+ * search engines and LLMs with two unrelated entities that share a similar
+ * string: the Colibris ecological movement and the Kolibri education software.
+ * schema.org disambiguatingDescription is the canonical signal to separate them.
+ * FR/EN/ES authored; other locales fall back to EN.
+ */
+const disambiguation: Record<string, string> = {
+  en: 'COLHYBRI is a digital neighborhood mutual platform operated by ONLYMORE Group in Rodilhan, Occitanie, France. It is not affiliated with the Colibris ecological movement, nor with the Kolibri education software, nor with any "Colibri" brand. The name blends the hummingbird (colibri) with the idea of a hybrid local economy.',
+  'en-gb': 'COLHYBRI is a digital neighborhood mutual platform operated by ONLYMORE Group in Rodilhan, Occitanie, France. It is not affiliated with the Colibris ecological movement, nor with the Kolibri education software, nor with any "Colibri" brand. The name blends the hummingbird (colibri) with the idea of a hybrid local economy.',
+  fr: 'COLHYBRI est une mutuelle de quartier digitale éditée par le Groupe ONLYMORE à Rodilhan, en Occitanie, France. Elle n\'est ni affiliée au mouvement écologique Colibris, ni au logiciel éducatif Kolibri, ni à aucune marque "Colibri". Le nom associe le colibri à l\'idée d\'une économie locale hybride.',
+  es: 'COLHYBRI es una plataforma mutual de barrio digital operada por ONLYMORE Group en Rodilhan, Occitania, Francia. No esta afiliada al movimiento ecologico Colibris, ni al software educativo Kolibri, ni a ninguna marca "Colibri". El nombre combina el colibri con la idea de una economia local hibrida.',
+};
+
 interface PageMetadataOptions {
   locale: Locale;
   routeKey: string;
@@ -116,7 +130,8 @@ export function generateOrganizationJsonLd(locale: Locale) {
     '@context': 'https://schema.org',
     '@type': ['Organization', 'FinancialService'],
     name: 'COLHYBRI by ONLYMORE Group',
-    alternateName: 'COLHYBRI',
+    alternateName: ['COLHYBRI', 'COLHYBRI VISION'],
+    disambiguatingDescription: disambiguation[locale] || disambiguation.en,
     url: BASE_URL,
     logo: `${BASE_URL}/logo.svg`,
     description: taglines[locale],
@@ -157,12 +172,16 @@ export function generateOrganizationJsonLd(locale: Locale) {
       contactType: 'customer service',
       availableLanguage: ['English', 'French', 'Spanish', 'Portuguese', 'German', 'Italian', 'Chinese', 'Japanese', 'Hindi', 'Polish'],
     },
+    // sameAs: verified ONLYMORE-owned properties only. Do not add unverified
+    // social profiles. TODO(florent): append confirmed Crunchbase / X / Instagram
+    // / YouTube URLs to strengthen entity disambiguation (see PR placeholder list).
     sameAs: [
       'https://www.colhybri.com',
+      'https://www.onlymore.group',
       'https://www.linkedin.com/company/onlymore-group',
     ],
     inLanguage: localeCountryMap[locale],
-    knowsAbout: ['financial inclusion', 'local commerce', 'Keynesian multiplier', 'digital third place', 'community finance', 'mutualism', 'caffe sospeso'],
+    knowsAbout: ['neighborhood mutual', 'local commerce', 'Keynesian multiplier', 'digital third place', 'community support', 'mutualism', 'caffe sospeso', 'place-based economic development'],
   };
 }
 
