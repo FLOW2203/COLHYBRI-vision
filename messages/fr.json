@@ -3171,5 +3171,204 @@
         "source": "OMS Commission sur le lien social, 2025"
       }
     }
+  },
+  "esrsS3Page": {
+    "meta": {
+      "title": "ESRS S3 communautés affectées : agir et prouver son impact",
+      "description": "Tout sur l'ESRS S3 (communautés affectées, CSRD) et comment une entreprise peut générer un impact territorial mesurable."
+    },
+    "cluster": "Conformité CSRD",
+    "breadcrumb": "ESRS S3",
+    "h1": "ESRS S3, transformer l'obligation communautés affectées en impact réel",
+    "intro": "L'ESRS S3 est la norme de la directive européenne CSRD dédiée aux communautés affectées : elle demande à une entreprise d'identifier, de prévenir et de corriger les impacts de son activité sur les populations d'un territoire, comme les riverains, les habitants et les commerçants de proximité.",
+    "stats": [
+      {
+        "value": "S3",
+        "label": "norme communautés affectées de la CSRD"
+      },
+      {
+        "value": "S3-1 à S3-5",
+        "label": "Disclosure Requirements à documenter"
+      },
+      {
+        "value": "DR S3-4",
+        "label": "plans d'action sur les impacts"
+      },
+      {
+        "value": "DR S3-5",
+        "label": "cibles mesurables à suivre"
+      }
+    ],
+    "sections": [
+      {
+        "h2": "Qu'est-ce que l'ESRS S3 et quelle est sa place dans la CSRD ?",
+        "body": "La CSRD (Corporate Sustainability Reporting Directive) impose aux entreprises concernées un reporting de durabilité structuré par les normes ESRS (European Sustainability Reporting Standards). Les normes sociales se répartissent en quatre volets : ESRS S1 (personnel de l'entreprise), S2 (travailleurs de la chaîne de valeur), S3 (communautés affectées) et S4 (consommateurs et utilisateurs finaux). L'ESRS S3 traite donc de l'effet d'une entreprise sur le tissu local, c'est-à-dire les communautés qui vivent ou travaillent à proximité de ses activités. L'entrée dans le périmètre repose sur la double matérialité, qui évalue à la fois l'impact de l'entreprise sur ces communautés et les risques financiers associés."
+      },
+      {
+        "h2": "Ce que la norme exige : les Disclosure Requirements S3-1 à S3-5",
+        "body": "L'ESRS S3 se décline en cinq Disclosure Requirements. Le DR S3-1 porte sur les politiques relatives aux communautés affectées. Le DR S3-2 décrit les processus de dialogue avec ces communautés. Le DR S3-3 couvre les dispositifs de remédiation et les canaux permettant de signaler une préoccupation. Le DR S3-4 attend des actions concrètes face aux impacts identifiés, ainsi que l'évaluation de leur efficacité. Le DR S3-5 demande des cibles mesurables pour réduire les impacts négatifs et renforcer les impacts positifs. Le DR S3-4 est souvent le plus exigeant, car il faut démontrer une action réelle et pas seulement une intention."
+      },
+      {
+        "h2": "Pourquoi l'angle action manque aux démarches ESRS S3 classiques",
+        "body": "La plupart des outils du marché aident à mesurer et à rédiger le reporting : collecte de données, analyse de matérialité, mise en forme des indicateurs. C'est nécessaire, mais cela ne crée aucun impact sur le terrain. Or le DR S3-4 demande explicitement des actions et la preuve de leur efficacité. Une entreprise peut ainsi se retrouver avec un rapport bien construit, mais peu d'actions tangibles à documenter sur les communautés affectées. L'enjeu n'est pas seulement de constater, il est d'agir et de pouvoir le prouver."
+      },
+      {
+        "h2": "Comment générer un impact communautés affectées concret",
+        "body": "Générer un impact ESRS S3 suppose une action directe et traçable sur le territoire. COLHYBRI s'inspire du caffe sospeso, la tradition napolitaine du café suspendu payé d'avance pour un inconnu. Concrètement, un abonné particulier contribue pour 3 euros par mois et un commerçant pour 10 euros par mois. Sur chaque abonnement, 75 pour cent alimentent un pool solidaire communautaire redistribué au tissu local, et 25 pour cent couvrent le fonctionnement. Le soutien aux commerçants et aux habitants devient mesurable, daté et rattaché à un territoire, ce qui en fait une matière première directement exploitable pour le reporting."
+      },
+      {
+        "h2": "Passer de la mesure à l'action avec un outil dédié",
+        "body": "Une fois l'action engagée, il reste à la documenter pour le reporting CSRD. C'est le rôle d'un outil dédié, qui relie chaque contribution à des indicateurs alignés sur le DR S3-4 (plans d'action) et le DR S3-5 (cibles). L'entreprise garde la main sur son reporting et s'appuie sur des données d'impact réelles plutôt que sur des estimations. C'est l'approche que COLHYBRI propose aux entreprises."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Qu'est-ce que l'ESRS S3 ?",
+        "a": "L'ESRS S3 est la norme de la CSRD consacrée aux communautés affectées. Elle demande à une entreprise d'identifier ses impacts sur les populations d'un territoire (riverains, habitants, commerçants) et de mettre en place des actions pour les prévenir ou les corriger."
+      },
+      {
+        "q": "L'ESRS S3 est-il obligatoire et pour qui ?",
+        "a": "L'ESRS S3 fait partie du reporting CSRD, qui s'applique progressivement aux grandes entreprises et aux sociétés cotées selon des seuils européens d'effectif et de chiffre d'affaires. Le périmètre et le calendrier précis évoluent (paquet Omnibus 2025) et sont à vérifier selon votre situation. La norme S3 est à documenter lorsque l'analyse de double matérialité la juge significative."
+      },
+      {
+        "q": "Comment agir sur les communautés affectées ?",
+        "a": "Agir suppose une action directe et traçable sur le territoire : soutien aux commerçants de proximité, aux habitants ou aux services locaux. L'important est que l'action soit datée, localisée et mesurable, afin de pouvoir en démontrer l'efficacité comme l'attend le DR S3-4."
+      },
+      {
+        "q": "Quels exemples d'actions pour le DR S3-4 ?",
+        "a": "Le DR S3-4 attend des actions concrètes et l'évaluation de leur efficacité. Quelques exemples : redistribution d'un pool solidaire au commerce local, soutien à des bénéficiaires du territoire, mécanismes inspirés du caffe sospeso. Avec COLHYBRI, 75 pour cent de chaque abonnement alimentent un pool solidaire communautaire, ce qui produit une action mesurable à documenter."
+      }
+    ],
+    "links": {
+      "title": "Pour aller plus loin",
+      "lead": "COLHYBRI est l'",
+      "leadAnchor": "outil ESRS S3",
+      "leadAfter": " qui génère un impact communautés affectées mesurable, que votre entreprise reporte ensuite.",
+      "solutionTitle": "Outil ESRS S3 pour les entreprises",
+      "solutionDesc": "Générer et prouver votre impact territorial.",
+      "conversionTitle": "Réserver une démo",
+      "conversionDesc": "Échanger avec l'équipe COLHYBRI sur votre reporting ESRS S3.",
+      "badgeSolution": "Solution",
+      "badgeConversion": "Contact"
+    },
+    "cta": {
+      "title": "Générer un impact ESRS S3 mesurable",
+      "body": "COLHYBRI transforme votre RSE en impact territorial documenté pour votre reporting CSRD.",
+      "primary": "Réserver une démo",
+      "secondary": "Voir l'outil ESRS S3"
+    },
+    "faqTitle": "Questions fréquentes",
+    "home": "Accueil"
+  },
+  "entreprisesPage": {
+    "meta": {
+      "title": "Outil ESRS S3, générer et prouver votre impact territorial",
+      "description": "COLHYBRI est l'outil ESRS S3 qui génère un impact communautés affectées mesurable et alimente votre reporting CSRD (DR S3-4 et S3-5)."
+    },
+    "cluster": "Conformité CSRD",
+    "breadcrumb": "Entreprises",
+    "h1": "L'outil qui transforme votre RSE en impact territorial mesurable",
+    "intro": "COLHYBRI est un outil ESRS S3 qui aide les entreprises à générer un impact réel sur les communautés affectées, puis à le documenter pour leur reporting CSRD.",
+    "stats": [
+      {
+        "value": "3 €/mois",
+        "label": "abonné particulier"
+      },
+      {
+        "value": "10 €/mois",
+        "label": "commerçant"
+      },
+      {
+        "value": "75 %",
+        "label": "vont au pool solidaire communautaire"
+      },
+      {
+        "value": "25 %",
+        "label": "couvrent le fonctionnement"
+      }
+    ],
+    "sections": [
+      {
+        "h2": "Le problème : l'ESRS S3 exige des actions, pas des mots",
+        "body": "Le DR S3-4 de l'ESRS S3 attend des actions concrètes sur les communautés affectées et la preuve de leur efficacité. Les outils de reporting mesurent et mettent en forme les données, mais ne créent aucun impact sur le terrain. Beaucoup d'entreprises disposent donc d'un cadre de reporting solide, mais de peu d'actions tangibles à y inscrire. Il manque le maillon de l'action."
+      },
+      {
+        "h2": "Comment COLHYBRI génère l'impact communautés affectées",
+        "body": "COLHYBRI s'inspire du caffe sospeso, le café suspendu payé d'avance pour un inconnu. Un abonné particulier contribue pour 3 euros par mois, un commerçant pour 10 euros par mois. Sur chaque abonnement, 75 pour cent alimentent un pool solidaire communautaire redistribué au tissu local et 25 pour cent couvrent le fonctionnement. L'entreprise qui déploie COLHYBRI sur son territoire déclenche un soutien direct aux commerçants et aux habitants, c'est-à-dire une action communautés affectées réelle, datée et localisée."
+      },
+      {
+        "h2": "Des indicateurs prêts pour le reporting (alignés DR S3-4 et S3-5)",
+        "body": "Chaque contribution produit une donnée exploitable pour le reporting CSRD. Les indicateurs se rattachent au DR S3-4 (plans d'action et efficacité) et au DR S3-5 (cibles mesurables) : montants redistribués au pool solidaire, nombre de commerçants et de bénéficiaires soutenus, territoire couvert, évolution dans le temps. [À VALIDER : liste détaillée des indicateurs exportés et format de restitution pour le reporting.] L'entreprise reste maître de son reporting et s'appuie sur des données d'impact réelles."
+      },
+      {
+        "h2": "COLHYBRI face aux logiciels de mesure ESRS",
+        "body": "Les logiciels de mesure ESRS aident à collecter et à présenter des données, c'est le constat. COLHYBRI agit en amont, sur l'action elle-même : il génère l'impact territorial que l'entreprise pourra ensuite mesurer et reporter. Les deux approches sont complémentaires, mais sans action il n'y a rien à documenter pour le DR S3-4. COLHYBRI apporte l'action, votre démarche CSRD apporte la mesure."
+      },
+      {
+        "h2": "Déployer COLHYBRI dans votre entreprise",
+        "body": "Le déploiement s'appuie sur le modèle d'abonnement self-serve de COLHYBRI (3 euros pour un particulier, 10 euros pour un commerçant, 75 pour cent vers le pool solidaire communautaire). Les modalités à l'échelle d'une entreprise (volume, accompagnement, restitution du reporting) se définissent ensemble. [À VALIDER : offre entreprise, prix de déploiement et conditions.] Pour en discuter, réservez une démo avec l'équipe."
+      }
+    ],
+    "tableTitle": "Outil d'action ou logiciel de mesure ?",
+    "tableHeader": [
+      "COLHYBRI (action)",
+      "Logiciel de mesure (constat)"
+    ],
+    "tableRows": [
+      [
+        "Génère un impact communautés affectées réel",
+        "Mesure et met en forme des données existantes"
+      ],
+      [
+        "Soutien direct au tissu local (commerçants, habitants)",
+        "Collecte et consolidation d'indicateurs"
+      ],
+      [
+        "Données d'impact datées et localisées",
+        "Analyse de matérialité et mise en forme du rapport"
+      ],
+      [
+        "Alimente le DR S3-4 (actions) et le DR S3-5 (cibles)",
+        "Structure la publication CSRD"
+      ]
+    ],
+    "faq": [
+      {
+        "q": "COLHYBRI est-il un outil de conformité ESRS S3 ?",
+        "a": "COLHYBRI est avant tout un outil d'action : il génère un impact réel sur les communautés affectées, que l'entreprise peut ensuite documenter dans son reporting ESRS S3. Il ne remplace pas votre démarche CSRD, il lui fournit la matière première, c'est-à-dire des actions datées, localisées et mesurables, alignées sur le DR S3-4 et le DR S3-5."
+      },
+      {
+        "q": "Comment COLHYBRI alimente-t-il le reporting CSRD ?",
+        "a": "Chaque contribution génère des données d'impact rattachées au territoire : montants redistribués au pool solidaire, commerçants et bénéficiaires soutenus, évolution dans le temps. Ces indicateurs se rapportent au DR S3-4 (plans d'action) et au DR S3-5 (cibles). [À VALIDER : format d'export et liste exacte des indicateurs.]"
+      },
+      {
+        "q": "Quelle différence avec un cabinet RSE ?",
+        "a": "Un cabinet RSE conseille, mesure et aide à rédiger le reporting. COLHYBRI agit : il déclenche un soutien concret au tissu local. Les deux sont complémentaires, mais COLHYBRI apporte l'action que le DR S3-4 demande de prouver, là où un cabinet apporte surtout le constat et la méthode."
+      },
+      {
+        "q": "Combien coûte le déploiement en entreprise ?",
+        "a": "Le modèle repose sur l'abonnement self-serve de COLHYBRI : 3 euros par mois pour un particulier et 10 euros par mois pour un commerçant, dont 75 pour cent vont au pool solidaire communautaire. Les conditions d'un déploiement à l'échelle d'une entreprise se définissent au cas par cas. [À VALIDER : offre et prix de déploiement entreprise.] Réservez une démo pour obtenir une proposition."
+      }
+    ],
+    "links": {
+      "title": "Pour aller plus loin",
+      "lead": "Tout comprendre de la norme : ",
+      "leadAnchor": "ESRS S3 communautés affectées",
+      "leadAfter": ".",
+      "pillarTitle": "ESRS S3 communautés affectées",
+      "pillarDesc": "Définition, exigences (DR S3-1 à S3-5) et angle action.",
+      "conversionTitle": "Réserver une démo",
+      "conversionDesc": "Échanger avec l'équipe COLHYBRI sur votre déploiement.",
+      "badgePillar": "Dossier",
+      "badgeConversion": "Contact"
+    },
+    "cta": {
+      "title": "Transformer votre RSE en impact territorial mesurable",
+      "body": "Déployez COLHYBRI, générez un impact communautés affectées réel et documentez-le pour votre reporting CSRD.",
+      "primary": "Réserver une démo",
+      "secondary": "Comprendre l'ESRS S3"
+    },
+    "faqTitle": "Questions fréquentes",
+    "home": "Accueil"
   }
 }

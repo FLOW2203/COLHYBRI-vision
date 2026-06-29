@@ -48,6 +48,11 @@ COLHYBRI draws from multiple traditions of solidarity:
 - **The Hummingbird Legend**: Native American story where the hummingbird carries water drop by drop — "I am doing my part"
 - **Digital Third Place**: Inspired by Ray Oldenburg's concept, COLHYBRI creates a digital space for community bonds through local commerce
 
+## ESRS S3 & CSRD Compliance (French pages)
+
+- https://www.colhybri.vision/fr/esrs-s3 (FR): pillar page on ESRS S3 (affected communities, CSRD), covering its definition, the disclosure requirements S3-1 to S3-5, and how a company can generate a measurable territorial impact.
+- https://www.colhybri.vision/fr/entreprises (FR): COLHYBRI presented as an ESRS S3 action tool that generates a real affected-communities impact and feeds CSRD reporting (DR S3-4 actions, DR S3-5 targets).
+
 ## Links
 
 - Website: https://www.colhybri.vision

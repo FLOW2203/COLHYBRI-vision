@@ -58,6 +58,14 @@ export function Footer({ locale }: FooterProps) {
                   {label}
                 </Link>
               ))}
+              {locale === 'fr' && (
+                <Link
+                  href="/fr/entreprises"
+                  className="text-sm text-white/60 hover:text-colhybri-teal transition-colors py-2"
+                >
+                  Entreprises (ESRS S3)
+                </Link>
+              )}
             </div>
           </div>
 
