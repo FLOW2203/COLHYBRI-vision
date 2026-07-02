@@ -59,6 +59,8 @@ const nextConfig = {
     // Localized slugs → actual file-based routes
     // navigation.ts generates localized URLs but pages live under English slugs
     const localizedRoutes = [
+      // Standalone discovery cockpit (static HTML in /public, outside i18n routing)
+      { source: '/cockpit', destination: '/cockpit.html' },
       // FR
       { source: '/fr/pour-les-commerces', destination: '/fr/for-shops' },
       { source: '/fr/pour-les-villes', destination: '/fr/for-cities' },

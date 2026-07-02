@@ -1,0 +1,470 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>COLHYBRI · Audit d'impact territorial</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ground:#0d1a22; --ground-2:#0a141b; --panel:#16252f; --panel-2:#1b2e39;
+    --line:#26404d; --ink:#eaf1f1; --muted:#8ba3ac; --muted-2:#63808b;
+    --proof:#18c3a6; --proof-dim:#0f6f60; --gap:#e0a144; --gap-dim:#7a5a24; --radius:14px;
+  }
+  *{box-sizing:border-box} html,body{margin:0}
+  body{
+    background:
+      radial-gradient(1200px 700px at 82% -8%, #14323a 0%, transparent 55%),
+      radial-gradient(900px 600px at 5% 110%, #10222a 0%, transparent 50%), var(--ground);
+    color:var(--ink); font-family:"Inter",system-ui,sans-serif; font-size:15px; line-height:1.5;
+    -webkit-font-smoothing:antialiased; min-height:100vh;
+  }
+  .wrap{max-width:1200px;margin:0 auto;padding:26px 24px 40px}
+  header{display:flex;align-items:flex-end;justify-content:space-between;gap:18px;flex-wrap:wrap;padding-bottom:20px;border-bottom:1px solid var(--line)}
+  .brand{display:flex;align-items:center;gap:12px}
+  .mark{width:30px;height:30px;flex:none}
+  .brand h1{font-family:"Archivo";font-weight:800;font-size:19px;letter-spacing:-.01em;margin:0;line-height:1}
+  .brand .sub{font-size:12px;color:var(--muted);margin-top:3px;letter-spacing:.02em}
+  .tagline{font-family:"Archivo";font-weight:600;font-size:15px;color:var(--ink);text-align:right}
+  .tagline span{color:var(--proof)}
+  .live-pill{display:inline-flex;align-items:center;gap:7px;font-family:"JetBrains Mono";font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--proof);border:1px solid var(--proof-dim);padding:5px 10px;border-radius:100px;margin-top:8px}
+  .dot{width:7px;height:7px;border-radius:50%;background:var(--proof);animation:pulse 2.4s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(24,195,166,.55)}70%{box-shadow:0 0 0 8px rgba(24,195,166,0)}100%{box-shadow:0 0 0 0 rgba(24,195,166,0)}}
+
+  .grid{display:grid;grid-template-columns:340px 1fr;gap:20px;margin-top:22px}
+  @media(max-width:880px){.grid{grid-template-columns:1fr}}
+  .panel{background:linear-gradient(180deg,var(--panel) 0%,var(--panel-2) 100%);border:1px solid var(--line);border-radius:var(--radius);padding:20px}
+  .eyebrow{font-family:"JetBrains Mono";font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--muted-2)}
+  .panel h2{font-family:"Archivo";font-weight:700;font-size:16px;margin:6px 0 16px;letter-spacing:-.01em}
+
+  .ctrl{margin-bottom:18px}
+  .ctrl .row{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:8px}
+  .ctrl label{font-size:13.5px;color:var(--ink);font-weight:500}
+  .ctrl .val{font-family:"JetBrains Mono";font-weight:700;font-size:16px;color:var(--proof)}
+  input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:4px;border-radius:100px;background:var(--line);outline:none}
+  input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:18px;height:18px;border-radius:50%;background:var(--ink);border:3px solid var(--proof);cursor:pointer;transition:transform .12s}
+  input[type=range]::-webkit-slider-thumb:hover{transform:scale(1.12)}
+  input[type=range]::-moz-range-thumb{width:18px;height:18px;border-radius:50%;background:var(--ink);border:3px solid var(--proof);cursor:pointer}
+  input[type=range]:focus-visible::-webkit-slider-thumb{box-shadow:0 0 0 4px rgba(24,195,166,.3)}
+  .hint{font-size:11.5px;color:var(--muted-2);margin-top:6px}
+
+  .exact{display:flex;gap:8px;margin-top:10px}
+  .exact input[type=number]{flex:1;font-family:"JetBrains Mono";font-weight:700;font-size:14px;color:var(--ink);background:var(--ground-2);border:1px solid var(--line);border-radius:9px;padding:9px 11px;outline:none;width:100%}
+  .exact input[type=number]:focus{border-color:var(--proof)}
+  .exact .u{font-family:"JetBrains Mono";font-size:12px;color:var(--muted);align-self:center}
+  .presets{display:flex;flex-wrap:wrap;gap:6px;margin-top:9px}
+  .preset{font-family:"Inter";font-size:11.5px;font-weight:600;color:var(--muted);background:var(--ground-2);border:1px solid var(--line);border-radius:100px;padding:5px 10px;cursor:pointer;transition:all .15s}
+  .preset:hover{color:var(--proof);border-color:var(--proof-dim)}
+  .preset b{color:var(--ink);font-family:"JetBrains Mono";font-weight:700}
+
+  .region{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 16px}
+  .rchip{font-family:"Inter";font-size:12px;font-weight:600;color:var(--muted);background:var(--ground-2);border:1px solid var(--line);border-radius:100px;padding:7px 12px;cursor:pointer;transition:all .15s}
+  .rchip:hover{color:var(--ink)}
+  .rchip.on{color:var(--ground);background:var(--proof);border-color:var(--proof)}
+
+  .note{font-size:11.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:14px;margin-top:6px}
+  .mech{margin-top:16px;border-top:1px solid var(--line);padding-top:16px}
+  .mech .eyebrow{margin-bottom:10px;display:block}
+  .mech svg{width:100%;height:auto;display:block}
+
+  .oblig{border:1px solid var(--line);border-left-width:4px;border-radius:12px;padding:13px 15px;margin-bottom:16px;background:var(--panel);transition:border-color .4s,background .4s}
+  .oblig.cascade{border-left-color:var(--muted-2)}
+  .oblig.csrd{border-left-color:var(--gap)}
+  .oblig.csrd_cs3d{border-left-color:var(--proof)}
+  .oblig.world{border-left-color:var(--proof-dim)}
+  .oblig .lab{font-family:"Archivo";font-weight:700;font-size:15px}
+  .oblig.csrd .lab{color:var(--gap)} .oblig.csrd_cs3d .lab{color:var(--proof)} .oblig.world .lab{color:var(--proof)}
+  .oblig .ctx{font-size:12.5px;color:var(--muted);margin-top:4px}
+  .oblig .univ{font-size:11.5px;color:var(--muted-2);margin-top:8px;padding-top:8px;border-top:1px solid var(--line)}
+  .oblig .univ b{color:var(--proof);font-weight:600}
+
+  .board-head{display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:4px}
+  .toggle{display:inline-flex;background:var(--ground-2);border:1px solid var(--line);border-radius:100px;padding:3px}
+  .toggle button{font-family:"Inter";font-size:12.5px;font-weight:600;color:var(--muted);background:none;border:none;padding:7px 14px;border-radius:100px;cursor:pointer;transition:all .18s}
+  .toggle button.on{color:var(--ground);background:var(--proof)}
+  .toggle button.gap.on{background:var(--gap);color:var(--ground)}
+
+  .refs{margin-top:16px;display:flex;flex-direction:column;gap:12px}
+  .ref{display:grid;grid-template-columns:150px 1fr auto;gap:14px;align-items:center}
+  @media(max-width:520px){.ref{grid-template-columns:1fr;gap:6px}}
+  .ref .name{font-family:"Archivo";font-weight:700;font-size:14px}
+  .ref .name small{display:block;font-family:"Inter";font-weight:400;font-size:11.5px;color:var(--muted);margin-top:2px}
+  .bar{position:relative;height:9px;border-radius:100px;background:var(--ground-2);overflow:hidden;border:1px solid var(--line)}
+  .bar > i{position:absolute;left:0;top:0;bottom:0;width:0;border-radius:100px;background:var(--gap);transition:width .7s cubic-bezier(.2,.7,.2,1),background .5s}
+  .chip{font-family:"JetBrains Mono";font-size:10.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:4px 9px;border-radius:100px;white-space:nowrap;border:1px solid;transition:all .5s}
+  .chip.gap{color:var(--gap);border-color:var(--gap-dim);background:rgba(224,161,68,.08)}
+  .chip.proof{color:var(--proof);border-color:var(--proof-dim);background:rgba(24,195,166,.08)}
+  .covered{display:flex;align-items:center;gap:10px;margin-top:18px;font-size:13px;color:var(--muted)}
+  .covered b{font-family:"JetBrains Mono";font-size:20px;color:var(--proof)}
+
+  .kpis{margin-top:20px;display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+  @media(max-width:700px){.kpis{grid-template-columns:repeat(2,1fr)}}
+  .kpi{background:var(--panel);padding:16px 14px}
+  .kpi .k{font-family:"JetBrains Mono";font-weight:700;font-size:24px;letter-spacing:-.02em;color:var(--ink);line-height:1.1}
+  .kpi .k .u{font-size:14px;color:var(--proof);margin-left:2px}
+  .kpi .l{font-size:11.5px;color:var(--muted);margin-top:6px;line-height:1.3}
+
+  .exportrow{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;margin-top:18px}
+  .exportrow .lbl{font-size:12px;color:var(--muted-2)}
+  .export-btn{font-family:"Archivo";font-weight:700;font-size:13px;color:var(--proof);background:none;border:1px solid var(--proof-dim);border-radius:10px;padding:9px 14px;cursor:pointer;transition:all .15s}
+  .export-btn:hover{background:rgba(24,195,166,.08)}
+
+  .funnel{margin-top:16px;display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
+  @media(max-width:700px){.funnel{grid-template-columns:1fr}}
+  .step{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:16px 16px;position:relative}
+  .step .n{font-family:"JetBrains Mono";font-size:11px;font-weight:700;color:var(--muted-2);letter-spacing:.1em}
+  .step .t{font-family:"Archivo";font-weight:700;font-size:15px;margin-top:6px}
+  .step .d{font-size:12px;color:var(--muted);margin-top:5px}
+  .step.done{border-color:var(--proof-dim)} .step.done .n{color:var(--proof)}
+  .step.cta{background:var(--proof);border-color:var(--proof)}
+  .step.cta .n{color:rgba(13,26,34,.6)} .step.cta .t{color:var(--ground);font-size:16px} .step.cta .d{color:rgba(13,26,34,.75)}
+  .step.cta button{margin-top:12px;width:100%;font-family:"Archivo";font-weight:700;font-size:14px;color:var(--proof);background:var(--ground);border:none;border-radius:10px;padding:11px;cursor:pointer;transition:transform .12s}
+  .step.cta button:hover{transform:translateY(-1px)}
+
+  /* booking modal */
+  .modal{position:fixed;inset:0;background:rgba(6,14,19,.72);display:none;align-items:center;justify-content:center;padding:20px;z-index:50}
+  .modal.open{display:flex}
+  .card{background:var(--panel-2);border:1px solid var(--line);border-radius:16px;max-width:440px;width:100%;padding:24px}
+  .card h3{font-family:"Archivo";font-weight:800;font-size:18px;margin:0 0 4px}
+  .card .lead{font-size:13px;color:var(--muted);margin-bottom:16px}
+  .bstep{display:grid;grid-template-columns:26px 1fr;gap:12px;padding:11px 0;border-top:1px solid var(--line)}
+  .bstep .bn{font-family:"JetBrains Mono";font-weight:700;color:var(--proof)}
+  .bstep .bt{font-family:"Archivo";font-weight:700;font-size:14px}
+  .bstep .bd{font-size:12px;color:var(--muted);margin-top:2px}
+  .card .actions{display:flex;gap:10px;margin-top:18px}
+  .btn-primary{flex:1;text-align:center;font-family:"Archivo";font-weight:700;font-size:14px;color:var(--ground);background:var(--proof);border:none;border-radius:10px;padding:12px;cursor:pointer;text-decoration:none;transition:transform .12s}
+  .btn-primary:hover{transform:translateY(-1px)}
+  .btn-primary.off{background:var(--ground-2);color:var(--muted-2);cursor:not-allowed}
+  .btn-ghost{font-family:"Inter";font-weight:600;font-size:13px;color:var(--muted);background:none;border:1px solid var(--line);border-radius:10px;padding:12px 16px;cursor:pointer}
+  .card .rgpd{font-size:11px;color:var(--muted-2);margin-top:12px;line-height:1.5}
+
+  .foot{margin-top:20px;font-size:11px;color:var(--muted-2);line-height:1.6;border-top:1px solid var(--line);padding-top:14px}
+  .foot b{color:var(--muted);font-weight:600}
+
+  .lexique{margin-top:26px;border-top:1px solid var(--line);padding-top:22px}
+  .lexique .eyebrow{display:block;margin-bottom:6px}
+  .lexique h2{font-family:"Archivo";font-weight:700;font-size:17px;margin:0 0 18px;letter-spacing:-.01em}
+  .lexgrid{display:grid;grid-template-columns:1fr 1fr;gap:13px 28px}
+  @media(max-width:700px){.lexgrid{grid-template-columns:1fr}}
+  .lex{padding-bottom:12px;border-bottom:1px solid rgba(38,64,77,.55)}
+  .lex .t{font-family:"JetBrains Mono";font-weight:700;font-size:12.5px;color:var(--proof);letter-spacing:.02em}
+  .lex .d{font-size:12.5px;color:var(--muted);line-height:1.5;margin-top:4px}
+  .lex .d b{color:var(--ink);font-weight:600}
+
+  @media print{
+    :root{--ground:#fff;--ground-2:#f4f6f7;--panel:#fff;--panel-2:#fff;--line:#cdd8dc;--ink:#0d1a22;--muted:#41525a;--muted-2:#66787f}
+    body{background:#fff !important}
+    .live-pill,.toggle,.presets,.region,.exact input,.step.cta button,.export-btn,.mech,.modal{display:none !important}
+    .wrap{max-width:100%;padding:0}
+    .bar,.chip{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  }
+  @media(prefers-reduced-motion:reduce){*{animation:none !important;transition:none !important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div>
+      <div class="brand">
+        <svg class="mark" viewBox="0 0 40 40" fill="none" aria-hidden="true">
+          <path d="M20 4 C24 12 33 12 36 20 C30 19 25 22 22 28 C21 20 15 16 8 18 C13 13 15 9 20 4 Z" fill="var(--proof)" opacity="0.92"/>
+          <path d="M20 28 C20 31 19 35 17 37 C21 35 24 32 25 28 Z" fill="var(--proof)" opacity="0.55"/>
+        </svg>
+        <div><h1>COLHYBRI</h1><div class="sub">Audit d'impact territorial · projection</div></div>
+      </div>
+    </div>
+    <div>
+      <div class="tagline">Une saisie. Un socle mondial. <span>Zéro friction.</span></div>
+      <div class="live-pill"><span class="dot"></span> Calcul instantané</div>
+    </div>
+  </header>
+
+  <div class="grid">
+
+    <!-- LEFT : controls -->
+    <div class="panel">
+      <div class="eyebrow">Zone d'activité</div>
+      <div class="region" id="region">
+        <button class="rchip on" data-r="eu">Europe (UE)</button>
+        <button class="rchip" data-r="na">Amérique du Nord</button>
+        <button class="rchip" data-r="af">Afrique</button>
+        <button class="rchip" data-r="intl">International</button>
+      </div>
+
+      <div class="eyebrow">Paramètres</div>
+      <h2>Un seul chiffre pilote tout</h2>
+
+      <div class="ctrl">
+        <div class="row"><label for="eff">Effectif concerné</label><span class="val" id="effV">1 200</span></div>
+        <input id="eff" type="range" min="250" max="20000" step="50" value="1200">
+        <div class="exact">
+          <input id="effNum" type="number" min="250" max="300000" step="10" value="1200" aria-label="Effectif exact">
+          <span class="u">salariés</span>
+        </div>
+        <div class="presets">
+          <button class="preset" data-v="1000">Seuil CSRD · <b>1 000</b></button>
+          <button class="preset" data-v="5000">Seuil CS3D · <b>5 000</b></button>
+          <button class="preset" data-v="10000">Grand groupe · <b>10 000</b></button>
+        </div>
+        <div class="hint">Tapez l'effectif exact du prospect. Le calcul se met à jour à l'instant.</div>
+      </div>
+
+      <div class="ctrl">
+        <div class="row"><label for="eng">Taux d'engagement</label><span class="val" id="engV">30 %</span></div>
+        <input id="eng" type="range" min="5" max="100" step="1" value="30">
+        <div class="hint">Part réalisant au moins un geste par mois</div>
+      </div>
+
+      <div class="ctrl">
+        <div class="row"><label for="ab">Montant versé par salarié / mois</label><span class="val" id="abV">5 €</span></div>
+        <input id="ab" type="range" min="3" max="30" step="0.5" value="5">
+        <div class="exact">
+          <input id="abNum" type="number" min="3" max="500" step="0.5" value="5" aria-label="Montant au choix">
+          <span class="u">€ au choix</span>
+        </div>
+        <div class="hint">Curseur de 3 à 30 €, ou saisie libre au-delà. C'est l'employeur qui choisit.</div>
+      </div>
+
+      <div class="note">Projection basée sur vos hypothèses. La donnée réelle est transactionnelle et horodatée, issue de l'application. Rien à remplir.</div>
+
+      <div class="mech">
+        <span class="eyebrow">Le mécanisme anti-social-washing</span>
+        <svg viewBox="0 0 300 96" role="img" aria-label="Salarié, geste consommé, employeur verse, territoire, donnée auditable">
+          <defs><marker id="ar" markerWidth="7" markerHeight="7" refX="5" refY="3.2" orient="auto"><path d="M0 0 L6 3.2 L0 6.4 Z" fill="var(--muted-2)"/></marker></defs>
+          <g font-family="Inter" font-size="8.5" fill="var(--ink)" text-anchor="middle">
+            <rect x="6" y="34" width="58" height="28" rx="6" fill="var(--ground-2)" stroke="var(--line)"/>
+            <text x="35" y="45">Salarié</text><text x="35" y="55" fill="var(--muted)">geste réel</text>
+            <rect x="86" y="34" width="58" height="28" rx="6" fill="var(--ground-2)" stroke="var(--gap-dim)"/>
+            <text x="115" y="45">Employeur</text><text x="115" y="55" fill="var(--gap)">verse</text>
+            <rect x="166" y="34" width="58" height="28" rx="6" fill="var(--ground-2)" stroke="var(--line)"/>
+            <text x="195" y="45">Territoire</text><text x="195" y="55" fill="var(--muted)">commerce</text>
+            <rect x="240" y="34" width="54" height="28" rx="6" fill="var(--ground-2)" stroke="var(--proof-dim)"/>
+            <text x="267" y="45">Donnée</text><text x="267" y="55" fill="var(--proof)">auditable</text>
+            <line x1="64" y1="48" x2="84" y2="48" stroke="var(--muted-2)" marker-end="url(#ar)"/>
+            <line x1="144" y1="48" x2="164" y2="48" stroke="var(--muted-2)" marker-end="url(#ar)"/>
+            <line x1="224" y1="48" x2="238" y2="48" stroke="var(--muted-2)" marker-end="url(#ar)"/>
+          </g>
+        </svg>
+      </div>
+    </div>
+
+    <!-- RIGHT : board -->
+    <div>
+      <div class="oblig csrd" id="oblig">
+        <div class="lab" id="obligLab">Obligé CSRD, vague 2</div>
+        <div class="ctx" id="obligCtx">Premier rapport sur l'exercice 2027. L'ESRS S3, communautés affectées, devient obligatoire.</div>
+        <div class="univ">Partout, la donnée COLHYBRI alimente le socle universel : <b>ODD, ISO 26000, B Corp, EcoVadis</b>.</div>
+      </div>
+
+      <div class="panel">
+        <div class="board-head">
+          <div>
+            <div class="eyebrow">Ce que votre donnée remplit</div>
+            <h2 style="margin-bottom:0">Du déclaratif à la preuve</h2>
+          </div>
+          <div class="toggle" role="tablist" aria-label="Comparaison">
+            <button id="tGap" class="gap" role="tab">Sans COLHYBRI</button>
+            <button id="tProof" class="on" role="tab">Avec COLHYBRI</button>
+          </div>
+        </div>
+        <div class="refs" id="refs"></div>
+        <div class="covered">Obligations couvertes par une seule donnée : <b id="covN">5</b> / 5</div>
+      </div>
+
+      <div class="kpis">
+        <div class="kpi"><div class="k" id="kMob">360</div><div class="l">Salariés mobilisés</div></div>
+        <div class="kpi"><div class="k" id="kGes">3 456</div><div class="l">Gestes consommés / an</div></div>
+        <div class="kpi"><div class="k" id="kVal">12 960<span class="u"> €</span></div><div class="l">Valeur redistribuée / an</div></div>
+        <div class="kpi"><div class="k" id="kCom">8</div><div class="l">Communes couvertes (est.)</div></div>
+      </div>
+
+      <div class="exportrow">
+        <div class="lbl">Aperçu du compte rendu mensuel réel, livré chaque mois en M+1.</div>
+        <button class="export-btn" id="exportBtn">Exporter en PDF</button>
+      </div>
+
+      <div class="funnel">
+        <div class="step done"><div class="n">01</div><div class="t">Projection</div><div class="d">Sur votre effectif, sans saisie. Vous êtes ici.</div></div>
+        <div class="step"><div class="n">02</div><div class="t">Compte rendu réel</div><div class="d">Dépenses locales réelles, livrées chaque mois en M+1.</div></div>
+        <div class="step cta"><div class="n">03</div><div class="t">Passons au concret</div><div class="d">On cale une visio et on lance le déploiement.</div>
+          <button id="cta">Réserver un rendez-vous</button>
+        </div>
+      </div>
+
+      <div class="foot">
+        <b>Hypothèses de projection :</b> un geste financé par salarié mobilisé et par mois, taux de consommation 80 %, part redistribuée au territoire 75 %. Les 25 % restants couvrent les frais de gestion de la société. Couverture par référentiel : part indicative du volet social territorial que la donnée COLHYBRI peut alimenter. Aucune allégation carbone. La projection n'est pas une donnée réelle et ne garantit pas une note.
+        <br><b>Repères réglementaires :</b> en Europe, environ 1 200 à 1 500 entreprises restent obligées CSRD après l'Omnibus (1 000 salariés et 450 M€). Hors Europe, il n'existe pas de mandat social unique : le socle mondial ISSB (IFRS S1/S2) est centré climat, le levier social passe par les référentiels universels et les attentes des investisseurs.
+      </div>
+    </div>
+
+  </div>
+
+  <section class="lexique">
+    <span class="eyebrow">Lexique</span>
+    <h2>Les acronymes, expliqués</h2>
+    <div class="lexgrid">
+      <div class="lex"><div class="t">RSE</div><div class="d">Responsabilité sociétale des entreprises. La prise en compte des impacts sociaux, environnementaux et de gouvernance de l'activité.</div></div>
+      <div class="lex"><div class="t">CSRD</div><div class="d">Corporate Sustainability Reporting Directive. Directive européenne imposant aux grandes entreprises un <b>rapport de durabilité audité</b>.</div></div>
+      <div class="lex"><div class="t">CS3D</div><div class="d">Corporate Sustainability Due Diligence Directive, le <b>devoir de vigilance</b> : prévenir les atteintes aux droits humains et à l'environnement dans la chaîne de valeur.</div></div>
+      <div class="lex"><div class="t">ESRS</div><div class="d">European Sustainability Reporting Standards. Les normes qui structurent le rapport CSRD. <b>S1</b> couvre le personnel, <b>S3</b> les communautés affectées.</div></div>
+      <div class="lex"><div class="t">ISSB / IFRS S1-S2</div><div class="d">International Sustainability Standards Board. Le socle mondial de reporting de durabilité, centré climat et investisseurs, adopté dans une trentaine de juridictions.</div></div>
+      <div class="lex"><div class="t">ODD</div><div class="d">Objectifs de développement durable, les 17 objectifs de l'ONU (Agenda 2030). Ceux touchés ici : <b>1</b> pas de pauvreté, <b>2</b> faim zéro, <b>8</b> travail décent, <b>10</b> inégalités réduites, <b>11</b> villes et communautés durables, <b>12</b> consommation responsable.</div></div>
+      <div class="lex"><div class="t">ISO 26000</div><div class="d">Norme internationale de responsabilité sociétale (lignes directrices, non certifiable). Sa <b>question centrale 7</b> porte sur les communautés et le développement local.</div></div>
+      <div class="lex"><div class="t">B Corp</div><div class="d">Certification d'entreprise à impact délivrée par B Lab. Sujet « Community » pour l'ancrage local, « JEDI » pour justice, équité, diversité et inclusion.</div></div>
+      <div class="lex"><div class="t">EcoVadis</div><div class="d">Plateforme de notation RSE des fournisseurs, de 0 à 100, fondée sur la preuve. Volets « Résultats » et « Reporting ».</div></div>
+      <div class="lex"><div class="t">SB 253 / SB 261</div><div class="d">Lois de Californie sur la publication des émissions et des risques financiers liés au climat. Pas d'équivalent social fédéral aux États-Unis.</div></div>
+      <div class="lex"><div class="t">King IV</div><div class="d">Code de gouvernance d'entreprise de référence en Afrique du Sud, intégrant les enjeux sociaux et de durabilité.</div></div>
+      <div class="lex"><div class="t">ACV / KPI</div><div class="d">ACV : valeur annuelle d'un contrat. KPI : indicateur clé de performance, le chiffre qui sert de preuve mesurable.</div></div>
+    </div>
+  </section>
+</div>
+
+<!-- Booking modal -->
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="mTitle">
+  <div class="card">
+    <h3 id="mTitle">Concrétisons</h3>
+    <div class="lead">Deux étapes simples pour lancer votre audit d'impact territorial.</div>
+    <div class="bstep"><div class="bn">1</div><div><div class="bt">Visio de cadrage avec Florent Gibert</div><div class="bd">On aligne le périmètre, l'effectif et vos référentiels cibles. Le chiffrage se pose ici, en personne.</div></div></div>
+    <div class="bstep"><div class="bn">2</div><div><div class="bt">Diffusion de l'appli par le service RH</div><div class="bd">Le responsable RH partage COLHYBRI directement aux salariés, sur leurs téléphones. Aucune collecte de coordonnées de notre côté.</div></div></div>
+    <div class="actions">
+      <a class="btn-primary off" id="calLink" href="#" target="_blank" rel="noopener">Ouvrir mon agenda</a>
+      <button class="btn-ghost" id="mClose">Fermer</button>
+    </div>
+    <div class="rgpd" id="rgpdNote">Lien d'agenda à connecter. La diffusion se fait par votre service RH, directement auprès des salariés. COLHYBRI ne collecte aucune coordonnée.</div></div>
+  </div>
+</div>
+
+<script>
+(function(){
+  /* ====== À CONNECTER : collez ici votre lien d'agenda (Calendly, Google, etc.) ====== */
+  var CAL_URL = "";
+  /* ================================================================================= */
+
+  var REGIONS={
+    eu:{cls:function(E){return E>=5000?"csrd_cs3d":(E>=1000?"csrd":"cascade");},
+        lab:function(E){return E>=5000?"Obligé CSRD + devoir de vigilance CS3D":(E>=1000?"Obligé CSRD, vague 2":"Hors seuil direct, effet cascade");},
+        ctx:function(E){return E>=5000?"Au-delà de 5 000 salariés : reporting ESRS S3 obligatoire ET vigilance sur les communautés de la chaîne de valeur (si 1,5 Md€ mondial)."
+              :(E>=1000?"Premier rapport sur l'exercice 2027. L'ESRS S3, communautés affectées, devient obligatoire."
+              :"Concerné via les questionnaires fournisseurs de vos donneurs d'ordre. Value Chain Cap et norme VSME.");}},
+    na:{cls:function(){return "world";}, lab:function(){return "Amérique du Nord, socle volontaire";},
+        ctx:function(){return "Pas de mandat social fédéral. Californie : SB 253 et SB 261 sur le climat, Canada aligné ISSB. Le levier ici : socle universel et attentes des investisseurs et donneurs d'ordre.";}},
+    af:{cls:function(){return "world";}, lab:function(){return "Afrique, ISSB en adoption";},
+        ctx:function(){return "Adoption de l'ISSB (IFRS S1/S2) en cours : Kenya, Nigeria, Ghana, Tanzanie, Afrique du Sud (King IV). Cadres surtout climat. Le levier ici : socle ODD et ISO 26000, plus les attentes des bailleurs et donneurs d'ordre.";}},
+    intl:{cls:function(){return "world";}, lab:function(){return "International, socle mondial";},
+        ctx:function(){return "Socle mondial ISSB (IFRS S1/S2), une trentaine de juridictions, centré climat. Pas de mandat social unique. Le levier ici : socle universel ODD, ISO 26000, EcoVadis, B Corp, portable partout.";}}
+  };
+
+  var REFS=[
+    {id:"s3",  name:"ESRS S3",   sub:"Communautés affectées",  proof:85, gap:20},
+    {id:"iso", name:"ISO 26000", sub:"Q7 développement local",  proof:80, gap:22},
+    {id:"odd", name:"ODD",       sub:"1 · 2 · 8 · 10 · 11",     proof:78, gap:18},
+    {id:"bc",  name:"B Corp",    sub:"Community · JEDI",        proof:62, gap:15},
+    {id:"ev",  name:"EcoVadis",  sub:"Résultats · Reporting",   proof:55, gap:12}
+  ];
+
+  var state="proof", currentEff=1200, currentAb=5, currentRegion="eu";
+
+  var refsEl=document.getElementById("refs");
+  REFS.forEach(function(r){
+    var row=document.createElement("div"); row.className="ref";
+    row.innerHTML='<div class="name">'+r.name+'<small>'+r.sub+'</small></div>'+
+      '<div class="bar"><i id="bar-'+r.id+'"></i></div>'+
+      '<div class="chip gap" id="chip-'+r.id+'">déclaratif</div>';
+    refsEl.appendChild(row);
+  });
+
+  function paintRefs(){
+    REFS.forEach(function(r){
+      var bar=document.getElementById("bar-"+r.id), chip=document.getElementById("chip-"+r.id);
+      if(state==="proof"){ bar.style.width=r.proof+"%"; bar.style.background="var(--proof)"; chip.textContent="preuve"; chip.className="chip proof"; }
+      else { bar.style.width=r.gap+"%"; bar.style.background="var(--gap)"; chip.textContent="déclaratif"; chip.className="chip gap"; }
+    });
+    document.getElementById("covN").textContent = state==="proof" ? "5" : "0";
+  }
+
+  function fmt(n){ return Math.round(n).toLocaleString("fr-FR"); }
+
+  function animateTo(el,target){
+    var start=parseFloat(el.getAttribute("data-cur")||"0")||0, t0=null, dur=460;
+    var reduce=window.matchMedia&&window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    function render(v){ el.childNodes[0].nodeValue=fmt(v); }
+    if(reduce){ el.setAttribute("data-cur",target); render(target); return; }
+    function tick(ts){ if(!t0)t0=ts; var p=Math.min(1,(ts-t0)/dur), e=1-Math.pow(1-p,3), v=start+(target-start)*e; render(v); if(p<1)requestAnimationFrame(tick); else el.setAttribute("data-cur",target); }
+    requestAnimationFrame(tick);
+  }
+
+  var eff=document.getElementById("eff"), effNum=document.getElementById("effNum"),
+      eng=document.getElementById("eng"),
+      ab=document.getElementById("ab"), abNum=document.getElementById("abNum"),
+      effV=document.getElementById("effV"), abV=document.getElementById("abV");
+
+  function setBanner(){
+    var R=REGIONS[currentRegion], box=document.getElementById("oblig");
+    box.className="oblig "+R.cls(currentEff);
+    document.getElementById("obligLab").textContent=R.lab(currentEff);
+    document.getElementById("obligCtx").textContent=R.ctx(currentEff);
+  }
+
+  function compute(){
+    var E=currentEff, t=+eng.value/100, a=currentAb;
+    var mobilises=E*t, finances=mobilises*12, consommes=finances*0.80, valeur=consommes*a*0.75, communes=Math.max(1,Math.round(mobilises/45));
+    effV.textContent=fmt(E);
+    document.getElementById("engV").textContent=(+eng.value)+" %";
+    abV.textContent=(a).toLocaleString("fr-FR")+" €";
+    animateTo(document.getElementById("kMob"),mobilises);
+    animateTo(document.getElementById("kGes"),consommes);
+    animateTo(document.getElementById("kVal"),valeur);
+    animateTo(document.getElementById("kCom"),communes);
+    setBanner();
+  }
+
+  function setEffectif(v){
+    v=Math.max(250,Math.min(300000,Math.round(v))); currentEff=v;
+    if(document.activeElement!==effNum) effNum.value=v;
+    eff.value=Math.min(v,+eff.max); compute();
+  }
+  function setMontant(v){
+    v=Math.max(3,Math.min(500,Math.round(v*2)/2)); currentAb=v;
+    if(document.activeElement!==abNum) abNum.value=v;
+    ab.value=Math.min(v,+ab.max); compute();
+  }
+
+  eff.addEventListener("input",function(){ setEffectif(+eff.value); });
+  effNum.addEventListener("input",function(){ if(effNum.value==="")return; setEffectif(+effNum.value); });
+  ab.addEventListener("input",function(){ setMontant(+ab.value); });
+  abNum.addEventListener("input",function(){ if(abNum.value==="")return; setMontant(+abNum.value); });
+  eng.addEventListener("input",compute);
+
+  Array.prototype.forEach.call(document.querySelectorAll(".preset"),function(b){
+    b.addEventListener("click",function(){ setEffectif(+b.getAttribute("data-v")); });
+  });
+  Array.prototype.forEach.call(document.querySelectorAll(".rchip"),function(b){
+    b.addEventListener("click",function(){
+      currentRegion=b.getAttribute("data-r");
+      Array.prototype.forEach.call(document.querySelectorAll(".rchip"),function(x){x.classList.remove("on");});
+      b.classList.add("on"); setBanner();
+    });
+  });
+
+  document.getElementById("tProof").addEventListener("click",function(){ state="proof"; this.classList.add("on"); document.getElementById("tGap").classList.remove("on"); paintRefs(); });
+  document.getElementById("tGap").addEventListener("click",function(){ state="gap"; this.classList.add("on"); document.getElementById("tProof").classList.remove("on"); paintRefs(); });
+
+  document.getElementById("exportBtn").addEventListener("click",function(){ window.print(); });
+
+  // booking modal
+  var modal=document.getElementById("modal"), calLink=document.getElementById("calLink");
+  if(CAL_URL){ calLink.href=CAL_URL; calLink.classList.remove("off"); document.getElementById("rgpdNote").textContent="La diffusion se fait par votre service RH, directement auprès des salariés. COLHYBRI ne collecte aucune coordonnée."; }
+  else { calLink.addEventListener("click",function(e){ e.preventDefault(); }); }
+  document.getElementById("cta").addEventListener("click",function(){ modal.classList.add("open"); });
+  document.getElementById("mClose").addEventListener("click",function(){ modal.classList.remove("open"); });
+  modal.addEventListener("click",function(e){ if(e.target===modal) modal.classList.remove("open"); });
+
+  compute();
+  requestAnimationFrame(paintRefs);
+})();
+</script>
+</body>
+</html>
