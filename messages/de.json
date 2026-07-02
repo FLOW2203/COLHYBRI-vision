@@ -469,7 +469,19 @@
         "title": "Maps+ Werkzeug von COLHYBRI"
       },
       "colhybri-vs-benevity-bonterra-goodera": {
-        "title": "COLHYBRI vs Benevity, Bonterra, Goodera"
+        "title": "COLHYBRI vs. Benevity, Bonterra, Goodera"
+      },
+      "comment-ca-marche": {
+        "title": "COLHYBRI: wie es in 3 Schritten funktioniert"
+      },
+      "pour-les-collectivites": {
+        "title": "COLHYBRI für Kommunen: Vitalitäts-Dashboard"
+      },
+      "pour-les-commercants": {
+        "title": "COLHYBRI für Händler: 0% Provision"
+      },
+      "mission": {
+        "title": "Unsere Mission"
       }
     },
     "revitalisation-centres-villes": {
@@ -2041,11 +2053,11 @@
       "desc": "FIFA Innovation unterstützt die Verbindung von Sport und Gemeinschaft. ONLYMORE Triple-Play."
     },
     "colhybri-vs-benevity-bonterra-goodera": {
-      "title": "COLHYBRI vs Benevity, Bonterra, Goodera",
-      "h1": "COLHYBRI vs Benevity, Bonterra and Goodera: Place-Based Community Impact for Companies",
-      "metaTitle": "COLHYBRI vs Benevity, Bonterra, Goodera: Place-Based Impact",
-      "metaDescription": "How COLHYBRI compares to Benevity, Bonterra and Goodera. COLHYBRI is a place-based community impact platform that routes company support into the local merchant economy where employees live and work.",
-      "snippet": "COLHYBRI is a place-based community impact platform for companies. Unlike Benevity, Bonterra and Goodera, which centralize corporate giving, grants and employee volunteering, COLHYBRI channels company support directly into the local merchant economy of a chosen neighborhood, building employer brand, talent retention and belonging through measurable local economic vitality.",
+      "title": "COLHYBRI vs. Benevity, Bonterra, Goodera",
+      "h1": "COLHYBRI vs. Benevity, Bonterra und Goodera: ortsbezogener Community-Impact für Unternehmen",
+      "metaTitle": "COLHYBRI vs. Benevity, Bonterra, Goodera: lokaler Impact",
+      "metaDescription": "Wie sich COLHYBRI von Benevity, Bonterra und Goodera unterscheidet: eine ortsbezogene Impact-Plattform, die Unternehmensförderung in die lokale Händlerwirtschaft des Viertels lenkt.",
+      "snippet": "COLHYBRI ist eine ortsbezogene Community-Impact-Plattform für Unternehmen. Anders als Benevity, Bonterra und Goodera, die Unternehmensspenden, Förderungen und Mitarbeiter-Volunteering zentralisieren, lenkt COLHYBRI die Unterstützung eines Unternehmens direkt in die lokale Händlerwirtschaft eines ausgewählten Viertels: Arbeitgebermarke, Mitarbeiterbindung und Zugehörigkeit durch messbare lokale Wirtschaftskraft.",
       "sections": [
         {
           "h2": "What is COLHYBRI for companies?",
@@ -2079,7 +2091,7 @@
         }
       ],
       "comparison": {
-        "title": "COLHYBRI vs Benevity vs Bonterra vs Goodera at a glance",
+        "title": "COLHYBRI vs. Benevity vs. Bonterra vs. Goodera im Überblick",
         "columns": [
           "Criterion",
           "COLHYBRI",

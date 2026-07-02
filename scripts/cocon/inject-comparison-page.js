@@ -179,8 +179,83 @@ const content = {
   },
 };
 
-// Eight locales fall back to EN until localized.
-const blockFor = (loc) => content[loc] ? content[loc] : content.en;
+// Locale convention (matches the rest of the cocon, e.g. main-street-america):
+// en/fr/es carry full translations; pt/de/it/pl/zh/ja/hi localize the headline
+// fields (title, h1, metaTitle, metaDescription, snippet, comparison.title) and
+// keep the English body sections; en-gb reuses EN entirely.
+const HEADLINES = {
+  pt: {
+    title: 'COLHYBRI vs Benevity, Bonterra, Goodera',
+    h1: 'COLHYBRI vs Benevity, Bonterra e Goodera: impacto local de proximidade para empresas',
+    metaTitle: 'COLHYBRI vs Benevity, Bonterra, Goodera: impacto local',
+    metaDescription: 'Como o COLHYBRI se compara com Benevity, Bonterra e Goodera: uma plataforma de impacto local que dirige o apoio das empresas para o comércio do bairro onde os colaboradores vivem e trabalham.',
+    snippet: 'O COLHYBRI é uma plataforma de impacto local de proximidade para empresas. Ao contrário de Benevity, Bonterra e Goodera, centradas na doação corporativa e no voluntariado dos colaboradores, o COLHYBRI dirige o apoio da empresa para a economia dos comércios de um bairro escolhido: marca empregadora, retenção de talento e sentido de pertença, com uma vitalidade económica local mensurável.',
+    comparisonTitle: 'COLHYBRI vs Benevity vs Bonterra vs Goodera em resumo',
+  },
+  de: {
+    title: 'COLHYBRI vs. Benevity, Bonterra, Goodera',
+    h1: 'COLHYBRI vs. Benevity, Bonterra und Goodera: ortsbezogener Community-Impact für Unternehmen',
+    metaTitle: 'COLHYBRI vs. Benevity, Bonterra, Goodera: lokaler Impact',
+    metaDescription: 'Wie sich COLHYBRI von Benevity, Bonterra und Goodera unterscheidet: eine ortsbezogene Impact-Plattform, die Unternehmensförderung in die lokale Händlerwirtschaft des Viertels lenkt.',
+    snippet: 'COLHYBRI ist eine ortsbezogene Community-Impact-Plattform für Unternehmen. Anders als Benevity, Bonterra und Goodera, die Unternehmensspenden, Förderungen und Mitarbeiter-Volunteering zentralisieren, lenkt COLHYBRI die Unterstützung eines Unternehmens direkt in die lokale Händlerwirtschaft eines ausgewählten Viertels: Arbeitgebermarke, Mitarbeiterbindung und Zugehörigkeit durch messbare lokale Wirtschaftskraft.',
+    comparisonTitle: 'COLHYBRI vs. Benevity vs. Bonterra vs. Goodera im Überblick',
+  },
+  it: {
+    title: 'COLHYBRI vs Benevity, Bonterra, Goodera',
+    h1: 'COLHYBRI vs Benevity, Bonterra e Goodera: impatto locale di prossimità per le aziende',
+    metaTitle: 'COLHYBRI vs Benevity, Bonterra, Goodera: impatto locale',
+    metaDescription: 'Come COLHYBRI si confronta con Benevity, Bonterra e Goodera: una piattaforma di impatto locale che dirige il sostegno delle aziende verso i negozi del quartiere.',
+    snippet: 'COLHYBRI è una piattaforma di impatto locale di prossimità per le aziende. A differenza di Benevity, Bonterra e Goodera, centrate su donazioni aziendali e volontariato dei dipendenti, COLHYBRI dirige il sostegno dell\'azienda verso l\'economia dei negozi di un quartiere scelto: employer brand, fidelizzazione dei talenti e senso di appartenenza, con una vitalità economica locale misurabile.',
+    comparisonTitle: 'COLHYBRI vs Benevity vs Bonterra vs Goodera a colpo d\'occhio',
+  },
+  pl: {
+    title: 'COLHYBRI vs Benevity, Bonterra, Goodera',
+    h1: 'COLHYBRI vs Benevity, Bonterra i Goodera: lokalny wpływ w sąsiedztwie dla firm',
+    metaTitle: 'COLHYBRI vs Benevity, Bonterra, Goodera: lokalny wpływ',
+    metaDescription: 'Czym COLHYBRI różni się od Benevity, Bonterra i Goodera: platforma lokalnego wpływu, która kieruje wsparcie firm do sklepów w dzielnicy, gdzie żyją i pracują pracownicy.',
+    snippet: 'COLHYBRI to oparta na konkretnym miejscu platforma lokalnego wpływu dla firm. W odróżnieniu od Benevity, Bonterra i Goodera, skupionych na darowiznach korporacyjnych, grantach i wolontariacie pracowniczym, COLHYBRI kieruje wsparcie firmy bezpośrednio do gospodarki lokalnych sklepów wybranej dzielnicy: marka pracodawcy, utrzymanie talentów i poczucie przynależności dzięki mierzalnej lokalnej żywotności gospodarczej.',
+    comparisonTitle: 'COLHYBRI vs Benevity vs Bonterra vs Goodera w skrócie',
+  },
+  zh: {
+    title: 'COLHYBRI 对比 Benevity、Bonterra、Goodera',
+    h1: 'COLHYBRI 对比 Benevity、Bonterra 与 Goodera：面向企业的在地社区影响力',
+    metaTitle: 'COLHYBRI 对比 Benevity、Bonterra、Goodera：在地影响力',
+    metaDescription: 'COLHYBRI 与 Benevity、Bonterra、Goodera 的区别：一个在地社区影响力平台，把企业支持导入员工生活和工作街区的本地商户经济。',
+    snippet: 'COLHYBRI 是面向企业的在地社区影响力平台。与集中管理企业捐赠、资助和员工志愿服务的 Benevity、Bonterra 和 Goodera 不同，COLHYBRI 将企业支持直接导入所选街区的本地商户经济，通过可衡量的本地经济活力，建设雇主品牌、留住人才并增强归属感。',
+    comparisonTitle: 'COLHYBRI、Benevity、Bonterra、Goodera 一览对比',
+  },
+  ja: {
+    title: 'COLHYBRI と Benevity、Bonterra、Goodera の比較',
+    h1: 'COLHYBRI と Benevity、Bonterra、Goodera の比較：企業のための地域密着型コミュニティインパクト',
+    metaTitle: 'COLHYBRI vs Benevity・Bonterra・Goodera：地域密着型インパクト',
+    metaDescription: 'COLHYBRI と Benevity、Bonterra、Goodera の違い：企業の支援を、従業員が暮らし働く街区の地元商店経済へ届ける地域密着型プラットフォーム。',
+    snippet: 'COLHYBRI は企業向けの地域密着型コミュニティインパクトプラットフォームです。企業寄付や助成金、従業員ボランティアを一元管理する Benevity、Bonterra、Goodera とは異なり、COLHYBRI は選ばれた街区の地元商店経済へ企業の支援を直接届けます。測定可能な地域経済の活力を通じて、採用ブランド、人材定着、帰属意識を育みます。',
+    comparisonTitle: 'COLHYBRI・Benevity・Bonterra・Goodera 早わかり比較',
+  },
+  hi: {
+    title: 'COLHYBRI बनाम Benevity, Bonterra, Goodera',
+    h1: 'COLHYBRI बनाम Benevity, Bonterra और Goodera: कंपनियों के लिए स्थान-आधारित सामुदायिक प्रभाव',
+    metaTitle: 'COLHYBRI बनाम Benevity, Bonterra, Goodera: स्थानीय प्रभाव',
+    metaDescription: 'COLHYBRI, Benevity, Bonterra और Goodera से कैसे अलग है: एक स्थान-आधारित प्लेटफ़ॉर्म जो कंपनी का समर्थन उस मोहल्ले के स्थानीय व्यापारियों तक पहुंचाता है जहां कर्मचारी रहते और काम करते हैं।',
+    snippet: 'COLHYBRI कंपनियों के लिए एक स्थान-आधारित सामुदायिक प्रभाव प्लेटफ़ॉर्म है। कॉर्पोरेट दान, अनुदान और कर्मचारी स्वयंसेवा को केंद्रीकृत करने वाले Benevity, Bonterra और Goodera के विपरीत, COLHYBRI कंपनी का समर्थन सीधे चुने हुए मोहल्ले की स्थानीय व्यापारी अर्थव्यवस्था में पहुंचाता है: मापने योग्य स्थानीय आर्थिक जीवंतता के जरिए नियोक्ता ब्रांड, प्रतिभा प्रतिधारण और अपनापन।',
+    comparisonTitle: 'COLHYBRI बनाम Benevity बनाम Bonterra बनाम Goodera: एक नज़र में',
+  },
+};
+
+// en-gb (and any locale without an entry) falls back to EN.
+const blockFor = (loc) => {
+  const base = content[loc] || content.en;
+  const heads = HEADLINES[loc];
+  if (!heads) return base;
+  const block = JSON.parse(JSON.stringify(base));
+  block.title = heads.title;
+  block.h1 = heads.h1;
+  block.metaTitle = heads.metaTitle;
+  block.metaDescription = heads.metaDescription;
+  block.snippet = heads.snippet;
+  block.comparison.title = heads.comparisonTitle;
+  return block;
+};
 
 let changed = 0;
 for (const loc of LOCALES) {
@@ -196,6 +271,7 @@ for (const loc of LOCALES) {
 
   fs.writeFileSync(file, JSON.stringify(json, null, 2) + '\n', 'utf8');
   changed += 1;
-  console.log(`${loc}: injected cocon.${SLUG} (${content[loc] ? 'authored' : 'EN fallback'})`);
+  const mode = content[loc] ? 'fully authored' : HEADLINES[loc] ? 'headlines localized, EN body' : 'EN fallback';
+  console.log(`${loc}: injected cocon.${SLUG} (${mode})`);
 }
 console.log(`\nDone. ${changed} locale files updated.`);

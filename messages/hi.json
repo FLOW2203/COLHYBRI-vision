@@ -469,7 +469,19 @@
         "title": "Maps+ COLHYBRI उपकरण"
       },
       "colhybri-vs-benevity-bonterra-goodera": {
-        "title": "COLHYBRI vs Benevity, Bonterra, Goodera"
+        "title": "COLHYBRI बनाम Benevity, Bonterra, Goodera"
+      },
+      "comment-ca-marche": {
+        "title": "COLHYBRI: 3 चरणों में यह कैसे काम करता है"
+      },
+      "pour-les-collectivites": {
+        "title": "स्थानीय निकायों के लिए COLHYBRI: जीवंतता डैशबोर्ड"
+      },
+      "pour-les-commercants": {
+        "title": "व्यापारियों के लिए COLHYBRI: 0% कमीशन"
+      },
+      "mission": {
+        "title": "हमारा मिशन"
       }
     },
     "revitalisation-centres-villes": {
@@ -2041,11 +2053,11 @@
       "desc": "FIFA Innovation खेल-समुदाय संबंध का समर्थन करता है। ONLYMORE ट्रिपल-प्ले।"
     },
     "colhybri-vs-benevity-bonterra-goodera": {
-      "title": "COLHYBRI vs Benevity, Bonterra, Goodera",
-      "h1": "COLHYBRI vs Benevity, Bonterra and Goodera: Place-Based Community Impact for Companies",
-      "metaTitle": "COLHYBRI vs Benevity, Bonterra, Goodera: Place-Based Impact",
-      "metaDescription": "How COLHYBRI compares to Benevity, Bonterra and Goodera. COLHYBRI is a place-based community impact platform that routes company support into the local merchant economy where employees live and work.",
-      "snippet": "COLHYBRI is a place-based community impact platform for companies. Unlike Benevity, Bonterra and Goodera, which centralize corporate giving, grants and employee volunteering, COLHYBRI channels company support directly into the local merchant economy of a chosen neighborhood, building employer brand, talent retention and belonging through measurable local economic vitality.",
+      "title": "COLHYBRI बनाम Benevity, Bonterra, Goodera",
+      "h1": "COLHYBRI बनाम Benevity, Bonterra और Goodera: कंपनियों के लिए स्थान-आधारित सामुदायिक प्रभाव",
+      "metaTitle": "COLHYBRI बनाम Benevity, Bonterra, Goodera: स्थानीय प्रभाव",
+      "metaDescription": "COLHYBRI, Benevity, Bonterra और Goodera से कैसे अलग है: एक स्थान-आधारित प्लेटफ़ॉर्म जो कंपनी का समर्थन उस मोहल्ले के स्थानीय व्यापारियों तक पहुंचाता है जहां कर्मचारी रहते और काम करते हैं।",
+      "snippet": "COLHYBRI कंपनियों के लिए एक स्थान-आधारित सामुदायिक प्रभाव प्लेटफ़ॉर्म है। कॉर्पोरेट दान, अनुदान और कर्मचारी स्वयंसेवा को केंद्रीकृत करने वाले Benevity, Bonterra और Goodera के विपरीत, COLHYBRI कंपनी का समर्थन सीधे चुने हुए मोहल्ले की स्थानीय व्यापारी अर्थव्यवस्था में पहुंचाता है: मापने योग्य स्थानीय आर्थिक जीवंतता के जरिए नियोक्ता ब्रांड, प्रतिभा प्रतिधारण और अपनापन।",
       "sections": [
         {
           "h2": "What is COLHYBRI for companies?",
@@ -2079,7 +2091,7 @@
         }
       ],
       "comparison": {
-        "title": "COLHYBRI vs Benevity vs Bonterra vs Goodera at a glance",
+        "title": "COLHYBRI बनाम Benevity बनाम Bonterra बनाम Goodera: एक नज़र में",
         "columns": [
           "Criterion",
           "COLHYBRI",

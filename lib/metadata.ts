@@ -36,13 +36,19 @@ const taglines: Record<string, string> = {
  * search engines and LLMs with two unrelated entities that share a similar
  * string: the Colibris ecological movement and the Kolibri education software.
  * schema.org disambiguatingDescription is the canonical signal to separate them.
- * FR/EN/ES authored; other locales fall back to EN.
  */
 const disambiguation: Record<string, string> = {
   en: 'COLHYBRI is a digital neighborhood mutual platform operated by ONLYMORE Group in Rodilhan, Occitanie, France. It is not affiliated with the Colibris ecological movement, nor with the Kolibri education software, nor with any "Colibri" brand. The name blends the hummingbird (colibri) with the idea of a hybrid local economy.',
   'en-gb': 'COLHYBRI is a digital neighborhood mutual platform operated by ONLYMORE Group in Rodilhan, Occitanie, France. It is not affiliated with the Colibris ecological movement, nor with the Kolibri education software, nor with any "Colibri" brand. The name blends the hummingbird (colibri) with the idea of a hybrid local economy.',
   fr: 'COLHYBRI est une mutuelle de quartier digitale éditée par le Groupe ONLYMORE à Rodilhan, en Occitanie, France. Elle n\'est ni affiliée au mouvement écologique Colibris, ni au logiciel éducatif Kolibri, ni à aucune marque "Colibri". Le nom associe le colibri à l\'idée d\'une économie locale hybride.',
   es: 'COLHYBRI es una plataforma mutual de barrio digital operada por ONLYMORE Group en Rodilhan, Occitania, Francia. No esta afiliada al movimiento ecologico Colibris, ni al software educativo Kolibri, ni a ninguna marca "Colibri". El nombre combina el colibri con la idea de una economia local hibrida.',
+  pt: 'O COLHYBRI é uma plataforma mutualista de bairro digital operada pelo ONLYMORE Group em Rodilhan, Occitânia, França. Não está afiliado ao movimento ecológico Colibris, nem ao software educativo Kolibri, nem a nenhuma marca "Colibri". O nome combina o colibri com a ideia de uma economia local híbrida.',
+  de: 'COLHYBRI ist eine digitale Nachbarschaftsplattform auf Gegenseitigkeit, betrieben von der ONLYMORE Group in Rodilhan, Okzitanien, Frankreich. Sie ist weder mit der Ökologie-Bewegung Colibris noch mit der Lernsoftware Kolibri noch mit einer anderen Marke "Colibri" verbunden. Der Name verbindet den Kolibri (den Vogel) mit der Idee einer hybriden lokalen Wirtschaft.',
+  it: 'COLHYBRI è una piattaforma mutualistica di quartiere digitale gestita da ONLYMORE Group a Rodilhan, in Occitania, Francia. Non è affiliata al movimento ecologico Colibris, né al software educativo Kolibri, né ad alcun marchio "Colibri". Il nome unisce il colibrì all\'idea di un\'economia locale ibrida.',
+  pl: 'COLHYBRI to cyfrowa platforma wzajemnościowa dla sąsiedztwa, prowadzona przez ONLYMORE Group w Rodilhan w Oksytanii we Francji. Nie jest powiązana z ruchem ekologicznym Colibris, z oprogramowaniem edukacyjnym Kolibri ani z żadną marką "Colibri". Nazwa łączy kolibra z ideą hybrydowej lokalnej gospodarki.',
+  zh: 'COLHYBRI 是由 ONLYMORE Group 运营的数字街区互助平台，总部位于法国奥克西塔尼大区罗迪扬（Rodilhan）。它与生态运动 Colibris、教育软件 Kolibri 或任何 "Colibri" 品牌均无关联。名称将蜂鸟（colibri）与混合型本地经济的理念相结合。',
+  ja: 'COLHYBRI は、フランス・オクシタニー地域圏ロディラン（Rodilhan）の ONLYMORE Group が運営するデジタル街区共済プラットフォームです。環境運動の Colibris、教育ソフトウェアの Kolibri、その他の「Colibri」ブランドとは一切関係ありません。名称はハチドリ（colibri）とハイブリッドな地域経済の発想を組み合わせたものです。',
+  hi: 'COLHYBRI, ONLYMORE Group द्वारा रोडिलां (Rodilhan), ओक्सितानी, फ्रांस से संचालित एक डिजिटल मोहल्ला पारस्परिक सहायता प्लेटफ़ॉर्म है। इसका पारिस्थितिक आंदोलन Colibris, शैक्षिक सॉफ़्टवेयर Kolibri या किसी "Colibri" ब्रांड से कोई संबंध नहीं है। नाम हमिंगबर्ड (colibri) और हाइब्रिड स्थानीय अर्थव्यवस्था के विचार को जोड़ता है।',
 };
 
 interface PageMetadataOptions {

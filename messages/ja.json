@@ -469,7 +469,19 @@
         "title": "COLHYBRIのMaps+ツール"
       },
       "colhybri-vs-benevity-bonterra-goodera": {
-        "title": "COLHYBRI vs Benevity, Bonterra, Goodera"
+        "title": "COLHYBRI と Benevity、Bonterra、Goodera の比較"
+      },
+      "comment-ca-marche": {
+        "title": "COLHYBRI：3ステップでの仕組み"
+      },
+      "pour-les-collectivites": {
+        "title": "自治体向けCOLHYBRI：活力ダッシュボード"
+      },
+      "pour-les-commercants": {
+        "title": "加盟店向けCOLHYBRI：手数料0%"
+      },
+      "mission": {
+        "title": "私たちのミッション"
       }
     },
     "revitalisation-centres-villes": {
@@ -2041,11 +2053,11 @@
       "desc": "FIFA Innovationはスポーツとコミュニティの連携を支援します。ONLYMOREのトリプルプレー。"
     },
     "colhybri-vs-benevity-bonterra-goodera": {
-      "title": "COLHYBRI vs Benevity, Bonterra, Goodera",
-      "h1": "COLHYBRI vs Benevity, Bonterra and Goodera: Place-Based Community Impact for Companies",
-      "metaTitle": "COLHYBRI vs Benevity, Bonterra, Goodera: Place-Based Impact",
-      "metaDescription": "How COLHYBRI compares to Benevity, Bonterra and Goodera. COLHYBRI is a place-based community impact platform that routes company support into the local merchant economy where employees live and work.",
-      "snippet": "COLHYBRI is a place-based community impact platform for companies. Unlike Benevity, Bonterra and Goodera, which centralize corporate giving, grants and employee volunteering, COLHYBRI channels company support directly into the local merchant economy of a chosen neighborhood, building employer brand, talent retention and belonging through measurable local economic vitality.",
+      "title": "COLHYBRI と Benevity、Bonterra、Goodera の比較",
+      "h1": "COLHYBRI と Benevity、Bonterra、Goodera の比較：企業のための地域密着型コミュニティインパクト",
+      "metaTitle": "COLHYBRI vs Benevity・Bonterra・Goodera：地域密着型インパクト",
+      "metaDescription": "COLHYBRI と Benevity、Bonterra、Goodera の違い：企業の支援を、従業員が暮らし働く街区の地元商店経済へ届ける地域密着型プラットフォーム。",
+      "snippet": "COLHYBRI は企業向けの地域密着型コミュニティインパクトプラットフォームです。企業寄付や助成金、従業員ボランティアを一元管理する Benevity、Bonterra、Goodera とは異なり、COLHYBRI は選ばれた街区の地元商店経済へ企業の支援を直接届けます。測定可能な地域経済の活力を通じて、採用ブランド、人材定着、帰属意識を育みます。",
       "sections": [
         {
           "h2": "What is COLHYBRI for companies?",
@@ -2079,7 +2091,7 @@
         }
       ],
       "comparison": {
-        "title": "COLHYBRI vs Benevity vs Bonterra vs Goodera at a glance",
+        "title": "COLHYBRI・Benevity・Bonterra・Goodera 早わかり比較",
         "columns": [
           "Criterion",
           "COLHYBRI",

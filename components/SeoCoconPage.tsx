@@ -1,6 +1,7 @@
 import type { Locale } from '@/i18n';
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
+import { BASE_URL } from '@/lib/navigation';
 import { CoconFaq } from './cocon/CoconFaq';
 
 export interface CoconPageShape {
@@ -46,15 +47,16 @@ export async function SeoCoconPage({
 
   // Read raw for list-shaped entries. next-intl v3 t.raw() does NOT throw
   // on missing keys — it calls onError and returns a fallback STRING (the
-  // key path). So we must validate the shape (Array.isArray) before use.
+  // key path). Guard with t.has() so optional keys (tables, comparison)
+  // don't spam MISSING_MESSAGE in build logs, and still validate the shape.
   const safeArray = <T,>(key: string): T[] => {
-    try { const v = t.raw(key); return Array.isArray(v) ? (v as T[]) : []; } catch { return []; }
+    try { if (!t.has(key)) return []; const v = t.raw(key); return Array.isArray(v) ? (v as T[]) : []; } catch { return []; }
   };
   const safeTuple = (key: string): [string, string] | null => {
-    try { const v = t.raw(key); return Array.isArray(v) && v.length === 2 ? (v as [string, string]) : null; } catch { return null; }
+    try { if (!t.has(key)) return null; const v = t.raw(key); return Array.isArray(v) && v.length === 2 ? (v as [string, string]) : null; } catch { return null; }
   };
   const safeStr = (key: string): string | null => {
-    try { const v = t.raw(key); return typeof v === 'string' && !v.startsWith('cocon.') ? v : null; } catch { return null; }
+    try { if (!t.has(key)) return null; const v = t.raw(key); return typeof v === 'string' && !v.startsWith('cocon.') ? v : null; } catch { return null; }
   };
 
   const sections = safeArray<CoconPageShape['sections'][number]>('sections');
@@ -67,12 +69,8 @@ export async function SeoCoconPage({
   // Optional N-column comparison matrix (e.g. COLHYBRI vs competitors).
   // Shape: { title?: string; columns: string[]; rows: string[][] }.
   // Absent on every existing cocon page, so this block is purely additive.
-  const comparisonColumns = (() => {
-    try { const v = t.raw('comparison.columns'); return Array.isArray(v) ? (v as string[]) : []; } catch { return []; }
-  })();
-  const comparisonRows = (() => {
-    try { const v = t.raw('comparison.rows'); return Array.isArray(v) ? (v as string[][]) : []; } catch { return []; }
-  })();
+  const comparisonColumns = safeArray<string>('comparison.columns');
+  const comparisonRows = safeArray<string[]>('comparison.rows');
   const comparisonTitle = safeStr('comparison.title');
 
   const articleSchema = {
@@ -84,12 +82,12 @@ export async function SeoCoconPage({
     isPartOf: {
       '@type': 'WebSite',
       name: 'COLHYBRI',
-      url: 'https://colhybri.vision',
+      url: BASE_URL,
     },
     publisher: {
       '@type': 'Organization',
       name: 'COLHYBRI',
-      url: 'https://colhybri.vision',
+      url: BASE_URL,
     },
     articleSection: cluster,
   };

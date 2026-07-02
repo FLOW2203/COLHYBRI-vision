@@ -470,6 +470,18 @@
       },
       "colhybri-vs-benevity-bonterra-goodera": {
         "title": "COLHYBRI vs Benevity, Bonterra, Goodera"
+      },
+      "comment-ca-marche": {
+        "title": "COLHYBRI: como funciona em 3 etapas"
+      },
+      "pour-les-collectivites": {
+        "title": "COLHYBRI para as autarquias: dashboard de vitalidade"
+      },
+      "pour-les-commercants": {
+        "title": "COLHYBRI para os comerciantes: 0% comissão"
+      },
+      "mission": {
+        "title": "Nossa Missao"
       }
     },
     "revitalisation-centres-villes": {
@@ -2042,10 +2054,10 @@
     },
     "colhybri-vs-benevity-bonterra-goodera": {
       "title": "COLHYBRI vs Benevity, Bonterra, Goodera",
-      "h1": "COLHYBRI vs Benevity, Bonterra and Goodera: Place-Based Community Impact for Companies",
-      "metaTitle": "COLHYBRI vs Benevity, Bonterra, Goodera: Place-Based Impact",
-      "metaDescription": "How COLHYBRI compares to Benevity, Bonterra and Goodera. COLHYBRI is a place-based community impact platform that routes company support into the local merchant economy where employees live and work.",
-      "snippet": "COLHYBRI is a place-based community impact platform for companies. Unlike Benevity, Bonterra and Goodera, which centralize corporate giving, grants and employee volunteering, COLHYBRI channels company support directly into the local merchant economy of a chosen neighborhood, building employer brand, talent retention and belonging through measurable local economic vitality.",
+      "h1": "COLHYBRI vs Benevity, Bonterra e Goodera: impacto local de proximidade para empresas",
+      "metaTitle": "COLHYBRI vs Benevity, Bonterra, Goodera: impacto local",
+      "metaDescription": "Como o COLHYBRI se compara com Benevity, Bonterra e Goodera: uma plataforma de impacto local que dirige o apoio das empresas para o comércio do bairro onde os colaboradores vivem e trabalham.",
+      "snippet": "O COLHYBRI é uma plataforma de impacto local de proximidade para empresas. Ao contrário de Benevity, Bonterra e Goodera, centradas na doação corporativa e no voluntariado dos colaboradores, o COLHYBRI dirige o apoio da empresa para a economia dos comércios de um bairro escolhido: marca empregadora, retenção de talento e sentido de pertença, com uma vitalidade económica local mensurável.",
       "sections": [
         {
           "h2": "What is COLHYBRI for companies?",
@@ -2079,7 +2091,7 @@
         }
       ],
       "comparison": {
-        "title": "COLHYBRI vs Benevity vs Bonterra vs Goodera at a glance",
+        "title": "COLHYBRI vs Benevity vs Bonterra vs Goodera em resumo",
         "columns": [
           "Criterion",
           "COLHYBRI",

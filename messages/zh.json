@@ -469,7 +469,19 @@
         "title": "Maps+ COLHYBRI 工具"
       },
       "colhybri-vs-benevity-bonterra-goodera": {
-        "title": "COLHYBRI vs Benevity, Bonterra, Goodera"
+        "title": "COLHYBRI 对比 Benevity、Bonterra、Goodera"
+      },
+      "comment-ca-marche": {
+        "title": "COLHYBRI：三步运作详解"
+      },
+      "pour-les-collectivites": {
+        "title": "面向地方政府的 COLHYBRI：活力看板"
+      },
+      "pour-les-commercants": {
+        "title": "面向商户的 COLHYBRI：0% 佣金"
+      },
+      "mission": {
+        "title": "我们的使命"
       }
     },
     "revitalisation-centres-villes": {
@@ -2041,11 +2053,11 @@
       "desc": "FIFA Innovation 支持体育与社区的联结。ONLYMORE 三重联动。"
     },
     "colhybri-vs-benevity-bonterra-goodera": {
-      "title": "COLHYBRI vs Benevity, Bonterra, Goodera",
-      "h1": "COLHYBRI vs Benevity, Bonterra and Goodera: Place-Based Community Impact for Companies",
-      "metaTitle": "COLHYBRI vs Benevity, Bonterra, Goodera: Place-Based Impact",
-      "metaDescription": "How COLHYBRI compares to Benevity, Bonterra and Goodera. COLHYBRI is a place-based community impact platform that routes company support into the local merchant economy where employees live and work.",
-      "snippet": "COLHYBRI is a place-based community impact platform for companies. Unlike Benevity, Bonterra and Goodera, which centralize corporate giving, grants and employee volunteering, COLHYBRI channels company support directly into the local merchant economy of a chosen neighborhood, building employer brand, talent retention and belonging through measurable local economic vitality.",
+      "title": "COLHYBRI 对比 Benevity、Bonterra、Goodera",
+      "h1": "COLHYBRI 对比 Benevity、Bonterra 与 Goodera：面向企业的在地社区影响力",
+      "metaTitle": "COLHYBRI 对比 Benevity、Bonterra、Goodera：在地影响力",
+      "metaDescription": "COLHYBRI 与 Benevity、Bonterra、Goodera 的区别：一个在地社区影响力平台，把企业支持导入员工生活和工作街区的本地商户经济。",
+      "snippet": "COLHYBRI 是面向企业的在地社区影响力平台。与集中管理企业捐赠、资助和员工志愿服务的 Benevity、Bonterra 和 Goodera 不同，COLHYBRI 将企业支持直接导入所选街区的本地商户经济，通过可衡量的本地经济活力，建设雇主品牌、留住人才并增强归属感。",
       "sections": [
         {
           "h2": "What is COLHYBRI for companies?",
@@ -2079,7 +2091,7 @@
         }
       ],
       "comparison": {
-        "title": "COLHYBRI vs Benevity vs Bonterra vs Goodera at a glance",
+        "title": "COLHYBRI、Benevity、Bonterra、Goodera 一览对比",
         "columns": [
           "Criterion",
           "COLHYBRI",
