@@ -11,7 +11,7 @@ interface PageProps {
   params: { locale: string };
 }
 
-// FR-only SEO/GEO pillar page. Other locales 404 (no EN twin authored).
+// FR-only SEO/GEO cluster page (cocon A, cluster A4). Other locales 404.
 export const dynamicParams = false;
 
 export function generateStaticParams() {
@@ -20,19 +20,19 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params: { locale } }: PageProps): Promise<Metadata> {
   if (locale !== 'fr') return {};
-  const t = await getTranslations({ locale: 'fr', namespace: 'esrsS3Page' });
+  const t = await getTranslations({ locale: 'fr', namespace: 'drS34Page' });
   const base = generatePageMetadata({
     locale: 'fr',
-    routeKey: 'esrs-s3',
+    routeKey: 'dr-s3-4-plan-action',
     title: t('meta.title'),
     description: t('meta.description'),
-    semanticPrimary: 'ESRS S3 communautés affectées CSRD impact territorial',
-    semanticSecondary: 'double matérialité, DR S3-4, DR S3-5, reporting CSRD, impact social territorial',
+    semanticPrimary: 'DR S3-4 plan d\'action ESRS S3 communautés affectées exemples',
+    semanticSecondary: 'DR S3-5, cibles, reporting CSRD, double matérialité, impact social territorial, remédiation',
     chunkType: 'article',
     audience: 'entreprises, directions RSE, directions développement durable, CSRD',
   });
   // FR-only page: self-referential hreflang (fr + x-default), no broken EN alternate.
-  const url = 'https://www.colhybri.vision/fr/esrs-s3';
+  const url = 'https://www.colhybri.vision/fr/dr-s3-4-plan-action';
   return {
     ...base,
     alternates: {
@@ -42,9 +42,9 @@ export async function generateMetadata({ params: { locale } }: PageProps): Promi
   };
 }
 
-export default async function EsrsS3Page({ params: { locale } }: PageProps) {
+export default async function DrS34Page({ params: { locale } }: PageProps) {
   if (locale !== 'fr') notFound();
-  const t = await getTranslations({ locale: 'fr', namespace: 'esrsS3Page' });
+  const t = await getTranslations({ locale: 'fr', namespace: 'drS34Page' });
 
   // next-intl v3 t.raw() returns a fallback string on missing keys, so validate shape.
   const safeArray = <T,>(key: string): T[] => {
@@ -57,7 +57,7 @@ export default async function EsrsS3Page({ params: { locale } }: PageProps) {
   };
 
   const stats = safeArray<{ value: string; label: string }>('stats');
-  const sections = safeArray<{ h2: string; body: string }>('sections');
+  const sections = safeArray<{ h2: string; body: string; body2?: string }>('sections');
   const faq = safeArray<{ q: string; a: string }>('faq');
 
   const contactHref = getLocalizedPath('contact', 'fr');
@@ -108,6 +108,12 @@ export default async function EsrsS3Page({ params: { locale } }: PageProps) {
             </Link>
           </li>
           <li aria-hidden="true">/</li>
+          <li>
+            <Link href="/fr/esrs-s3" className="hover:text-colhybri-teal">
+              ESRS S3
+            </Link>
+          </li>
+          <li aria-hidden="true">/</li>
           <li className="text-colhybri-dark/80 font-medium">{t('breadcrumb')}</li>
         </ol>
       </nav>
@@ -121,7 +127,7 @@ export default async function EsrsS3Page({ params: { locale } }: PageProps) {
           <h1 className="font-display text-3xl sm:text-4xl lg:text-5xl font-semibold text-colhybri-dark mb-6 leading-[1.1]">
             {t('h1')}
           </h1>
-          <div data-type="definition" data-concept="ESRS S3" lang="fr">
+          <div data-type="definition" data-concept="DR S3-4" lang="fr">
             <p className="font-sans text-lg sm:text-xl text-colhybri-dark/80 leading-relaxed max-w-3xl">
               {t('intro')}
             </p>
@@ -160,6 +166,9 @@ export default async function EsrsS3Page({ params: { locale } }: PageProps) {
                   {section.h2}
                 </h2>
                 <p className="text-lg leading-relaxed">{section.body}</p>
+                {section.body2 && (
+                  <p className="text-lg leading-relaxed mt-4">{section.body2}</p>
+                )}
               </section>
             ))}
           </div>
@@ -178,7 +187,7 @@ export default async function EsrsS3Page({ params: { locale } }: PageProps) {
         </section>
       )}
 
-      {/* Internal linking */}
+      {/* Internal linking (cluster -> pillar, solution, conversion) */}
       <section className="bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <h2 className="font-display text-2xl font-semibold text-colhybri-dark mb-4">
@@ -187,7 +196,7 @@ export default async function EsrsS3Page({ params: { locale } }: PageProps) {
           <p className="font-sans text-lg text-colhybri-dark/80 leading-relaxed mb-6">
             {t('links.lead')}
             <Link
-              href="/fr/entreprises"
+              href="/fr/esrs-s3"
               className="text-colhybri-teal font-semibold underline underline-offset-2 hover:text-colhybri-teal/80"
             >
               {t('links.leadAnchor')}
@@ -196,10 +205,22 @@ export default async function EsrsS3Page({ params: { locale } }: PageProps) {
           </p>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
-              href="/fr/entreprises"
+              href="/fr/esrs-s3"
               className="p-5 rounded-2xl border-2 border-colhybri-teal bg-colhybri-teal/5 hover:bg-colhybri-teal/10 transition-colors"
             >
               <div className="font-mono text-xs text-colhybri-teal uppercase tracking-wider mb-2">
+                {t('links.badgePillar')}
+              </div>
+              <div className="font-display font-semibold text-colhybri-dark">
+                {t('links.pillarTitle')}
+              </div>
+              <p className="font-sans text-sm text-colhybri-dark/70 mt-1">{t('links.pillarDesc')}</p>
+            </Link>
+            <Link
+              href="/fr/entreprises"
+              className="p-5 rounded-2xl border border-colhybri-dark/10 bg-white hover:border-colhybri-teal hover:bg-colhybri-cream transition-colors"
+            >
+              <div className="font-mono text-xs text-colhybri-dark/50 uppercase tracking-wider mb-2">
                 {t('links.badgeSolution')}
               </div>
               <div className="font-display font-semibold text-colhybri-dark">
@@ -211,7 +232,7 @@ export default async function EsrsS3Page({ params: { locale } }: PageProps) {
             </Link>
             <Link
               href={contactHref}
-              className="p-5 rounded-2xl border border-colhybri-gold/30 bg-colhybri-gold/5 hover:bg-colhybri-gold/10 transition-colors"
+              className="p-5 rounded-2xl border border-colhybri-gold/30 bg-colhybri-gold/5 hover:bg-colhybri-gold/10 transition-colors sm:col-span-2"
             >
               <div className="font-mono text-xs text-colhybri-gold uppercase tracking-wider mb-2">
                 {t('links.badgeConversion')}
@@ -221,20 +242,6 @@ export default async function EsrsS3Page({ params: { locale } }: PageProps) {
               </div>
               <p className="font-sans text-sm text-colhybri-dark/70 mt-1">
                 {t('links.conversionDesc')}
-              </p>
-            </Link>
-            <Link
-              href="/fr/dr-s3-4-plan-action"
-              className="p-5 rounded-2xl border border-colhybri-dark/10 bg-white hover:border-colhybri-teal hover:bg-colhybri-cream transition-colors sm:col-span-2"
-            >
-              <div className="font-mono text-xs text-colhybri-dark/50 uppercase tracking-wider mb-2">
-                {t('links.badgeCluster')}
-              </div>
-              <div className="font-display font-semibold text-colhybri-dark">
-                {t('links.clusterTitle')}
-              </div>
-              <p className="font-sans text-sm text-colhybri-dark/70 mt-1">
-                {t('links.clusterDesc')}
               </p>
             </Link>
           </div>

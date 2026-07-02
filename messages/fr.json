@@ -3249,7 +3249,10 @@
       "conversionTitle": "Réserver une démo",
       "conversionDesc": "Échanger avec l'équipe COLHYBRI sur votre reporting ESRS S3.",
       "badgeSolution": "Solution",
-      "badgeConversion": "Contact"
+      "badgeConversion": "Contact",
+      "clusterTitle": "DR S3-4, plans d'action et exemples concrets",
+      "clusterDesc": "Ce que l'exigence demande et comment construire un plan qui produit ses preuves.",
+      "badgeCluster": "Approfondir"
     },
     "cta": {
       "title": "Générer un impact ESRS S3 mesurable",
@@ -3367,6 +3370,106 @@
       "body": "Déployez COLHYBRI, générez un impact communautés affectées réel et documentez-le pour votre reporting CSRD.",
       "primary": "Réserver une démo",
       "secondary": "Comprendre l'ESRS S3"
+    },
+    "faqTitle": "Questions fréquentes",
+    "home": "Accueil"
+  },
+  "drS34Page": {
+    "meta": {
+      "title": "DR S3-4, plans d'action ESRS S3 : exemples concrets",
+      "description": "Ce que le DR S3-4 de l'ESRS S3 exige, comment construire un plan d'action communautés affectées et quels exemples concrets documenter pour la CSRD."
+    },
+    "cluster": "Conformité CSRD",
+    "breadcrumb": "DR S3-4",
+    "h1": "DR S3-4, des plans d'action concrets pour les communautés affectées",
+    "intro": "Le DR S3-4 est l'exigence de publication de la norme ESRS S3 (référentiel CSRD) qui demande à une entreprise de décrire les actions engagées pour prévenir, atténuer ou corriger ses impacts sur les communautés affectées, ainsi que la manière dont elle évalue leur efficacité.",
+    "stats": [
+      {
+        "value": "DR S3-4",
+        "label": "plans d'action communautés affectées"
+      },
+      {
+        "value": "3 volets",
+        "label": "prévenir, atténuer, corriger"
+      },
+      {
+        "value": "+ positif",
+        "label": "initiatives à impact positif attendues"
+      },
+      {
+        "value": "Efficacité",
+        "label": "suivi et évaluation exigés"
+      }
+    ],
+    "sections": [
+      {
+        "h2": "Ce que le DR S3-4 exige exactement",
+        "body": "Le DR S3-4 (Disclosure Requirement S3-4) porte sur les mesures prises face aux impacts matériels sur les communautés affectées. Concrètement, l'entreprise doit décrire quatre choses : les actions engagées, prévues ou en cours pour prévenir ou atténuer ses impacts négatifs matériels ; les actions de remédiation lorsqu'un impact négatif réel s'est produit ; les initiatives supplémentaires destinées à créer des impacts positifs pour les communautés ; et la manière dont l'efficacité de l'ensemble est suivie et évaluée dans le temps. La norme attend aussi que l'entreprise précise les ressources allouées à ces plans d'action."
+      },
+      {
+        "h2": "Pourquoi le DR S3-4 est le point dur de l'ESRS S3",
+        "body": "Les trois premières exigences de la norme peuvent, en pratique, être satisfaites par des documents : une politique (DR S3-1), des processus de dialogue (DR S3-2), des canaux de signalement et de remédiation (DR S3-3). Le DR S3-4 change de nature : il demande des actions réelles, avec des ressources, un calendrier et un suivi d'efficacité. C'est le point où une démarche déclarative ne suffit plus. Le rapport de durabilité étant soumis à la vérification d'un auditeur, l'entreprise a intérêt à s'appuyer sur des actions tangibles, datées et documentées plutôt que sur des intentions."
+      },
+      {
+        "h2": "À quoi ressemble un plan d'action communautés affectées",
+        "body": "Un plan d'action solide se structure autour de six éléments : le périmètre territorial concerné (un quartier, une ville, une zone d'implantation) ; les communautés visées (riverains, habitants, commerçants de proximité) ; les actions elles-mêmes, datées et décrites ; les ressources allouées (budget, temps, outils) ; le responsable du plan ; et les indicateurs qui permettront d'en suivre l'efficacité. Ce dernier point fait le lien avec le DR S3-5, qui attend des cibles mesurables : un plan d'action sans indicateurs est un plan que l'on ne pourra pas défendre dans le rapport."
+      },
+      {
+        "h2": "Exemples d'actions recevables pour le DR S3-4",
+        "body": "Plusieurs familles d'actions peuvent alimenter un plan DR S3-4 : le dialogue et la consultation des habitants avant et pendant un projet ; la remédiation lorsqu'une activité a causé un dommage local ; la priorité donnée aux achats et aux fournisseurs du territoire ; le soutien direct au tissu économique de proximité, dont dépendent l'emploi et le lien social d'un quartier ; ou encore des programmes structurés de contribution locale, suivis dans le temps.",
+        "body2": "C'est sur ce dernier terrain que COLHYBRI se positionne. La mécanique s'inspire du caffe sospeso, le café suspendu payé d'avance pour un inconnu : un abonné particulier contribue pour 3 euros par mois, un commerçant pour 10 euros par mois, et 75 pour cent de chaque abonnement alimentent un pool solidaire communautaire redistribué au tissu local (les 25 pour cent restants couvrent le fonctionnement). Chaque contribution est datée, localisée et rattachée à des bénéficiaires réels : exactement le type d'action qu'un plan DR S3-4 peut documenter."
+      },
+      {
+        "h2": "Suivre l'efficacité et faire le lien avec le DR S3-5",
+        "body": "Le DR S3-4 ne s'arrête pas à la liste des actions : il demande comment l'entreprise évalue leur efficacité. La méthode la plus robuste consiste à fixer des cibles (DR S3-5), puis à suivre des indicateurs dans le temps : montants engagés vers le territoire, nombre de commerçants ou d'habitants soutenus, évolution d'une période à l'autre. Des données datées et localisées, produites par l'action elle-même, sont plus solides qu'une estimation reconstituée après coup."
+      },
+      {
+        "h2": "Passer du plan à l'action avec un outil dédié",
+        "body": "La difficulté du DR S3-4 n'est pas d'écrire un plan, c'est de générer des actions réelles qui produisent leurs propres preuves. C'est le rôle d'un outil d'action comme COLHYBRI : déclencher un soutien concret aux communautés affectées d'un territoire, puis restituer des indicateurs alignés sur le DR S3-4 et le DR S3-5 que l'entreprise intègre à son reporting CSRD."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Qu'est-ce que le DR S3-4 de l'ESRS S3 ?",
+        "a": "Le DR S3-4 est l'exigence de publication de la norme ESRS S3 (CSRD) qui demande de décrire les actions engagées pour prévenir, atténuer ou corriger les impacts d'une entreprise sur les communautés affectées, les initiatives créant des impacts positifs, ainsi que le suivi de leur efficacité."
+      },
+      {
+        "q": "Quels exemples d'actions pour le DR S3-4 ?",
+        "a": "Dialogue et consultation des habitants, remédiation d'un dommage local, achats auprès des fournisseurs du territoire, soutien direct aux commerçants de proximité. Avec COLHYBRI, 75 pour cent de chaque abonnement (3 euros par mois pour un particulier, 10 euros pour un commerçant) alimentent un pool solidaire communautaire : une action datée, localisée et mesurable."
+      },
+      {
+        "q": "Quelle différence entre le DR S3-4 et le DR S3-5 ?",
+        "a": "Le DR S3-4 décrit les actions et leur efficacité, le DR S3-5 fixe les cibles mesurables qui permettent de juger cette efficacité. Les deux se répondent : un plan d'action sérieux s'appuie sur des cibles, et des cibles sans actions restent des intentions."
+      },
+      {
+        "q": "Un plan d'action DR S3-4 est-il obligatoire ?",
+        "a": "Il l'est dès lors que l'analyse de double matérialité conclut que les communautés affectées sont un enjeu matériel pour l'entreprise. Dans ce cas, la norme attend la description des actions, de leurs ressources et de leur suivi. Le périmètre exact des entreprises concernées par la CSRD évolue (paquet Omnibus 2025) et doit être vérifié selon votre situation."
+      },
+      {
+        "q": "Comment prouver l'efficacité d'une action DR S3-4 ?",
+        "a": "En produisant des indicateurs datés et localisés, comparés à des cibles définies (DR S3-5) : montants redistribués, bénéficiaires soutenus, évolution dans le temps. Une action qui génère ses propres données de preuve, comme un pool solidaire suivi mois par mois, simplifie considérablement cette démonstration."
+      }
+    ],
+    "links": {
+      "title": "Pour aller plus loin",
+      "lead": "Ce dossier fait partie du guide ",
+      "leadAnchor": "ESRS S3 communautés affectées",
+      "leadAfter": ", qui couvre la norme, ses exigences et l'angle action.",
+      "pillarTitle": "ESRS S3 communautés affectées",
+      "pillarDesc": "La norme, les exigences DR S3-1 à S3-5 et la place dans la CSRD.",
+      "solutionTitle": "Outil ESRS S3 pour les entreprises",
+      "solutionDesc": "Générer et prouver votre impact territorial.",
+      "conversionTitle": "Réserver une démo",
+      "conversionDesc": "Échanger avec l'équipe COLHYBRI sur votre plan d'action DR S3-4.",
+      "badgePillar": "Dossier principal",
+      "badgeSolution": "Solution",
+      "badgeConversion": "Contact"
+    },
+    "cta": {
+      "title": "Un plan d'action DR S3-4 qui produit ses preuves",
+      "body": "COLHYBRI déclenche une action communautés affectées réelle et vous restitue des indicateurs prêts pour le reporting CSRD.",
+      "primary": "Réserver une démo",
+      "secondary": "Voir l'outil ESRS S3"
     },
     "faqTitle": "Questions fréquentes",
     "home": "Accueil"

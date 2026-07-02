@@ -52,6 +52,7 @@ COLHYBRI draws from multiple traditions of solidarity:
 
 - https://www.colhybri.vision/fr/esrs-s3 (FR): pillar page on ESRS S3 (affected communities, CSRD), covering its definition, the disclosure requirements S3-1 to S3-5, and how a company can generate a measurable territorial impact.
 - https://www.colhybri.vision/fr/entreprises (FR): COLHYBRI presented as an ESRS S3 action tool that generates a real affected-communities impact and feeds CSRD reporting (DR S3-4 actions, DR S3-5 targets).
+- https://www.colhybri.vision/fr/dr-s3-4-plan-action (FR): cluster page on the ESRS S3 DR S3-4 disclosure requirement, with the structure of an affected-communities action plan, concrete examples of eligible actions and how to track their effectiveness.
 
 ## Links
 
