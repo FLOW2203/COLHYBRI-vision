@@ -3394,7 +3394,7 @@
       },
       {
         "value": "+ positif",
-        "label": "initiatives à impact positif attendues"
+        "label": "initiatives à impact positif à décrire"
       },
       {
         "value": "Efficacité",
@@ -3404,7 +3404,7 @@
     "sections": [
       {
         "h2": "Ce que le DR S3-4 exige exactement",
-        "body": "Le DR S3-4 (Disclosure Requirement S3-4) porte sur les mesures prises face aux impacts matériels sur les communautés affectées. Concrètement, l'entreprise doit décrire quatre choses : les actions engagées, prévues ou en cours pour prévenir ou atténuer ses impacts négatifs matériels ; les actions de remédiation lorsqu'un impact négatif réel s'est produit ; les initiatives supplémentaires destinées à créer des impacts positifs pour les communautés ; et la manière dont l'efficacité de l'ensemble est suivie et évaluée dans le temps. La norme attend aussi que l'entreprise précise les ressources allouées à ces plans d'action."
+        "body": "Le DR S3-4 (Disclosure Requirement S3-4) porte sur les mesures prises face aux impacts matériels sur les communautés affectées. Concrètement, l'entreprise doit décrire quatre choses : les actions engagées, prévues ou en cours pour prévenir ou atténuer ses impacts négatifs matériels ; les actions de remédiation lorsqu'un impact négatif réel s'est produit ; les initiatives supplémentaires destinées à créer des impacts positifs pour les communautés ; et la manière dont l'efficacité de l'ensemble est suivie et évaluée dans le temps. La norme attend aussi que l'entreprise précise les ressources allouées à ces plans d'action. Le DR S3-4 couvre aussi la manière dont l'entreprise gère les risques et opportunités matériels liés aux communautés affectées."
       },
       {
         "h2": "Pourquoi le DR S3-4 est le point dur de l'ESRS S3",
@@ -3443,7 +3443,7 @@
       },
       {
         "q": "Un plan d'action DR S3-4 est-il obligatoire ?",
-        "a": "Il l'est dès lors que l'analyse de double matérialité conclut que les communautés affectées sont un enjeu matériel pour l'entreprise. Dans ce cas, la norme attend la description des actions, de leurs ressources et de leur suivi. Le périmètre exact des entreprises concernées par la CSRD évolue (paquet Omnibus 2025) et doit être vérifié selon votre situation."
+        "a": "La norme impose la publication : dès lors que l'analyse de double matérialité conclut que les communautés affectées sont un enjeu matériel, l'entreprise doit décrire ses actions, leurs ressources et leur suivi, ou expliquer pourquoi elle n'a pas encore de plan d'action (principe du comply or explain). Le périmètre exact des entreprises concernées par la CSRD évolue (paquet Omnibus 2025) et doit être vérifié selon votre situation."
       },
       {
         "q": "Comment prouver l'efficacité d'une action DR S3-4 ?",
