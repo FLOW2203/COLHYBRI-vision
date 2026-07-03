@@ -2555,6 +2555,23 @@
       "sub": "Investidores e aceleradoras"
     }
   },
+  "auditHero": {
+    "eyebrow": "Auditoria de impacto territorial",
+    "headline": "O seu compromisso local torna-se prova de auditoria",
+    "subheadline": "Um único dado, transacional e com carimbo de data e hora, alimenta os seus referenciais de RSE. Do declarativo à prova, sem nada para preencher.",
+    "refsLabel": "Referenciais cobertos",
+    "teaser": {
+      "title": "Projeção ao vivo",
+      "effLabel": "Efetivo abrangido",
+      "effUnit": "colaboradores",
+      "kpiMobilized": "Colaboradores mobilizados",
+      "kpiGestures": "Gestos consumidos por ano",
+      "kpiValue": "Valor redistribuído por ano",
+      "note": "Projeção indicativa baseada nas hipóteses do cockpit. O dado real vem da aplicação, transacional e com carimbo de data e hora."
+    },
+    "ctaCockpit": "Abrir o cockpit de auditoria",
+    "ctaMeeting": "Marcar uma reunião"
+  },
   "missionPage": {
     "meta": {
       "title": "Missão COLHYBRI",

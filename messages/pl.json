@@ -2555,6 +2555,23 @@
       "sub": "Inwestorzy i akceleratory"
     }
   },
+  "auditHero": {
+    "eyebrow": "Audyt wpływu terytorialnego",
+    "headline": "Twoje lokalne zaangażowanie staje się dowodem audytowym",
+    "subheadline": "Jedna transakcyjna, opatrzona znacznikiem czasu dana zasila Twoje ramy raportowania CSR. Od deklaracji do dowodu, bez żadnego wypełniania.",
+    "refsLabel": "Objęte ramy raportowania",
+    "teaser": {
+      "title": "Projekcja na żywo",
+      "effLabel": "Liczba pracowników",
+      "effUnit": "pracowników",
+      "kpiMobilized": "Zaangażowani pracownicy",
+      "kpiGestures": "Gesty zrealizowane rocznie",
+      "kpiValue": "Wartość redystrybuowana rocznie",
+      "note": "Projekcja orientacyjna oparta na założeniach kokpitu. Rzeczywiste dane pochodzą z aplikacji, są transakcyjne i opatrzone znacznikiem czasu."
+    },
+    "ctaCockpit": "Otwórz kokpit audytowy",
+    "ctaMeeting": "Umów spotkanie"
+  },
   "missionPage": {
     "meta": {
       "title": "Misja COLHYBRI",

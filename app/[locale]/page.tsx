@@ -6,6 +6,7 @@ import { generatePageMetadata, generateOrganizationJsonLd, generateWebSiteJsonLd
 import { getLocalizedPath } from '@/lib/navigation';
 import { JsonLd } from '@/components/JsonLd';
 import { AnimatedCounter } from '@/components/AnimatedCounter';
+import { AuditHero } from '@/components/AuditHero';
 import { LocalStats } from '@/components/LocalStats';
 import { WorldMap } from '@/components/WorldMap';
 import { VisionImage } from '@/components/ui/VisionImage';
@@ -347,6 +348,9 @@ export default function HomePage({ params: { locale } }: PageProps) {
           </div>
         </div>
       </section>
+
+      {/* ================= Section 8: B2B AUDIT HERO (after investors block) ================= */}
+      <AuditHero locale={l} />
     </>
   );
 }

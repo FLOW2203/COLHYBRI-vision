@@ -144,6 +144,23 @@
       "sub": "Inversores y aceleradoras"
     }
   },
+  "auditHero": {
+    "eyebrow": "Auditoría de impacto territorial",
+    "headline": "Su compromiso local se convierte en prueba de auditoría",
+    "subheadline": "Un solo dato, transaccional y con sello de tiempo, alimenta sus marcos de referencia RSC. De lo declarativo a la prueba, sin nada que rellenar.",
+    "refsLabel": "Marcos de referencia cubiertos",
+    "teaser": {
+      "title": "Proyección en directo",
+      "effLabel": "Plantilla implicada",
+      "effUnit": "empleados",
+      "kpiMobilized": "Empleados movilizados",
+      "kpiGestures": "Gestos consumidos al año",
+      "kpiValue": "Valor redistribuido al año",
+      "note": "Proyección indicativa basada en las hipótesis del cockpit. El dato real procede de la aplicación, transaccional y con sello de tiempo."
+    },
+    "ctaCockpit": "Abrir el cockpit de auditoría",
+    "ctaMeeting": "Reservar una reunión"
+  },
   "mission": {
     "title": "Nuestra Mision",
     "headline": "Hacer nuestra parte, como el colibri",

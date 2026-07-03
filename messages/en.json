@@ -144,6 +144,23 @@
       "sub": "Investors and accelerators"
     }
   },
+  "auditHero": {
+    "eyebrow": "Territorial impact audit",
+    "headline": "Turn your local engagement into audit-ready proof",
+    "subheadline": "One transactional, time-stamped data point feeds your CSR frameworks. From declarative claims to evidence, with nothing to fill in.",
+    "refsLabel": "Frameworks covered",
+    "teaser": {
+      "title": "Live projection",
+      "effLabel": "Workforce size",
+      "effUnit": "employees",
+      "kpiMobilized": "Employees engaged",
+      "kpiGestures": "Gestures redeemed per year",
+      "kpiValue": "Value redistributed per year",
+      "note": "Indicative projection based on the cockpit hypotheses. Real data comes from the app, transactional and time-stamped."
+    },
+    "ctaCockpit": "Open the audit cockpit",
+    "ctaMeeting": "Book a meeting"
+  },
   "mission": {
     "title": "Our Mission",
     "headline": "Doing our part, like the hummingbird",

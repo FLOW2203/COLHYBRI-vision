@@ -144,6 +144,23 @@
       "sub": "Investisseurs et accelerateurs"
     }
   },
+  "auditHero": {
+    "eyebrow": "Audit d'impact territorial",
+    "headline": "Votre engagement local devient une preuve d'audit",
+    "subheadline": "Une seule donnée, transactionnelle et horodatée, alimente vos référentiels RSE. Du déclaratif à la preuve, sans rien à saisir.",
+    "refsLabel": "Référentiels alimentés",
+    "teaser": {
+      "title": "Projection en direct",
+      "effLabel": "Effectif concerné",
+      "effUnit": "salariés",
+      "kpiMobilized": "Salariés mobilisés",
+      "kpiGestures": "Gestes consommés par an",
+      "kpiValue": "Valeur redistribuée par an",
+      "note": "Projection indicative fondée sur les hypothèses du cockpit. La donnée réelle est issue de l'application, transactionnelle et horodatée."
+    },
+    "ctaCockpit": "Ouvrir le cockpit d'audit",
+    "ctaMeeting": "Réserver un rendez-vous"
+  },
   "mission": {
     "title": "Notre Mission",
     "headline": "Faire notre part, comme le colibri",

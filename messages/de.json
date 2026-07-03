@@ -2555,6 +2555,23 @@
       "sub": "Investoren und Acceleratoren"
     }
   },
+  "auditHero": {
+    "eyebrow": "Territoriales Impact-Audit",
+    "headline": "Ihr lokales Engagement wird zum prüffähigen Nachweis",
+    "subheadline": "Ein einziger transaktionaler, zeitgestempelter Datenpunkt speist Ihre CSR-Rahmenwerke. Vom Deklarativen zum Nachweis, ohne jede Eingabe.",
+    "refsLabel": "Abgedeckte Rahmenwerke",
+    "teaser": {
+      "title": "Live-Projektion",
+      "effLabel": "Betroffene Belegschaft",
+      "effUnit": "Mitarbeitende",
+      "kpiMobilized": "Mobilisierte Mitarbeitende",
+      "kpiGestures": "Eingelöste Gesten pro Jahr",
+      "kpiValue": "Umverteilter Wert pro Jahr",
+      "note": "Indikative Projektion auf Basis der Cockpit-Annahmen. Die realen Daten stammen aus der App, transaktional und zeitgestempelt."
+    },
+    "ctaCockpit": "Audit-Cockpit öffnen",
+    "ctaMeeting": "Termin vereinbaren"
+  },
   "missionPage": {
     "meta": {
       "title": "Mission COLHYBRI",

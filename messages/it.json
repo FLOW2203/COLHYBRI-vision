@@ -2555,6 +2555,23 @@
       "sub": "Investitori e acceleratori"
     }
   },
+  "auditHero": {
+    "eyebrow": "Audit di impatto territoriale",
+    "headline": "Il vostro impegno locale diventa prova di audit",
+    "subheadline": "Un solo dato, transazionale e con marca temporale, alimenta i vostri standard di CSR. Dal dichiarativo alla prova, senza nulla da compilare.",
+    "refsLabel": "Standard coperti",
+    "teaser": {
+      "title": "Proiezione dal vivo",
+      "effLabel": "Organico coinvolto",
+      "effUnit": "dipendenti",
+      "kpiMobilized": "Dipendenti mobilitati",
+      "kpiGestures": "Gesti utilizzati all'anno",
+      "kpiValue": "Valore redistribuito all'anno",
+      "note": "Proiezione indicativa basata sulle ipotesi del cockpit. Il dato reale proviene dall'applicazione, transazionale e con marca temporale."
+    },
+    "ctaCockpit": "Apri il cockpit di audit",
+    "ctaMeeting": "Prenota un incontro"
+  },
   "missionPage": {
     "meta": {
       "title": "Missione COLHYBRI",

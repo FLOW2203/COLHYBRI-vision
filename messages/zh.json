@@ -2555,6 +2555,23 @@
       "sub": "投资者与加速器"
     }
   },
+  "auditHero": {
+    "eyebrow": "地区影响力审计",
+    "headline": "让您的本地投入成为可审计的证据",
+    "subheadline": "一条带时间戳的交易数据，即可支撑您的企业社会责任报告框架。从自我声明到真实证据，无需任何填报。",
+    "refsLabel": "覆盖的报告框架",
+    "teaser": {
+      "title": "实时推演",
+      "effLabel": "涉及员工数",
+      "effUnit": "名员工",
+      "kpiMobilized": "参与员工数",
+      "kpiGestures": "每年完成的善举次数",
+      "kpiValue": "每年再分配的价值",
+      "note": "该推演基于审计驾驶舱的假设，仅供参考。真实数据来自应用，具备交易记录和时间戳。"
+    },
+    "ctaCockpit": "打开审计驾驶舱",
+    "ctaMeeting": "预约会议"
+  },
   "missionPage": {
     "meta": {
       "title": "COLHYBRI 使命",
