@@ -224,6 +224,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'rust-belt-revitalization',
     'small-business-digital',
     'community-development',
+    'colhybri-vs-benevity-bonterra-goodera',
     // Cluster 3 - Solidaire
     'mutualisme-digital',
     'caffe-sospeso',

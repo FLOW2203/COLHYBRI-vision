@@ -467,6 +467,21 @@
       },
       "maps-plus-outil": {
         "title": "COLHYBRIのMaps+ツール"
+      },
+      "colhybri-vs-benevity-bonterra-goodera": {
+        "title": "COLHYBRI と Benevity、Bonterra、Goodera の比較"
+      },
+      "comment-ca-marche": {
+        "title": "COLHYBRI：3ステップでの仕組み"
+      },
+      "pour-les-collectivites": {
+        "title": "自治体向けCOLHYBRI：活力ダッシュボード"
+      },
+      "pour-les-commercants": {
+        "title": "加盟店向けCOLHYBRI：手数料0%"
+      },
+      "mission": {
+        "title": "私たちのミッション"
       }
     },
     "revitalisation-centres-villes": {
@@ -2036,6 +2051,106 @@
     "fifa-innovation-sport": {
       "title": "FIFA Innovation Programmeとスポーツ・商業の連携",
       "desc": "FIFA Innovationはスポーツとコミュニティの連携を支援します。ONLYMOREのトリプルプレー。"
+    },
+    "colhybri-vs-benevity-bonterra-goodera": {
+      "title": "COLHYBRI と Benevity、Bonterra、Goodera の比較",
+      "h1": "COLHYBRI と Benevity、Bonterra、Goodera の比較：企業のための地域密着型コミュニティインパクト",
+      "metaTitle": "COLHYBRI vs Benevity・Bonterra・Goodera：地域密着型インパクト",
+      "metaDescription": "COLHYBRI と Benevity、Bonterra、Goodera の違い：企業の支援を、従業員が暮らし働く街区の地元商店経済へ届ける地域密着型プラットフォーム。",
+      "snippet": "COLHYBRI は企業向けの地域密着型コミュニティインパクトプラットフォームです。企業寄付や助成金、従業員ボランティアを一元管理する Benevity、Bonterra、Goodera とは異なり、COLHYBRI は選ばれた街区の地元商店経済へ企業の支援を直接届けます。測定可能な地域経済の活力を通じて、採用ブランド、人材定着、帰属意識を育みます。",
+      "sections": [
+        {
+          "h2": "What is COLHYBRI for companies?",
+          "body": "COLHYBRI lets a company adopt a neighborhood and route monthly support into its independent shops, cafes and services. Employees see where the money lands, street by street. The result is local economic vitality they can walk to, not an abstract donation. It runs as a self-serve subscription, with measurement built in."
+        },
+        {
+          "h2": "How does COLHYBRI differ from Benevity, Bonterra and Goodera?",
+          "body": "Benevity, Bonterra and Goodera are enterprise platforms built around corporate giving, grants management and employee volunteering. They are powerful for distributing funds to nonprofits at scale. COLHYBRI starts from a different unit: the street. It concentrates company support inside one local merchant network so impact stays visible, geographic and tied to the places employees already care about."
+        },
+        {
+          "h2": "Why place-based impact wins on employer brand",
+          "body": "Talent increasingly chooses employers that strengthen the places people live. Place-based community impact turns a budget line into a story employees can see on their commute. COLHYBRI gives companies a measurable local footprint, a belonging narrative for recruiting, and a talent retention signal that a generic giving portal cannot match."
+        },
+        {
+          "h2": "Can COLHYBRI work alongside an existing giving platform?",
+          "body": "Yes. Many companies keep a broad giving or volunteering tool and add COLHYBRI for the local layer. COLHYBRI does not replace grants management. It adds the neighborhood economy those tools do not reach, with per shop measurement and a clear map of where company support circulates."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is COLHYBRI an alternative to Benevity, Bonterra or Goodera?",
+          "a": "COLHYBRI is an alternative for the local, place-based layer of community impact. It is not a full replacement for enterprise grants or volunteering suites. Companies use COLHYBRI to concentrate support inside one neighborhood economy, with per shop measurement that broad giving portals do not provide."
+        },
+        {
+          "q": "What does COLHYBRI mean by place-based community impact?",
+          "a": "Place-based community impact means support is tied to a specific geography: a neighborhood and its independent shops, cafes and services. Instead of spreading funds across many causes, COLHYBRI builds visible local economic vitality where a company employees live and work."
+        },
+        {
+          "q": "How do employees experience COLHYBRI?",
+          "a": "Employees can see the local businesses their company supports, visit them, and follow how support circulates street by street. That visibility strengthens belonging and gives talent retention a concrete local story rather than an abstract reporting dashboard."
+        }
+      ],
+      "comparison": {
+        "title": "COLHYBRI・Benevity・Bonterra・Goodera 早わかり比較",
+        "columns": [
+          "Criterion",
+          "COLHYBRI",
+          "Benevity",
+          "Bonterra",
+          "Goodera"
+        ],
+        "rows": [
+          [
+            "Core model",
+            "Place-based local merchant support",
+            "Corporate giving and grants",
+            "Nonprofit and social good software",
+            "Employee volunteering"
+          ],
+          [
+            "Where funds land",
+            "Independent local shops and services",
+            "Nonprofits and charities",
+            "Nonprofits and grantees",
+            "Volunteering projects and nonprofits"
+          ],
+          [
+            "Primary buyer",
+            "Companies, cities, residents",
+            "Enterprises",
+            "Nonprofits and enterprises",
+            "Enterprises"
+          ],
+          [
+            "Geographic focus",
+            "A chosen neighborhood",
+            "Global",
+            "Global",
+            "Global"
+          ],
+          [
+            "Employee experience",
+            "Visible local impact they can visit",
+            "Donation and match portal",
+            "Donor and program tools",
+            "Volunteering experiences"
+          ],
+          [
+            "Impact measurement",
+            "Per shop, per street",
+            "Aggregate giving reports",
+            "Program and grant outcomes",
+            "Volunteering hours"
+          ],
+          [
+            "Pricing model",
+            "Self-serve subscription",
+            "Enterprise contract",
+            "Enterprise contract",
+            "Enterprise contract"
+          ]
+        ]
+      }
     }
   },
   "images": {

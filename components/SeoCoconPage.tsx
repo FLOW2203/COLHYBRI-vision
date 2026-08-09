@@ -1,6 +1,7 @@
 import type { Locale } from '@/i18n';
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
+import { BASE_URL } from '@/lib/navigation';
 import { CoconFaq } from './cocon/CoconFaq';
 
 export interface CoconPageShape {
@@ -46,15 +47,16 @@ export async function SeoCoconPage({
 
   // Read raw for list-shaped entries. next-intl v3 t.raw() does NOT throw
   // on missing keys — it calls onError and returns a fallback STRING (the
-  // key path). So we must validate the shape (Array.isArray) before use.
+  // key path). Guard with t.has() so optional keys (tables, comparison)
+  // don't spam MISSING_MESSAGE in build logs, and still validate the shape.
   const safeArray = <T,>(key: string): T[] => {
-    try { const v = t.raw(key); return Array.isArray(v) ? (v as T[]) : []; } catch { return []; }
+    try { if (!t.has(key)) return []; const v = t.raw(key); return Array.isArray(v) ? (v as T[]) : []; } catch { return []; }
   };
   const safeTuple = (key: string): [string, string] | null => {
-    try { const v = t.raw(key); return Array.isArray(v) && v.length === 2 ? (v as [string, string]) : null; } catch { return null; }
+    try { if (!t.has(key)) return null; const v = t.raw(key); return Array.isArray(v) && v.length === 2 ? (v as [string, string]) : null; } catch { return null; }
   };
   const safeStr = (key: string): string | null => {
-    try { const v = t.raw(key); return typeof v === 'string' && !v.startsWith('cocon.') ? v : null; } catch { return null; }
+    try { if (!t.has(key)) return null; const v = t.raw(key); return typeof v === 'string' && !v.startsWith('cocon.') ? v : null; } catch { return null; }
   };
 
   const sections = safeArray<CoconPageShape['sections'][number]>('sections');
@@ -63,6 +65,13 @@ export async function SeoCoconPage({
   const tableRows = safeArray<[string, string]>('tableRows');
   const tableHeader = safeTuple('tableHeader');
   const tableTitle = safeStr('tableTitle');
+
+  // Optional N-column comparison matrix (e.g. COLHYBRI vs competitors).
+  // Shape: { title?: string; columns: string[]; rows: string[][] }.
+  // Absent on every existing cocon page, so this block is purely additive.
+  const comparisonColumns = safeArray<string>('comparison.columns');
+  const comparisonRows = safeArray<string[]>('comparison.rows');
+  const comparisonTitle = safeStr('comparison.title');
 
   const articleSchema = {
     '@context': 'https://schema.org',
@@ -73,12 +82,12 @@ export async function SeoCoconPage({
     isPartOf: {
       '@type': 'WebSite',
       name: 'COLHYBRI',
-      url: 'https://colhybri.vision',
+      url: BASE_URL,
     },
     publisher: {
       '@type': 'Organization',
       name: 'COLHYBRI',
-      url: 'https://colhybri.vision',
+      url: BASE_URL,
     },
     articleSection: cluster,
   };
@@ -199,6 +208,54 @@ export async function SeoCoconPage({
                             {row[0]}
                           </td>
                           <td className="py-3 px-4 font-sans text-colhybri-dark/80">{row[1]}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </section>
+            )}
+
+            {comparisonColumns.length > 0 && comparisonRows.length > 0 && (
+              <section>
+                {comparisonTitle && (
+                  <h2 className="font-display text-2xl font-semibold text-colhybri-dark mb-4">
+                    {comparisonTitle}
+                  </h2>
+                )}
+                <div className="overflow-x-auto -mx-4 sm:mx-0 px-4 sm:px-0">
+                  <table className="w-full border-collapse text-sm">
+                    <thead>
+                      <tr className="border-b-2 border-colhybri-teal/20">
+                        {comparisonColumns.map((col, i) => (
+                          <th
+                            key={i}
+                            className={`text-left py-3 px-3 font-sans font-semibold align-bottom ${
+                              i === 1 ? 'text-colhybri-teal' : 'text-colhybri-dark'
+                            }`}
+                          >
+                            {col}
+                          </th>
+                        ))}
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {comparisonRows.map((row, ri) => (
+                        <tr key={ri} className="border-b border-colhybri-dark/10 align-top">
+                          {row.map((cell, ci) => (
+                            <td
+                              key={ci}
+                              className={`py-3 px-3 ${
+                                ci === 0
+                                  ? 'font-sans font-semibold text-colhybri-dark whitespace-nowrap'
+                                  : ci === 1
+                                    ? 'font-sans text-colhybri-dark bg-colhybri-teal/5'
+                                    : 'font-sans text-colhybri-dark/70'
+                              }`}
+                            >
+                              {cell}
+                            </td>
+                          ))}
                         </tr>
                       ))}
                     </tbody>

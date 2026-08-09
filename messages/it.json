@@ -467,6 +467,21 @@
       },
       "maps-plus-outil": {
         "title": "Maps+ strumento COLHYBRI"
+      },
+      "colhybri-vs-benevity-bonterra-goodera": {
+        "title": "COLHYBRI vs Benevity, Bonterra, Goodera"
+      },
+      "comment-ca-marche": {
+        "title": "COLHYBRI: come funziona in 3 fasi"
+      },
+      "pour-les-collectivites": {
+        "title": "COLHYBRI per gli enti locali: dashboard vitalità"
+      },
+      "pour-les-commercants": {
+        "title": "COLHYBRI per i commercianti: 0% commissione"
+      },
+      "mission": {
+        "title": "La Nostra Missione"
       }
     },
     "revitalisation-centres-villes": {
@@ -2036,6 +2051,106 @@
     "fifa-innovation-sport": {
       "title": "FIFA Innovation Programme e connessione sport-commercio",
       "desc": "FIFA Innovation sostiene la connessione sport-comunità. Triple-play ONLYMORE."
+    },
+    "colhybri-vs-benevity-bonterra-goodera": {
+      "title": "COLHYBRI vs Benevity, Bonterra, Goodera",
+      "h1": "COLHYBRI vs Benevity, Bonterra e Goodera: impatto locale di prossimità per le aziende",
+      "metaTitle": "COLHYBRI vs Benevity, Bonterra, Goodera: impatto locale",
+      "metaDescription": "Come COLHYBRI si confronta con Benevity, Bonterra e Goodera: una piattaforma di impatto locale che dirige il sostegno delle aziende verso i negozi del quartiere.",
+      "snippet": "COLHYBRI è una piattaforma di impatto locale di prossimità per le aziende. A differenza di Benevity, Bonterra e Goodera, centrate su donazioni aziendali e volontariato dei dipendenti, COLHYBRI dirige il sostegno dell'azienda verso l'economia dei negozi di un quartiere scelto: employer brand, fidelizzazione dei talenti e senso di appartenenza, con una vitalità economica locale misurabile.",
+      "sections": [
+        {
+          "h2": "What is COLHYBRI for companies?",
+          "body": "COLHYBRI lets a company adopt a neighborhood and route monthly support into its independent shops, cafes and services. Employees see where the money lands, street by street. The result is local economic vitality they can walk to, not an abstract donation. It runs as a self-serve subscription, with measurement built in."
+        },
+        {
+          "h2": "How does COLHYBRI differ from Benevity, Bonterra and Goodera?",
+          "body": "Benevity, Bonterra and Goodera are enterprise platforms built around corporate giving, grants management and employee volunteering. They are powerful for distributing funds to nonprofits at scale. COLHYBRI starts from a different unit: the street. It concentrates company support inside one local merchant network so impact stays visible, geographic and tied to the places employees already care about."
+        },
+        {
+          "h2": "Why place-based impact wins on employer brand",
+          "body": "Talent increasingly chooses employers that strengthen the places people live. Place-based community impact turns a budget line into a story employees can see on their commute. COLHYBRI gives companies a measurable local footprint, a belonging narrative for recruiting, and a talent retention signal that a generic giving portal cannot match."
+        },
+        {
+          "h2": "Can COLHYBRI work alongside an existing giving platform?",
+          "body": "Yes. Many companies keep a broad giving or volunteering tool and add COLHYBRI for the local layer. COLHYBRI does not replace grants management. It adds the neighborhood economy those tools do not reach, with per shop measurement and a clear map of where company support circulates."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is COLHYBRI an alternative to Benevity, Bonterra or Goodera?",
+          "a": "COLHYBRI is an alternative for the local, place-based layer of community impact. It is not a full replacement for enterprise grants or volunteering suites. Companies use COLHYBRI to concentrate support inside one neighborhood economy, with per shop measurement that broad giving portals do not provide."
+        },
+        {
+          "q": "What does COLHYBRI mean by place-based community impact?",
+          "a": "Place-based community impact means support is tied to a specific geography: a neighborhood and its independent shops, cafes and services. Instead of spreading funds across many causes, COLHYBRI builds visible local economic vitality where a company employees live and work."
+        },
+        {
+          "q": "How do employees experience COLHYBRI?",
+          "a": "Employees can see the local businesses their company supports, visit them, and follow how support circulates street by street. That visibility strengthens belonging and gives talent retention a concrete local story rather than an abstract reporting dashboard."
+        }
+      ],
+      "comparison": {
+        "title": "COLHYBRI vs Benevity vs Bonterra vs Goodera a colpo d'occhio",
+        "columns": [
+          "Criterion",
+          "COLHYBRI",
+          "Benevity",
+          "Bonterra",
+          "Goodera"
+        ],
+        "rows": [
+          [
+            "Core model",
+            "Place-based local merchant support",
+            "Corporate giving and grants",
+            "Nonprofit and social good software",
+            "Employee volunteering"
+          ],
+          [
+            "Where funds land",
+            "Independent local shops and services",
+            "Nonprofits and charities",
+            "Nonprofits and grantees",
+            "Volunteering projects and nonprofits"
+          ],
+          [
+            "Primary buyer",
+            "Companies, cities, residents",
+            "Enterprises",
+            "Nonprofits and enterprises",
+            "Enterprises"
+          ],
+          [
+            "Geographic focus",
+            "A chosen neighborhood",
+            "Global",
+            "Global",
+            "Global"
+          ],
+          [
+            "Employee experience",
+            "Visible local impact they can visit",
+            "Donation and match portal",
+            "Donor and program tools",
+            "Volunteering experiences"
+          ],
+          [
+            "Impact measurement",
+            "Per shop, per street",
+            "Aggregate giving reports",
+            "Program and grant outcomes",
+            "Volunteering hours"
+          ],
+          [
+            "Pricing model",
+            "Self-serve subscription",
+            "Enterprise contract",
+            "Enterprise contract",
+            "Enterprise contract"
+          ]
+        ]
+      }
     }
   },
   "images": {

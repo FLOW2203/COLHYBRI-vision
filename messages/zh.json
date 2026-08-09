@@ -467,6 +467,21 @@
       },
       "maps-plus-outil": {
         "title": "Maps+ COLHYBRI 工具"
+      },
+      "colhybri-vs-benevity-bonterra-goodera": {
+        "title": "COLHYBRI 对比 Benevity、Bonterra、Goodera"
+      },
+      "comment-ca-marche": {
+        "title": "COLHYBRI：三步运作详解"
+      },
+      "pour-les-collectivites": {
+        "title": "面向地方政府的 COLHYBRI：活力看板"
+      },
+      "pour-les-commercants": {
+        "title": "面向商户的 COLHYBRI：0% 佣金"
+      },
+      "mission": {
+        "title": "我们的使命"
       }
     },
     "revitalisation-centres-villes": {
@@ -2036,6 +2051,106 @@
     "fifa-innovation-sport": {
       "title": "FIFA Innovation Programme 与体育商业联结",
       "desc": "FIFA Innovation 支持体育与社区的联结。ONLYMORE 三重联动。"
+    },
+    "colhybri-vs-benevity-bonterra-goodera": {
+      "title": "COLHYBRI 对比 Benevity、Bonterra、Goodera",
+      "h1": "COLHYBRI 对比 Benevity、Bonterra 与 Goodera：面向企业的在地社区影响力",
+      "metaTitle": "COLHYBRI 对比 Benevity、Bonterra、Goodera：在地影响力",
+      "metaDescription": "COLHYBRI 与 Benevity、Bonterra、Goodera 的区别：一个在地社区影响力平台，把企业支持导入员工生活和工作街区的本地商户经济。",
+      "snippet": "COLHYBRI 是面向企业的在地社区影响力平台。与集中管理企业捐赠、资助和员工志愿服务的 Benevity、Bonterra 和 Goodera 不同，COLHYBRI 将企业支持直接导入所选街区的本地商户经济，通过可衡量的本地经济活力，建设雇主品牌、留住人才并增强归属感。",
+      "sections": [
+        {
+          "h2": "What is COLHYBRI for companies?",
+          "body": "COLHYBRI lets a company adopt a neighborhood and route monthly support into its independent shops, cafes and services. Employees see where the money lands, street by street. The result is local economic vitality they can walk to, not an abstract donation. It runs as a self-serve subscription, with measurement built in."
+        },
+        {
+          "h2": "How does COLHYBRI differ from Benevity, Bonterra and Goodera?",
+          "body": "Benevity, Bonterra and Goodera are enterprise platforms built around corporate giving, grants management and employee volunteering. They are powerful for distributing funds to nonprofits at scale. COLHYBRI starts from a different unit: the street. It concentrates company support inside one local merchant network so impact stays visible, geographic and tied to the places employees already care about."
+        },
+        {
+          "h2": "Why place-based impact wins on employer brand",
+          "body": "Talent increasingly chooses employers that strengthen the places people live. Place-based community impact turns a budget line into a story employees can see on their commute. COLHYBRI gives companies a measurable local footprint, a belonging narrative for recruiting, and a talent retention signal that a generic giving portal cannot match."
+        },
+        {
+          "h2": "Can COLHYBRI work alongside an existing giving platform?",
+          "body": "Yes. Many companies keep a broad giving or volunteering tool and add COLHYBRI for the local layer. COLHYBRI does not replace grants management. It adds the neighborhood economy those tools do not reach, with per shop measurement and a clear map of where company support circulates."
+        }
+      ],
+      "faq": [
+        {
+          "q": "Is COLHYBRI an alternative to Benevity, Bonterra or Goodera?",
+          "a": "COLHYBRI is an alternative for the local, place-based layer of community impact. It is not a full replacement for enterprise grants or volunteering suites. Companies use COLHYBRI to concentrate support inside one neighborhood economy, with per shop measurement that broad giving portals do not provide."
+        },
+        {
+          "q": "What does COLHYBRI mean by place-based community impact?",
+          "a": "Place-based community impact means support is tied to a specific geography: a neighborhood and its independent shops, cafes and services. Instead of spreading funds across many causes, COLHYBRI builds visible local economic vitality where a company employees live and work."
+        },
+        {
+          "q": "How do employees experience COLHYBRI?",
+          "a": "Employees can see the local businesses their company supports, visit them, and follow how support circulates street by street. That visibility strengthens belonging and gives talent retention a concrete local story rather than an abstract reporting dashboard."
+        }
+      ],
+      "comparison": {
+        "title": "COLHYBRI、Benevity、Bonterra、Goodera 一览对比",
+        "columns": [
+          "Criterion",
+          "COLHYBRI",
+          "Benevity",
+          "Bonterra",
+          "Goodera"
+        ],
+        "rows": [
+          [
+            "Core model",
+            "Place-based local merchant support",
+            "Corporate giving and grants",
+            "Nonprofit and social good software",
+            "Employee volunteering"
+          ],
+          [
+            "Where funds land",
+            "Independent local shops and services",
+            "Nonprofits and charities",
+            "Nonprofits and grantees",
+            "Volunteering projects and nonprofits"
+          ],
+          [
+            "Primary buyer",
+            "Companies, cities, residents",
+            "Enterprises",
+            "Nonprofits and enterprises",
+            "Enterprises"
+          ],
+          [
+            "Geographic focus",
+            "A chosen neighborhood",
+            "Global",
+            "Global",
+            "Global"
+          ],
+          [
+            "Employee experience",
+            "Visible local impact they can visit",
+            "Donation and match portal",
+            "Donor and program tools",
+            "Volunteering experiences"
+          ],
+          [
+            "Impact measurement",
+            "Per shop, per street",
+            "Aggregate giving reports",
+            "Program and grant outcomes",
+            "Volunteering hours"
+          ],
+          [
+            "Pricing model",
+            "Self-serve subscription",
+            "Enterprise contract",
+            "Enterprise contract",
+            "Enterprise contract"
+          ]
+        ]
+      }
     }
   },
   "images": {
