@@ -346,6 +346,18 @@ export default function HomePage({ params: { locale } }: PageProps) {
               <div className="font-sans text-sm text-white">{t('finalCta.cta3.sub')}</div>
             </Link>
           </div>
+
+          {l === 'fr' && (
+            <p className="mt-10 font-sans text-white/90">
+              Vous êtes une entreprise ?{' '}
+              <Link
+                href="/fr/entreprises"
+                className="font-semibold underline underline-offset-2 hover:text-colhybri-cream"
+              >
+                Générer un impact ESRS S3 mesurable
+              </Link>
+            </p>
+          )}
         </div>
       </section>
 
